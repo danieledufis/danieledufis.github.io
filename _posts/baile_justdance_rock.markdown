@@ -29,12 +29,39 @@ WHAT YOU WAITING FOR
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tp6hmW-R0s8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-THE ROLLINIG STONES Simpathy for the devil
+THE ROLLINIG STONES - Simpathy for the devil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I0f95KY2xgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+KISS - I was made for loving you
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1HPoodf0sbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+PINK - So what
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ywFM3MCRKJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Time wrap
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4vpUAcLtZ3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+JOAN JETT - I love rock n roll
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vilYfYq3LPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+QUEEN - Another one bites the dust
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJGzxG70eEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+QUEEN - Don´t stop me now
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbS3GITUdMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+EUROPE - The final courdown
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hfY4yI1fMkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+ELVIS PRESLEY - The jailhouse rock
 
 
 
