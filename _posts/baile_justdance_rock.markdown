@@ -62,6 +62,22 @@ EUROPE - The final courdown
 
 
 ELVIS PRESLEY - The jailhouse rock
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hv0Ehou5XSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+LENNY KRAVITZ - Are you gonna go my way
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pOdCU51A7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+AEROSMITH - Walk this way
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kX7_LmE3ybE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+TINA TURNER - Proud Mary
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wDTjpfZMXak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+ELVIS PRESLEI - Viva Las Vegas
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QSgQ443xblY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
