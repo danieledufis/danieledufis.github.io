@@ -17,4 +17,4 @@ Las medidas de seguridad deben ser las siguientes:
 ![EJEMPLO DE POSTURA](https://lh3.googleusercontent.com/proxy/WtMZ__QrCC5LWTr9j6EmDe9V7T3pVxv_NYjCxSk723q-W5nW-N4S6W3mYEpDTWYGeZ_72kRE09xt21sP4r3UUtd5LIsYxaNjB62ENHC8bx4LMpH4)   
 
 
-(https://drive.google.com/file/d/1WUai5PvL0YAlDEEpacMAm0eF86CsugdD/view?usp=sharing)
+[imagen 2](https://drive.google.com/file/d/1WUai5PvL0YAlDEEpacMAm0eF86CsugdD/view?usp=sharing)
