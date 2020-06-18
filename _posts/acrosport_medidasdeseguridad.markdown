@@ -16,5 +16,5 @@ Las medidas de seguridad deben ser las siguientes:
 
 ![EJEMPLO DE POSTURA](https://lh3.googleusercontent.com/proxy/WtMZ__QrCC5LWTr9j6EmDe9V7T3pVxv_NYjCxSk723q-W5nW-N4S6W3mYEpDTWYGeZ_72kRE09xt21sP4r3UUtd5LIsYxaNjB62ENHC8bx4LMpH4)   
 
-![EJEMPLO DE POSTURA](file:///C:/Daniel/EDUCACI%C3%93N%20F%C3%8DSICA/Blog%20EF/IM%C3%81GENES/ACROSPORT/imagen%20medidas%20de%20seguridad%202.jpg)
 
+(https://drive.google.com/file/d/1WUai5PvL0YAlDEEpacMAm0eF86CsugdD/view?usp=sharing)
