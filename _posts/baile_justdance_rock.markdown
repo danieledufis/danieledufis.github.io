@@ -82,3 +82,7 @@ ELVIS PRESLEI - Viva Las Vegas
 
 STEPPENWOLF - Born to be wild
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--0vwd_i8Yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+QUEEN - Crazy little thing called love
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CB8IVpde78Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
