@@ -6,7 +6,11 @@ categories: jekyll update
 ---
 
 ABBA - Mamma mia
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNFZ-vsgxrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMeAuUc45sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+TOM JONES - It´s not unusual
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pDc0uN7S3t8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 VILLAGE PEOPLE - YMCA
