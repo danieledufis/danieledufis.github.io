@@ -15,3 +15,10 @@ Las medidas de seguridad deben ser las siguientes:
 * La **espalda** debe estar siempre **recta** evitando la formación de curvas.
 
 
+![ejemplos de posturas](https://github.com/danieledufis/danieledufis.github.io/blob/master/images/medidas%20de%20seguridad%201.png)
+
+
+![apoyoenlaespalda](https://github.com/danieledufis/danieledufis.github.io/blob/master/images/medidas%20de%20seguridad%202.jpg)
+
+
+![portor](https://github.com/danieledufis/danieledufis.github.io/blob/master/images/medidas%20de%20seguridad%203.jpg)
