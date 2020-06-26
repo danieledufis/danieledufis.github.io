@@ -7,5 +7,8 @@ categories: jekyll update
 
 
 # DEPORTE PARALÍMPICO
-A través del siguiente enlace, podéis acceder a toda la información relacionada con el [DEPORTE PARALÍMPICO](https://www.paralimpicos.es)
+A través del siguiente enlace, si pinchas en el apartado de "deportes paralímpicos", accederás a todas las disciplinas olímpicas.
+
+[DEPORTE PARALÍMPICO](https://www.paralimpicos.es)
+
 
