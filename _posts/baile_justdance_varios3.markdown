@@ -60,3 +60,15 @@ BACKSTREET BOYS - Everybody
 
 SCISSORS SISTERS - I don´t feel like dancin´
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wdlWHT4N5-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+LOU BEGA - Mambo No. 5
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jN1DHw0tv9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+M PEOPLE - Moving on up
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OaaepGscDJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+LUIS FONSI - Despacito
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lRWleESkAYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
