@@ -14,7 +14,4 @@ Las medidas de seguridad deben ser las siguientes:
 * Los *apoyos* del ágil deben ser siempre **seguros**, de modo que no perjudiquen ni causen daño al portor. Para ello los apoyos deben realizarse de forma que el peso no caiga sobre la mitad de un hueso.
 * La **espalda** debe estar siempre **recta** evitando la formación de curvas.
 
-![EJEMPLO DE POSTURA](https://lh3.googleusercontent.com/proxy/WtMZ__QrCC5LWTr9j6EmDe9V7T3pVxv_NYjCxSk723q-W5nW-N4S6W3mYEpDTWYGeZ_72kRE09xt21sP4r3UUtd5LIsYxaNjB62ENHC8bx4LMpH4)   
 
-
-[imagen 2](https://drive.google.com/file/d/1WUai5PvL0YAlDEEpacMAm0eF86CsugdD/view?usp=sharing)
