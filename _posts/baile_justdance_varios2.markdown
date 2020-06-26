@@ -45,4 +45,13 @@ LIMFAO - Party rock anthem
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6h5LieoWoa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+JAMES BROWN - I got it (I feel good)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sYyg3ZwDuuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+REDNEX - Cotton eye Joe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6rBFtCJ255w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+BLUES BROTHERS - Everybody
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NXpexusK0Bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
