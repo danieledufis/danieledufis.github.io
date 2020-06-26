@@ -86,3 +86,6 @@ STEPPENWOLF - Born to be wild
 
 QUEEN - Crazy little thing called love
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CB8IVpde78Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+BLUR -Song 2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S308Qs6Sv9o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
