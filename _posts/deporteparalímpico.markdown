@@ -11,4 +11,6 @@ A través del siguiente enlace, si pinchas en el apartado de "deportes paralímp
 
 [DEPORTE PARALÍMPICO](https://www.paralimpicos.es)
 
+[DEPORTE PARALÍMPICO](https://www.paralimpicos.es/deportes-paralimpicos)
+
 
