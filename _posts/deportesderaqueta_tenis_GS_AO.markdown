@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "OPEN AUSTRALIA"
+title:  "AUSTRALIAN OPEN"
 date:   2020-05-13 20:09:23 +0200
 categories: jekyll update
 ---
 
-## OPEN AUSTRALIA
+## AUSTRALIAN OPEN
