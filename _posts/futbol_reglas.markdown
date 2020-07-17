@@ -79,7 +79,7 @@ Ayudarán al árbitro principal indicando:
 * No se interrumpirá si el balón da en el poste, el banderín de córner o al árbitro.
 * No estará en juego cuando cruce por completo una línea de banda o fondo y si el partido es interrumpido por el árbitro.
  
-**10. GOL
+**10. GOL**
 
 * Se habrá marcado gol cuando el **balón** estando en juego, haya **atravesado completamente la línea de fondo entre los postes de la portería;** siempre que ningún jugador haya cometido una infracción previamente.
 * Vencerá el equipo que más goles haya marcado.
