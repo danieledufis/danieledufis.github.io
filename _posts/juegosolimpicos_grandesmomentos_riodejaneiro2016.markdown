@@ -161,7 +161,11 @@ Existen más modalidades pero aquí os dejo una prueba de cada estilo:
   * Mujeres
   * Hombres
   
-* 4X100
+* 4X100 estilos
+  * Mujeres
+  * Hombres
+
+* 4x100 estilo libre
   * Mujeres
   * Hombres
   
