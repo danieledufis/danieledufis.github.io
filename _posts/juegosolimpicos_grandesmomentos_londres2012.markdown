@@ -202,9 +202,6 @@ Durante los Juegos Olímpicos se realizan competiciones de diferentes modalidade
   * Mujeres
   * Hombres
   
-* DOBLES
-  * Mujeres
-  * Hombres
   
 ## VOLEIBOL
 * Mujeres
