@@ -10,7 +10,7 @@ categories: jekyll update
 Existen muchas más modalidades olímpicas, pero aquí os pongo los vídeos de las finales olímpicas de las disciplinas que podéis encontrar en la página web de Educación Física:
 
 ## ATLETISMO
-* 100M
+* *100M*
   * Mujeres
   <iframe width="560" height="315" src="https://www.youtube.com/embed/AFi5ueI522E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
