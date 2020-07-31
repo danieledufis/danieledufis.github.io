@@ -221,57 +221,114 @@ Existen muchas más modalidades olímpicas, pero aquí os pongo los vídeos de l
   <iframe width="560" height="315" src="https://www.youtube.com/embed/irIXRM9mmso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 ## FÚITBOL
-* Mujeres
-* Hombres
 
+* Mujeres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x5s8xTl_Ecw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Hombres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iSigwjYtXb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## GIMNASIA
+
 En este caso encontraremos diferentes modalidades para hombres y mujeres.
 * *HOMBRES*
+
   * ANILLAS
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tzOjdaC2B3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * PARALELAS
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/sEyKE6aCWtE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * BARRA FIJA
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/y7-Jx4EXcVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * CABALLO CON ARCOS
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Le6fNx5IWRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * SUELO
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/R118kEoxA-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * SALTO DE POTRO
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Nkd39-BwXto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 * *MUJERES*
 
   * BARRAS ASIMÉTRICAS
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/A1VRgER6u7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * BARRA DE EQUILIBRIO
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/O5Yvk6s884o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * SUELO
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ElXOpv79WLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * SALTO DE POTRO
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ws1tth8XWhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 ## HOCKEY HIERBA
+
 * Mujeres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ygPQKRxZLsc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Hombres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ag501MAxwhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## JUDO
+
 Dentro del judo existen muchas disciplinas olímpicas en función del peso de los deportistas. Aquí os dejo dos de las finales que se celebraron en Londres 2012:
+
 * Mujeres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JraWp45msFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Hombres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GifBpkjlHrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## NATACIÓN
+
 Existen más modalidades pero aquí os dejo una prueba de cada estilo:
+
 * 100m BRAZA
+
   * Mujeres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6_mfkw5OFR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * Hombres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1g7oRASpJO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 * 100m LIBRES
-  * Mujeres
+
+* Mujeres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rhZtZvDdmcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * Hombres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VO7y41uBdUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   
 * 100m MARIPOSA
+
   * Mujeres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/W2L12bpUsSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * Hombres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/X7bj_LUIY7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 * 100M ESPALDA
+
   * Mujeres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3nTv7p64pQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * Hombres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FWXov5vY4Yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 * 4X100 ESTILOS
+
   * Mujeres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3IMI3P_NlPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * Hombres
+  
   
 * 4X100 ESTILO LIBRE
   * Mujeres
