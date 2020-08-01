@@ -9,11 +9,11 @@ categories: jekyll update
 
 Aquí os muestro un ínidce de cómo están puestos los vídeos dentro de Londres 2012 y Río de Jnaeiro 2016. Son muchos vídeos, por lo que de esta manera os será mucho más fácil encontrar el vídeo que buscáis. En ambos encontrareis la competición de mujeres y la de hombres.
 
-* 1. ATLETISMO
-  * 1.1. 100m
-  * 1.2. 200m
-  * 1.3. 400M
-  * 1.4. 1500M
+* ATLETISMO
+  * 100m
+  * 200m
+  * 400M
+  * 1500M
   * 3000M
   * 5000M
   * 10000M
