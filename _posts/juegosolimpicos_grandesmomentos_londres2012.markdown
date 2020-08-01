@@ -328,50 +328,88 @@ Existen más modalidades pero aquí os dejo una prueba de cada estilo:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/3IMI3P_NlPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   * Hombres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2alP2ZlmmFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   
 * 4X100 ESTILO LIBRE
+
   * Mujeres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rVUlyV7FYP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * Hombres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-XI_XeoIFnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 * NATACIÓN SINCORNIZADA
+
   * Mujeres
-  * Hombres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YmzntL6g2Xg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   
 * SALTOS
+
   * Mujeres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/QhXToslnPvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * Hombres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4ARBzok9aU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 * WATERPOLO
+
   * Mujeres
+  
   * Hombres
   
 ## REMO
-Durante los Juegos Olímpicos se realizan competiciones de diferentes modalidades. Aquí os voy a dejar el ejemplo de dos de ellas:
-* Mujeres
-* Hombres
 
+Durante los Juegos Olímpicos se realizan competiciones de diferentes modalidades. Aquí os voy a dejar el ejemplo de dos de ellas:
+
+* Mujeres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y5m4JfVGqQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Hombres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4ARBzok9aU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## TENIS
+
 * INDIVIDUALES
+
   * Mujeres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/flflusBYttk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * Hombres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pQQrifqFycc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 * DOBLES
+
   * Mujeres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/84biHkS-sGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   * Hombres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aNxHkVEkx40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   
 ## TENIS DE MESA
+
 * INDIVIDUALES
+
   * Mujeres
-  * Hombres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TfzHkO7XtC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
+  * Hombres
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yiqFxDx2WW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 ## VOLEIBOL
+
 * Mujeres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mpRxavivngI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Hombres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ovujPi4vUQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## VOLEI PLAYA
+
 * Mujeres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m9PdBs6ub1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Hombres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H7iQ4sAf0OE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
