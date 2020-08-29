@@ -46,6 +46,8 @@ El bádminton es un deporte de raqueta que se juega en pista cubierta. Existen u
 * Se saca del lado izquierdo si la puntuación del sacador es impar y del lado derecho si su puntuación es par.
 * El reglamento exige un cambio en el lado de la pista al acabar el primer y segundo set; y en el tercero cuando un jugador llegue a 11 puntos.
 
+![SAQUE](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/badminton_saque.jpg)
+
 ### 5.	INFRACCIONES
 
 * Las infracciones en bádminton no son penalizadas con punto para el contrario.
