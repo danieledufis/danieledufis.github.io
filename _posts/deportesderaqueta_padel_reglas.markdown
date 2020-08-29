@@ -16,6 +16,7 @@ categories: jekyll update
 * **Cerramientos:** la pista está cerrada por fondos de 10 metros de longitud y por los laterales, sumando 20 metros en total. La altura de los fondos es de 4 metros.
 * El suelo: la superficie de la pista podrá ser de hormigón poroso, cemento, madera, materiales sintéticos, césped artificial o cualquier otro que permita el bote regular de la pelota y evite el encharcamiento.
 
+![PISTA]
 ## 2. LA PELOTAS: 
 
 * Deberá ser una esfera de goma con una superficie exterior uniforme de color blanco o amarillo.
