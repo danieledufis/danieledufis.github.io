@@ -16,15 +16,22 @@ categories: jekyll update
   * LÍNEA DE SAQUE: forman una T desde la red y delimitan la zona donde debe caer la pelota una vez se haga el saque.
   * LATERALES: están a los lados de la pista y podemos diferenciar las que marcan los partidos individuales y las de dobles.
   * MARCA CENTRAL: es una pequeña línea que se encuentra situada en el centro de la línea de fondo que marca el límite para ejecutar el saque.
+ 
+ ![PISTA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenis_pista.jpg)
 
 ### 2.	PELOTAS Y RAQUETAS DE TENIS
 
 * PELOTAS
   * Hay una lista publicada por la ITF (International  Tennis Federation).
   * Los organizadores de los torneos comunicarán que tipo de pelotas se utilizarán y cada cuantos juegos se cambiarán.
+  
+![PELOTAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenis_pelotas.jpg)
+
 * RAQUETAS
   * Al igual que las pelotas, las raquetas están reguladas por la ITF.
-  * Aquí tenéis dos modelos de raquetas:	
+  * Aquí tenéis un modelo de raqueta:
+  
+![RAQUETA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenis_raqueta.jpg)
   
 ### 3.	PUNTOS
 
@@ -61,6 +68,8 @@ A continuación os muestro cuando pierdes un punto en el tenis:
 * Para ganar el partido habrá que ganar 2 o 3 sets dependiendo del torneo:
   * 2 SETS: todos los torneos femeninos, y la amplia mayoría de torneos masculinos.
   * 3 SETS: Grand Slams masculinos.
+  
+![PUNTOS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenis_puntos.jpg)
 
 ### 7.	SAQUE
 
@@ -75,8 +84,14 @@ A continuación os muestro cuando pierdes un punto en el tenis:
   * DOBLE FALTA: si se cometen dos faltas seguidas. Esto le dará un punto  al equipo o jugador contrario.
   * RED: si toca la red y cae dentro de la zona de saque se deberá repetir el punto.
          Si toca la red y cae fuera de la zona de saque será falta.
+         
+Aquí os muestro con 4 fotos un saque de Rafa Nadal, aunque podéis verlo también en los tutoriales:
+
+![SAQUE](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenis_puntos.jpg)
 
 ### 8.	CAMBIOS DE LADO DE LOS JUGADORES
 
 -	Se hará un cambio de lado de la pista cada al final todos los juegos impares: primero, tercero, quinto …
 -	TIE BREAK: se produce cada 6 puntos.
+
+![PARTIDO](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenis_partido.jpg)
