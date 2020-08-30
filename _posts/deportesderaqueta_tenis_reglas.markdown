@@ -87,7 +87,7 @@ A continuación os muestro cuando pierdes un punto en el tenis:
          
 Aquí os muestro con 4 fotos un saque de Rafa Nadal, aunque podéis verlo también en los tutoriales:
 
-![SAQUE](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenis_puntos.jpg)
+![SAQUE](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenis_saque.jpg)
 
 ### 8.	CAMBIOS DE LADO DE LOS JUGADORES
 
