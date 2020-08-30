@@ -44,8 +44,6 @@ Con cualquier **interrupción** del juego el **reloj se parará** hasta que se r
 
 ![DURACIÓN](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/baloncesto_tiempo.png)
 
-En este marcador, el tiempo de arriba marca el tiempo que queda de cuarto, mientras que el de abajo indica el de la posesión.
-
 ### 5. EQUIPOS
 
 Cada equipo tendrá un máximo de 10 jugadores, de los que únicamente 5 podrán estar jugando el partido.
@@ -108,7 +106,7 @@ En caso de que esto ocurra se señalará infracción y se le dará la posesión 
     * En caso de que haya prórrogas, en cada una de ellas se podrá solicitar un tiempo muerto.
     * Cuando se reanude el tiempo muerto, la posesión será del equipo que la tenía antes.
 
-![FALTAS]([https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/baloncesto_faltas.jpg)
+![FALTAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/baloncesto_faltas.jpg)
  
 ### 11. TIEMPO MUERTO
 
