@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2020-05-13 20:09:23 +0200
-categories: jekyll update
+categories: acro
 ---
 Nombre enl archivo original: 2020-05-13-welcome-to-jekyll.markdown
 
