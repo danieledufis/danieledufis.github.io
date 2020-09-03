@@ -1,6 +1,7 @@
 ---
-permalink: /_collection/acrosport_home.markdown
-layout: default
+layout: page
+title: Acrosport
+permalink: /acrosport/
 ---
 <!--
 ---
@@ -11,3 +12,4 @@ categories: jekyll update
 --->
 
 ## acrosport home
+holaaaaa
