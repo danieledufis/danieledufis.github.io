@@ -1,6 +1,6 @@
 ---
 layout: page
-title: acro
+title: "acro"
 categories: test
 permalink: /:categories/:title
 ---
