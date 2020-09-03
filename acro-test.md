@@ -1,6 +1,6 @@
 ---
-title: Acro test
-categories: acrotest otro
+title: Acro
+categories: acrotest
 permalink: /:categories/:title
 ---
 
