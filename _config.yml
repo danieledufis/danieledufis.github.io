@@ -21,13 +21,12 @@
 title: Educación Fisica
 email: EDU-FIS@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ESTOY EN ./_CONFIG.yml ----- Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ESTOY EN ./_CONFIG.yml ----- Write a description here. It will appear in your document head meta (for
+  Google search results).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danieledufis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: danieledufis
-# twitter_username: NoTengo
+twitter_username: NoTengo
 
 # Build settings
 theme: minima
