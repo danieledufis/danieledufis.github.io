@@ -1,6 +1,7 @@
 ---
-title: Acro
-categories: acrotest
+layout: page
+title: acro
+categories: test
 permalink: /:categories/:title
 ---
 
