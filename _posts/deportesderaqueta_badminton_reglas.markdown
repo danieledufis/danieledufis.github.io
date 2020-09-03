@@ -18,7 +18,12 @@ El bádminton es un deporte de raqueta que se juega en pista cubierta. Existen u
   * Si el jugador toca la red o invade el campo contrario con su cuerpo o con la raqueta.
   * Si pasa el volante por debajo de la red.
   * Si se golpea dos veces seguidas el volante.
+  
+![VOLANTE](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/badminton_volante.jpg)
+
 * El golpe se realiza con una raqueta como la siguiente:
+
+![RAQUETA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/badminton_raqueta.jpg)
 
 ### 2.	SETS DE UN PARTIDO
 
@@ -32,6 +37,8 @@ El bádminton es un deporte de raqueta que se juega en pista cubierta. Existen u
   * Parejas: 13.4m de largo x 6.1m de ancho.
 * La red se sitúa a una altura de 1,55m.
 
+![PISTA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/badminton_pista.jpg)
+
 ### 4.	SAQUE
 
 * Saca quien ha ganado el punto. En parejas hay una rotación en el saque, es decir, cada vez saca uno distinto (siempre que ganen el punto). 
@@ -39,7 +46,11 @@ El bádminton es un deporte de raqueta que se juega en pista cubierta. Existen u
 * Se saca del lado izquierdo si la puntuación del sacador es impar y del lado derecho si su puntuación es par.
 * El reglamento exige un cambio en el lado de la pista al acabar el primer y segundo set; y en el tercero cuando un jugador llegue a 11 puntos.
 
+![SAQUE](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/badminton_saque.jpg)
+
 ### 5.	INFRACCIONES
 
 * Las infracciones en bádminton no son penalizadas con punto para el contrario.
 * Una infracción grave puede suponer una tarjeta roja y la descalificación del encuentro.
+
+![FALTA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/badminton_faltas.jpg)

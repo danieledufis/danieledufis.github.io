@@ -45,3 +45,7 @@ categories: jekyll update
 
 ## EL DRIVE
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ESkzLcLyjko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Para terminar os muestro una imagen en la que aparecen como son cada uno de los golpes practicados en el badminton:
+
+![GOLPES](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/badminton_golpes.jpg)
