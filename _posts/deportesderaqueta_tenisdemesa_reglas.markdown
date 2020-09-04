@@ -33,7 +33,7 @@ categories: jekyll update
 * Están hechas habitualmente  de poliestireno y ABS, ya que tienen mejores prestaciones y son más respetuosas con el medio ambiente.
 * En partidos internacionales solo se admiten pelotas blancas o naranjas.
 
-![PELOTAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenisdemesa_pelotas.jpg)
+![PELOTAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenisdemas_pelotas2.jpg)
 
 **4.PUNTUACIÓN**
 
