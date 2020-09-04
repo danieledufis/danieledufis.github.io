@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome"
 date:   2020-05-13 20:09:23 +0200
 categories: acro
+permalink: /:categories/:title:output_ext
+author: "Daniel García"
 ---
 Nombre enl archivo original: 2020-05-13-welcome-to-jekyll.markdown
 
