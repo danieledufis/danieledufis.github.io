@@ -104,6 +104,8 @@ Destacamos los siguientes:
 * Se produce cuando el balón sale del terreno de juego a través de una banda. El saque se produce en este caso desde el punto donde salió el balón.
 * También se da cuando un defensa la despeja por la línea de fondo. En este caso desde el extremo de la banda más próximo por el que salió el balón.
 * El saque lo realiza un jugador del equipo contrario al que tocó por última vez.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RdQF1GYc4Q0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 **9.	GOLPE FRANCO**
 
@@ -112,11 +114,15 @@ Destacamos los siguientes:
 * En caso contrario se lanza desde la línea de golpe franco más cercano al lugar donde se produjo la falta.
 * Es raro que se produzca gol en estos lanzamientos, por lo que pocas veces se intenta el lanzamiento. Únicamente cuando el tiempo se va a acabar.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-RY4Cd2DhpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **10.	SAQUE DE PORTERÍA**
 
 * Siempre lo realiza el portero.
 * Se produce cuando el portero o el equipo atacante sacan la pelota por la línea de fondo.
 * Si el portero atrapa el balón antes de que salga, puede ejecutar ek saque desde cualquier punto del área.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W2vZ7va0jTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **11.	LANZAMIENTO DE 7 METROS**
 
@@ -126,6 +132,8 @@ Destacamos los siguientes:
 * El portero podrá colocarse donde quiera sin sobrepasar la línea de limitación.
 
 ![7METROS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/balonmano_7metros.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JZInvoFVZPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **12.	PASIVO**
 
