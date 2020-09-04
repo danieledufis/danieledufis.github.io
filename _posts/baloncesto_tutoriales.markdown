@@ -10,10 +10,10 @@ categories: jekyll update
 El baloncesto es uno de los deportes de equipo más entretenidos que hay, pero para saber jugar bien hay que conocer todas y cada una de las reglas que tiene. Algunas son un poco complicadas de entender, pero a través de estos vídeos os va a quedar todo mucho más claro para disfrutar de este magnífico deporte:
 
 ## REGLAS DEL BALONCESTO
-<!--iframe width="560" height="315" src="https://www.youtube.com/embed/5F_HNvP0nZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--iframe width="560" height="315" src="https://www.youtube.com/embed/5F_HNvP0nZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
 ## ¿CÓMO SE CUENTAN LOS PUNTOS?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jEv27bf1XG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--iframe width="560" height="315" src="https://www.youtube.com/embed/jEv27bf1XG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
 ## INFRACCIONES
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7fR9uoFMEtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
