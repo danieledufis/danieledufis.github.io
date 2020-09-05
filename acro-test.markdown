@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "acro"
 categories: test
 permalink: /test/acro
