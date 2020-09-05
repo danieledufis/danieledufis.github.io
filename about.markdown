@@ -2,11 +2,16 @@
 layout: page
 title: New About
 categories: acro
-permalink: /about/:categories/:title:output_ext
+permalink: /:categories/:title
 author: "Daniel García"
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+
+author: {{ author }}
+layout: {{ layout }}
+categories: {{ categories }}
+permalink: {{ permalink }}
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
