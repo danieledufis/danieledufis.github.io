@@ -61,4 +61,3 @@ categories: jekyll update
   
  ![LÍBERO](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/voleibol_libero.jpg)
  
- ![LÍBERO2](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/voleibol_libero2.jpg)
