@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MEDIDAS DE SEGURIDAD"
-permalink: /acrosport/medidas de seguridad
+permalink: /acrosport/medidas-de-seguridad
 author: "Daniel García"
 ---
 
