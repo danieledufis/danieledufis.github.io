@@ -2,7 +2,7 @@
 layout: page
 title: New About
 categories: acro
-permalink: /:categories/:title
+permalink: /about
 author: "Daniel García"
 ---
 
