@@ -2,12 +2,16 @@
 layout: page
 title: "acro"
 categories: test
-permalink: /:categories/:title
+permalink: /test/acro
 author: "Daniel García"
 ---
 
 # acro test 
 
+author: {{ author }}
+
 esto es un test, estoy probando:
 Frontmatter
 title, categories, permalink, author
+
+
