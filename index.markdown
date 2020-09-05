@@ -11,7 +11,7 @@ Podemos escribir una pequeña explicación, animando a entrar en los links.
 LAYOUT HOME
 TITULO PAGINA PRINCIPAL
 
-[Duck Duck Go](https://duckduckgo.com)
+[Go TO ACRO](https://danieledufis.github.io/test/acro)
 
 
 <!--HOW TO CREATE INTERNAL LINKS IN JEKYLL 
