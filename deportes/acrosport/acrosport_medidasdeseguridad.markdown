@@ -7,6 +7,8 @@ author: "Daniel García"
 
 # MEDIDAS DE SEGURIDAD
 
+<--iframe width="560" height="315" src="https://www.youtube.com/embed/abZ54SCPRLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
+
 Las medidas de seguridad deben ser las siguientes:
 * Es fundamental la **comunicación** entre el portor y el ágil.
 * En el momento en que el portor note cualquier **molestia** debe decírselo al ágil para corregir esa postura o, directamente, **deshacer esa figura**.
