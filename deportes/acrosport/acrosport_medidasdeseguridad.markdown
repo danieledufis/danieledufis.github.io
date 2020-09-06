@@ -22,4 +22,4 @@ Las medidas de seguridad deben ser las siguientes:
 
 ![ESPALDA3](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/acrosport_medidasdeseguridad3.jpg)
 
-<!--iframe width="560" height="315" src="https://www.youtube.com/embed/TLJ82k-aflc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TLJ82k-aflc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
