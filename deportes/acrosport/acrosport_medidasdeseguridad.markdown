@@ -32,6 +32,6 @@ Las medidas de seguridad deben ser las siguientes:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QCKKGMfFa9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![atletismo](https://github.com/danieledufis/danieledufis.github.io/blob/master/images/atletismo_carreras_fondo_mediomarat%C3%B3n_pesta%C3%B1a.jpg"atletismo")
+[imagen]:(https://github.com/danieledufis/danieledufis.github.io/blob/master/images/atletismo_carreras_fondo_mediomarat%C3%B3n_pesta%C3%B1a.jpg"atletismo")"atletismo"
 
 
