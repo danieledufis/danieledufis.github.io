@@ -22,6 +22,8 @@ Las medidas de seguridad deben ser las siguientes:
 
 ![ESPALDA3](https://danieledufis.github.io/images_text/acrosport_medidasdeseguridad3.jpg)
 
+![dobles](https://danieledufis.github.io/blob/master/images/depraqueta_tenis__dobles_pesta%C3%B1a.jpg)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TLJ82k-aflc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/8djVh2Df6ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
