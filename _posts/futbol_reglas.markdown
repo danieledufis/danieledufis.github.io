@@ -15,7 +15,7 @@ Será un rectángulo tendrá las siguientes medidas:
 Deberá ser rectangular, estar dividido en **dos mitades** y marcado con líneas. Las líneas pertenecerán a las zonas que demarcan.
 También, se deberá trazar un área en cada portería también de forma rectangular. Se marcará un **punto a los 11m**, que se ocupará para colocar el balón cuando haya que tirar un **penalti.**
 
-![CAMPO](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_campo.jpg)
+![CAMPO](https://danieledufis.github.io/images_text/futbol_campo.jpg)
 
 **2. EL BALÓN**
 
@@ -26,7 +26,7 @@ Tendrán las siguientes características:
 * Peso: entre 410g y 450g.
 * Presión: 0,6-1 atmósferas.
 
-![BALÓN](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_balon.jpg)
+![BALÓN](https://danieledufis.github.io/images_text/futbol_balon.jpg)
 
 **3. EL NÚMERO DE JUGADORES**
 
@@ -35,7 +35,7 @@ Tendrán las siguientes características:
 * El número de cambios depende de la federación y categoría, aunque casi siempre se sigue el reglamento profesional que permite **8 suplentes y 3 cambios.**
 * Un jugador sustituido ya no puede volver al campo.
 
-![JUGADORAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_jugadores.jpg)
+![JUGADORAS](https://danieledufis.github.io/images_text/futbol_jugadores.jpg)
  
 **4. LA EQUIPACIÓN**
 
@@ -43,7 +43,7 @@ Tendrán las siguientes características:
 * Los dos equipos utilizarán colores distintos entre sí, y también del árbitro y los asistentes.
 * **Los porteros** también están obligados a utilizar un **color diferente.**
 
-![EQUIPACIÓN](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_equipacion.jpg)
+![EQUIPACIÓN](https://danieledufis.github.io/images_text/futbol_equipacion.jpg)
  
 **5. EL ÁRBITRO**
 
@@ -56,9 +56,9 @@ Tendrán las siguientes características:
    * Mostrar tarjeta amarillas cuando sea más grave.
    * Expulsar mediante tarjeta roja directa (infracción muy grave) o con dos tarjetas amarillas.
    
- ![ÁRBITRO](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_arbitro.jpg)
+ ![ÁRBITRO](https://danieledufis.github.io/images_text/futbol_arbitro.jpg)
  
- ![TARJETAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_tarjetas.jpg)
+ ![TARJETAS](https://danieledufis.github.io/images_text/futbol_tarjetas.jpg)
 
 **6. LOS ÁRBITROS ASISTENTES**
 
@@ -68,7 +68,7 @@ Ayudarán al árbitro principal indicando:
 * Fueras de juego.
 * Avisará de los cambios, infracciones que no vea el árbitro, goles marcados y saques de puerta.
 
-![LINIER](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_linier.jpg)
+![LINIER](https://danieledufis.github.io/images_text/futbol_linier.jpg)
 
 **7. DURACIÓN DEL PARTIDO**
 
@@ -77,7 +77,7 @@ Ayudarán al árbitro principal indicando:
 * En caso de ser una eliminatoria y acabar en empate se jugará **prórroga** que constará de **dos partes de 15 minutos** con breve descanso entre ellas.
 * Si el partido después de la prórroga sigue empatado se realizará una **tanda de penaltis.**
 
-![DURACIÓN](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_duracionpartido.jpg)
+![DURACIÓN](https://danieledufis.github.io/images_text/futbol_duracionpartido.jpg)
 
 **8. SAQUE DE CENTRO**
 
@@ -89,7 +89,7 @@ Ayudarán al árbitro principal indicando:
      * Al comienzo del segundo tiempo.
      * En cada una de las prórrogas.
      
-![SAQUE DE CENTRO](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_saque%20de%20centro.jpg)
+![SAQUE DE CENTRO](https://danieledufis.github.io/images_text/futbol_saque%20de%20centro.jpg)
 
 **9. EL BALÓN EN JUEGO (O NO)**
 
@@ -102,14 +102,14 @@ Ayudarán al árbitro principal indicando:
 * Se habrá marcado gol cuando el **balón** estando en juego, haya **atravesado completamente la línea de fondo entre los postes de la portería;** siempre que ningún jugador haya cometido una infracción previamente.
 * Vencerá el equipo que más goles haya marcado.
 
-![GOL](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_gol.jpg)
+![GOL](https://danieledufis.github.io/images_text/futbol_gol.jpg)
  
 **11. FUERA DE JUEGO**
 
 * Un jugador estará en fuera de juego si se encuentra más cerca de la línea de meta que el balón y el último defensor del otro equipo.
 * No será nunca fuera de juego si está en su mitad del campo.
 
-![FUERA DE JUEGO](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_fuera%20de%20juego.jpg)
+![FUERA DE JUEGO](https://danieledufis.github.io/images_text/futbol_fuera%20de%20juego.jpg)
  
 **12. FALTAS**
 
@@ -141,14 +141,14 @@ Si la falta se comete dentro de su propia área se señalará penalti.
 * INDIRECTO: el árbitro debe mantener una mano levantada y consiste en que se debe dar por lo menos dos toques antes de que el balón entre en la portería.
 * El equipo contrario podrá colocar una barrera para defender mejor su portería.
 
-![FALTAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_falta.jpg)
+![FALTAS](https://danieledufis.github.io/images_text/futbol_falta.jpg)
 
 **14. PENALTIS**
 
 * Se origina al cometer una **falta dentro del área** del jugador que ha cometido la infracción.
 * Se lanzará desde el punto de penalti y todos los jugadores deben estar fuera del área.
 
-![PENALTI](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_penalti.jpg)
+![PENALTI](https://danieledufis.github.io/images_text/futbol_penalti.jpg)
 
 **15. SAQUE DE BANDA**
 
@@ -156,17 +156,17 @@ Si la falta se comete dentro de su propia área se señalará penalti.
 * **Se realiza con las manos**, lanzando el balón desde detrás por encima de la cabeza con ambos pies colocados sobre la línea de banda en el punto donde salió el balón.
 *Sacará de banda el equipo cuyo jugador no haya tocado el balón en último lugar.
 
-![SAQUE DE BANDA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_saque%20de%20banda.jpg)
+![SAQUE DE BANDA](https://danieledufis.github.io/images_text/futbol_saque%20de%20banda.jpg)
 
 **16. SAQUE DE PUERTA**
 
 * Es una forma de reanudar el juego cuando el balón haya salido por la línea de fondo, después de haber tocado el balón un jugador del equipo atacante.
 
-![SAQUE DE PUERTA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_saque%20de%20puerta.jpg)
+![SAQUE DE PUERTA](https://danieledufis.github.io/images_text/futbol_saque%20de%20puerta.jpg)
 
 **17. SAQUE DE ESQUINA**
 
 * Se produce cuando el balón haya salido por la línea de fondo habiéndolo tocado por última vez un defensor.
 * Se sacará desde la **esquina más cercana que haya salido.**
 
-![CORNER](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_corner.jpg)
+![CORNER](https://danieledufis.github.io/images_text/futbol_corner.jpg)
