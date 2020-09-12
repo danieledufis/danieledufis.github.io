@@ -18,9 +18,9 @@ categories: jekyll update
 * La portería tiene 105 centímetros de altura y 170 de anchura.
 * El punto de penalti se sitúa a 2 metros del área en dirección al centro del campo.
 
-![PISTA1](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/patines_pista.png)
+![PISTA1](https://danieledufis.github.io/images_text/patines_pista.png)
 
-![PISTA2](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/patines_pista2.jpg)
+![PISTA2](https://danieledufis.github.io/images_text/patines_pista2.jpg)
 
 **2.JUGADORES**
 
@@ -29,7 +29,7 @@ categories: jekyll update
 * Las sustituciones pueden hacerse en cualquier momento.
 * Si un equipo no puede tener 4 jugadores en la pista, el partido se da por finalizado.
 
-![JUGADORES](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/patines_jugadores.jpg)
+![JUGADORES](https://danieledufis.github.io/images_text/patines_jugadores.jpg)
 
 **3.EQUIPACIÓN**
 
@@ -44,18 +44,18 @@ categories: jekyll update
   * Llevarán casco y máscara integral para protegerse la cara.
   * Además tendrán hombreras, protección para los brazos, guantes y espinilleras.
 
-![STICK](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/patines_stick.jpg)
+![STICK](https://danieledufis.github.io/images_text/patines_stick.jpg)
 
-![PATINES](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/patines_patines.jpg)
+![PATINES](https://danieledufis.github.io/images_text/patines_patines.jpg)
 
-![PORTERO](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/patines_portero.jpg)
+![PORTERO](https://danieledufis.github.io/images_text/patines_portero.jpg)
 
 **4.PELOTA**
 
 * Estará fabricada de caucho o plástico.
 * Su peso es de 155 gramos y mide 23 centímetros.
 
-![PELOTA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/patines_pelota.jpg)
+![PELOTA](https://danieledufis.github.io/images_text/patines_pelota.jpg)
 
 **5.DURACIÓN**
 
@@ -103,7 +103,7 @@ categories: jekyll update
   * Si se produce una amonestación o expulsión, un equipo puede llegar a estar en inferioridad durante 4 minutos.
   * Si reciben un gol durante esa inferioridad, ese periodo de inferioridad queda anulado.
  
- ![TARJETAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/patines_tarjetas.jpg)
+ ![TARJETAS](https://danieledufis.github.io/images_text/patines_tarjetas.jpg)
  
  **9.LIBRE INDIRECTO**
 
@@ -124,6 +124,6 @@ categories: jekyll update
 * Se ejecuta a 5,40 metros.
 * Tiene 5 segundos a partir de la señal del árbitro, no puede simular y debe rematar directamente a portería.
 
-![PENALTI](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/patines_penalti.jpg)
+![PENALTI](https://danieledufis.github.io/images_text/patines_penalti.jpg)
 
 
