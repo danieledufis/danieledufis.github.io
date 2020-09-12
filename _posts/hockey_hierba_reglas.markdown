@@ -22,7 +22,7 @@ categories: jekyll update
   * Situada a 5 metros del área pequeña.
   * El punto de penalti está situado a 6,4 metros de la portería.
   
-![PISTA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/hierba_pista1.png)
+![PISTA](https://danieledufis.github.io/images_text/hierba_pista1.png)
 
 **2.STICK**
 
@@ -31,7 +31,7 @@ categories: jekyll update
 * El stick mide un máximo de 105 centímetros.
 * Son habituales de madera, fibra de vidrio, fibra de carbono y combinaciones de estos últimos.
 
-![STICK](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/hierba_stick1.jpg)
+![STICK](https://danieledufis.github.io/images_text/hierba_stick1.jpg)
 
 **3.PELOTA**
 
@@ -39,14 +39,14 @@ categories: jekyll update
 * El perímetro es de entre 224 y 235 milímetros.
 * Serán preferiblemente blancas o de un color que contraste claramente con la superficie de la pista.
 
-![PELOTA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/hierba_pelota.jpg)
+![PELOTA](https://danieledufis.github.io/images_text/hierba_pelota.jpg)
 
 **4.DURACIÓN**
 
 * El partido estará dividido en dos períodos de 35 minutos y con un descanso de 5 minutos.
 * Si tiene que quedar eliminado uno de los dos equipos y acaba en empate, se decide el ganador a través del shoot put, que será explicado más adelante.
  
- ![DURACIÓN](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/hierba_duraci%C3%B3n.png)
+ ![DURACIÓN](https://danieledufis.github.io/images_text/hierba_duraci%C3%B3n.png)
  
 **5.JUGADORES**
 
@@ -61,7 +61,7 @@ categories: jekyll update
   * No puede tocar la pelota con manos ni pies, aunque si la toca con el pie y no obtiene ventaja, el juego continua.
 * Cada equipo puede hacer todas las sustituciones que quiera, salvo cuando se  señale un penalti corner.
 
-![JUGADORES](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/hierba_jugadores.jpg)
+![JUGADORES](https://danieledufis.github.io/images_text/hierba_jugadores.jpg)
 
 **6.SANCIONES**
 
@@ -70,7 +70,7 @@ categories: jekyll update
 * En caso de reiteración o de que sea una falta de mayor gravedad, se mostrará tarjeta amarilla y será sancionado 10 minutos.
 * En caso de ser grave se mostrará una tarjeta roja redonda que conllevará la expulsión definitiva del partido.
 
-![TARJETAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/hierba_tarjetas.jpg)
+![TARJETAS](https://danieledufis.github.io/images_text/hierba_tarjetas.jpg)
 
 **7.SAQUE LATERAL**
 
@@ -88,7 +88,7 @@ o	Si la pelota salió en algún punto entre la línea de 23 metros y la línea d
 * Se señala cuando el defensor hace una falta intencionada sobre un oponente con la pelota o que impida un previsible gol.
 * El atacante lanzará el penalti a la señal del árbitro desde el punto señalado a 6 metros.
 
-![PENALTI](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/hierba_penalti.jpg)
+![PENALTI](https://danieledufis.github.io/images_text/hierba_penalti.jpg)
 
 **10.	PENALTI CORNER**
 
@@ -104,9 +104,9 @@ o	Si la pelota salió en algún punto entre la línea de 23 metros y la línea d
   * Para que sea válido el saque, la pelota debe salir del área.
   * El primer tiro no puede sobrepasar  las tablas de la portería, que son de 46 centímetros de alto.
   
- ![PENALTI CORNER](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/hierba_penalticorner.jpg)
+ ![PENALTI CORNER](https://danieledufis.github.io//images_text/hierba_penalticorner.jpg)
  
- ![PENALTI CORNER2](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/hierba_penalticorner2.png)
+ ![PENALTI CORNER2](https://danieledufis.github.io/images_text/hierba_penalticorner2.png)
   
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vWjzyRWtbDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
