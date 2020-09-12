@@ -15,9 +15,9 @@ categories: jekyll update
   * **Área de ataque:** delimitada por la línea central y otra colocada a 3 metros, denominada línea de ataque.
   * **Área de defensa:** delimitada por la línea de ataque y la línea de fondo.
   
-![PISTA1](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/voleibol_pista.jpg)
+![PISTA1](https://danieledufis.github.io/images_text/voleibol_pista.jpg)
 
-![PISTA2](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/voleibol_pista2.jpg)
+![PISTA2](https://danieledufis.github.io/images_text/voleibol_pista2.jpg)
 
 **2.PUNTUACIÓN**
 
@@ -25,7 +25,7 @@ categories: jekyll update
 * **SET:** Un set lo gana el primer equipo que anota 25 puntos con una ventaja mínima de 2 tantos. En caso de empate, el juego continúa hasta que uno de los dos equipos consiga ventaja de dos puntos (25-23, 26-24, 27-25…).
 * **PARTIDO:** lo ganará el equipo que consiga 3 sets. En caso de empate (2-2) el set decisivo se jugará al que gane 15 puntos con ventaja mínima de dos puntos.
 
-![PUNTUACIÓN](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/voleibol_puntuaci%C3%B3n.png)
+![PUNTUACIÓN](https://danieledufis.github.io/images_text/voleibol_puntuaci%C3%B3n.png)
 
 **3.ESTRUCTURA DEL JUEGO**
 
@@ -42,7 +42,7 @@ categories: jekyll update
 * Cuando el equipo receptor logra ganar el punto, los jugadores rotan una posición, en el sentido de las agujas del reloj, y un nuevo jugador sacará.
 * Si algún jugador incumple la posición de la rotación, el equipo pierde la jugada y el punto es entregado al adversario, así como rectificarse las posiciones de los jugadores.
 
-![ROTACIÓN](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/voleibol_rotacion.png)
+![ROTACIÓN](https://danieledufis.github.io/images_text/voleibol_rotacion.png)
 
 **5.POSICIONES**
 
@@ -59,5 +59,5 @@ categories: jekyll update
   * No puede hacer un golpe de ataque cuando el balón está por encima de la red.
   * Puede realizar un pase de dedos en la zona de delanteros, siempre que el atacante, golpee el balón por debajo del borde superior de la red.
   
- ![LÍBERO](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/voleibol_libero.jpg)
+ ![LÍBERO](https://danieledufis.github.io/images_text/voleibol_libero.jpg)
  
