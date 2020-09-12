@@ -16,7 +16,7 @@ categories: jekyll update
 * **Cerramientos:** la pista está cerrada por fondos de 10 metros de longitud y por los laterales, sumando 20 metros en total. La altura de los fondos es de 4 metros.
 * El suelo: la superficie de la pista podrá ser de hormigón poroso, cemento, madera, materiales sintéticos, césped artificial o cualquier otro que permita el bote regular de la pelota y evite el encharcamiento.
 
-![PISTA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/padel_pista.jpg)
+![PISTA](https://danieledufis.github.io/images_text/padel_pista.jpg)
 
 ## 2. LA PELOTAS: 
 
@@ -25,7 +25,7 @@ categories: jekyll update
 * Deberá tener un rebote entre 135 y 145 centímetros al dejarla caer sobre una superficie dura desde 2,54 metros de altura.
 * La presión: la presión de la pelota será entre 4,6 kg y 5,2 kg por cada 2,54 cm cuadrados. 
 
-![PELOTAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/padel_pelotas.jpg)
+![PELOTAS](https://danieledufis.github.io/images_text/padel_pelotas.jpg)
 
 ## 3. LA PALA: 
 
@@ -33,7 +33,7 @@ categories: jekyll update
 * La superficie destinada al golpeo estará perforada por agujeros cilíndricos de 9 a 13 mm.
 * Deberá tener un cordón de sujeción a la muñeca y tendrá una longitud máxima de 35 centímetros.
 
-![PALA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/padel_pala.jpg)
+![PALA](https://danieledufis.github.io/images_text/padel_pala.jpg)
 
 ## 4. PUNTUACIÓN: 
 * **JUEGOS:** los puntos serán exactamente igual que en el tenis: 
@@ -50,7 +50,7 @@ categories: jekyll update
   * En categoría femenina ganará la pareja que gane 2 sets.
   * En categoría masculina ganará la pareja que gane 3 sets.
   
-  ![PUNTUACION PADEL](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/padel_puntuacion.jpg)
+  ![PUNTUACION PADEL](https://danieledufis.github.io/images_text/padel_puntuacion.jpg)
 
 ## 5. POSICIÓN DE LOS JUGADORES:** 
 
@@ -58,7 +58,7 @@ categories: jekyll update
 * En la pareja que resta estará colocada siempre en el mismo lado de su campo, aunque cuando empiece el punto pueden moverse donde quieran.
 * La pareja que saca, colocará a su sacador a la derecha en el primer punto, después a la izquierda y así sucesivamente hasta terminar el juego.
 
-![POSICIONES](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/padel_posicion.jpg)
+![POSICIONES](https://danieledufis.github.io/images_text/padel_posicion.jpg)
 
 ## 6. ELECCIÓN DE CAMPO Y DE SERVICIO:
 
@@ -80,8 +80,8 @@ categories: jekyll update
   * Si la pelota no sobre pasa la red.
   * En caso de cometer doble falta (2 faltas seguidas), la pareja contraria obtendrá un punto.
   
- ![CÓMO SACAR](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/padel_saque1.jpg)
- ![CÓMO SACAR2](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/padel_saque2.jpg)
+ ![CÓMO SACAR](https://danieledufis.github.io/images_text/padel_saque1.jpg)
+ ![CÓMO SACAR2](https://danieledufis.github.io/images_text/padel_saque2.jpg)
 
 ## 9. RESTO: 
 
