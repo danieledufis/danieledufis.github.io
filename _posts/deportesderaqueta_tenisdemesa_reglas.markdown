@@ -15,9 +15,9 @@ categories: jekyll update
 * El color más habitual es el azul oscuro.
 * Las líneas largas se denominan líneas laterales y las cortas líneas de fondo.
 
-![MESA1](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenisdemesa_mesa.gif)
+![MESA1](https://danieledufis.github.io/images_text/tenisdemesa_mesa.gif)
 
-![MESA2](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenisdemesa_mesa2.jpg)
+![MESA2](https://danieledufis.github.io/images_text/tenisdemesa_mesa2.jpg)
 
 **2.PALA**
 
@@ -25,7 +25,7 @@ categories: jekyll update
 * El grosor de la misma debe estar compuesta de al menos un 85% de madera natural.
 * Las dos caras deben estar cubiertas de goma, cada una con características específicas. Una debe roja y otra negra.
 
-![PALA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenisdemesa_pala.jpg)
+![PALA](https://danieledufis.github.io/images_text/tenisdemesa_pala.jpg)
 
 **3.PELOTA**
 
@@ -33,7 +33,7 @@ categories: jekyll update
 * Están hechas habitualmente  de poliestireno y ABS, ya que tienen mejores prestaciones y son más respetuosas con el medio ambiente.
 * En partidos internacionales solo se admiten pelotas blancas o naranjas.
 
-![PELOTAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenisdemas_pelotas2.jpg)
+![PELOTAS](https://danieledufis.github.io/images_text/tenisdemas_pelotas2.jpg)
 
 **4.PUNTUACIÓN**
 
@@ -42,7 +42,7 @@ categories: jekyll update
 * Normalmente en los partidos internacionales se juega al mejor de 7 juegos individuales.
 * En el caso del dobles se disputa a 5 juegos.
 
-![PUNTUACIÓN](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenisdemesa_puntuaci%C3%B3n.jpg)
+![PUNTUACIÓN](https://danieledufis.github.io/images_text/tenisdemesa_puntuaci%C3%B3n.jpg)
 
 **5.¿CÓMO SE CONSIGUE UN PUNTO?**
 
@@ -55,7 +55,7 @@ categories: jekyll update
   * Envía la pelota al lado contrario y bota 2 veces seguidas.
   * Consigue que la pelota bote en campo contrario y el oponente no es capaz de devolverla.
   
-![PUNTUACIÓN](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenisdemesa_punto.jpg)
+![PUNTUACIÓN](https://danieledufis.github.io/images_text/tenisdemesa_punto.jpg)
 
 **6.SAQUE**
 
@@ -66,7 +66,7 @@ categories: jekyll update
 * Está prohibido golpearla con efecto u ocultar la pelota.
 * Si la pelota toca la red, el servicio se anula.
 
-![SAQUE](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenisdemesa_saque.jpg)
+![SAQUE](https://danieledufis.github.io/images_text/tenisdemesa_saque.jpg)
 
 **7.REGLA DE ACELERACIÓN**
 
@@ -83,6 +83,6 @@ categories: jekyll update
 * Deben alternarse para cada turno de saque, habiendo elegido previamente quien empieza.
 * El sacador deberá colocarse en el lado derecho de la mesa y la pelota debe botar obligatoriamente en el lado opuesto del campo contrario.
 
-![DOBLES](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/tenisdemesa_dobles.jpg)
+![DOBLES](https://danieledufis.github.io/images_text/tenisdemesa_dobles.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5XJR5F_cmVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
