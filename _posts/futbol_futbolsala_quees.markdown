@@ -13,9 +13,9 @@ categories: jekyll update
 * Las superficies del campo se dividen en dos mitades iguales por una línea denominada líneas de medio campo, mientras que el centro del campo se marcará con un círculo de 3m de radio.
 * El área deberá tener una superficie de juego de un ancho de 18 metros para permitir el juego del portero o portera y 6 metros de longitud.
 
-![PISTA1](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_pista.jpg)
+![PISTA1](https://danieledufis.github.io/images_text/fsala_pista.jpg)
 
-![PISTA2](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_pista2.jpg)
+![PISTA2](https://danieledufis.github.io/images_text/fsala_pista2.jpg)
 
 **2. EL BALÓN**
 
@@ -24,7 +24,7 @@ Deberá tener las siguientes características:
 * Cada partido deberá tener disponible tres esféricos y el árbitro/a será quien verificará las condiciones.
 * El balón no puede reemplazarse durante el juego a no ser que sea dañado y con la autorización del árbitro/a.
 
-![BALÓN](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_balon.jpg)
+![BALÓN](https://danieledufis.github.io/images_text/fsala_balon.jpg)
 
 **3. NÚMERO DE JUGADORES/AS**
 * En cada equipo deberán estar 5 jugadores en el terreno de juego incluyendo al portero. Además uno de ellos será capitán.
@@ -32,7 +32,7 @@ Deberá tener las siguientes características:
 * El partido nunca podrá empezar si no hay un mínimo de 5 jugadores por equipo. Si por varias razones un equipo se queda con 3 jugadores o menos, el árbitro deberá dar por finalizado el partido.
 * Los integrantes del cuerpo técnico no podrán superar los 5.
 
-![JUGADORES](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_jugadores.jpg)
+![JUGADORES](https://danieledufis.github.io/images_text/fsala_jugadores.jpg)
 
 **4. EQUIPACIÓN** 
 
@@ -55,7 +55,7 @@ CUERPO TÉCNICO
 * Si se realiza un cambio entre portero y jugador, se deberá comunicar al árbitro y realizarse cuando el juego esté parado.
 * La sustitución de jugadores solamente podrá hacerse cuando el juego esté detenido. Entrando y saliendo por la zona de sustitución señalada, excepto en caso de lesión, que se podrá retirar por cualquier parte del campo.
 
-![SUSTITUCIONES](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_sustituciones.jpg)
+![SUSTITUCIONES](https://danieledufis.github.io/images_text/fsala_sustituciones.jpg)
 
 **6. TIEMPO DE JUEGO**
 * El partido tendrá 40 minutos, cronometrado y dividido en dos partes iguales., con un descanso entre cada periodo de 10 minutos.
@@ -70,7 +70,7 @@ En fútbol sala los tiempos de detención se descontarán de manera que, cuando 
 * No se parará el juego en caso de cambio de vestimenta.
 * Tampoco se parará para dar advertencias o tomar medidas disciplinarias.
 
-![TIEMPO](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_tiempo.jpg)
+![TIEMPO](https://danieledufis.github.io/images_text/fsala_tiempo.jpg)
 
 **7. INICIO Y REANUDACIÓN DEL JUEGO**
 * Antes de iniciar el partido, el árbitro deberá realizar un sorteo a través del lanzamiento de una moneda entre los capitanes, de esta manera se decidirá quien realizará el saque inicial.
@@ -84,7 +84,7 @@ En fútbol sala los tiempos de detención se descontarán de manera que, cuando 
 * No es válido si por el contrario, el guardameta realiza el saque de puerta y suelta el balón antes de salir del área y un compañero o adversario lo introduce en la portería.
 * No será gol un tiro directo a portería al inicio o reinicio del juego.
 
-![GOL](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_gol.jpg)
+![GOL](https://danieledufis.github.io/images_text/fsala_gol.jpg)
 
 **9. INFRACCIONES**
 
@@ -110,14 +110,14 @@ FALTAS TÉCNICAS
 * El portero toca el balón fuera del área, para introducirlo en la misma y cogerlo con las manos.
 La ley de la ventaja se aplicará cuando se vea que puede favorecer  al equipo que ha sufrido la falta y no parar el juego.
 
-![FALTAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_falta.jpg)
+![FALTAS](https://danieledufis.github.io/images_text/fsala_falta.jpg)
 
 **10. FALTAS ACUMULABLES**
 * Las faltas acumulables son todas aquellas nombradas en el apartado anterior (faltas).
 * Cada equipo puede hacer 5 faltas acumulables en cada periodo de juego. En el momento en que se pasan de 5 faltas, a la sexta se harán a partir del punto del doble penalti.
 * De esta manera, no se permite que el equipo pueda hacer uso de barreras (en todas las faltas previas sí).
 
-![DOBLE PENALTI](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_doblepanalti.png)
+![DOBLE PENALTI](https://danieledufis.github.io/images_text/fsala_doblepanalti.png)
 
 **11. PENA MÁXIMA**
 El penalti se concede al equipo que ha recibido la falta y será un tiro libre directo dentro del área del equipo que ha efectuado la falta.
@@ -127,7 +127,7 @@ El penalti se concede al equipo que ha recibido la falta y será un tiro libre d
 * El portero estará inmóvil en la línea de gol.
 * Todos los jugadores estarán fuera del área del portero, excepto el jugador que lanza el penalti y el portero.
 
-![PENALTI](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_penalti.jpg)
+![PENALTI](https://danieledufis.github.io/images_text/fsala_penalti.jpg)
 
 **12. SAQUE DE PUERTA**
 Es una manera de reanudar el juego y será admitido siempre y cuando pase el área del portero ya sea por el suelo o por el aire y haya sido tocado por un jugador. 
@@ -136,20 +136,20 @@ Es una manera de reanudar el juego y será admitido siempre y cuando pase el ár
 * Si al sacar el balón sale fuera, la posesión pasará a ser del equipo contrario.
 * Al realizar el saque, los jugadores deberán estar fuera del área.
 
-![SAQUE DE PUERTA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_saque%20de%20puerta.jpg)
+![SAQUE DE PUERTA](https://danieledufis.github.io/images_text/fsala_saque%20de%20puerta.jpg)
 
 **13. SAQUE DE BANDA**
 * Se realizará cuando el balón salga por los laterales del terreno de juego.
 * El lanzador no podrá ser el portero y deberá realizarse con los pies.
 * Si el balón entra en la portería contraria sin que nadie lo toque en su trayectoria, no se contará como gol.
 
-![SAQUE DE BANDA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_saque%20de%20banda.jpg)
+![SAQUE DE BANDA](https://danieledufis.github.io/images_text/fsala_saque%20de%20banda.jpg)
 
 **14. SAQUE DE ESQUINA**
 * Se realiza por el equipo adversario a esa zona del campo y por la esquina más cercana por donde salió el balón por la línea de fondo.
 * Se ejecutará con el pie y podrá marcarse gol directo.
 
-![SAQUE DE ESQUINA](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_saque%20de%20esquina.jpg)
+![SAQUE DE ESQUINA](https://danieledufis.github.io/images_text/fsala_saque%20de%20esquina.jpg)
 
 **15. ÁRBITRO/A**
 * Es la figura que hará que dentro del terreno de juego sea justo y sano.
@@ -159,6 +159,6 @@ Es una manera de reanudar el juego y será admitido siempre y cuando pase el ár
   * Amarilla: en caso de tener dos tarjetas amarillas estaría expulsado.
   * Roja: expulsión directa.
   
-![ÁRBITROS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/fsala_arbitro.png)
+![ÁRBITROS](https://danieledufis.github.io/blob/master/images_text/fsala_arbitro.png)
 
-![TARJETAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/futbol_tarjetas.jpg)
+![TARJETAS](https://danieledufis.github.io/blob/master/images_text/futbol_tarjetas.jpg)
