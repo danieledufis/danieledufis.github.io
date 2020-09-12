@@ -56,7 +56,7 @@ categories: jekyll update
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YnIx5I2tJfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## FOLLOWIING THE LEADER ##
+## FOLLOWING THE LEADER ##
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zRYlcucDMqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
