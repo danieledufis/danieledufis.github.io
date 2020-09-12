@@ -14,8 +14,8 @@ Las medidas de seguridad deben ser las siguientes:
 * Los *apoyos* del ágil deben ser siempre **seguros**, de modo que no perjudiquen ni causen daño al portor. Para ello los apoyos deben realizarse de forma que el peso no caiga sobre la mitad de un hueso.
 * La **espalda** debe estar siempre **recta** evitando la formación de curvas.
 
-![MEDIDAS DE SEGURIDAD 1](https://danieledufis.github.io/blob/master/images_text/acrosport_medidasdeseguridad1.png)
+![MEDIDAS DE SEGURIDAD 1](https://danieledufis.github.io/images_text/acrosport_medidasdeseguridad1.png)
 
-![MEDIDAS DE SEGURIDAD 2](https://danieledufis.github.io/blob/master/images_text/acrosport_medidasdeseguridad2.jpg)
+![MEDIDAS DE SEGURIDAD 2](https://danieledufis.github.io/images_text/acrosport_medidasdeseguridad2.jpg)
 
-![MEDIDAS DE SEGURIDAD 3](https://danieledufis.github.io/blob/master/images_text/acrosport_medidasdeseguridad3.jpg)
+![MEDIDAS DE SEGURIDAD 3](https://danieledufis.github.io/images_text/acrosport_medidasdeseguridad3.jpg)
