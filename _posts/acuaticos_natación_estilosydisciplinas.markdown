@@ -12,6 +12,8 @@ categories: jekyll update
 * En las pruebas hay varias eliminatorias hasta la final en la que habrá 8 participantes.
 * Podemos diferenciar los estilos de crol, espalda, braza y mariposa.También hablaremos de las pruebas de relevos y los virajes.
 
+![PISCINA OLÍMPICA](https://danieledufis.github.io/images_text/acuaticos_estilos_piscinaolimpica.jpg)
+
 **CROL**
 
 * Es el más rápido de los estilos por lo que es utilizado en la prueba de estilo libre.
