@@ -28,7 +28,7 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 ![REMO](https://danieledufis.github.io/images_text/acuaticos_otros_remo2.jpg)
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8738B4m9cME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### SALTOS ###
 
@@ -37,6 +37,8 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 * Fijaros en los vídeos que apenas salpican al caer al agua debido a la gran técnica que tienen en la entrada al agua.
 
 ![SALTOS](https://danieledufis.github.io/images_text/acuaticos_otros_saltos.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nrV_G58wfoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### WINDSURF ###
 
@@ -52,6 +54,8 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
   
 ![WINDSURF](https://danieledufis.github.io/images_text/acuaticos_otros_windsurf.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xms_udXYF3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### KITESURF ###
 
 * Este deporte combina el surf con el parapente. 
@@ -61,6 +65,8 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 * Gisela Pulido es la máxima representante de este deporte:
 
 ![KITESURF](https://danieledufis.github.io/images_text/acuaticos_otros_kitesurf.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ph9-ZySlew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### WATERPOLO ###
 
@@ -73,6 +79,8 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 ![WATERPOLO](https://danieledufis.github.io/images_text/acuaticos_otros_waterpolo.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PvodyAvZp68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### PIRAGÜISMO ###
 
 * La piragua es uno de los vehículos navegables más antiguos que existen.
@@ -83,7 +91,7 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 ![PIRAGÜISMO](https://danieledufis.github.io/images_text/acuaticos_otros_pirag%C3%BCismo.jpg)
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKT6_Y2z9_Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### RAFTING ###
 
@@ -96,6 +104,8 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 ![RAFTING](https://danieledufis.github.io/images_text/acuaticos_otros_rafting.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ByIIq3jFOKo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### HIDROSPEED ###
 
 * Es una disciplina individual donde se está en permanente contacto con el agua.
@@ -104,6 +114,8 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 * En cuanto al material, será necesario el “hidro trineo” o plancha aerodinámica, el traje de neopreno, escarpines, aletas, chaleco salvavidas y guantes isotérmicos para           mantener los dedos calientes y con sensibilidad.
 
 ![HIDROSPEED](https://danieledufis.github.io/images_text/acuaticos_otros_hidrospeed.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VwncCe3zxds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### BUCEO LIBRE ###
 
@@ -114,6 +126,8 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 ![BUCEO](https://danieledufis.github.io/images_text/acuaticos_otros_buceo.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_53XtHeiI3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### ESQUÍ ACUÁTICO ###
 
 * Exige buenos reflejos y equilibrio.
@@ -121,3 +135,5 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 * Existen numerosas disciplinas.
 
 ![ESQUÍ](https://danieledufis.github.io/images_text/acuaticos_otros_esqu%C3%AD%20acuatico.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/84WwHV1yQcA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
