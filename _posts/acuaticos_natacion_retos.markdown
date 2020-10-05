@@ -33,7 +33,15 @@ Durante esos años fue acusado de dopaje. Como protesta ante esa acusación de d
 
 ### ASCENSO AL RÍO GUADALQUIVIR ###
 
+En el siguiente enlace podéis leer la noticia sobre este reto:
+
+https://elpais.com/deportes/2007/04/22/actualidad/1177226514_850215.html
+
 ### CAMINO DE SANTIAGO A NADO ###
+
+A continuación os pongo un enlace con la noticia sobre esta peculiar hazaña:
+
+https://www.google.es/search?sxsrf=ALeKk00oXkb8UaMk4YkfnEXcLNspNAxcRQ%3A1601911489066&source=hp&ei=wTp7X96JAamQlwS5hYyYBw&q=david+meca+camino+de+santiago&oq=david+meca+camino+de+&gs_lcp=CgZwc3ktYWIQARgAMgYIABAWEB46BwgjEOoCECc6BwguEOoCECc6BAgjECc6BQgAELEDOggILhCxAxCDAToICAAQsQMQgwE6AgguOgUILhCxAzoICC4QsQMQkwI6AggAOgUILhCTAlDwD1jgLmDFPGgBcAB4AIABjAKIAawTkgEGMTQuMy40mAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab
 
 # RETOS DE OTROS NADADORES #
 
