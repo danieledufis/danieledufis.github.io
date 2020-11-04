@@ -4,21 +4,10 @@
 
 # layout: home
 layout: main
-title: Página principal
+# title: Página principal
 ---
 
-### index
-Podemos escribir una pequeña explicación, animando a entrar en los links.
-LAYOUT HOME
-TITULO PAGINA PRINCIPAL
-
-[Go TO ACRO](https://danieledufis.github.io/test/acro)
-
-
-
-
-
-
+<!-- {{ site.baseurl }}{{% link _post/acuaticos/acuaticos-natacion-carrerasemocionantes.md %}} -->
 
 <!--HOW TO CREATE INTERNAL LINKS IN JEKYLL 
 https://www.webisland.agency/blog/jekyll-internal-links/ -->

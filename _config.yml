@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danieledufis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: danieledufis
 
+author: "CONFIG Daniel García"
 permalink: /:categories/:title
 
 # Build settings
