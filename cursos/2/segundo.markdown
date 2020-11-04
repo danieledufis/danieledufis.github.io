@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2º"
-permalink: /cursos/segundo
+categories: cursos segundo
 author: "Daniel García"
 ---
 

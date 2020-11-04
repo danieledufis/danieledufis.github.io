@@ -2,6 +2,7 @@
 layout: page
 title: New About
 categories: acro
+permalink: /:path/:basename
 author: "Daniel García"
 ---
 

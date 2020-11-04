@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "4º"
-permalink: /cursos/cuarto
+categories: cursos cuarto
 author: "Daniel García"
 ---
 

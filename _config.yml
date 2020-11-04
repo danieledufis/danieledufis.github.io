@@ -27,6 +27,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danieledufis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: danieledufis
 
+permalink: /:categories/:title
+
 # Build settings
 theme: minima
 plugins:

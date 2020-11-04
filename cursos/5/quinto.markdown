@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5º"
-permalink: /cursos/quinto
+categories: cursos quinto
 author: "Daniel García"
 ---
 

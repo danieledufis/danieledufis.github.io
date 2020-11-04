@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3º"
-permalink: /cursos/tercero
+categories: cursos tercero
 author: "Daniel García"
 ---
 

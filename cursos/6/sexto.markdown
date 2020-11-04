@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "6º"
-permalink: /cursos/sexto
+categories: cursos sexto
 author: "Daniel García"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1º"
-permalink: /cursos/primero
+categories: cursos primero
 author: "Daniel García"
 ---
 
