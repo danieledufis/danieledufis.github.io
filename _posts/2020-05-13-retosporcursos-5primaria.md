@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "RETOS 5º PRIMARIA"
-date:   2020-05-13 20:09:23 +0200
+title: "RETOS 5º PRIMARIA"
+date: 2020-05-13 20:09:23 +0200
 categories: jekyll update
 ---
 
@@ -9,6 +9,6 @@ categories: jekyll update
 
 ## PRIMER TRIMESTRE
 
-## SEGUNDO  TRIMESTRE
+## SEGUNDO TRIMESTRE
 
 ## TERCER TRIMESTRE

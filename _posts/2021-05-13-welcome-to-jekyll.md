@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Welcome"
-date:   2020-05-13 20:09:23 +0200
+title: "Welcome"
+date: 2020-05-13 20:09:23 +0200
 categories: NUEVA
 permalink: /:categories/:title
 author: "Daniel García"
 ---
+
 Nombre enl archivo original: 2020-05-13-welcome-to-jekyll.markdown
 
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/VFEztpjxEfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
@@ -26,7 +27,7 @@ Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
-  puts "Hi, #{name}"
+puts "Hi, #{name}"
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
@@ -35,7 +36,7 @@ print_hi('Tom')
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 [paralimpicos]: https://www.paralimpicos.es/deportes-paralimpicos
 [paralimpicos-home]: https://www.paralimpicos.es/
