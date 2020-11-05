@@ -9,6 +9,8 @@ Página de educación física
 - El texto del Main, te gusta? "Información sobre tu curso" 
 - Hacemos una "guía de uso"?
 - Hacemos un botón "volver"?
+- Queres poner algún mail de contacto? (config)
+- La fecha en los Post, "May 13, 2020", la quito? hay que modificar el post.html
 
 - Solo falta cambiar el nombre de "deportes de raqueta"
 
