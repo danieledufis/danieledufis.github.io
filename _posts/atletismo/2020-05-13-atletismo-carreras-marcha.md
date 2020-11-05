@@ -8,9 +8,13 @@ categories: atletismo
 
 En esta disciplina la distancia de **la prueba se debe realizar caminando en vez de corriendo.** Para determinar que la técnica de marcha empleada por el atleta es correcta se toman en cuenta dos criterios: **Uno de los pies debe estar siempre en contacto con el suelo (a simple vista) y la pierna de avance debe mantenerse recta,** sin flexionar la rodilla, desde el momento en que se adelanta y apoya en el suelo hasta que vuelve a estar en posición vertical.
 
+![MARCHA](https://danieledufis.github.io/images_text/atletismo_marcha.jpeg)
+
 Para controlar que todo esto es correcto, a lo largo del recorrido hay distintos jueces que pueden advertir en cualquier momento al atleta de que su forma de marchar no es adecuada y puede ser sancionado. Para ello, cuentan con unas paletas amarillas donde se indica si debe corregir la falta de contacto con el suelo o la flexión de la rodilla.
 
 Estas **paletas amarillas no se consideran amonestaciones** sino simples avisos para que el atleta pueda corregir su técnica. Cuando uno de estos jueces considera que el marchador está cometiendo una infracción sancionable, entonces muestra una tarjeta roja. **Si 3 jueces de distintas nacionalidades muestra esta tarjeta roja el marchador queda descalificado de la prueba** y debe abandonar el recorrido lo antes posible.
+
+![PALETAS AMARILLAS](https://danieledufis.github.io/images_text/atletismo_paleta%20amarilla.JPG)
 
 **En los últimos 100 metros** de la competición, o tras entrar en el estadio si la prueba se desarrolló en el exterior de este, **el juez jefe tiene la potestad para descalificar directamente a un marchador** independientemente del número de tarjetas rojas que haya recibido hasta el momento. En este caso, el atleta tiene derecho a terminar la prueba aunque su tiempo no se computará en los resultados.
 
