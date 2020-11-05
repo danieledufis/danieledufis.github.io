@@ -6,6 +6,8 @@ categories: atletismo
 
 # 100M/110M VALLAS
 
+En esta disciplina hay que destacar que la distancia para las **mujeres es de 100m**, mientras que para los **hombres es 110m.**
+
 A continuación tenéis vídeos de las competiciones femenina y masculina:
 
 ## MUJERES
