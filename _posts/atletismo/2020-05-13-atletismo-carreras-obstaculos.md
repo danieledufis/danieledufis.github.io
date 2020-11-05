@@ -10,7 +10,7 @@ En estas pruebas, además de correr el atleta debe **superar una serie de obstá
 
 ### Carreras de Vallas
 
-* Se disputan en distancias cortas, 100 metros (mujeres), 110 metros (hombres) y 400 metros (ambos). 
+* Se disputan en distancias cortas, **100 metros (mujeres), 110 metros (hombres) y 400 metros (ambos).** 
 * **Entran dentro de las carreras de velocidad y por ello la salida se ejecuta de la misma manera que en estas.**
 * Independientemente de la distancia, en la pista habrá 10 vallas que el atleta debe superar saltando. 
 * A distancias más largas, las vallas son más bajas y **el derribo de una o más no supone ningún tipo de sanción.** El propio derribo hace perder tiempo que se debe recuperar mediante velocidad en la carrera.
