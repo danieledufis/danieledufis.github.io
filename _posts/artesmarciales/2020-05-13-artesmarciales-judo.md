@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "JUDO"
+title: "JUDO"
 categories: artesmarciales
 ---
+
 # JUDO

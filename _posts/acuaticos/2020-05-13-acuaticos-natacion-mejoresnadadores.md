@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MEJORES NADADORES"
+title: "MEJORES NADADORES"
 categories: acuaticos
 ---
 

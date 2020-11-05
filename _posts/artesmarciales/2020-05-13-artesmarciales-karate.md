@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "KARATE"
+title: "KARATE"
 categories: artesmarciales
 ---
 

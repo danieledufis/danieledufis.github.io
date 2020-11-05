@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TUTORIALES DE KARATE"
+title: "TUTORIALES DE KARATE"
 categories: artesmarciales
 ---
 

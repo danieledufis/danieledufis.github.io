@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CARRERAS EMOCIONANTES"
+title: "CARRERAS EMOCIONANTES"
 categories: acuaticos
 ---
 

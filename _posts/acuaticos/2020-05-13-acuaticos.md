@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Acuáticos"
+title: "Acuáticos"
 categories: acuaticos
 ---
 

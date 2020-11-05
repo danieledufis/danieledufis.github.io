@@ -1,66 +1,57 @@
 ---
 layout: post
-title:  "BATUKA"
+title: "BATUKA"
 categories: baile
 ---
 
-## SUAVEMENTE ##
+## SUAVEMENTE
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IXwwYrb4Bfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## PURA CANDELA
 
-## PURA CANDELA ##
 <iframe width="560" height="315" src="https://www.youtube.com/embed/906V8cx8hlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## BATUKA HOT
 
-## BATUKA HOT ## 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vemtcgw8d2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## TODO VALE
 
-## TODO VALE ##
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDb8nycPeNA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## BATU-DANZ
 
-## BATU-DANZ ##
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6wkemWThXKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## RESPIRA ##
+## RESPIRA
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tw_PTfPMiz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## CHI KI CHA ##
+## CHI KI CHA
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_a5NJeKaXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## TODO POR TENERTE ##
+## TODO POR TENERTE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/79Uv2SRuPvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## CRUCIFICADO ##
+## CRUCIFICADO
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pJIdValnKyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## BENDITA ##
+## BENDITA
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rv03EA9r-f4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## SANTIFÍCAME ##
+## SANTIFÍCAME
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e1pZadI93YY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## SIETE MARES
 
-## SIETE MARES ## 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2wDgkndh7tU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## ESTA PENA MÍA ##
+## ESTA PENA MÍA
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YlQTlPtAVsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-

@@ -4,7 +4,7 @@ title: "TRÍOS"
 categories: acrosport
 ---
 
-## ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD ##
+## ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD
 
 ![AT1](https://danieledufis.github.io/images/AT01.jpg)
 ![AT2](https://danieledufis.github.io/images/AT02.jpg)
@@ -54,4 +54,3 @@ categories: acrosport
 ![AT46](https://danieledufis.github.io/images/AT46.jpg)
 ![AT47](https://danieledufis.github.io/images/AT47.jpg)
 ![AT48](https://danieledufis.github.io/images/AT48.jpg)
-

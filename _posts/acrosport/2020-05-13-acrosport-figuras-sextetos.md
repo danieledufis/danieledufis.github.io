@@ -4,7 +4,7 @@ title: "SEXTETOS"
 categories: acrosport
 ---
 
-## ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD ##
+## ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD
 
 ![AS01](https://danieledufis.github.io/images/AS01.jpg)
 ![AS02](https://danieledufis.github.io/images/AS02.jpg)
@@ -16,4 +16,3 @@ categories: acrosport
 ![AS08](https://danieledufis.github.io/images/AS08.jpg)
 ![AS09](https://danieledufis.github.io/images/AS09.jpg)
 ![AS10](https://danieledufis.github.io/images/AS10.jpg)
-
