@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "1500M"
-date: 2020-05-13 20:09:23 +0200
-categories: jekyll update
+categories: atletismo
 ---
 
 # 1500M

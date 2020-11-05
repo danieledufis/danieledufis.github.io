@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "REFIT REVOLUTION"
-date: 2020-05-13 20:09:23 +0200
-categories: jekyll update
+categories: baile
 ---
 
 ## BON JOVI - Livin on a prayer

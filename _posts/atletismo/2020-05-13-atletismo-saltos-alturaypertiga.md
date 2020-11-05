@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "ALTURA Y PÉRTIGA"
-date: 2020-05-13 20:09:23 +0200
-categories: jekyll update
+categories: atletismo
 ---
 
 En ambos casos la finalidad de la competición es **saltar un listón, pasando por encima**, y tratando de hacerlo con él colocado a la mayor altura posible.
