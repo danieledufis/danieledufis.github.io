@@ -6,7 +6,7 @@ categories: atletismo
 
 # 1500M
 
-A continuación tenéis vídeos de las competiciones femeninas y masculinas:
+A continuación tenéis vídeos de las competiciones femenina y masculina:
 
 ## MUJERES
 
