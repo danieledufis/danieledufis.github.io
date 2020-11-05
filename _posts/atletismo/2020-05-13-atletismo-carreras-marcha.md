@@ -4,7 +4,7 @@ title: "MARCHA"
 categories: atletismo
 ---
 
-# MARCHA
+# MARCHA #
 
 En esta disciplina la distancia de **la prueba se debe realizar caminando en vez de corriendo.** Para determinar que la técnica de marcha empleada por el atleta es correcta se toman en cuenta dos criterios: **Uno de los pies debe estar siempre en contacto con el suelo (a simple vista) y la pierna de avance debe mantenerse recta,** sin flexionar la rodilla, desde el momento en que se adelanta y apoya en el suelo hasta que vuelve a estar en posición vertical.
 
@@ -16,7 +16,7 @@ Estas **paletas amarillas no se consideran amonestaciones** sino simples avisos 
 
 Esta regla está diseñada para evitar que marchadores sin tarjetas puedan tomar ventaja en los últimos metros, infringiendo las normas de la marcha.
 
-### Regla del pit lane en Marcha Atlética
+### Regla del pit lane en Marcha Atlética ###
 
 Desde 2013 se aplica la regla del pit lane en categorías inferiores con la finalidad de reducir al máximo el número de descalificaciones.
 
