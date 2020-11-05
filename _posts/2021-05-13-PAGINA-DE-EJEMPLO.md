@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Welcome"
-date: 2020-05-13 20:09:23 +0200
+# date: 2020-05-13 20:09:23 +0200
 categories: NUEVA
-permalink: /:categories/:title
+# permalink: /:categories/:title
 author: "Daniel García"
 ---
 
