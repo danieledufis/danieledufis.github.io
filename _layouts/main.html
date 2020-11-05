@@ -1,41 +1,52 @@
-
 <!DOCTYPE html>
 <html lang="es">
-<head>
-<meta charset="UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-<meta name="Author" content="Daniel García" />
-<meta name="description" content="" />
-<meta name="keywords" content="" />
-<meta name="robots" content="index, follow" />
-<meta name="Copyright" content="Copyright (c) Daniel García" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="canonical" href="https://danieledufis.github.io" />
-<link rel="stylesheet" href="/assets/main.css">
-<title>Educación Física</title>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="Author" content="Daniel García" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="robots" content="index, follow" />
+    <meta name="Copyright" content="Copyright (c) Daniel García" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="canonical" href="https://danieledufis.github.io" />
+    <link rel="stylesheet" href="/assets/main.css" />
+    <title>Educación Física</title>
+  </head>
+  <body>
+    {% include header.html %}
 
-{% include header.html %}
+    <!-- {{ content }} -->
 
-<!-- {{ content }} -->
+    <a href="{% link _posts/cursos/1/2020-05-13-primero.md %}">Curso 1</a>
+    <a href="{% link _posts/cursos/2/2020-05-13-segundo.md %}">Curso 2</a>
+    <a href="{% link _posts/cursos/3/2020-05-13-tercero.md %}">Curso 3</a>
+    <a href="{% link _posts/cursos/4/2020-05-13-cuarto.md %}">Curso 4</a>
+    <a href="{% link _posts/cursos/5/2020-05-13-quinto.md %}">Curso 5</a>
+    <a href="{% link _posts/cursos/6/2020-05-13-sexto.md %}">Curso 6</a>
 
-<a href="{% link _posts/cursos/1/2020-05-13-primero.md %}">Curso 1</a>
-<a href="{% link _posts/cursos/2/2020-05-13-segundo.md %}">Curso 2</a>
-<a href="{% link _posts/cursos/3/2020-05-13-tercero.md %}">Curso 3</a>
-<a href="{% link _posts/cursos/4/2020-05-13-cuarto.md %}">Curso 4</a>
-<a href="{% link _posts/cursos/5/2020-05-13-quinto.md %}">Curso 5</a>
-<a href="{% link _posts/cursos/6/2020-05-13-sexto.md %}">Curso 6</a>
+    <a href="https://danieledufis.github.io/test/acro"
+      ><img src="images/AC01.jpg" alt=""
+    /></a>
 
-<a href="https://danieledufis.github.io/test/acro"><img src="images/AC01.jpg" alt=""></a>
+    <a
+      href="{% link _posts/acrosport/2020-05-13-acrosport-figuras-quintetos.md %}"
+      ><img src="images/acrosport_pesta%C3%B1a.jpg" alt="Acrosport"
+    /></a>
+    <a href="{% link _posts/acuaticos/2020-05-13-acuaticos.md %}"
+      ><img src="images/acuaticos_pesta%C3%B1a.jpg" alt="Acuaticos"
+    /></a>
+    <a href="{% link _posts/artesmarciales/2020-05-13-artesmarciales.md %}"
+      ><img src="images/artesmarciales_pestaña.jpg" alt="Artes marciales"
+    /></a>
+    <a
+      href="{% link _posts/atletismo/2020-05-13-atletismo-carreas-obstaculos-400m.md %}"
+      ><img src="images/atletismo_pestaña.jpg" alt="Atletismo"
+    /></a>
+    <a href="{% link _posts/baile/2020-05-13-baile-batuka.md %}"
+      ><img src="images/baile_pestaña_música.jpeg" alt="Baile"
+    /></a>
 
-<a href="{% link _posts/acrosport/2020-05-13-acrosport-figuras-quintetos.md %}"><img src="images/acrosport_pesta%C3%B1a.jpg" alt="Acrosport"></a>
-<a href="{% link _posts/acuaticos/2020-05-13-acuaticos.md %}"><img src="images/acuaticos_pesta%C3%B1a.jpg" alt="Acuaticos"></a>
-<a href="{% link _posts/artesmarciales/2020-05-13-artesmarciales.md %}"><img src="images/artesmarciales_pestaña.jpg" alt="Artes marciales"></a>
-<a href="{% link _posts/atletismo/2020-05-13-atletismo-carreas-obstaculos-400m.md %}"><img src="images/atletismo_pestaña.jpg" alt="Atletismo"></a>
-<a href="{% link _posts/baile/2020-05-13-baile-batuka.md %}"><img src="images/baile_pestaña_música.jpeg" alt="Baile"></a>
-
-{% include footer.html %}
-
-</body>
+    {% include footer.html %}
+  </body>
 </html>

@@ -6,4 +6,3 @@ author: "Daniel García"
 ---
 
 ¿Quieres saber cómo se usa?
-
