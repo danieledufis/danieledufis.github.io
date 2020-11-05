@@ -6,6 +6,7 @@ Página de educación física
 - Hay que crear una Pagina Principal por cada deporte, para lincarla desde las imágenes de la Home
 - Cuales son todas las imágenes de la portada
 - Configurar el Footer
+- El texto del Main, te gusta? "Información sobre tu curso" 
 - Hacemos una "guía de uso"?
 - Hacemos un botón "volver"?
 
