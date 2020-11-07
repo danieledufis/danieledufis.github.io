@@ -4,8 +4,6 @@ title: "HEPTATLÓN"
 categories: atletismo
 ---
 
-# HEPTATLÓN
-
 ## Pruebas que componen el Heptatlón
 
 Primer día de competición:
