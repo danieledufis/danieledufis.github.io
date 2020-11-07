@@ -4,8 +4,6 @@ title: "MARCHA"
 categories: atletismo
 ---
 
-# MARCHA #
-
 En esta disciplina la distancia de **la prueba se debe realizar caminando en vez de corriendo.** Para determinar que la técnica de marcha empleada por el atleta es correcta se toman en cuenta dos criterios: **Uno de los pies debe estar siempre en contacto con el suelo (a simple vista) y la pierna de avance debe mantenerse recta,** sin flexionar la rodilla, desde el momento en que se adelanta y apoya en el suelo hasta que vuelve a estar en posición vertical.
 
 ![MARCHA](https://danieledufis.github.io/images_text/atletismo_marcha.jpeg)
