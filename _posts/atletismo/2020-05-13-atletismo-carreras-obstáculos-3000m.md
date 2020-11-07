@@ -4,8 +4,6 @@ title: "3000m OBSTÁCULOS"
 categories: atletismo
 ---
 
-# 3000M OBSTÁCULOS
-
 A continuación tenéis vídeos de las competiciones femenina y masculina:
 
 ## MUJERES
