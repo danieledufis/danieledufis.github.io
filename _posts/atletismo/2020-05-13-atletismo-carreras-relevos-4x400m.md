@@ -4,8 +4,6 @@ title: "4x400M"
 categories: atletismo
 ---
 
-# 4X400M
-
 A continuación tenéis vídeos de las competicones femenina y masculina:
 
 ## MUJERES
