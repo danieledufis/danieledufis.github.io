@@ -4,8 +4,6 @@ title: "CARRERAS DE MEDIO FONDO"
 categories: atletismo
 ---
 
-# CARRERAS DE MEDIO FONDO
-
 * Las carreras de medio fondo van desde los 400 hasta los 3.000 metros.
 * **Las distancias más comunes son 800 metros y 1.500 metros.**
 * En estas pruebas no se utiliza starting para tomar la salida (ver carreras de velocidad si no sabes qué es), ni hay un carril asignado para cada corredor, salvo en la carrera de 800 metros o distancias inferiores. 
