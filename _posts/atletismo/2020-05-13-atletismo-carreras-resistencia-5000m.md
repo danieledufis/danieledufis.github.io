@@ -4,8 +4,6 @@ title: "5000M"
 categories: atletismo
 ---
 
-# VÍDEOS 5.000M
-
 A continuación teneís vídeos de las competiciones femenina y masculina:
 
 ## MUJERES
