@@ -4,8 +4,6 @@ title: "400M VALLAS"
 categories: atletismo
 ---
 
-# 400M VALLAS
-
 A continuación tenéis vídeos de las competiciones femenina y masculina:
 
 ## MUJERES
