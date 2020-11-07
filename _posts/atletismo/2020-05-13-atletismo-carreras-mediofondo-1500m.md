@@ -4,8 +4,6 @@ title: "1500M"
 categories: atletismo
 ---
 
-# 1500M
-
 A continuación tenéis vídeos de las competiciones femenina y masculina:
 
 ## MUJERES
