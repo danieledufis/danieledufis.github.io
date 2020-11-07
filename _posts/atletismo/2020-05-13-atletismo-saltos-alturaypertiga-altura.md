@@ -6,6 +6,10 @@ categories: atletismo
 
 ## TUTORIAL
 
+En esta imagen podéis ver cómo es el listón que tienen que saltar:
+
+![LISTON](https://danieledufis.github.io/images_text/atletismo_salto%20altura.png)
+
 #### EXPLICACIÓN
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vq5ItWCHEqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
