@@ -4,8 +4,6 @@ title: "TRIPLE SALTO"
 categories: atletismo
 ---
 
-# TRIPLE SALTO
-
 ## TUTORIALES
 
 #### INTRODUCCIÓN
