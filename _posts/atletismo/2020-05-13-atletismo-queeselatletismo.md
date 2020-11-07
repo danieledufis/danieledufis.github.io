@@ -4,8 +4,6 @@ title: "¿QUÉ ES EL ATLETISMO?"
 categories: atletismo
 ---
 
-# ¿QUÉ ES EL ATLETISMO?
-
 A conitnuación tenéis 3 tutoriales interesantes sobre el atletismo:
 
 ### INTORUCCIÓN
