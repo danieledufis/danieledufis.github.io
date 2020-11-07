@@ -4,8 +4,6 @@ title: "MEDIO MARATÓN"
 categories: atletismo
 ---
 
-# VÍDEOS MEDIO MARATÓN
-
 A continuación tenéis vídeos de las competiciones femenina y masculina:
 
 ## MUJERES
