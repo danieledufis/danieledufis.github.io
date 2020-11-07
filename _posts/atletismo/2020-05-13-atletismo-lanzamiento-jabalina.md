@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "LANZAMIENTO JABALINA"
+title: "LANZAMIENTO DE JABALINA"
 categories: atletismo
 ---
-
-# JABALINA
 
 A continuación os muestro un tutorial sobre el lanzamiento de jabalina y unos vídeos con las competiciones femenina y masculina:
 
