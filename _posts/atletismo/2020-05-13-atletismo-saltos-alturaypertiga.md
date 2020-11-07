@@ -29,4 +29,12 @@ Para determinar el orden de clasificación se toma como referencia la altura en 
 Se establece una altura de inicio y la competición transcurre de la misma manera que en las eliminatorias, con 3 intentos por altura quedando descalificados los saltadores que no consigan superarla en ninguno de ellos. La prueba termina cuando queda un solo atleta o cuando ninguno de los que queden consigan superar la altura correspondiente.
 En este último caso, se tendrán en cuenta los saltos nulos anteriores para determinar el orden de clasificación.
 
+### SALTO DE ALTURA ###
+
+![ALTURA](https://danieledufis.github.io/images_text/atletismo_salto%20de%20altura.jpg)
+
+### SALTO CON PÉRTIGA ###
+
+![PERTIGA](https://danieledufis.github.io/images_text/atletismo_salto%20pertiga.jpg)
+
 A continuación os muestro varios vídeos sobre los saltos de altura y de pértiga:
