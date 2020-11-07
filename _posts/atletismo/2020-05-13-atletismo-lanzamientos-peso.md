@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "LANZAMIENTO PESO"
+title: "LANZAMIENTO DE PESO"
 categories: atletismo
 ---
-
-# PESO
 
 A continuación os muestro un tutorial sobre el lanzamiento de peso, además de unos vídeos con las competiciones femenina y masculina:
 
