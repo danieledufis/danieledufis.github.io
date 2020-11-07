@@ -4,8 +4,6 @@ title: "CARRERAS DE OBSTÁCULOS"
 categories: atletismo
 ---
 
-# CARRERAS DE OBSTÁCULOS
-
 En estas pruebas, además de correr el atleta debe superar una serie de obstáculos colocados en la pista. Existen dos tipos de carreras de este tipo: **carreras de vallas y carreras de obstáculos.**
 
 ### Carreras de vallas ###
