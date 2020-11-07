@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "OBSTÁCULOS TUTORIALES"
+title: "OBSTÁCULOS: TUTORIALES"
 categories: atletismo
 ---
-
-# TUTORIALES
 
 A continuación tenéis 2 tutoriales relacionados con las carreras de vallas:
 
