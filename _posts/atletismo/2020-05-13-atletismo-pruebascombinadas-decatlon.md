@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "DECATLóN"
+title: "DECATLÓN"
 categories: atletismo
 ---
-
-# DECATLÓN
 
 ## Pruebas que componen el Decatlón
 
