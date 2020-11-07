@@ -4,8 +4,6 @@ title: "LANZAMIENTO DE DISCO"
 categories: atletismo
 ---
 
-# DISCO
-
 A continuación os dejo un tutorial sobre el lanzamiento de disco, además de unos vídeos con las competiciones femenina y masculina: 
 
 ## TUTORIAL
