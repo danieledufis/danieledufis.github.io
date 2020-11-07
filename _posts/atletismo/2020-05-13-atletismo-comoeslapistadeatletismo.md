@@ -4,8 +4,6 @@ title: "¿CÓMO ES LA PISTA DE ATLETISMO?"
 categories: atletismo
 ---
 
-# ¿CÓMO ES LA PISTA DE ATLETISMO?
-
 * La pista de Atletismo es un óvalo formado por dos rectas paralelas entre sí y unidas mediante dos curvas idénticas. Dicho óvalo está **dividido en carriles** (de 6 a 8) de 1,22 metros de ancho y tiene **400 metros de longitud**, midiendo el carril interno.
 
 * Está cubierta de un material sintético fabricado con poliuretano que se denomina Tartán y que busca amortiguar el rebote del atleta durante la carrera. **Suele ser de color rojizo** debido a la resistencia de este color a los rayos UVA.
