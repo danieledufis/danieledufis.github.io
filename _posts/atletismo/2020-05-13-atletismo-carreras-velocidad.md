@@ -4,9 +4,6 @@ title: "CARRERAS DE VELOCIDAD"
 categories: atletismo
 ---
 
-# CARREAS DE VELOCIDAD #
-
-
 * Son aquellas donde se recorren distancias cortas, **de 400 metros o menos, pero a máxima velocidad.**
 * Son carreras de **poca duración pero muy explosivas.** 
 * **Salida:** Las reconocerás rápidamente porque el atleta empieza agachado y con los pies colocados sobre unas plataformas destinadas a favorecer la velocidad en la salida. Esta plataforma se denomina starting.
