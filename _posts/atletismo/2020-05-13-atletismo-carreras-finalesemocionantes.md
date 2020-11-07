@@ -4,8 +4,6 @@ title: "FINALES EMOCIONANTES"
 categories: atletismo
 ---
 
-# FINALES EMOCIONANTES
-
 Os dejo los vídeos de algunos de los finales más emocionantes que se han dado en la historia del atletismo:
 
 ## HAILE GEBRSELASSIE 10.000M JJOO SIDNEY 2000
