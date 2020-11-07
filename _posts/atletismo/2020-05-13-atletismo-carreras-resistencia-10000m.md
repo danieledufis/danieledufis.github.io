@@ -4,8 +4,6 @@ title: "10.000M"
 categories: atletismo
 ---
 
-# VÍDEOS 10.000M
-
 A continuación tenéis vídeos de las categorías femenina y masculina:
 
 ## MUJERES
