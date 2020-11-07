@@ -4,8 +4,6 @@ title:  "800M"
 categories: atletismo
 ---
 
-# 800M
-
 A continuación tenéis vídeos de las competiciones femenina y masculina:
 
 ## MUJERES
