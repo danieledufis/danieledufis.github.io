@@ -4,8 +4,6 @@ title: "SALTO ALTURA"
 categories: atletismo
 ---
 
-# SALTO DE ALTURA
-
 ## TUTORIAL
 
 #### EXPLICACIÓN
