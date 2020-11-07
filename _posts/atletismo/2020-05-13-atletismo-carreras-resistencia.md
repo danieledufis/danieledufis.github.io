@@ -4,8 +4,6 @@ title: "CARRERAS DE RESISTENCIA"
 categories: atletismo
 ---
 
-# CARRERAS DE RESISTENCIA O FONDO
-
 * Las carreras de resistencia son todas aquellas cuya distancia a recorrer supera los 3.000 metros. 
 * En ellas prima la correcta gestión de la energía y saber controlar los tiempos. Por ejemplo, un inicio de carrera demasiado rápido puede provocar una caída de rendimiento al final de la prueba.
 * **SALIDA:** En este tipo de carreras todos los atletas toman la salida a la vez, sin starting, sin carril asignado y sin salida nula.
