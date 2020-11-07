@@ -4,8 +4,6 @@ title: "MARATÓN"
 categories: atletismo
 ---
 
-# VÍDEOS MARATÓN
-
 A continuación tenéis vídeos de las competiciones femenina y masculina:
 
 ## MUJERES
