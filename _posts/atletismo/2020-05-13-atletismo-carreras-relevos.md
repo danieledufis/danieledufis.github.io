@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "CARRERAS RELEVOS"
+title: "CARRERAS DE RELEVOS"
 categories: atletismo
 ---
-
-# RELEVOS
 
 Aunque las carreras de relevos son en realidad **carreras de velocidad** hemos preferido separarlas para explicarlas más detenidamente porque cuentan con sus propias características.
 
