@@ -4,8 +4,6 @@ title: "LANZAMIENTOS"
 categories: atletismo
 ---
 
-# LANZAMIENTO
-
 A los lanzamientos se les denomina *«Concursos»* y se llevan a cabo en la zona interior de la pista de atletismo. Debido a esta ubicación algunos también los denominan «pruebas de campo» para diferenciarlos de las carreras que serían *«pruebas de pista».*
 
 Los lanzamientos incluyen **4 modalidades: 
