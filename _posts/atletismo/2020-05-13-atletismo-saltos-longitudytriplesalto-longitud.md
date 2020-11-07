@@ -4,8 +4,6 @@ title: "SALTO DE LONGITUD"
 categories: atletismo
 ---
 
-# SALTO DE LONGITUD
-
 ## TUTORIAL
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q9clVmT_iD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
