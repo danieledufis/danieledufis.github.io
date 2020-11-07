@@ -4,8 +4,6 @@ title: "4X100M"
 categories: atletismo
 ---
 
-# 4x100M
-
 A continuación tenéis vídeos de las competiciones femenina y masculina:
 
 ## MUJERES
