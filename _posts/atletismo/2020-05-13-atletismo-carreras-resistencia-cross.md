@@ -4,8 +4,6 @@ title: "CROSS"
 categories: atletismo
 ---
 
-# VÍDEOS CROSS
-
 A continuación tenéis vídeos de las competiciones femenina y masculina:
 
 ## MUJERES
