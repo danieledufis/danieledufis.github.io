@@ -4,8 +4,6 @@ title: "CARRERAS CON OBSTÁCULOS"
 categories: atletismo
 ---
 
-# CARRERAS CON OBSTÁCULOS
-
 En estas pruebas, además de correr el atleta debe **superar una serie de obstáculos colocados en la pista**. Existen dos tipos de carreras de este tipo: carreras de vallas y carreras de obstáculos.
 
 ### Carreras de Vallas
@@ -15,6 +13,8 @@ En estas pruebas, además de correr el atleta debe **superar una serie de obstá
 * Independientemente de la distancia, en la pista habrá 10 vallas que el atleta debe superar saltando. 
 * A distancias más largas, las vallas son más bajas y **el derribo de una o más no supone ningún tipo de sanción.** El propio derribo hace perder tiempo que se debe recuperar mediante velocidad en la carrera.
 
+![VALLAS](https://danieledufis.github.io/images_text/atletismo_vallas.jpg)
+
 ### Carreras de Obstáculos
 
 * Esta prueba tiene una **distancia única de 3.000 metros**. 
@@ -23,3 +23,5 @@ En estas pruebas, además de correr el atleta debe **superar una serie de obstá
 * Las vallas puede pasarlas como prefiera siempre que sea por encima (saltando, apoyando un pie encima…) y no puede eludir la charca en ningún momento.
 * Pasar este obstáculo por un costado supone la descalificación inmediata.
 * Es una **carrera de medio fondo y por eso la salida se ejecuta de la misma manera que en estas.**
+
+![3000M OBSTÁCULOS](https://danieledufis.github.io/images_text/atletismo_carrerapbstaculos.jpg)
