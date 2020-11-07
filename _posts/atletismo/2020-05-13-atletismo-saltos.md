@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "¿SALTOS"
+title: "SALTOS"
 categories: atletismo
 ---
