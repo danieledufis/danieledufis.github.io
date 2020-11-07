@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "LANZAMIENTO MARTILLO"
+title: "LANZAMIENTO DE MARTILLO"
 categories: atletismo
 ---
-
-# MARTILLO
 
 A continuación os muestro un tutorial del lanzamiento de martillo, además de unos vídeos de las competiciones femenina y masculina:
 ## TUTORIALES
