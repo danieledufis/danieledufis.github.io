@@ -47,7 +47,7 @@
     }
     .main-images img {
       height: 10em;
-      width: 10em;
+      width: 15em;
       object-fit: cover;
     }
     .main-images span {
@@ -56,6 +56,22 @@
     .cursos-list a:hover,
     .main-images a:hover {
       background-color: #fff;
+    }
+
+    @media (max-width: 760px) {
+      .main-images img {
+        width: 12em;
+      }
+
+      @media (max-width: 650px) {
+      .main-images img {
+        width: 11em;
+      }
+
+      @media (max-width: 590px) {
+      .main-images img {
+        width: 10em;
+      }
     }
   </style>
 </head>
