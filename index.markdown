@@ -7,8 +7,6 @@ layout: main
 # title: Página principal
 ---
 
-<!-- {{ site.baseurl }}{{% link _post/acuaticos/acuaticos-natacion-carrerasemocionantes.md %}} -->
-
 <!--HOW TO CREATE INTERNAL LINKS IN JEKYLL
 https://www.webisland.agency/blog/jekyll-internal-links/ -->
 
