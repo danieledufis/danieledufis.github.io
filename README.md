@@ -43,5 +43,4 @@ Comando para levantar el serve
 bundle exec jekyll serve
 
 
-
 ---
