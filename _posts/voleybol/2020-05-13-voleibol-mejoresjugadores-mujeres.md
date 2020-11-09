@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MEJORES JUGADORAS"
-categories: voleybol
+categories: voleibol
 ---
 
 # MEJORES JUGADORAS

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "REGLAS VOLEIBOL"
-categories: voleybol
+categories: voleibol
 ---
 
 # REGLAS VOLEIBOL

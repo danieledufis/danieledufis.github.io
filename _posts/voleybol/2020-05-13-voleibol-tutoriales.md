@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TUTORIALES"
-categories: voleybol
+categories: voleibol
 ---
 
 # TUTORIALES VOLEIBOL

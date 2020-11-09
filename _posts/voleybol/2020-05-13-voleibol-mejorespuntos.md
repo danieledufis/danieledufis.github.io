@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MEJORES PUNTOS"
-categories: voleybol
+categories: voleibol
 ---
 
 # MEJORES PUNTOS

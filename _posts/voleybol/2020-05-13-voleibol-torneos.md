@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TORNEOS"
-categories: voleybol
+categories: voleibol
 ---
 
 # TORNEOS VOLEIBOL
