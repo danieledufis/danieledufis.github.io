@@ -13,6 +13,9 @@
   <link rel="stylesheet" href="/assets/main.css" />
   <title>Educación Física</title>
   <style>
+    .bg-gray {
+      background-color: #f0f0f0;
+    }
     .cursos-list {
       width: 100%;
       display: flex;
@@ -22,20 +25,37 @@
       align-content: space-around;
     }
     .cursos-list a {
-      margin-right: 1rem;
+      margin: 0 0.4rem 0.4rem 0;
+      padding: 0.2em 0.5em;
+      background-color: #fafafa;
     }
     .main-titles {
-      display: flex;
-      justify-content: start;
-      flex-wrap: wrap;
-      align-items: baseline;
       align-content: space-around;
       margin-top: 30px;
+    }
+    .main-images {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+    .main-images a {
+      background-color: #fafafa;
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 1em;
     }
     .main-images img {
       height: 10em;
       width: 10em;
       object-fit: cover;
+    }
+    .main-images span {
+      padding: 0.1em 0.2em;
+    }
+    .cursos-list a:hover,
+    .main-images a:hover {
+      background-color: #fff;
     }
   </style>
 </head>
@@ -43,7 +63,7 @@
 
   {% include header.html %}
 
-  <div class="wrapper">
+  <div class="wrapper bg-gray">
 
     {{ content }}
 
