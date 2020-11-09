@@ -5,11 +5,10 @@ Página de educación física
 ---
 
 - Para el submenu COGER ATLETISMO del documento ORGANIZACION en Downoload
-- IMAGES DE "_PESTAÑA.JPG" de la portada
-- Poner un texto debajo de cada imagen en la porada
-- Botón "volver", OK
+- Botón "volver"
 - Quitar el DEPORTE del nombre del archivo FECHA--deporte-nombree.md
 - Solo falta cambiar el nombre de "deportes de raqueta"
+- Dejar el estilo de la Home apañao, responsive, ojo con el tamaño de los nombres de los deportes: var(max-size)
 
 ---
 
@@ -19,6 +18,8 @@ HECHO
 - retos por cursos como un deporte más OK
 - Home texto de los cursos: 1º de Primaria OK
 - La fecha en los Post, "May 13, 2020", DA IGUAL, OK
+- IMAGES DE "_PESTAÑA.JPG" de la portada OK
+- Poner un texto debajo de cada imagen en la porada OK
 
 ---
 
