@@ -45,4 +45,3 @@ bundle exec jekyll serve
 
 
 ---
-imagen atletismo pestana FALTA: DICHO
