@@ -4,8 +4,11 @@ Página de educación física
 
 ---
 
+PAGINA PRINCIPAL ACROSPORT
 - Ver si se puede cambiar el tamaño de las imagenes de un _post
-- ver 
+- ver si se puede linkar una imagen
+
+
 
 - Para el submenu COGER ATLETISMO del documento ORGANIZACION en Downoload
 - Botón "volver"

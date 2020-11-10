@@ -15,7 +15,6 @@ categories: acrosport
 - [Quintetos]({% link _posts/acrosport/2020-05-13-figuras-quintetos.md %})
 - [Sextetos]({% link _posts/acrosport/2020-05-13-figuras-sextetos.md %})
 
-
 ---
 
 ### [¿Qué es?]({% link _posts/acrosport/2020-05-13-quees.md %})

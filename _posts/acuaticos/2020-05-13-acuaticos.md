@@ -4,4 +4,6 @@ title: "Acuáticos"
 categories: acuaticos
 ---
 
-texto acuaticos
+### [Natación]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion.md %})
+
+### [OTRAS DISCIPLINAS]({% link _posts/acuaticos/2020-05-13-acuaticos-otrasdisciplinas.md %})
