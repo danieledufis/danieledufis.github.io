@@ -11,4 +11,8 @@ categories: acrosport
 ### [Medidas de seguridad]({% link _posts/acrosport/2020-05-13-medidasdeseguridad.md %})
 
 ### [Figuras]({% link _posts/acrosport/2020-05-13-figuras.md %})
-
+- [Parejas]({% link _posts/acrosport/2020-05-13-figuras-parejas.md %})
+- [Trios]({% link _posts/acrosport/2020-05-13-figuras-trios.md %})
+- [Cuartetos]({% link _posts/acrosport/2020-05-13-figuras-cuartetos.md %})
+- [Quintetos]({% link _posts/acrosport/2020-05-13-figuras-quintetos.md %})
+- [Sextetos]({% link _posts/acrosport/2020-05-13-figuras-sextetos.md %})
