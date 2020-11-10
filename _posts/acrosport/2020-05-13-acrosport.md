@@ -11,7 +11,4 @@ Página principal de Acrosport
 ![Qué es](../images/acrosport_quees_pestana.jpg)
 
 
-
-## FIGURAS
-
-otro
+### [Figuras]({% link _posts/acrosport/2020-05-13-figuras.md %})

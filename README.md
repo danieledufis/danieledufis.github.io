@@ -4,6 +4,9 @@ Página de educación física
 
 ---
 
+- Ver si se puede cambiar el tamaño de las imagenes de un _post
+- ver 
+
 - Para el submenu COGER ATLETISMO del documento ORGANIZACION en Downoload
 - Botón "volver"
 - Quitar el DEPORTE del nombre del archivo FECHA--deporte-nombree.md
