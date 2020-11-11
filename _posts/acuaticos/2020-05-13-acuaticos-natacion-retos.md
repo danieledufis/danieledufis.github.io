@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RETOS"
+title: "Retos"
 categories: acuaticos
 ---
 
