@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "REGLAS DEL KARATE"
+title: "Reglas del kárate"
 categories: artesmarciales
 ---
 
-# REGLAS DEL KARATE
