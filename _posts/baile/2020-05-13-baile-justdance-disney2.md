@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DISNEY 2"
+title: "Disney 2"
 categories: baile
 ---
 
