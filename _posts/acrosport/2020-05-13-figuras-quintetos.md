@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QUINTETOS"
+title: "Quintetos"
 categories: acrosport
 ---
 
