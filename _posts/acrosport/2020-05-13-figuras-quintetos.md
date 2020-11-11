@@ -4,7 +4,7 @@ title: "QUINTETOS"
 categories: acrosport
 ---
 
-## ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD
+### ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD
 
 ![AQ01](https://danieledufis.github.io/images/AQ01.jpg)
 ![AQ02](https://danieledufis.github.io/images/AQ02.jpg)
