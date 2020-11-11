@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "KARATE"
+title: "Kárate"
 categories: artesmarciales
 ---
 
-# KARATE
