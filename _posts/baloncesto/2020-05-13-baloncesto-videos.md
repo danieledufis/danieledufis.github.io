@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "VÍDEOS BALONCESTO"
+title: "Vídeos de baloncesto"
 categories: baloncesto
 ---
 
-# VÍDEOS DE BALONCESTO
