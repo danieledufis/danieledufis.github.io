@@ -1,61 +1,61 @@
 ---
 layout: post
-title: "DISNEY 1"
+title: "Disney 1"
 categories: baile
 ---
 
-## PRINCE ALI
+## Prince Ali
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qjkCOMRZp14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## UNDER THE SEA
+## Under the sea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SH-7A3NVQbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## HOW FAR I´LL GO
+## How far I´ll go
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vWf9Mqlp4rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## SUPERCALIFRAGILISTICEXPIALIDOCIOUS
+## Supercalifragilisticexpialidocious
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WSdC3IoYdYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## BIBBIDI BOBBIDI BOO
+## BOO Bibbidi Bobbidi Boo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jxc6MBoqG28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## EVERETHING IS NOT AS IT SEEMS
+## Everything is not as it semms
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeZdwkxVTHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## CALLING ALL THE MONSTERS
+## Calling all the monsters
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Nzn_1sGuhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## BE OUR GUEST
+## Be our guest
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Nzn_1sGuhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## THE BARE NECESITIES
+## The bare necesities
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sccf4p0WA_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## I´VE GOT A DREAM
+## I´ve got a dream
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d4wR2R8T90Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## IT´S A SMALL WORLD
+## It´s a small world
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WgNSJq_bb54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## I THOUGHT I LOST YOU
+## I thougt I lost you
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vvt6dqtUfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## HOWDOWN THROWTOWN
+## Howdown throwtown
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TNj7lhcNURU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## HEY JESSIE
+## Hey Jessie
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OIQqnrAUZjs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
