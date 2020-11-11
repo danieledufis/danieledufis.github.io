@@ -1,66 +1,64 @@
 ---
 layout: post
-title: "TUTORIALES BALONCESTO"
+title: "Tutoriales de baloncesto"
 categories: baloncesto
 ---
 
-# TUTORIALES BALONCESTO
-
 El baloncesto es uno de los deportes de equipo más entretenidos que hay, pero para saber jugar bien hay que conocer todas y cada una de las reglas que tiene. Algunas son un poco complicadas de entender, pero a través de estos vídeos os va a quedar todo mucho más claro para disfrutar de este magnífico deporte:
 
-## REGLAS DEL BALONCESTO
+## Reglas de baloncesto
 
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/5F_HNvP0nZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
-## ¿CÓMO SE CUENTAN LOS PUNTOS?
+## ¿Cómo se cuentan los puntos?
 
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/jEv27bf1XG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
-## INFRACCIONES
+## Infracciones
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7fR9uoFMEtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## LOS PASOS
+## Los pasos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5-8s56tMuqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## LAS INFRACCIONES DE TIEMPO
+## Las infracciones de tiempo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vUhSTju1cYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## TIPOS DE FALTAS
+## Tipos de faltas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HIzFblDsJ-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## PASES A DOS MANOS
+## Pases a dos manos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TNYVK-s1HR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## LA RECEPCIÓN DEL BALÓN
+## La recepción del balón
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WdOeTa_h22c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## CÓMO BOTAR EL BALÓN
+## Cómo botar el balón
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zuU_fw4TdK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## CÓMO DESPLAZARSE BOTANDO EL BALÓN
+## Cómo desplazarse botando el balón
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/udDJEPWEHok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## CAMBIO DE MANO ENTRE LAS PIERNAS
+## Cambio de mano entre las piernas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IdDJ1Sqpf64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## TIRO A CANASTA
+## Tiro a canasta
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sZLrrVWbALM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## LA BANDEJA
+## La bandeja
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gZcQNUSYrs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## MÁS INFORMACIÓN
+## Más información
 
 Para más información sobre el baloncesto puedes encontrar muchos más vídeos en el siguiente enlace
 [TUTORIALES BALONCESTO][tutoriales baloncesto]
