@@ -4,7 +4,7 @@ title: "Parejas"
 categories: acrosport
 ---
 
-## ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD
+### ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD
 
 ![AP1](https://danieledufis.github.io/images/AP01.jpg)
 ![AP2](https://danieledufis.github.io/images/AP02.jpg)
