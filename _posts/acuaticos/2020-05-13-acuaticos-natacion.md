@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "NATACIÓN"
+title: "Natación"
 categories: acuaticos
 ---
 
-# NATACIÓN
+
