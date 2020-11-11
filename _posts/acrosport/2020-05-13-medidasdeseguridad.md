@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MEDIDAS DE SEGURIDAD"
+title: "Medidas de seguridad"
 categories: acrosport
 ---
 
