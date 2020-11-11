@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "TUTORIALES DE JUDO"
+title: "Tutoriales de judo"
 categories: artesmarciales
 ---
 
-# TUTORIALES DE JUDO
