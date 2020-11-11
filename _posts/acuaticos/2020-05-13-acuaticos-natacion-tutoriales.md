@@ -4,106 +4,106 @@ title: "TUTORIALES NATACIÓN"
 categories: acuaticos
 ---
 
-# TUTORIALES DE NATACIÓN
+# Tutoriales de natación
 
 A continuación os voy a mostrar unos tutoriales que os servirán aprender bien la técnica de cada de las disciplinas que hay en la natación.
 
-## CALENTAMIENTO Y ESTIRAMIENTOS
+## Calentamiento y estiramientos
 
-#### CALENTAMIENTO DE BRAZOS Y TRONCO ANTES DE NADAR
+#### Calentamiento de brazos y tronco antes de nadar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2coEG3_7LT0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### CALENTAMIENTO DE PIERNAS ANTES DE NADAR
+#### Calentamiento de piernas antes de nadar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hhtHvWaXLak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### CÓMO ESTIRAR DESPUÉS DE NADAR
+#### Cómo estirar después de nadar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u9yeOcfI4Wg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## CROL
+## Crol
 
-#### TIRARSE A LA PISCINA
+#### Tirarse a la piscina
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5AfNQE59AK4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### TÉCNICA Y MOVIMIENTOS BÁSICOS
+#### Técnica y movimientos básicos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Wi6H6u9pGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### BRAZADA
+#### Brazada
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3QyiHNUbxrA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### MOVIMIENTOS DE PIERNAS
+#### Movimientos de piernas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VdbKX6tbpwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### RESPIRACIÓN
+#### Respiración
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GkYPoCNVDoQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### VIRAJE
+#### Viraje
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9jLQEYUUXOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Si entráis en el enlace de youtube podéis encontrar algún ejercicio para mejorar la técnica.
 
-## BRAZA
+## Braza
 
-#### TÉCNICA Y MOVIMIENTOS BÁSICOS
+#### Técnica y movimientos básicos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kcwwyFMIofs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### TÉCNICA DE BRAZA
+#### Técnica de braza
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gB-R9ftVh-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### BATIDA O MOVIMIENTOS DE PIERNAS
+#### Batida y movimientos de piernas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cyNyieyd9nI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### SINCRONIZACIÓN DE PIERNAS Y BRAZOS
+#### Sincronización de piernas y brazos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g-m7C2TUIys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### ENTRADA DE HOMBROS Y CABEZA EN EL AGUA
+#### Entrada de hombros y cabeza en el agua
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kbf8XE-FQb0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### VIRAJE
+#### Viraje
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kZV0qk0qJR0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Si entráis en el enlace de youtube podéis encontrar algún ejercicio para mejorar la técnica.
 
-## ESPALDA
+## Espalda
 
-#### TÉCNICAS Y MOVIMIENTOS BÁSICOS
+#### Técnicas y movimientos básicos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tbwFnGfh0X8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### CÓMO COLOCAR LA CABEZA
+#### Cómo colocar la cabeza
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JDnlM3UyyQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### BRAZADA
+#### Brazada
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/063FpKSAjc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### IMULSO DE PIERNAS
+#### Impulso de piernas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/83IpP8sQ62U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### VIRAJE
+#### Viraje
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DCnOzCSkTdk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Si entráis en el enlace de youtube podéis encontrar algún ejercicio para mejorar la técnica.
 
-## MARIPOSA
+## Mariposa
 
-#### TUTORIAL GENERAL
+#### Tutorial general
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbKFq1zvesg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
