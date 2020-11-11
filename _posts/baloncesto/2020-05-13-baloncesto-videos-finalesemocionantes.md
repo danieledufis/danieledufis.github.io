@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "FINALES EMOCIONANTES"
+title: "Finales emocionates"
 categories: baloncesto
 ---
-
-# FINALES EMOCIONANTES
 
 En el baloncesto pueden cambiar las cosas hasta el último segundo de partido. Se producen grandes cambios en el marcador, llegando en algunos casos a unos finales de partido realmente espectaculares y emocionantes. Aquí tenéis unos pocos que seguro que os gustarán:
 
