@@ -6,7 +6,7 @@ categories: acrosport
 
 <a href="https://danieledufis.github.io/" alt="Volver">Volver</a>
 
-## ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD
+#### ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD
 
 ![AC1](https://danieledufis.github.io/images/AC01.jpg)
 ![AC2](https://danieledufis.github.io/images/AC02.jpg)
