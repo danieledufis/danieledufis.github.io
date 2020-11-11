@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "SEXTETOS"
+title: "Sextetos"
 categories: acrosport
 ---
 
-## ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD
+### ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD
 
 ![AS01](https://danieledufis.github.io/images/AS01.jpg)
 ![AS02](https://danieledufis.github.io/images/AS02.jpg)
