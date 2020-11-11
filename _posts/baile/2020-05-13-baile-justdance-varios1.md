@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VARIOS 1"
+title: "Varios 1"
 categories: baile
 ---
 
