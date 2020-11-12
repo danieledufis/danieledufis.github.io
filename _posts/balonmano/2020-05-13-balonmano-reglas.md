@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "REGLAS DEL BALONMANO"
+title: "Reglas del balonmano"
 categories: balonmano
 ---
 
-# REGLAS DEL BALONMANO
-
-**1. LA PISTA**
+**1. La pista**
 
 - La pista mide 40 x 20 metros.
 - Se divide en dos mitades exactamente iguales, todo ello delimitado por las líneas de banda y fondo.
@@ -16,14 +14,14 @@ categories: balonmano
 
 ![PISTA2](https://danieledufis.github.io/images_text/balonmano_pista2.jpg)
 
-**2. EL BALÓN**
+**2. El balón**
 
 - El balón de balonmano está formado por una cubierta de cuero o material sintético.
 - La superficie no podrá ser brillante o resbaladiza ya que los jugadores necesitan atraparlo con una mano.
 
 ![BALÓN](https://danieledufis.github.io/images_text/balonmano_bal%C3%B3n.jpg)
 
-**3. EQUIPOS**
+**3. Equipos**
 
 Cada equipo jugará con 7 jugadores (normalmente 6 jugadores y un portero) más los suplentes.
 Los jugadores no pueden pisar dentro del área.
@@ -54,7 +52,7 @@ Destacamos los siguientes:
 
 ![PORTERO](https://danieledufis.github.io/master/images_text/balonmano_portero.jpg)
 
-**4. DURACIÓN DEL PARTIDO**
+**4. Duración del partido**
 
 - La duración de los partidos profesionales será de 60 minutos divididos en 2 mitades.
 - El descanso entre las dos mitades durará 10 minutos.
@@ -64,7 +62,7 @@ Destacamos los siguientes:
 
 ![DURACIÓN](https://danieledufis.github.io/images_text/balonmano_duraci%C3%B3n.jpg)
 
-**5. INFRACCIONES**
+**5. Infracciones**
 
 - En el balonmano se permiten las siguientes acciones:
   - Hacer un máximo de 3 pasos con el balón en la mano sin hacer un regate. Después del regate se permite nuevamente dar 3 pasos.
@@ -82,7 +80,7 @@ Destacamos los siguientes:
 
 ![INFRACCIONES](https://danieledufis.github.io/images_text/balonmano_infracciones.jpg)
 
-**6. GOLES**
+**6. Goles**
 
 - Para que un gol suba al marcador, el balón debe cruzar por completo la línea de gol.
 - El gol será anulado si el jugador estaba pisando el área contraria durante el lanzamiento a portería (debe lanzar en el aire).
@@ -91,7 +89,7 @@ Destacamos los siguientes:
 
 ![GOLES](https://danieledufis.github.io/images_text/balonmano_goles.jpg)
 
-**7. SAQUE DE CENTRO**
+**7. Saque de centro**
 
 - Se efectuará al comienzo de cada partido como después de un gol.
 - Se hará desde el centro de la pista.
@@ -99,7 +97,7 @@ Destacamos los siguientes:
 - Todos los jugadores deben permanecer en su propio campo.
 - El equipo rival tiene que estar a una distancia mínima de 3 metros.
 
-**8. SAQUE DE BANDA**
+**8. Saque de banda**
 
 - Se produce cuando el balón sale del terreno de juego a través de una banda. El saque se produce en este caso desde el punto donde salió el balón.
 - También se da cuando un defensa la despeja por la línea de fondo. En este caso desde el extremo de la banda más próximo por el que salió el balón.
@@ -107,7 +105,7 @@ Destacamos los siguientes:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RdQF1GYc4Q0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
-**9.	GOLPE FRANCO**
+**9.	Golpe franco**
 
 - Se produce tras una jugada antirreglamentaria.
 - Se lanza desde el punto donde se produjo la falta, siempre que esté fuera del área de 9 metros.
@@ -116,7 +114,7 @@ Destacamos los siguientes:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-RY4Cd2DhpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**10. SAQUE DE PORTERÍA**
+**10. Saque de portería**
 
 - Siempre lo realiza el portero.
 - Se produce cuando el portero o el equipo atacante sacan la pelota por la línea de fondo.
@@ -124,7 +122,7 @@ Destacamos los siguientes:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W2vZ7va0jTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**11. LANZAMIENTO DE 7 METROS**
+**11. Lanzamiento de 7 metros**
 
 - Se produce cuando se interrumpe ilegalmente una ocasión que previsiblemente iba a terminar en gol.
 - No hay ley de la ventaja en balonmano, por lo que si se marca gol después de pitar, el gol no subirá al marcador.
@@ -135,12 +133,12 @@ Destacamos los siguientes:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JZInvoFVZPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**12. PASIVO**
+**12. Pasivo**
 
 - Juego pasivo quiere decir que un equipo ha tardado demasiado tiempo en lanzar a portería (a pesar de que no existe un tiempo definido para ello).
 - Antes de pitarlo habrá una advertencia previa (brazo levantado del árbitro) para que lo sepan los jugadores.
 
-**13. TIPOS DE FALTAS**
+**13. Tipos de faltas**
 
 Podemos diferenciar 4 según su gravedad.
 
