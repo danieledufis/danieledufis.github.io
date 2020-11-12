@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TUTORIALES DEL BALONMANO"
+title: "Tutoriales de balonmano"
 categories: balonmano
 ---
 
