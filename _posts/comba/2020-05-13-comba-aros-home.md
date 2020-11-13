@@ -1,5 +1,5 @@
 ---
 layout: post
 title: "Comba"
-categories: comba
+categories: comba y aros
 ---
