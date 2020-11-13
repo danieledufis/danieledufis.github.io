@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "TIPOS DE SALTO"
+title: "Tipos de salto"
 categories: comba
 ---
-
-# TIPOS DE SALTO
