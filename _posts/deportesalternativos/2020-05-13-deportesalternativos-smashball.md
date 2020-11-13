@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "SAMASHBALL"
+title: "Smashball"
 categories: deportesalternativos
 ---
-
-# SMASHBALL
