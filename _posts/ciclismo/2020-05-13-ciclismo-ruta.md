@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "CICLISMO DE RUTA"
+title: "Ciclismo de ruta"
 categories: ciclismo
 ---
-
-# CICLISMO DE RUTA
