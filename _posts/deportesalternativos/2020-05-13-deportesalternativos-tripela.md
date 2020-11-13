@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "TRIPELA"
+title: "Tripela"
 categories: deportesalternativos
 ---
 
-# TRIPELA
