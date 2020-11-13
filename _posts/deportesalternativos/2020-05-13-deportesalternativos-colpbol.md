@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "COLPBOL"
+title: "Colpbol"
 categories: deportesalternativos
 ---
 
-# COLPBOL

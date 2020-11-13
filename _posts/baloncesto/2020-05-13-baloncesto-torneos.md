@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "TORNEOS DE BALONCESTO"
+title: "Torneos de baloncesto"
 categories: baloncesto
 ---
 
-# TORNEOS DE BALONCESTO
-
 En el baloncesto se disputan numeroso torneos que son iguales tanto en la categoría masculina como en la femenina. A continuación os los muestro, diferenciando entre competiciones nacionales e internacionales:
 
-## NACIONALES
+## Nacionales
 
 - LIGA:
   - En la liga normalmente juegan 20 equipos, los cuales juegan todos contra todos 2 veces (una en cada campo).
@@ -20,6 +18,6 @@ En el baloncesto se disputan numeroso torneos que son iguales tanto en la catego
   - El vencedor de la última eliminatoria será el campeón de Liga.
 - COPA
 
-## INTERNACIONALES
+## Internacionales
 
-## SELECCIONES
+## Selecciones

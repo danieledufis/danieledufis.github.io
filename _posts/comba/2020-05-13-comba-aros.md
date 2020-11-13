@@ -1,5 +1,6 @@
 ---
 layout: post
-title: "Tipos de salto"
+title: "Aros"
 categories: comba y aros
 ---
+

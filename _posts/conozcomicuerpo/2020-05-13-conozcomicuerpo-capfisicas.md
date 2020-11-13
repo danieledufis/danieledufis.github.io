@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "CAPACIDADES FÍSICAS"
+title: "Capacidades físicas"
 categories: conozcomicuerpo
 ---
 
-# CAPACIDADES FÍSICAS
+## Flexibilidad
+
+## Fuerza
+
+## Velocidad
+
+## Resistencia

@@ -1,49 +1,49 @@
 ---
 layout: post
-title: "DISNEY 2"
+title: "Disney 2"
 categories: baile
 ---
 
-## THE MUPPET SHOW THEME
+## The muppets show theme
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wYVizGDk2q0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## SOMETHING THAT I WANT
+## Something that I want
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/safH38PSrnw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## SQUIRRELS IN MY PANTS
+## Squirrels in my pants
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hmLqMEIWim0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## SHAKE IT UP
+## Shake it up
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6qCbWHQQdR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## WE ARE ALL IN THIS TOGETHER
+## We are all in this together
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oY7ZQ9fHSR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## TWIST MY LIPS
+## Twist my lips
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tu1-Y89Sddw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## THIS IS ME
+## This is me
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wCIM19eWQJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## THAT´S HOW YOU KNOW
+## That´s how you know
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p6VKiQ6qwZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## HAWAIIAN ROLLER COASTER RIDE
+## Hawaiian roller coaster ride
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBh7yWbNOfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## HANG IN THERE BABY
+## Hang in there baby
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YnIx5I2tJfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## FOLLOWING THE LEADER
+## Following the leader
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zRYlcucDMqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

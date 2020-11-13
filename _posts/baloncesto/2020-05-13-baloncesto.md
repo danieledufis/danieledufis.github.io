@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "BALONCESTO"
+title: "Baloncesto"
 categories: baloncesto
 ---
-
-# BALONCESTO

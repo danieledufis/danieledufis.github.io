@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "MEJORES JUGADORES"
+title: "Mejores jugadores"
 categories: balonmano
 ---
 
-# MEJORES JUGADORES DE BALONMANO
+## Mujeres
 
-## MUJERES
-
-## HOMBRES
+## Hombres

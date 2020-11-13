@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "REGLAS DEL JUDO"
+title: "Reglas del judo"
 categories: artesmarciales
 ---
 
-# REGLAS DEL JUDO

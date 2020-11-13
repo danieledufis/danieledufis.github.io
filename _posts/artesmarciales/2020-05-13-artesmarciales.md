@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARTES MARCIALES"
+title: "Artes marciales"
 categories: artesmarciales
 ---
 

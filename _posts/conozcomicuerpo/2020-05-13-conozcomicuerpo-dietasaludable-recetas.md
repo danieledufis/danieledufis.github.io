@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "RECETAS"
+title: "Recetas"
 categories: conozcomicuerpo
 ---
 
-# RECETAS
+# Recetas

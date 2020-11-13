@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "CICLISMO DE MONTAÑA"
+title: "Ciclismo de montaña"
 categories: ciclismo
 ---
 
-# CICLISMO DE MONTAÑA

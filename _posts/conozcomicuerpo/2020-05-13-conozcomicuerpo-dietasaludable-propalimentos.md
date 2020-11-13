@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "PROPIEDADES DE LOS ALIMENTOS"
+title: "Propiedades de los alimentos"
 categories: conozcomicuerpo
 ---
-
-# PROPIEDADES DE LOS ALIMENTOS

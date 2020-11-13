@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "JUEGOS DE COMBA"
-categories: comba
+title: "Juegos de comba"
+categories: comba y aros
 ---
-
-# JUEGOS DE COMBA

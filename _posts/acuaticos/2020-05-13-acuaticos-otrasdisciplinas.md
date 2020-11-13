@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "OTRAS DISCIPLINAS"
+title: "Otras disciplinas"
 categories: acuaticos
 ---
 
-# OTRAS DISCIPLINAS
-
 Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a mostrar a continuación:
 
-### SURF
+### Surf
 
 - Consiste en mantenerse en **equilibrio sobre una tabla, arrastrada por una ola,** el mayor tiempo posible y sin caerse.
 - Se requieren bueno reflejos, equilibrio, dominio de la natación y un gran conocimiento del mar.
@@ -18,7 +16,7 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rj7xMBxd5iY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### REMO
+### Remo
 
 - Los atletas compiten en **embarcaciones impulsadas mediante la utilización de uno o varios remos.**
 - El remo es una disciplina olímpica con varias especialidades.
@@ -29,7 +27,7 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8738B4m9cME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### SALTOS
+### Saltos
 
 - Existen los saltos de **palanca y trampolín,** pudiendo ser tanto **individuales como sincronizados (con una pareja).**
 - Existen saltos desde diferentes alturas.
@@ -39,7 +37,7 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nrV_G58wfoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### WINDSURF
+### Windsurf
 
 - Consiste en **deslizarse sobre el agua con una tabla que lleva una vela.**
 - Las tablas de windsruf son ligeras, rápidas y fáciles de manejar.
@@ -55,7 +53,7 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xms_udXYF3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### KITESURF
+### Kitesurf
 
 - Este deporte **combina el surf con el parapente.**
 - La tabla permite al deportista presentar mayor resistencia al aire y deslizarse sobre el agua mediante una tabla diseñada para tal efecto, además de efectuar rotaciones y giros a velocidades asombrosas.
@@ -67,7 +65,7 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ph9-ZySlew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### WATERPOLO
+### Waterpolo
 
 - Se practica en una **piscina con dos equipos**, cada uno de ellos con 6 jugadores y un portero.
 - Se diferenciarán por el color del gorro, llevando un equipo los de color azul y el otro de color blanco.
@@ -80,7 +78,7 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PvodyAvZp68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### PIRAGÜISMO
+### Piragüismo
 
 - La piragua es uno de los vehículos navegables más antiguos que existen.
 - El pirgüismo es un deporte náutico en el que se pueden alcanzar grandes velocidades, que consiste en **navegar con canoas o kayaks, propulsados a remo por una, dos o cuatro tripulantes.**
@@ -92,7 +90,7 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cKT6_Y2z9_Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### RAFTING
+### Rafting
 
 - Esta modalidad deportiva combina aventura, emoción, disfrute de la naturaleza y trabajo en equipo.
 - Se practica en los lechos de los ríos, aunque también hay circuitos cerrados.
@@ -105,7 +103,7 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ByIIq3jFOKo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### HIDROSPEED
+### Hidrospeed
 
 - Es una disciplina individual donde se está en permanente contacto con el agua.
 - Consiste en **descender el río con un hidro trineo**, vestidos con un traje de neopreno especial y propulsándonos por medio de aletas.
@@ -116,7 +114,7 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VwncCe3zxds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### BUCEO LIBRE
+### Buceo libre
 
 - También es denominado submarinismo.
 - Es el acto por medio del cual el ser humano se **sumerge en el agua**, ya sea en el mar, agua, lago o río.
@@ -127,7 +125,7 @@ Existen numerosas disciplinas deportivas relacionadas con el agua que os voy a m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_53XtHeiI3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### ESQUÍ ACUÁTICO
+### Esquí acuático
 
 - Exige buenos reflejos y equilibrio.
 - Es un deporte en el que los esquiadores, agarrados a una cuerda, descalzos o montados sobre uno o dos esquís, se **deslizan sobre el agua, tirados por unas lanchas motoras que se desplazan a unos 56 km/h.**

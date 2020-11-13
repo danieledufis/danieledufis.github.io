@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "MEJORES GOLES DEL BALONMANO"
+title: "Mejores goles del balonmano"
 categories: balonmano
 ---
-
-# MEJORES GOLES DEL BALONMANO

@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "VUELTA A ESPAÑA"
+title: "Vuelta a España"
 categories: ciclismo
 ---
-
-# VUELTA A ESPAÑA
