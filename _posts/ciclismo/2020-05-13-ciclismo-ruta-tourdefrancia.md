@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "TOUR DE FRANCIA"
+title: "Tour de Francia"
 categories: ciclismo
 ---
-
-# TOUR DE FRANCIA
