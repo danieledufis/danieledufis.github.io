@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "CICLISMO DE PISTA"
+title: "Ciclismo de pista"
 categories: ciclismo
 ---
-
-# CICLISMO DE PISTA
