@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "FLEXIBILIDAD"
+title: "Flexibilidad"
 categories: conozcomicuerpo
 ---
-
-# FLEXIBILIDAD
