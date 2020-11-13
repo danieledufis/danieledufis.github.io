@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "JUGGER"
+title: "Jugger"
 categories: deportesalternativos
 ---
-
-# JUGGER
