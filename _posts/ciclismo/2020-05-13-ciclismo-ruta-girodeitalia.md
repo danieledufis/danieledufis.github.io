@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "GIRO DE ITALIA"
+title: "Giro de Italia"
 categories: ciclismo
 ---
-
-# GIRO DE ITALIA
