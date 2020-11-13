@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "TCHOUKBALL"
+title: "Tchoukball"
 categories: deportesalternativos
 ---
 
-# TCHOUKBALL
