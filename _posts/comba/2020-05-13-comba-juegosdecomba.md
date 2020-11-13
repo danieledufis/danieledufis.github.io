@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "JUEGOS DE COMBA"
+title: "Juegos de comba"
 categories: comba
 ---
-
-# JUEGOS DE COMBA
