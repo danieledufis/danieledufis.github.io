@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "PÁDEL"
+title: "Pádel"
 categories: deportesderaqueta
 ---
-
-# PÁDEL
