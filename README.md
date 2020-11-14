@@ -8,8 +8,8 @@ PAGINA PRINCIPAL ACROSPORT
 - Ver si se puede cambiar el tamaño de las imagenes de un _post
 - ver si se puede linkar una imagen
 
-
-
+- Buscar como abrir un enlace en otra pestaña, para PATALIMPICO, poner el enlace desde la Home 
+- LOS ENLACES DE LA HOME NO FUNCIONAN, ARTES MARCIALES HASTA CONOZCO MI CUERPO
 - Para el submenu COGER ATLETISMO del documento ORGANIZACION en Downoload
 - Botón "volver"
 - Quitar el DEPORTE del nombre del archivo FECHA--deporte-nombree.md
