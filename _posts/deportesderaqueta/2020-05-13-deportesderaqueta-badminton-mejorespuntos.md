@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "MEJORES PUNTOS BÁDMINTON"
+title: "Mejores puntos en el bádminton"
 categories: deportesderaqueta
 ---
-
-# LOS MEJORES PUNTOS EN EL BÁDMINTON
 
 Para que veáis lo frenético que es este deporte, aquí os dejo una pequeña muestra de los incríbles puntos que se pueden llegar a ver en un partido de bádminton:
 
