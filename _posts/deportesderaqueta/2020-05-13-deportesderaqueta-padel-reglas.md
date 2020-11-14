@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "REGLAS DEL PÁDEL"
+title: "Reglas del pádel"
 categories: deportesderaqueta
 ---
 
-# REGLAS DEL PÁDEL
-
-## 1. LA PISTA
+## 1. La pista
 
 - El área de juego es un rectángulo de 10 metros de ancho por 20 metros de largo.
 - Está dividido en su mitad por una red que mide 10m de longitud y 0,88m de altura.
@@ -17,7 +15,7 @@ categories: deportesderaqueta
 
 ![PISTA](https://danieledufis.github.io/images_text/padel_pista.jpg)
 
-## 2. LA PELOTAS:
+## 2. La pelota
 
 - Deberá ser una esfera de goma con una superficie exterior uniforme de color blanco o amarillo.
 - Su diámetro será entre 6,35 y 7,77cm y su peso estará entre 56 y 59,4 gramos.
@@ -26,7 +24,7 @@ categories: deportesderaqueta
 
 ![PELOTAS](https://danieledufis.github.io/images_text/padel_pelotas.jpg)
 
-## 3. LA PALA:
+## 3. La pala
 
 - La pala se compone del puño (por donde agarramos la pala) y la cabeza (zona con la que golpeamos la pelota).
 - La superficie destinada al golpeo estará perforada por agujeros cilíndricos de 9 a 13 mm.
@@ -34,7 +32,7 @@ categories: deportesderaqueta
 
 ![PALA](https://danieledufis.github.io/images_text/padel_pala.jpg)
 
-## 4. PUNTUACIÓN:
+## 4. Puuntuación
 
 - **JUEGOS:** los puntos serán exactamente igual que en el tenis:
   - Ningún punto: 0.
@@ -53,7 +51,7 @@ categories: deportesderaqueta
 
   ![PUNTUACION PADEL](https://danieledufis.github.io/images_text/padel_puntuacion.jpg)
 
-## 5. POSICIÓN DE LOS JUGADORES:\*\*
+## 5. Posición de los jugadores
 
 - Cada pareja de jugadores se colocará en cada uno de los lados de su campo.
 - En la pareja que resta estará colocada siempre en el mismo lado de su campo, aunque cuando empiece el punto pueden moverse donde quieran.
@@ -61,16 +59,16 @@ categories: deportesderaqueta
 
 ![POSICIONES](https://danieledufis.github.io/images_text/padel_posicion.jpg)
 
-## 6. ELECCIÓN DE CAMPO Y DE SERVICIO:
+## 6. Elección de campo y de servicio
 
 - La elección de campo y sorteo se realizará mediante sorteo.
 
-## 7. CAMBIOS DE CAMPO:
+## 7. Cambios de campo
 
 - Las parejas cambiarán de campo cuando la suma de los juegos de cada set sea número impar.
 - En el tie break los jugadores cambiarán de campo cada 6 puntos.
 
-## 8. EL SAQUE:
+## 8. El saque
 
 - El jugador que saca deberá tener ambos pies detrás de la línea de saque y en el lateral de la zona del campo que le corresponda.
 - La pelota deberá ser botada antes de golpearla.
@@ -84,12 +82,12 @@ categories: deportesderaqueta
 ![CÓMO SACAR](https://danieledufis.github.io/images_text/padel_saque1.jpg)
 ![CÓMO SACAR2](https://danieledufis.github.io/images_text/padel_saque2.jpg)
 
-## 9. RESTO:
+## 9. Resto
 
 - Deberá esperar a que la pelota bote en su campo.
 - Puede golpear la pelota después de que bote en el suelo y rebote en la pared (puede rebotar incluso 2 veces.
 
-## 10. PUNTOS PERDIDOS:
+## 10. Puntos perdidos
 
 - Si la pelota bota dos veces en nuestro campo.
 - Si al golpear la pelota, esta toca nuestra pared lateral antes de pasar al otro campo.
@@ -97,7 +95,7 @@ categories: deportesderaqueta
 - Si tocamos la red con el cuerpo o la raqueta.
 - Si golpeamos la pelota antes de que pase a nuestro campo.
 
-## 11. DEVOLUCIONES DURANTE EL JUEGO
+## 11. Devoluciones durante el juego
 
 Sera correcta si:
 
