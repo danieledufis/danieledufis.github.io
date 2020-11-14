@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "CAROLINA MARÍN"
+title: "Carolina Marín"
 categories: deportesderaqueta
 ---
-
-# CAROLINA MARÍN
