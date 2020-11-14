@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "REGLAS BÁDMINTON"
+title: "Reglas del bádminton"
 categories: deportesderaqueta
 ---
 
-# REGLAS BÁDMINTON
-
 El bádminton es un deporte de raqueta que se juega en pista cubierta. Existen una serie de reglas básicas que hay que conocer antes de jugar:
 
-### 1. VOLANTE Y PUNTOS
+### 1. Volante y puntos
 
 - Hay que pasar el volante (la pelota de bádminton) al otro lado de la red y que este caiga dentro del campo contrario para sumar un punto. Es punto para el contrario por considerarse falta los siguientes casos:
   - Si el volante cae fuera de la pista de bádminton.
@@ -24,12 +22,12 @@ El bádminton es un deporte de raqueta que se juega en pista cubierta. Existen u
 
 ![RAQUETA](https://danieledufis.github.ior/images_text/badminton_raqueta.jpg)
 
-### 2. SETS DE UN PARTIDO
+### 2. Sets de un partido
 
 - El partido se juega al mejor de 3 sets, es decir, el primero que gane 2 sets es el vencedor.
 - Cada set se disputa a 21 puntos, ganando con una diferencia de 2 puntos. Si no se continuará hasta conseguir ese margen (21-19, 22-20, 23-21…). En caso de no lograrse esa diferencia vencerá el primer jugador/a que alcance los 30 puntos.
 
-### 3. PISTA
+### 3. Pista
 
 - Se juega tanto individual como en parejas pero aprovechando distintas dimensiones de la pista:
   - Individual: 13,4m de largo x 5.18m de ancho.
@@ -38,7 +36,7 @@ El bádminton es un deporte de raqueta que se juega en pista cubierta. Existen u
 
 ![PISTA](https://danieledufis.github.io/images_text/badminton_pista.jpg)
 
-### 4. SAQUE
+### 4. Saque
 
 - Saca quien ha ganado el punto. En parejas hay una rotación en el saque, es decir, cada vez saca uno distinto (siempre que ganen el punto).
 - El saque se realiza golpeando el volante por debajo de la cintura y cruzado (hacia la otra esquina de la pista).
@@ -47,7 +45,7 @@ El bádminton es un deporte de raqueta que se juega en pista cubierta. Existen u
 
 ![SAQUE](https://danieledufis.github.io/images_text/badminton_saque.jpg)
 
-### 5. INFRACCIONES
+### 5. Infracciones
 
 - Las infracciones en bádminton no son penalizadas con punto para el contrario.
 - Una infracción grave puede suponer una tarjeta roja y la descalificación del encuentro.
