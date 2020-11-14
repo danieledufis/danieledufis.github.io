@@ -6,7 +6,7 @@ categories: deportesderaqueta
 
 ## Información general
 
-## AUSTRALIAN OPEN 2015
+## Australian open 2015
 
 ### Mujeres
 
@@ -20,7 +20,7 @@ categories: deportesderaqueta
 
 #### Campeón: Novak Djokovic
 
-## AUSTRALIAN OPEN 2016
+## Australian open 2016
 
 ### Mujeres
 
@@ -35,7 +35,7 @@ categories: deportesderaqueta
 #### Campeón: Novak Djokovic
 
 
-## AUSTRALIAN OPEN 2017
+## Australian open 2017
 
 ### Mujeres
 
@@ -49,7 +49,7 @@ categories: deportesderaqueta
 
 #### Campeón: Roger Federer
 
-## AUSTRALIAN OPEN 2018
+## Australian open 2018
 
 ### Mujeres
 
@@ -63,7 +63,7 @@ categories: deportesderaqueta
 
 #### Campeón: Roger Federer
 
-## AUSTRALIAN OPEN 2019
+## Australian open 2019
 
 ### Mujeres
 
@@ -77,7 +77,7 @@ categories: deportesderaqueta
 
 #### Campeón: Novak Djokovic
 
-## AUSTRALIAN OPEN 2020
+## Australian open 2020
 
 ### Mujeres
 
