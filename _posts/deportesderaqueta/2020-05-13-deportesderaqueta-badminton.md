@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "BÁDMINTON"
+title: "Bádminton"
 categories: deportesderaqueta
 ---
-
-# BADMINTON
