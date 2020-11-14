@@ -4,24 +4,16 @@ title: "US OPEN 2016"
 categories: deportesderaqueta
 ---
 
-# US OPEN 2016
+## US OPEN 2016
 
-## MUJERES
-
-- Semifinal 1: Serena Williams vs Karolína Plíšková <iframe width="560" height="315" src="https://www.youtube.com/embed/Z6STm0cAs9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- Semifinal 2: Caroline Wozniacki vs Angelique Kerber <iframe width="560" height="315" src="https://www.youtube.com/embed/nbbKlsjrxno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### MUJERES
 
 - Final: Karolína Plíšková vs Angelique Kerber <iframe width="560" height="315" src="https://www.youtube.com/embed/CFToJKf5WFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Campeona: Angelique Kerber
+#### Campeona: Angelique Kerber
 
-## HOMBRES
-
-- Semifinal 1: Novak Djokovic vs Gaël Monfils <iframe width="560" height="315" src="https://www.youtube.com/embed/W5C_RkhE258" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- Semifinal 2: Stansilas Wawrinka vs Kei Nishikori <iframe width="560" height="315" src="https://www.youtube.com/embed/QhFeAkbrqlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### HOMBRES
 
 - Final: Novak Djokovic vs Stanislas Wawrinka <iframe width="560" height="315" src="https://www.youtube.com/embed/WJPLKXZdkPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Campeón: Stanislas Wawrinka
+#### Campeón: Stanislas Wawrinka
