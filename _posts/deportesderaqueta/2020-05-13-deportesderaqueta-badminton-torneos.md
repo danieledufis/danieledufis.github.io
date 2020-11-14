@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "COMPETICIONES BÁDMINTON"
+title: "Torneos del bádminton"
 categories: deportesderaqueta
 ---
-
-# COMPETICIONES BÁDMINTON
