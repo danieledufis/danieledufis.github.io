@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DEPORTES DE RAQUETA"
+title: "Deportes de raqueta"
 categories: deportesderaqueta
 ---
 
