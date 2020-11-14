@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "¿QUÉ ES EL FÚTBOL SALA?"
+title:  "Reglas"
 categories: futbol
 ---
-
-# ¿QUÉ ES EL FÚTBOL SALA?
 
 **1. TERRENO DE JUEGO**
 * La longitud será entre 28m y 40m; mientras que el ancho será entre 16m y 20m.
