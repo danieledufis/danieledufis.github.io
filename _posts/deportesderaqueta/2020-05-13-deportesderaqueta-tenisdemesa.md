@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "TENIS DE MESA"
+title: "Tenis de mesa"
 categories: deportesderaqueta
 ---
-
-# TENIS DE MESA
