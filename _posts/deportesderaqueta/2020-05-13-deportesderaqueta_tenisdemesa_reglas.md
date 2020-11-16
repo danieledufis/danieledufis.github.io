@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "REGLAS DEL TENIS DE MESA"
+title: "Reglas del tenis de mesa"
 categories: deportesderaqueta
 ---
 
-# REGLAS DEL TENIS DE MESA
-
-**1.MESA**
+### 1. Mesa
 
 - Mide 2,74 metros de largo por 1,525 de ancho, con una altura de 76 centímetros.
 - Estará dividida por la mitad con una red.
@@ -18,7 +16,7 @@ categories: deportesderaqueta
 
 ![MESA2](https://danieledufis.github.io/images_text/tenisdemesa_mesa2.jpg)
 
-**2.PALA**
+### 2. Pala
 
 - Puede ser de cualquier tamaño, forma y peso, siempre que sea plana y rígida.
 - El grosor de la misma debe estar compuesta de al menos un 85% de madera natural.
@@ -26,7 +24,7 @@ categories: deportesderaqueta
 
 ![PALA](https://danieledufis.github.io/images_text/tenisdemesa_pala.jpg)
 
-**3.PELOTA**
+### 3. Pelota
 
 - Tienen un diámetro de 40mm y 2,7 gramos de peso.
 - Están hechas habitualmente de poliestireno y ABS, ya que tienen mejores prestaciones y son más respetuosas con el medio ambiente.
@@ -34,7 +32,7 @@ categories: deportesderaqueta
 
 ![PELOTAS](https://danieledufis.github.io/images_text/tenisdemas_pelotas2.jpg)
 
-**4.PUNTUACIÓN**
+### 4. Puntuación
 
 - El primer jugador que gane 11 puntos con diferencia de 2 puntos ganará el juego. Por ejemplo: 11-2, 11-9, 11-8…
 - En caso de que lleguen empatados a 10, se seguirá jugando hasta que alguno de los dos jugadores tenga una ventaja de dos puntos. Por ejemplo: 12-10, 13-11, 14-12…
@@ -43,7 +41,7 @@ categories: deportesderaqueta
 
 ![PUNTUACIÓN](https://danieledufis.github.io/images_text/tenisdemesa_puntuaci%C3%B3n.jpg)
 
-**5.¿CÓMO SE CONSIGUE UN PUNTO?**
+### 5. ¿Cómo se consigue un punto?
 
 - Cuando el oponente:
   - No toca el campo contrario con la pelota.
@@ -56,7 +54,7 @@ categories: deportesderaqueta
 
 ![PUNTUACIÓN](https://danieledufis.github.io/images_text/tenisdemesa_punto.jpg)
 
-**6.SAQUE**
+### 6. El saque
 
 - El saque se alterna cada 2 puntos.
 - Si los jugadores pasan los 10 puntos, el saque se alterna en cada punto.
@@ -67,7 +65,7 @@ categories: deportesderaqueta
 
 ![SAQUE](https://danieledufis.github.io/images_text/tenisdemesa_saque.jpg)
 
-**7.REGLA DE ACELERACIÓN**
+### 7. Regla de aceleración
 
 - Entra en vigor si un juego no ha finalizado tras 10 minutos y no se ha alcanzado los 18 puntos.
 - También es posible aplicarlo si ambos jugadores lo piden.
@@ -76,7 +74,7 @@ categories: deportesderaqueta
   - El turno de saque se alterna en cada punto.
   - El jugador que recibe (el que no está sacando), suma el punto si consigue devolver 13 pelotas antes de que el punto finalice por otro motivo.
 
-**8.DOBLES**
+### 8 Dobles
 
 - Los jugadores intervienen de manera alternativa, es decir, cada jugador devuelve una pelota sí y otra no dentro del mismo punto.
 - Deben alternarse para cada turno de saque, habiendo elegido previamente quien empieza.
