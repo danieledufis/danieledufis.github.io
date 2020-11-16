@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "REGLAS DEL TENIS"
+title: "Reglas del tenis"
 categories: deportesderaqueta
 ---
 
-# REGLAS DEL TENIS
-
-### 1. PISTA
+### 1. Pista
 
 - Es un rectángulo de 23.77m de largo por 8.23 de ancho.
 - Está dividida por la mitad por una red suspendida aproximadamente a un metro de altura.
@@ -18,7 +16,7 @@ categories: deportesderaqueta
 
 ![PISTA](https://danieledufis.github.io/images_text/tenis_pista.jpg)
 
-### 2. PELOTAS Y RAQUETAS DE TENIS
+### 2. Pelotas y raquetas de tenis
 
 - PELOTAS
   - Hay una lista publicada por la ITF (International Tennis Federation).
@@ -32,7 +30,7 @@ categories: deportesderaqueta
 
 ![RAQUETA](https://danieledufis.github.io/images_text/tenis_raqueta.jpg)
 
-### 3. PUNTOS
+### 3. Puntos
 
 A continuación os muestro cuando pierdes un punto en el tenis:
 
@@ -45,7 +43,7 @@ A continuación os muestro cuando pierdes un punto en el tenis:
   - Si la pelota toca la línea es punto.
   - Si la pelota toca la red pero cae en el campo contrario el punto continuará.
 
-### 4. JUEGOS
+### 4. Juegos
 
 - Para ganar un juego es necesario ganar varios puntos.
 - SACADOR: durante un mismo juego sacará siempre el mismo jugador (también en los partidos de dobles).
@@ -54,7 +52,7 @@ A continuación os muestro cuando pierdes un punto en el tenis:
   - Para ganar el juego un jugador debe tener una diferencia de al menos 2 puntos. Por ejemplo: si un jugador gana 40 – 15 ganando, y gana el siguiente punto tendrá un juego.
   - IGUALES Y VENTAJAS: Si ambos jugadores están empatados 40 – 40 se denomina iguales o deuce. Cuando ganen un punto lo llamarán “ventaja + el nombre del jugador”. El jugador que tenga la ventaja ganará el juego si gana el punto siguiente.
 
-### 5. SETS
+### 5. Sets
 
 - Deberán ganar 6 juegos con una diferencia de 2, es decir: 6-4, 6-3, 6-2 …
 - Si llegan a 5-5 empatados, podrán ganar si consiguen 2 juegos seguidos, de forma que ganarían 7-5.
@@ -63,7 +61,7 @@ A continuación os muestro cuando pierdes un punto en el tenis:
   - El primer jugador que llegue a 7 puntos siempre que tenga una diferencia de 2 puntos: 7-5, 7-4…
   - Si no se da esa situación se continuará jugando hasta que uno de los dos jugadores consiga esa diferencia: 10-8, 12-10…
 
-### 6. PARTIDO
+### 6. Partido
 
 - Para ganar el partido habrá que ganar 2 o 3 sets dependiendo del torneo:
   - 2 SETS: todos los torneos femeninos, y la amplia mayoría de torneos masculinos.
@@ -71,7 +69,7 @@ A continuación os muestro cuando pierdes un punto en el tenis:
 
 ![PUNTOS](https://danieledufis.github.io/images_text/tenis_puntos.jpg)
 
-### 7. SAQUE
+### 7. Saque
 
 - El primer saque del juego siempre se hace desde el lado derecho de la línea de saque.
 - Irá alternando de izquierda a derecha.
@@ -89,7 +87,7 @@ Aquí os muestro con 4 fotos un saque de Rafa Nadal, aunque podéis verlo tambi�
 
 ![SAQUE](https://danieledufis.github.io/images_text/tenis_saque.jpg)
 
-### 8. CAMBIOS DE LADO DE LOS JUGADORES
+### 8. Cambios de lado de los jugadores
 
 - Se hará un cambio de lado de la pista cada al final todos los juegos impares: primero, tercero, quinto …
 - TIE BREAK: se produce cada 6 puntos.
