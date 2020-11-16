@@ -1,29 +1,27 @@
 ---
 layout: post
-title: "MEJORES PUNTOS DEL TENIS DE MESA"
+title: "Mejores puntos del tenis de mesa"
 categories: deportesderaqueta
 ---
 
-# MEJORES PUNTOS
-
 El tenis de mesa es un deporte espectacular y lleno de puntos increíbles. En los siguientes vídeos tenéis una muestra de lo alucinantes que pueden llegar a ser los partidos:
 
-## GOLPES A CÁMARA LENTA
+### Golpes a cámara lenta
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6cHog8dYvsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## MUJERES
+### Mujeres
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NHHu71zG6w8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## HOMBRES
+### Hombres
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WAfF7PbkZB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## DOBLES
+### Dobles
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5XJR5F_cmVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## SIN MANOS
+### Sin manos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fmpXuyW0hgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
