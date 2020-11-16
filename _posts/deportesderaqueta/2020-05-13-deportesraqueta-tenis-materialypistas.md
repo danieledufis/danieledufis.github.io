@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "MATERIAL Y PISTA"
+title: "Material y pista"
 categories: deportesderaqueta
 ---
-
-# MATERIAL Y PISTA
