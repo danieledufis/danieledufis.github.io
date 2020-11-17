@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mejores goles"
+title:  "Mejores goles del fútbol"
 categories: futbol
 ---
 
