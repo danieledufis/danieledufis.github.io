@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "COMPETICIONES Y CATEGORÍAS"
+title: "Competiciones y categorías"
 categories: habilidadesgimnasticas
 ---
 
-# COMPETICIONES Y CATEGORÍAS
