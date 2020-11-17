@@ -1,39 +1,37 @@
 ---
 layout: post
-title:  "TUTORIALES DEL HOCKEY HIERBA"
+title:  "Tutoriales del hockey hierba"
 categories: hockey
 ---
 
-# TUTORIALES DEL HOCKEY HIERBA
-
 Los siguientes vídeos os servirán para conocer mejor las reglas y técnicas del hockey hierba:
 
-## TUTORIAL GENERAL
+### Tutorial general
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IeqxPINjM9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## REGLAS BÁSICAS
+### Reglas básicas
 <iframe width="560" height="315" src="https://www.youtube.com/embed/auEJG9CtSR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## MATERIAL
+### Material
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7T05rblP31s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## EMPUÑADURA DEL STICK
+### Empuñadira del stick
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gHvd3DZoe-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## TIRO A PORTERÍA
+### Tiro a portería
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BjEwLEMFlvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## LÁTIGO
+### Látigo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RG2iDmYKYfg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## DRIBLAR
+### Driblar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r28_83rhqS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## GOLPE DE REVÉS
+### Golpe de revés
 <iframe width="560" height="315" src="https://www.youtube.com/embed/__XkW6sB3zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## PUSH
+### Push
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iUN_Q8dZcNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## FLICK (LEVANTAR LA PELOTA)
+### Flick (levantar la pelota)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sNGOtUVf7lU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
