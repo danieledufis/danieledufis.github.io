@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "TORNEOS DEL HOCKEY PATINES"
+title:  "Torneos del hockey patines"
 categories: hockey
 ---
 
-# TORNEOS DEL HOCKEY PATINES
