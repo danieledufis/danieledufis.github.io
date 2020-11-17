@@ -1,7 +1,5 @@
 ---
 layout: post
-title:  "MEJORES GOLES DEL HOCKEY PATINES"
+title:  "Mejores goles del hockey patines"
 categories: hockey
 ---
-
-# MEJORES GOLES DEL HOCKEY PATINES
