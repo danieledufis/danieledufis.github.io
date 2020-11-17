@@ -1,35 +1,33 @@
 ---
 layout: post
-title: "TUTORIALES HABILIDADES GIMNÁSTICAS"
+title: "Tutoriales de habilidades gimnásticas"
 categories: habilidadesgimnasticas
 ---
-
-# TUTORIALES HABILIDADES GIMNÁSTICAS
 
 Antes de realizar cualquiera de estas acrobacias es muy importante atneder a todas las indicaciones y **adoptar siempre medidas de seguridad.**
 
 A continuación tenéis vídeos con diferentes acrobacias:
 
-### ACROBACIAS DE INICIACIÓN
+### Acrobacias de iniciación
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fPpmQL3TiEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### VOLTERETA
+### Voltereta
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WmPaDnjUJJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### LA RUEDA
+### La rueda
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jKMOOqU6Ai0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### PINO
+### Pino
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8djVh2Df6ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### EL MACACO
+### El macaco
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NIjo70Dq9wo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### KIP UP
+### Kip up
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gbsYQq_ANMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
