@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "HOCKEY SOBRE HIELO"
+title: "Hockey sobre hielo"
 categories: hockey
 ---
 
-# HOCKEY SOBRE HIELO
