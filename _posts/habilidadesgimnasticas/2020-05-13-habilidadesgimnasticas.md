@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HABILIDADES GIMNÁSTICAS"
+title: "Habilidades gimnásticas"
 categories: habilidadesgimnasticas
 ---
 
