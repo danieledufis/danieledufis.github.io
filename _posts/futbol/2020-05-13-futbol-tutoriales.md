@@ -1,63 +1,61 @@
 ---
 layout: post
-title:  "TUTORIALES FÚTBOL"
+title:  "Tutoriales de fútbol"
 categories: futbol
 ---
 
-# TUTORIALES DE FÚTBOL
-
 Con estos tutoriales aprenderéis las reglas básicas del fútbol, además de la técnica de las acciones que realizaremos durante un partido:
 
-### REGLAS BÁSICAS
+### Reglas básicas
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BXyu5Bpb-YM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### GOLPEO CON EL INTERIOR
+### Golpeo con el interior
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KXB0ffI65Bk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### CHUTAR CON EL EMPEINE
+### Chutar con el empeine
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vSM5DVwBR1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### VASELINA / ELEVACIÓN 
+### Vaselina / elevación
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Aab1r8Mkh0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### REMATE DE CABEZA 
+### Remate de cabeza
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B3pPnrYD7OY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### PASE CORTO
+### Pase corto
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I_amAHyuutA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### PASE LARGO
+### Pase largo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YH3ViULRIbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### CENTRO
+### Centro
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RADr0an4MR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### FINTA
+### Finta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/szaAZP2COJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### REGATE 
+### Regate 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dJEcwIqLp-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### CONTROL DE BALÓN TRAS PASE RASO
+### Control de balón tras pase raso
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GfbD1v96bHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### CONTROL DE BALÓN TRAS PASE AÉREO
+### Control de balón tras pase aéreo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GLbV7-75xPE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### CONDUCCIÓN DEL BALÓN
+### Conducción del balón
 <iframe width="560" height="315" src="https://www.youtube.com/embed/egZY9jyZxRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### PORTERO, APRENDE A PARAR EL BALÓN
+### Portero, aprende a parar el balón
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wcKqu7g0fC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### SAQUES DEL PORTERO
-MANOS
+### Saques del portero
+*Manos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ngKbXpKZ3VU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-PIES
+*Pies
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t74G8VMqIso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### MÁS INFORMACIÓN 
+### Más información
 Si te han gustado y quieres ver más información relacionada con el fútbol, con el siguiente enlace podréis acceder a más tutoriales. Una vez entráis en el link tendréis todos los vídeos a la derecha.
 [TUTORIALES FÚTBOL]
 
