@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "REGLAS DEL HOCKEY HIERBA"
+title: "Reglas del hockey hierba"
 categories: hockey
 ---
 
-# REGLAS DEL HOCKEY HIERBA
-
-**1.CAMPO**
+### 1. El campo
 
 - El campo mide 91,4 metros de largo y 55 de ancho.
 - Está dividida en dos mitades.
@@ -23,7 +21,7 @@ categories: hockey
 
 ![PISTA](https://danieledufis.github.io/images_text/hierba_pista1.png)
 
-**2.STICK**
+### 2. Stick
 
 - Tiene la parte inferior curvada y se le llama “cabeza”.
 - La cabeza tiene la cara izquierda plana y la derecha curva (la única con la que se puede controlar).
@@ -32,7 +30,7 @@ categories: hockey
 
 ![STICK](https://danieledufis.github.io/images_text/hierba_stick1.jpg)
 
-**3.PELOTA**
+### 3. Pelota
 
 - Son de plástico y huecas por dentro.
 - El perímetro es de entre 224 y 235 milímetros.
@@ -40,29 +38,29 @@ categories: hockey
 
 ![PELOTA](https://danieledufis.github.io/images_text/hierba_pelota.jpg)
 
-**4.DURACIÓN**
+### 4. Duración
 
 - El partido estará dividido en dos períodos de 35 minutos y con un descanso de 5 minutos.
 - Si tiene que quedar eliminado uno de los dos equipos y acaba en empate, se decide el ganador a través del shoot put, que será explicado más adelante.
 
 ![DURACIÓN](https://danieledufis.github.io/images_text/hierba_duraci%C3%B3n.png)
 
-**5.JUGADORES**
+### 5. Jugadores/as
 
 - Cada equipo está compuesto de 18 jugadores.
 - En el campo están solo 11, incluido el portero.
-- **PORTERO:**
+- *Portero:*
   - Puede tocar la pelota con cualquier parte del cuerpo.
   - Lleva la camiseta de otro color y lleva protección especial.
   - No puede sobrepasar la línea de 23 metros.
-- **JUGADORES:**
+- *Jugadores:*
 - Sólo pueden golpear la bola con la parte plana del stick.
 - No puede tocar la pelota con manos ni pies, aunque si la toca con el pie y no obtiene ventaja, el juego continua.
 - Cada equipo puede hacer todas las sustituciones que quiera, salvo cuando se señale un penalti corner.
 
 ![JUGADORES](https://danieledufis.github.io/images_text/hierba_jugadores.jpg)
 
-**6.SANCIONES**
+### 6. Sanciones
 
 - La mayoría de las sanciones son leves y conllevan la pérdida de la posesión.
 - Si la falta es más grave, el jugador será sancionado con una tarjeta verde que implica 2 minutos de suspensión.
@@ -71,25 +69,25 @@ categories: hockey
 
 ![TARJETAS](https://danieledufis.github.io/images_text/hierba_tarjetas.jpg)
 
-**7.SAQUE LATERAL**
+### 7. Saque lateral
 
 o Se producirá después de que la pelota salga completamente por la línea lateral.
 o Sacará el equipo que no haya lanzado la pelota fuera.
 o Si la pelota salió en algún punto entre la línea de 23 metros y la línea de fondo, el saque no puede meterse directamente dentro del área.
 
-**8.CUANDO LA PELOTA SALE POR LA LÍNEA DE FONDO**
+### 8. Cuando la pelota sale por la línea de fondo
 
 - Si un jugador atacante lanza la pelota fuera, el juego se reinicia con un golpe franco a favor del equipo defensor a 15 metros del punto donde salió la pelota.
 - Si es el portero o un defensor quien la envía fuera, se reanuda con un golpe franco desde la línea de 23m.
 
-**9.PENALTI**
+### 9. Penalti
 
 - Se señala cuando el defensor hace una falta intencionada sobre un oponente con la pelota o que impida un previsible gol.
 - El atacante lanzará el penalti a la señal del árbitro desde el punto señalado a 6 metros.
 
 ![PENALTI](https://danieledufis.github.io/images_text/hierba_penalti.jpg)
 
-**10. PENALTI CORNER**
+### 10. Penalti corner
 
 - Se señala cuando hay faltas dentro del área:
   - Falta intencionada sobre atacante sin la pelota.
@@ -109,14 +107,14 @@ o Si la pelota salió en algún punto entre la línea de 23 metros y la línea d
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vWjzyRWtbDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**11.GOLPE FRANCO**
+### 11. Golpe franco
 
 - Se otorgan con infracciones cometidas fuera del área y se saca desde el punto donde se cometió la falta.
 - No puede haber defensores a menos de 5 metros.
 - El sacador puede hacer un pase o jugar la pelota en cualquier dirección.
 - Si el saque se hace una vez sobrepasada la línea de 23 metros, la pelota no puede ir directamente al área.
 
-**12.SHOOT OUT**
+### 12. Shoot out
 
 - Se realiza cuando el partido termina en empate y hay que decidir el ganador.
 - Se realiza una tanda de 5 shoot out.
