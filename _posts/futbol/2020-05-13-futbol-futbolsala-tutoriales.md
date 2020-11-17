@@ -1,51 +1,49 @@
 ---
 layout: post
-title:  "TUTORIALES FÚTBOL SALA"
+title:  "Tutoriales del fútbol sala"
 categories: futbol
 ---
 
-# TUTORIALES FÚTBOL SALA
-
 Aquí encontraréis unos enlaces muy útiles para conocer cómo jugar al fútbol sala. Estoy seguro de que os van a ser muy prácticos:
 
-### GENERAL
+### General
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bi84p4YIeKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### POSICIONES DE LOS JUGADORES
+### Posiciones de los jugadores
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2_2S4NeENuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### EL PORTERO
+### El portero
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gm2ZPhTkd4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### CHUTAR LA PELOTA
+### Chutar la pelota
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9I91nnjDqrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### DISPARO CON LA PUNTERA
+### Disparo con la puntera
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pF3Uni-iHps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### REMATES BÁSICOS EN FÚTBOL SALA
+### Remates báscios en el fútbol sala
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L5hb15EghZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### CÓMO PASAR LA PELOTA
+### Cómo pasar la pelota
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gYufcG9Tbv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### PISAR LA PELOTA 
+### Pisar la pelota
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cToJxLq-qqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### CAMBIO DE DIRECCIÓN
+### Cambio de dirección
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_eIakjTogjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### CÓMO PARAR LA PELOTA
+### Cómo pasar la pelota
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fdo544cKtbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### CALENTAMIENTO
+### Calentamiento
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b_U_FSPAP_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### ESTIRAMIENTO 
+### Estiramiento 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VI-wYqh6LJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### MATERIAL DE FÚTBOL SALA
+### Material de fútbol sala
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XHDvlsVV8fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### EQUIPACIÓN DE PORTERO
+### Equipación de portero
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XeV73Ju2h-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
