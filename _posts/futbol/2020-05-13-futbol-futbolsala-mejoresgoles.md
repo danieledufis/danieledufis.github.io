@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "MEJORES GOLES FÚTBOL SALA"
+title: "Mejores goles del fútbol sala"
 categories: futbol
 ---
-
-# MEJORES GOLES DEL FÚTBOL SALA
