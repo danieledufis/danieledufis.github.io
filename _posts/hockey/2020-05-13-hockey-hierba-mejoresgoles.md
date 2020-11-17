@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "MEJORES GOLES DEL HOCKEY HIERBA"
+title: "Mejores goles del hockey hierba"
 categories: hockey
 ---
 
-# MEJORES GOLES DEL HOCKEY HIERBA
