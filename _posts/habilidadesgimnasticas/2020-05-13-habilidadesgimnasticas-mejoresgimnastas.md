@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "MEJORES GIMNASTAS"
+title: "Mejores gimnastas"
 categories: habilidadesgimnasticas
 ---
-
-# MEJORES GIMNASTAS
 
 ## MUJERES
 
