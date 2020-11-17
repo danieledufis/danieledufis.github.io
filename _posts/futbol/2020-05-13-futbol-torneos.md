@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "COMPETICIONES FÚTBOL"
+title: "Torneos de fútbol"
 categories: futbol
 ---
 
-# COMPETICIONES DE FÚTBOL
+## Nacionales
+
+## Internacionales
+
+## Selecciones
