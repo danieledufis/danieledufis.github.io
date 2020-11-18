@@ -31,12 +31,11 @@ categories: deportesderaqueta
 - [Mejores puntos]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis-mejorespuntos.md %})
 - [Mejores tenistas]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis-mejorestenistas.md %})
 - [Curiosidades]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis-curiosidades.md %})
-
-### Torneos
-- [Open Australia]({% link _posts/deportesderaqueta/ %})
-- [Roland Garros]({% link _posts/deportesderaqueta/ %})
-- [Wimbledon]({% link _posts/deportesderaqueta/ %})
-- [US open]({% link _posts/deportesderaqueta/ %})
+- Torneos
+-- [Open Australia]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis-AO.md %})
+-- [Roland Garros]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis-RG.md %})
+-- [Wimbledon]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis-WB.md %})
+-- [US open]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis-US.md %})
 
 ### Tenis de mesa
 - [Reglas]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenisdemesa-reglas.md %})
