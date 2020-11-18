@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Mejores puntos"
-categories: deportesderaqueta
+title: "Mejores puntos del tenis"
+categories: mejoresdeportistasdelahistoria
 ---
