@@ -4,4 +4,12 @@ title:  "ORIENTACIÓN Y SENDERISMO"
 categories: orientacionysenderismo
 ---
 
-ORIENTACIÓN Y SENDERISMO
+### CUIDAMOS EL MEDIO
+- [Parques nacionales]({% link _posts/orientacionysenderismo/2020-05-13-orientacionysenderismo-parquesnacionales.md %})
+- [Rutas de Madrid]({% link _posts/orientacionysenderismo/2020-05-13-orientacionysenderismo-rutas-madrid.md %})
+- [Rutas fuera de Madrid]({% link _posts/orientacionysenderismo/2020-05-13-orientacionysenderismo-rutas-fuerademadrid.md %}) 
+- [Tutoriales]({% link _posts/orientacionysenderismo/2020-05-13-orientacionysenderismo-tutoriales.md %})
+![Parques nacionales](../images/orientacionysenderismo_parquesnacionales_pestana.jpg)
+![Rutas de Madrid](../images/orientacionysenderismo_rutas_madrid_pestana.jpg)
+![Rutas fuera de Madrid](../images/orientaciónysenderismo_rutas_fuerademadrid_pestana.jpg)
+![Turoriales](../images/tutorial_pestana.png)

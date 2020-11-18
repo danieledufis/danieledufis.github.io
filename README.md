@@ -13,7 +13,6 @@ PAGINA PRINCIPAL ACROSPORT
 - Para el submenu COGER ATLETISMO del documento ORGANIZACION en Downoload
 - Botón "volver"
 - Quitar el DEPORTE del nombre del archivo FECHA--deporte-nombree.md
-- Solo falta cambiar el nombre de "deportes de raqueta"
 - Dejar el estilo de la Home apañao, responsive, ojo con el tamaño de los nombres de los deportes: var(max-size)
 
 ---
@@ -30,6 +29,7 @@ HECHO
 ---
 
 TAREAS DANI
+- Solo falta cambiar el nombre de "deportes de raqueta"
 - El texto del Main, "Información sobre tu curso" OK
 - Dani me tiene que dar una fraase para el Footer
 - Hacemos una "guía de uso", OK, pantallazos de la web
