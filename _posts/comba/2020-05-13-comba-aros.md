@@ -1,5 +1,5 @@
 ---
 layout: post
 title: "Aros"
-categories: combayaros
+categories: comba
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comba"
-categories: combayaros
+categories: comba
 ---
 
 ### [Aros]({% link _posts/combayaros/2020-05-13-comba-aros.md %})
