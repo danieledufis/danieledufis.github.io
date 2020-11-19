@@ -5,12 +5,12 @@ Página de educación física
 ---
 
 PAGINA PRINCIPAL ACROSPORT
+- terminar atletismo
 - Ver si se puede cambiar el tamaño de las imagenes de un _post
 - ver si se puede linkar una imagen
+- LOS ENLACES DE LA HOME NO FUNCIONAN, mirar categorias de cada post y el path del main, ARTES MARCIALES HASTA CONOZCO MI CUERPO
 
 - Buscar como abrir un enlace en otra pestaña, para PATALIMPICO, poner el enlace desde la Home 
-- LOS ENLACES DE LA HOME NO FUNCIONAN, ARTES MARCIALES HASTA CONOZCO MI CUERPO
-- Para el submenu COGER ATLETISMO del documento ORGANIZACION en Downoload
 - Botón "volver"
 - Quitar el DEPORTE del nombre del archivo FECHA--deporte-nombree.md
 - Dejar el estilo de la Home apañao, responsive, ojo con el tamaño de los nombres de los deportes: var(max-size)
@@ -30,10 +30,10 @@ HECHO
 
 TAREAS DANI
 - Solo falta cambiar el nombre de "deportes de raqueta"
-- El texto del Main, "Información sobre tu curso" OK
+- El texto del Main, "Información sobre tu curso"
 - Dani me tiene que dar una fraase para el Footer
-- Hacemos una "guía de uso", OK, pantallazos de la web
-- Poner un mail de contacto (config) OK
+- Hacemos una "guía de uso", pantallazos de la web
+- Poner un mail de contacto (config)
 
 ---
 
