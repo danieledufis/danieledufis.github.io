@@ -38,7 +38,7 @@ categories: deportesderaqueta
 -- [US open]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis-US.md %})
 
 ### Tenis de mesa
-- [Reglas]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenisdemesa-reglas.md %})
+- [Reglas]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta_tenisdemesa_reglas.md %})
 - [Tutoriales]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenisdemesa-tutoriales.md %})
 - [Mejores puntos]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta_tenisdemesa_mejorespuntos.md %})
 ![Reglas](../images/depraqueta_tenisdemesa_reglas_pestana.jpg)
