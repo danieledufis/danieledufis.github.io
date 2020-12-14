@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "RÉCORDS DEL MUNDO"
+title: "Rércords"del mundo"
 categories: atletismo
 ---
 
-# Mujeres
+## Mujeres
 
-# Hombres
+## Hombres
