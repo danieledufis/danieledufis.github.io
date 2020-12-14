@@ -8,7 +8,7 @@ La finalidad de la competición es **saltar un listón, pasando por encima**, y 
 
 Para esta disciplina **se utiliza una barra flexible que permite alcanzar alturas mucho mayores.** La longitud y flexibilidad de esta barra (la pértiga o garrocha) varía de unas a otras y cada atleta podrá utilizar la que considere más adecuada según la altura a superar.
 
-![Pértiga](https:/danieledufis.github.io/images_text/atletismo_salto%20pertiga.jpg)
+![Pértiga](https://danieledufis.github.io/images_text/atletismo_salto%20pertiga.jpg)
 
 
 ### 1. Eliminatorias.
