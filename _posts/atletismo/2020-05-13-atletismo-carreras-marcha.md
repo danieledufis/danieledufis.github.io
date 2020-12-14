@@ -29,14 +29,14 @@ En caso de que tras cumplir una penalización el marchador vuelva a recibir tarj
 
 A continuación tenéis unos sobre la marcha y tutoriales:
 
-#### TUTORIAL
+#### Tutorial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o0X6k2uL9Hk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### MUJERES
+#### Mujeres
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6U_7JDsZu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### HOMBRES
+#### Hombres
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/czOyllpqXgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
