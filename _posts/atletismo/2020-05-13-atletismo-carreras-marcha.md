@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MARCHA"
+title: "Marcha"
 categories: atletismo
 ---
 
