@@ -12,3 +12,21 @@ categories: atletismo
 
 A continuación tenéis vídeos de las disciplinas de 800m y 1.500m.
 
+### 800m
+
+##### Mujeres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vHU9OFSwmEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Hombres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x7KGlbZVK-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### 15000m
+
+##### Mujeres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJigR1qr8kU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Hombres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_nulJrt7i5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
