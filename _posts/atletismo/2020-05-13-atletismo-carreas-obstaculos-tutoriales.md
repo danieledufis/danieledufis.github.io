@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OBSTÁCULOS: TUTORIALES"
+title: "Obstáculos: tutoriales"
 categories: atletismo
 ---
 
