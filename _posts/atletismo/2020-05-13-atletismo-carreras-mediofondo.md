@@ -10,6 +10,8 @@ categories: atletismo
 * No obstante, en esta prueba de 800, transcurrida una distancia todos los corredores pueden abandonar sus respectivos carriles y utilizar la parte de la pista que prefieran, generalmente la más interior. Tampoco existe el concepto de salida nula.
 * Son carreras donde la estrategia es muy importante para poder modular la velocidad según las circunstancias de cada momento.
 
+## Vídeos
+
 A continuación tenéis vídeos de las disciplinas de 800m y 1.500m.
 
 ### 800m
