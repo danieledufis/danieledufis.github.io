@@ -28,7 +28,7 @@ En estas pruebas, además de correr el atleta debe **superar una serie de obstá
 
 ## Vídeos
 
-A continuación os muestro vídeos de ambas disciplinas:
+A continuación os muestro vídeos de estas disciplinas:
 
 ### 100/110m vallas
 
@@ -39,6 +39,16 @@ A continuación os muestro vídeos de ambas disciplinas:
 ##### Hombres
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h0nalKrQfZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+###  400m vallas
+
+##### Mujeres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JD37yYSLiS0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Hombres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qn_kwu_CTx8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 3.000m obstáculos
 
