@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LANZAMIENTOS"
+title: "Lanzamientos"
 categories: atletismo
 ---
 
