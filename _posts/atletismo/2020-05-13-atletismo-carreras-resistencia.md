@@ -22,3 +22,53 @@ categories: atletismo
 ![CROSS](https://danieledufis.github.io/images_text/atletismo_fondo_cross.jpg)
 
 A continuación tenéis vídeos de todas las modalidades:
+
+### 5.000m
+
+##### Mujeres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OWOjA8XPKcY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Hombres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IC9Go4xVgdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 10.000m
+
+##### Mujeres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EV_eFh01HxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Hombres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EV_eFh01HxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Maratón
+
+##### Mujeres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DsBOYOi5pds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Hombres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FpoDmkZFAEI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Medio maratón
+
+##### Mujeres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aJkXwaM-bvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Hombres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FK8BL7yAxPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Cross
+
+##### Mujeres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aM7JLnvvu7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Hombres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2M1Tr-5Dr8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
