@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MEJORES ATLETAS MUJERES"
+title: "Mejores atletas: mujeres"
 categories: atletismo
 ---
 
