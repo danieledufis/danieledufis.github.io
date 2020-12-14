@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CARRERAS DE MEDIO FONDO"
+title: "Carreras de medio fondo"
 categories: atletismo
 ---
 
