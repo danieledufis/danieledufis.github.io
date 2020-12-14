@@ -20,11 +20,11 @@ Os dejo los vídeos de algunos de los finales más emocionantes que se han dado 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9o4q8ZUE-VY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## FINALES VARIOS
+## Finales varios
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DP3o43hB6a4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## FINALES VARIOS 2
+## Finales varios 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9V8zl4GP-4Q?start=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
