@@ -25,3 +25,27 @@ En estas pruebas, además de correr el atleta debe **superar una serie de obstá
 * Es una **carrera de medio fondo y por eso la salida se ejecuta de la misma manera que en estas.**
 
 ![3000M OBSTÁCULOS](https://danieledufis.github.io/images_text/atletismo_carrerapbstaculos.jpg)
+
+## Vídeos
+
+A continuación os muestro vídeos de ambas disciplinas:
+
+### 100/110m vallas
+
+##### Mujeres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sCJL1HOOnLY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Hombres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h0nalKrQfZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 3.000m obstáculos
+
+##### Mujeres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_a8MkZZYKOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Hombres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AatporMbqhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
