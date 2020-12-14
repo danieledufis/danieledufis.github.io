@@ -27,6 +27,8 @@ En este caso, tras recibir las 3 tarjetas rojas, el marchador no queda descalifi
 Si la amonestación se produce a poca distancia de la meta y el marchador no tiene ocasión de pasar por el pit lane, se añade el tiempo de sanción a la marca conseguida.
 En caso de que tras cumplir una penalización el marchador vuelva a recibir tarjeta roja o si recibe una 4ª tarjeta antes de alcanzar el pit lane, entonces se produce la descalificación de la prueba debiendo abandonar el recorrido definitivamente. También se mantiene la regla de los 100 metros finales.
 
+## Vídeos 
+
 A continuación tenéis unos sobre la marcha y tutoriales:
 
 #### Tutorial
