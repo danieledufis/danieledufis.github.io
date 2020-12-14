@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CARRERAS DE OBSTÁCULOS"
+title: "Carreras de obstáculos"
 categories: atletismo
 ---
 
