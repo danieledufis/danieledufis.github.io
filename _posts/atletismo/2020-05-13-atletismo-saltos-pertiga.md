@@ -4,11 +4,12 @@ title: "Salto con pértiga"
 categories: atletismo
 ---
 
-En ambos casos la finalidad de la competición es **saltar un listón, pasando por encima**, y tratando de hacerlo con él colocado a la mayor altura posible.
+La finalidad de la competición es **saltar un listón, pasando por encima**, y tratando de hacerlo con él colocado a la mayor altura posible.
 
-La gran diferencia entre ambas pruebas es que **en el salto de altura no se utiliza ningún elemento** para saltar mientras que **en el salto con pértiga se utiliza una barra flexible que permite alcanzar alturas mucho mayores.** La longitud y flexibilidad de esta barra (la pértiga o garrocha) varía de unas a otras y cada atleta podrá utilizar la que considere más adecuada según la altura a superar.
+Para esta disciplina **se utiliza una barra flexible que permite alcanzar alturas mucho mayores.** La longitud y flexibilidad de esta barra (la pértiga o garrocha) varía de unas a otras y cada atleta podrá utilizar la que considere más adecuada según la altura a superar.
 
-La dinámica de ambas pruebas es igual:
+![Pértiga](https:/danieledufis.github.io/images_text/atletismo_salto%20pertiga.jpg)
+
 
 ### 1. Eliminatorias.
 
