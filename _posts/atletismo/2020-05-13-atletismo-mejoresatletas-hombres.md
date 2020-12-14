@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "MEJORES ATLETAS HOMBRES"
+title: "Mejores atletas: hombres"
 categories: atletismo
 ---
