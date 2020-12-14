@@ -47,4 +47,4 @@ En las 4 pruebas la dinámica de competición es la misma:
   * Este orden se mantiene en los 3 intentos independientemente de que alguno de ellos mejore su marca. 
   * Para determinar la posición final de la competición se tiene en cuenta el mejor de los 6 lanzamientos realizados
 
-A continuación tenéis vídeos y tutoriales de las 4 modalidades:
+
