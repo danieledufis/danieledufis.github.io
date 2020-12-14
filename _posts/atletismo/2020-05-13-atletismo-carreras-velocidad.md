@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CARRERAS DE VELOCIDAD"
+title: "Carreras de velocidad"
 categories: atletismo
 ---
 
