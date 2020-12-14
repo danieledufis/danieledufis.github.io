@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "¿CARRERAS"
+title: "Carreras"
 categories: atletismo
 ---
