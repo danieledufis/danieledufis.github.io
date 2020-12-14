@@ -37,4 +37,26 @@ Existen 2 modalidades distintas de carreras de relevos: **4×100 metros y 4×400
 
 ![INTERCAMBIOS2](https://danieledufis.github.io/images_text/atletismo_relevos2.jpg)
 
+## Vídeos
+
 A continuación tenéis vídeos de las dos disciplinas.
+
+### 4x100m
+
+##### Mujeres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dvGTa_ievWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Hombres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x3yLI9uMjXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 4x400m
+
+##### Mujeres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CAOmWs09FXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Hombres
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PobulzDl9oE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
