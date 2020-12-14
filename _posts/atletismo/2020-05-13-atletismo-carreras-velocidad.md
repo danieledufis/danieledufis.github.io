@@ -25,6 +25,8 @@ categories: atletismo
 
 * Las pruebas de velocidad más comunes son: **100 metros, 200 metros y 400 metros.**
 
+## Vídeos
+
 A continuación tenéis vídeos de todas las disciplinas.
 
 ### 100m
