@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FINALES EMOCIONANTES"
+title: "Finales emocionantes"
 categories: atletismo
 ---
 
