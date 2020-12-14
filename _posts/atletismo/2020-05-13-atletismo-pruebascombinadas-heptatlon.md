@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEPTATLÓN"
+title: "Heptatlón"
 categories: atletismo
 ---
 
