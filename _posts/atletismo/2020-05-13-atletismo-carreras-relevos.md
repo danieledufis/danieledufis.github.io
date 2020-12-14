@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CARRERAS DE RELEVOS"
+title: "Carreras de relevos"
 categories: atletismo
 ---
 
@@ -8,7 +8,7 @@ Aunque las carreras de relevos son en realidad **carreras de velocidad** hemos p
 
 Existen 2 modalidades distintas de carreras de relevos: **4×100 metros y 4×400 metros.**
 
-### NÚMERO DE ATLETAS ###
+### Número de atletas ###
 
 * En cada una de ellas compiten 4 atletas del mismo sexo por equipo.
 * Cada atleta recorre la distancia completa de la prueba (100 ó 400 metros) antes de pasar el testigo al siguiente miembro del equipo que deberá recorrer la misma distancia.
@@ -16,7 +16,7 @@ Existen 2 modalidades distintas de carreras de relevos: **4×100 metros y 4×400
 
 ![PISTA](https://danieledufis.github.io/images_text/atletismo_relevos_pista.jpg)
 
-### CAMBIO DE TESTIGO ###
+### Cambio de testigo ###
 
 * El testigo es un tubo cilíndrico que debe llevar en todo momento el integrante que se encuentra corriendo. 
 * Una vez finalizada su distancia debe pasárselo al siguiente miembro dentro de un área establecida para este fin. 
@@ -26,7 +26,7 @@ Existen 2 modalidades distintas de carreras de relevos: **4×100 metros y 4×400
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VMQY0hPW-dM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### SALIDA E INTERCAMBIOS###
+### Salida e intercambios ###
 
 * Dado que son pruebas de velocidad, **el primer integrante del equipo utiliza starting para tomar la salida** y existe el concepto de salida nula (si no conoces estos dos términos, revisa el apartado de carreras de velocidad). La carrera de 4×100 se desarrolla completa por el mismo carril. 
 * En 4×400, una vez completada la primera vuelta los atletas pueden desplazarse por la parte de la pista que prefieran. 
