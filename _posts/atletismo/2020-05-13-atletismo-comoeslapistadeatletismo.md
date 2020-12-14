@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿CÓMO ES LA PISTA DE ATLETISMO?"
+title: "¿Cómo es la pista de atletismo?"
 categories: atletismo
 ---
 
