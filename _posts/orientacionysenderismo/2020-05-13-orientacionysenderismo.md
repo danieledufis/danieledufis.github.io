@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ORIENTACIÓN Y SENDERISMO"
+title:  "Orientación y senderismo"
 categories: orientacionysenderismo
 ---
 
