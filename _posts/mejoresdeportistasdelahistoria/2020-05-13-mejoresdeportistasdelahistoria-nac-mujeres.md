@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "MEJORES DEPORTISTAS DE LA HISTORIA nac MUJERES"
+title: "Mejores deportistas nacionales de la hitoria: hombres"
 categories: mejoresdeportistasdelahistoria
 ---
