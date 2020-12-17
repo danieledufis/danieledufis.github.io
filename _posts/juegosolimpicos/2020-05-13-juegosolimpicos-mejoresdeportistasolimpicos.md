@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "MEJORES DEPORTISTAS OLÍMPICOS"
+title:  "Mejores deportistas olímpicos"
 categories: juegosolimpicos
 ---
 
-# MEJORES DEPORTISTAS OLÍMPICOS
