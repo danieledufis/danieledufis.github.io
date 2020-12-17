@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "RUTAS POR MADRID"
+title:  "Rutas en Madrid"
 categories: orientacionysenderismo
 ---
 
-# RUTAS POR MADRID
