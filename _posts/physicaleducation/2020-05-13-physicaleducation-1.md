@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Physical education 1º"
+title: "Physical Education 1º"
 categories: mejoresdeportistasdelahistoria
 ---
