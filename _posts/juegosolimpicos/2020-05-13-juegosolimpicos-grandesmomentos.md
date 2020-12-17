@@ -4,8 +4,6 @@ title:  "GRANDES MOMENTOS"
 categories: juegosolimpicos
 ---
 
-# GRANDES MOMENTOS EN LOS JUEGOS OLÍMPICOS
-
 Aquí os muestro un ínidce de cómo están puestos los vídeos dentro de Londres 2012 y Río de Jnaeiro 2016. Son muchos vídeos, por lo que de esta manera os será mucho más fácil encontrar el vídeo que buscáis. En ambos encontrareis la competición de mujeres y la de hombres.
 
 * ATLETISMO
