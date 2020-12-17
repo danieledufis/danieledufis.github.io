@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "DEPORTES EN LOS JUEGOS OLÍMPICOS"
+title: "Deportes en los Juegos Olímpicos"
 categories: juegosolimpicos
 ---
-
-# DEPORTES EN LOS JUEGOS OLÍMPICOS
 
 A través del siguiente enlace, accederéis a la web oficial de los Juegos Olímpicos, donde encontraréis toda la información de los deportes practicados en las diferentes modalidades de los Juegos Olímpicos:
 
