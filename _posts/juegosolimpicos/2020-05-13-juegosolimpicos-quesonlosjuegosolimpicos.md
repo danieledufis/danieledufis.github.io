@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "¿QUÉ SON LOS JUEGOS OLÍMPICOS?"
+title:  "¿Qué son los Juegos Olímpicos?"
 categories: juegosolimpicos
 ---
 
-# ¿QUÉ SON LOS JUEGOS OLÍMPICOS?
