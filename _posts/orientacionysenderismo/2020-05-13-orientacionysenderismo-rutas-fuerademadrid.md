@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "RUTAS FUERA DE MADRID"
+title: "Rutas fuera de Madrid"
 categories: orientacionysenderismo
 ---
 
-# RUTAS FUERA DE MADRID
