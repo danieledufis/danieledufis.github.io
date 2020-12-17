@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "GRANDES MOMENTOS LONDRES 2012"
+title: "Grandes momentos Londres 2012"
 categories: juegosolimpicos
 ---
 
-# LONDRES 2012
-
 Existen muchas más modalidades olímpicas, pero aquí os pongo los vídeos de las finales olímpicas de las disciplinas que podéis encontrar en la página web de Educación Física:
 
-## ATLETISMO
+## Atletismo
 
 - _100M_
 
@@ -170,7 +168,7 @@ Existen muchas más modalidades olímpicas, pero aquí os pongo los vídeos de l
   - Hombres
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Q-96j3T3Dh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## BADMINTON
+## Badminton
 
 - Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F3T3gKDdHKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -178,7 +176,7 @@ Existen muchas más modalidades olímpicas, pero aquí os pongo los vídeos de l
 - Hombres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ytjD4f_I0sc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## BALONMANO
+## Balonmano
 
 - Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/920wncLupiE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -186,7 +184,7 @@ Existen muchas más modalidades olímpicas, pero aquí os pongo los vídeos de l
 - Hombres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RtFuCFaYT7I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## BALONCESTO
+## Baloncesto
 
 - Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6IOFIajQEIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -194,7 +192,7 @@ Existen muchas más modalidades olímpicas, pero aquí os pongo los vídeos de l
 - Hombres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l9wUr-CK1Y4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## CICLISMO
+## Ciclismo
 
 - CONTRARRELOJ
 
@@ -220,7 +218,7 @@ Existen muchas más modalidades olímpicas, pero aquí os pongo los vídeos de l
   - Hombres
   <iframe width="560" height="315" src="https://www.youtube.com/embed/irIXRM9mmso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## FÚITBOL
+## Fútbol
 
 - Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x5s8xTl_Ecw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -228,7 +226,7 @@ Existen muchas más modalidades olímpicas, pero aquí os pongo los vídeos de l
 - Hombres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iSigwjYtXb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## GIMNASIA
+## Gimnasia
 
 En este caso encontraremos diferentes modalidades para hombres y mujeres.
 
@@ -266,7 +264,7 @@ En este caso encontraremos diferentes modalidades para hombres y mujeres.
   - SALTO DE POTRO
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Ws1tth8XWhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## HOCKEY HIERBA
+## Hockey hierba
 
 - Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ygPQKRxZLsc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -274,7 +272,7 @@ En este caso encontraremos diferentes modalidades para hombres y mujeres.
 - Hombres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ag501MAxwhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## JUDO
+## Judo
 
 Dentro del judo existen muchas disciplinas olímpicas en función del peso de los deportistas. Aquí os dejo dos de las finales que se celebraron en Londres 2012:
 
@@ -284,7 +282,7 @@ Dentro del judo existen muchas disciplinas olímpicas en función del peso de lo
 - Hombres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GifBpkjlHrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## NATACIÓN
+## Natación
 
 Existen más modalidades pero aquí os dejo una prueba de cada estilo:
 
@@ -355,7 +353,7 @@ Existen más modalidades pero aquí os dejo una prueba de cada estilo:
 
   - Hombres
 
-## REMO
+## Remo
 
 Durante los Juegos Olímpicos se realizan competiciones de diferentes modalidades. Aquí os voy a dejar el ejemplo de dos de ellas:
 
@@ -365,7 +363,7 @@ Durante los Juegos Olímpicos se realizan competiciones de diferentes modalidade
 - Hombres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4ARBzok9aU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## TENIS
+## Tenis
 
 - INDIVIDUALES
 
@@ -383,7 +381,7 @@ Durante los Juegos Olímpicos se realizan competiciones de diferentes modalidade
   - Hombres
   <iframe width="560" height="315" src="https://www.youtube.com/embed/aNxHkVEkx40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## TENIS DE MESA
+## Tenis de mesa
 
 - INDIVIDUALES
 
@@ -393,7 +391,7 @@ Durante los Juegos Olímpicos se realizan competiciones de diferentes modalidade
   - Hombres
   <iframe width="560" height="315" src="https://www.youtube.com/embed/yiqFxDx2WW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## VOLEIBOL
+## Voleibol
 
 - Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpRxavivngI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -401,7 +399,7 @@ Durante los Juegos Olímpicos se realizan competiciones de diferentes modalidade
 - Hombres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovujPi4vUQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## VOLEI PLAYA
+## Volei playa
 
 - Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m9PdBs6ub1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
