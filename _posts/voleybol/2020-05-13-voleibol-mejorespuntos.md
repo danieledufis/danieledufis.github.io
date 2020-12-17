@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "MEJORES PUNTOS"
+title: "Mejores puntos"
 categories: voleibol
 ---
 
-# MEJORES PUNTOS
+## Mujeres
 
-## MUJERES
-
-## HOMBRES
+## Hombres
