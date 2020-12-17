@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "CUIDAMOS EL MEDIO AMBIENTE"
+title: "Cuidamos el medio ambiente"
 categories: orientacionysenderismo
 ---
 
-# CUIDAMOS EL MEDIO AMBIENTE
