@@ -1,7 +1,6 @@
 ---
 layout: post
-title: " MEJORES DEPORTISTAS DE LA HISTORIA HOMBRES"
+title: " Mejores deportistas de la historia: hombres"
 categories: mejoresdeportistasdelahistoria
 ---
 
-# MEJORES DEPORTISTAS DE LA HISTORIA HOMBRES
