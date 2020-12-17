@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RESTOS POR CURSOS"
+title: "Retos por cursos"
 categories: retosporcursos
 ---
 
