@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHYSICAL EDUCATION"
+title: "Physical education"
 categories: physicaleducation
 ---
 
