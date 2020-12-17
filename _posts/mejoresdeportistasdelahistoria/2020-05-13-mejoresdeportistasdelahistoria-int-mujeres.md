@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MEJORES DEPORTISTAS DE LA HISTORIA MUJERES"
+title: "Mejores deportistas de la historia: mujeres"
 categories: mejoresdeportistasdelahistoria
 ---
 
-# MEJORES DEPORTISTAS DE LA HISTORIA: MUJERES
+
