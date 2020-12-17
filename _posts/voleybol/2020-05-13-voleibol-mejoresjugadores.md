@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "MEJORES JUGADORES"
+title: "Mejores jugadores"
 categories: voleibol
 ---
-
-# MEJORES JUGADORES
