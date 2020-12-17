@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MEJORES DEPORTITAS DE LA HISTORIA"
+title: "Mejores deportistas de la historia"
 categories: mejoresdeportistasdelahistoria
 ---
 
