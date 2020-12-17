@@ -4,9 +4,7 @@ title: "REGLAS VOLEIBOL"
 categories: voleibol
 ---
 
-# REGLAS VOLEIBOL
-
-**1.PISTA**
+**1.Pista**
 
 - Es un rectángulo que mide 18 metros de largo por 9 metros de ancho.
 - Está rodeado por una zona libre con un mínimo de 3 metros de ancho por cada lado.
@@ -18,7 +16,7 @@ categories: voleibol
 
 ![PISTA2](https://danieledufis.github.io/images_text/voleibol_pista2.jpg)
 
-**2.PUNTUACIÓN**
+**2.Puntuación**
 
 - **PUNTO:** Se anota un punto cuando el equipo contrario comete una infracción (lanzar el balón fuera o que el balón no pase la red) o si el balón toca el suelo del equipo contrario.
 - **SET:** Un set lo gana el primer equipo que anota 25 puntos con una ventaja mínima de 2 tantos. En caso de empate, el juego continúa hasta que uno de los dos equipos consiga ventaja de dos puntos (25-23, 26-24, 27-25…).
@@ -26,14 +24,14 @@ categories: voleibol
 
 ![PUNTUACIÓN](https://danieledufis.github.io/images_text/voleibol_puntuaci%C3%B3n.png)
 
-**3.ESTRUCTURA DEL JUEGO**
+**3.Estructura del juego**
 
 - Antes del partido el árbitro realiza un sorteo para determinar quien realizará el primer saque y que lado de la cancha debe ocupar cada equipo (el ganador del sorteo puede elegir ambas opciones).
 - En caso de que haya un set decisivo se realizará un nuevo sorteo.
 - Cada equipo debe contar con 6 jugadores, ya que si está incompleto perderá el encuentro.
 - Se debe especificar si existe un jugador líbero y cómo será la rotación.
 
-**4.ROTACIÓN**
+**4.Rotación**
 
 - El orden se establece en la formación inicial.
 - Se controlará el orden mediante el sacador.
@@ -43,7 +41,7 @@ categories: voleibol
 
 ![ROTACIÓN](https://danieledufis.github.io/images_text/voleibol_rotacion.png)
 
-**5.POSICIONES**
+**5.Posiciones**
 
 - En el momento del saque todos los jugadores deben estar colocados en su puesto de la rotación.
 - DELANTEROS
