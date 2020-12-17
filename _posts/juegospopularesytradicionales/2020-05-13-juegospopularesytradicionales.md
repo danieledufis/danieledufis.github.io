@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JUEGOS POPULARES Y TRADICIONALES"
+title: "Juegos populares y tradicionales"
 categories: juegospopularesytradicionales
 ---
 
