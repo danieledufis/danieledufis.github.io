@@ -1,33 +1,31 @@
 ---
 layout: post
-title: "TUTORIALES"
+title: "Tutoriales"
 categories: voleibol
 ---
 
-# TUTORIALES VOLEIBOL
-
 Con estos tutoriales podéis conocer las reglas básicas y los golpes más comunes del voleibol. Seguro que os es muy útil:
 
-### REGLAS DEL VOLEIBOL
+### Reglas del voleibol
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v_zYuFeA79M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### ERRORES BÁSICOS
+### Errores básicos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kH0O34rUOzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### ZONAS, POSICIONES Y ROLES
+### Zonas, posiciones y roles
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T08dXv9vZqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### PASE DE ANTEBRAZOS
+### Pase de antebrazos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dVAv-bo6PV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### PASE DE DEDOS
+### Pase de dedos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uNFRwBGu-Rg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### EL SAQUE
+### El saque
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ro8UAwYUqCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
