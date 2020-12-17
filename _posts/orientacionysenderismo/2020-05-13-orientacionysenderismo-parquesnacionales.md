@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "PARQUES NACIONALES"
+title: "Parques nacionales"
 categories: orientacionysenderismo
 ---
 
-# PARQUES NACIONALES
