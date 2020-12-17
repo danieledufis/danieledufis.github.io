@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JJOO"
+title:  "Juegos Olímpicos"
 categories: juegosolimpicos
 ---
 
