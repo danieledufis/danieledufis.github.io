@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "GRANDES MOMENTOS DE OTROS JUEGOS"
+title: "Grandes momentos de otros juegos"
 categories: juegosolimpicos
 ---
-
-# GRANDES MOMENTOS DE OTROS JUEGOS
