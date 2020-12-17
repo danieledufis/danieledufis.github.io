@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "MEJORES DEPORTISTAS DE LA HISTORIA naciona MUJERES"
+title: "Mejores deportistas españolas de la historia: mujeres"
 categories: mejoresdeportistasdelahistoria
 ---
