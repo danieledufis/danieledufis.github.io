@@ -6,6 +6,4 @@ categories: ciclismo
 
 ## MAILLOTS
 
-![MAILLOTS](https://danieledufis.github.io/images_text/ciclismo_giro_maillots.jpg)
-
-F
+![MAILLOT](https://danieledufis.github.io/images_text/ciclismo_giro_maillot.jpg)
