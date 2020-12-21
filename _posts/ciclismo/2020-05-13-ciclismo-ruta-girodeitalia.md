@@ -4,10 +4,10 @@ title: "Giro de Italia"
 categories: ciclismo
 ---
 
-## MAILLOTS
+## Maillots
 
-![MAILLOT] (https://danieledufis.github.io/images_text/ciclismo_giro_maillot.jpg)
+![Maillots](https://danieledufis.github.io/images_text/ciclismo_giro_maillot.jpg)
 
-## PUERTOS
+## Puertos de montaña
 
-![STELVIO] (https://danieledufis.github.io/images_text/ciclismo_giro_stelvio.jpg)
+![Puertos](https://danieledufis.github.io/images_text/ciclismo_giro_stelvio.jpg)
