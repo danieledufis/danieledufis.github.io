@@ -10,4 +10,4 @@ categories: ciclismo
 
 ## Puertos de montaña
 
-![Puertos](https://danieledufis.github.io/images_text/ciclismo_giro_stelvio.jpg)
+![stelvio](https://danieledufis.github.io/images_text/ciclismo_giro_stelvio.jpg)
