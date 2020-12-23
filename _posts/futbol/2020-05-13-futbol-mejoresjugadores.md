@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mejores jugadores de fútbol"
-categories: futbol
+categories: "futbol"
 ---
 
 ## Mujeres ##
