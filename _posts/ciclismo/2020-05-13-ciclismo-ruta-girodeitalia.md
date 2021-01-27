@@ -29,7 +29,6 @@ Exsisten diferentes clasificaciones y sus líderes llevan los diferentes maillot
 * **Azul:** líder de la montaña.
 * **Blanco:** clasificación de los jóvenes.
 
-[MAILLOTS GIRO]:(https://danieledufis.github.io/images_text/ciclismo_giro_maillot.jpg)
 
 ### Lo mejor del Giro de Italia 
 
