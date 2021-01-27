@@ -8,6 +8,8 @@ categories: acrosport
 
 ### ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD
 
+Hola hola caracola
+
 ![AC1](https://danieledufis.github.io/images/AC01.jpg)
 ![AC2](https://danieledufis.github.io/images/AC02.jpg)
 ![AC3](https://danieledufis.github.io/images/AC03.jpg)
