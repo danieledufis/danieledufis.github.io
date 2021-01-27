@@ -29,7 +29,7 @@ Exsisten diferentes clasificaciones y sus líderes llevan los diferentes maillot
 * **Azul:** líder de la montaña.
 * **Blanco:** clasificación de los jóvenes.
 
-
+[MAILLOTS GIRO]:(https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/ciclismo_giro_maillot.jpg)
 
 ### Lo mejor del Giro de Italia ### 
 
@@ -37,9 +37,7 @@ Exsisten diferentes clasificaciones y sus líderes llevan los diferentes maillot
 
 ### Información en la red ### 
 
-Canal de youtube
+Canal de youtube [canal Giro]: https://www.youtube.com/user/giroditaliaweb 
 
-Página web
-Lo mejor del Giro d Italia https://www.youtube.com/watch?v=T0aT3M0c0AA
-Canal youtube https://www.youtube.com/user/giroditaliaweb
-Web https://www.giroditalia.it/es/
+Página web [web Giro]: https://www.giroditalia.it/es/
+
