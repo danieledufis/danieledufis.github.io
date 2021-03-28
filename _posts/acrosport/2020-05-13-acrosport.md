@@ -20,7 +20,11 @@ categories: acrosport
 ### [¿Qué es?]({% link _posts/acrosport/2020-05-13-quees.md %})
 
 ![Qué es](../images/acrosport_quees_pestana.jpg)
-<div style="width:100px">![Qué es](../images/acrosport_quees_pestana.jpg)</div>
+
+![](../images/acrosport_quees_pestana.jpg | width=100)
+![](../images/acrosport_quees_pestana.jpg =250x250)
+
+![](../images/acrosport_quees_pestana.jpg =250x250)
 
 ### [Medidas de seguridad]({% link _posts/acrosport/2020-05-13-medidasdeseguridad.md %})
 
