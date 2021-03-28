@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rércords"del mundo"
+title: "Rércords del mundo"
 categories: atletismo
 ---
 
