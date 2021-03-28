@@ -21,13 +21,6 @@ categories: acrosport
 
 ![Qué es](../images/acrosport_quees_pestana.jpg)
 
-![test image size](../images/acrosport_quees_pestana.jpg){:height="200px" width="100px"}
-
-
-![Qué es 2](../images/acrosport_quees_pestana.jpg=250x250)
-![Qué es 3](../images/acrosport_quees_pestana.jpg=250x250)
-![Qué es 1](../images/acrosport_quees_pestana.jpg | width=100)
-
 ### [Medidas de seguridad]({% link _posts/acrosport/2020-05-13-medidasdeseguridad.md %})
 
 ### Figuras
