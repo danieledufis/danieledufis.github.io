@@ -6,11 +6,10 @@ Página de educación física
 
 PAGINA PRINCIPAL ACROSPORT
 - terminar atletismo
-- Ver si se puede cambiar el tamaño de las imagenes de un _post
-- ver si se puede linkar una imagen
-- LOS ENLACES DE LA HOME NO FUNCIONAN, mirar categorias de cada post y el path del main, ARTES MARCIALES HASTA CONOZCO MI CUERPO
-
+- ESTO - Ver si se puede cambiar el tamaño de las imagenes de un _post
+- ESTO - ver si se puede linkar una imagen
 - Buscar como abrir un enlace en otra pestaña, para PATALIMPICO, poner el enlace desde la Home 
+
 - Botón "volver"
 - Quitar el DEPORTE del nombre del archivo FECHA--deporte-nombree.md
 - Dejar el estilo de la Home apañao, responsive, ojo con el tamaño de los nombres de los deportes: var(max-size)
@@ -25,11 +24,12 @@ HECHO
 - La fecha en los Post, "May 13, 2020", DA IGUAL, OK
 - IMAGES DE "_PESTAÑA.JPG" de la portada OK
 - Poner un texto debajo de cada imagen en la porada OK
+- LOS ENLACES DE LA HOME NO FUNCIONAN, mirar categorias de cada post y el path del main, ARTES MARCIALES HASTA CONOZCO MI CUERPO OK
+- Solo falta cambiar el nombre de "deportes de raqueta" OK
 
 ---
 
 TAREAS DANI
-- Solo falta cambiar el nombre de "deportes de raqueta"
 - El texto del Main, "Información sobre tu curso"
 - Dani me tiene que dar una fraase para el Footer
 - Hacemos una "guía de uso", pantallazos de la web
