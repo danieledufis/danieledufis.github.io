@@ -5,14 +5,12 @@ Página de educación física
 ---
 
 PAGINA PRINCIPAL ACROSPORT
+- ver si se puede linkar una imagen
 - terminar atletismo
-- ESTO - Ver si se puede cambiar el tamaño de las imagenes de un _post
-- ESTO - ver si se puede linkar una imagen
 - Buscar como abrir un enlace en otra pestaña, para PATALIMPICO, poner el enlace desde la Home 
 
 - Botón "volver"
 - Quitar el DEPORTE del nombre del archivo FECHA--deporte-nombree.md
-- Dejar el estilo de la Home apañao, responsive, ojo con el tamaño de los nombres de los deportes: var(max-size)
 
 ---
 
@@ -26,6 +24,8 @@ HECHO
 - Poner un texto debajo de cada imagen en la porada OK
 - LOS ENLACES DE LA HOME NO FUNCIONAN, mirar categorias de cada post y el path del main, ARTES MARCIALES HASTA CONOZCO MI CUERPO OK
 - Solo falta cambiar el nombre de "deportes de raqueta" OK
+- Ver si se puede cambiar el tamaño de las imagenes de un _post OK
+- Dejar el estilo de la Home apañao, responsive, ojo con el tamaño de los nombres de los deportes: var(max-size) OK
 
 ---
 
@@ -47,7 +47,7 @@ https://www.webisland.agency/blog/jekyll-internal-links/
 
 
 Comando para levantar el serve
-bundle exec jekyll serve
+- bundle exec jekyll serve
 
 
 ---
