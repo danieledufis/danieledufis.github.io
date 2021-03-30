@@ -5,6 +5,7 @@ Página de educación física
 ---
 
 PAGINA PRINCIPAL ACROSPORT
+- Cambiar tipografia, color y tamaño
 - terminar atletismo
 - Buscar como abrir un enlace en otra pestaña, para PATALIMPICO, poner el enlace desde la Home 
 
@@ -30,21 +31,19 @@ HECHO
 ---
 
 TAREAS DANI
-- El texto del Main, "Información sobre tu curso"
-- Dani me tiene que dar una fraase para el Footer
+- El texto del Main, "Información sobre tu curso" en la Home
+- Texo de descripción en la sección de "Todos los deportes" en la Home
+- Texto del Footer
 - Hacemos una "guía de uso", pantallazos de la web
 - Poner un mail de contacto (config)
-
----
-
-FALTA, ver con Dani cuando quedemos
-- Cambiar tipografia, color y tamaño. Cuando venga dani
 
 ---
 
 links
 https://www.webisland.agency/blog/jekyll-internal-links/
 
+<!--[![An old rock in the desert](/images/0-test-pagina-principal.png "Atletismo TEST")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+-->
 
 Comando para levantar el serve
 - bundle exec jekyll serve
