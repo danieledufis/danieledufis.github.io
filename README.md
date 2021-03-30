@@ -33,6 +33,7 @@ HECHO
 ---
 
 TAREAS DANI
+- Querias cambiar tipografia, color y tamaño. Tenemos que hablar de ello
 - Texto de la página principal: "Información sobre tu curso" 
 - Texto de la página principal. Descripción de: "Todos los deportes"
 - Texto del Footer
