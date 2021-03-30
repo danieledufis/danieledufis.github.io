@@ -11,10 +11,6 @@ La asistencia es un pase a un jugador que se encuentra en una posición de venta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9cEYGS8rc3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9cEYGS8rc3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 **2. Jason Williams** 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q8b0XbtpFsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
