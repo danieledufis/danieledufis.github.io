@@ -28,6 +28,7 @@ HECHO
 - Dejar el estilo de la Home apañao, responsive, ojo con el tamaño de los nombres de los deportes: var(max-size) OK
 - ver si se puede linkar una imagen OK
 - videos responsive OK
+- imagenes responsive OK
 
 ---
 
