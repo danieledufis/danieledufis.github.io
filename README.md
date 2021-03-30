@@ -5,12 +5,11 @@ Página de educación física
 ---
 
 PAGINA PRINCIPAL ACROSPORT
-- Cambiar tipografia, color y tamaño
-- terminar atletismo
-- Buscar como abrir un enlace en otra pestaña, para PATALIMPICO, poner el enlace desde la Home 
+- Cambiar tipografia, color y tamaño - ?
+- terminar atletismo - ?
 
-- Botón "volver"
-- Quitar el DEPORTE del nombre del archivo FECHA--deporte-nombree.md
+- Botón "volver" - ?
+- Quitar el DEPORTE del nombre del archivo FECHA--deporte-nombree.md - ?
 
 ---
 
@@ -29,6 +28,7 @@ HECHO
 - ver si se puede linkar una imagen OK
 - videos responsive OK
 - imagenes responsive OK
+- Buscar como abrir un enlace en otra pestaña, para PATALIMPICO, poner el enlace desde la Home OK
 
 ---
 
