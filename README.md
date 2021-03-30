@@ -31,11 +31,11 @@ HECHO
 ---
 
 TAREAS DANI
-- El texto del Main, "Información sobre tu curso" en la Home
-- Texo de descripción en la sección de "Todos los deportes" en la Home
+- Texto de la página principal: "Información sobre tu curso" 
+- Texto de la página principal. Descripción de: "Todos los deportes"
 - Texto del Footer
+- Poner un mail de contacto en el footer (config)
 - Hacemos una "guía de uso", pantallazos de la web
-- Poner un mail de contacto (config)
 
 ---
 
