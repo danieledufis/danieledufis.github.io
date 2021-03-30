@@ -13,6 +13,14 @@ main { display: block; /* Default value of `display` of `main` element is 'inlin
 /** Images */
 img { max-width: 100%; vertical-align: middle; }
 
+/** Iframe */
+iframe {
+  max-width: 100%;
+  width: 100vw;
+  height: 56vh;
+  max-height: 100vh;
+}
+
 /** Figures */
 figure > img { display: block; }
 

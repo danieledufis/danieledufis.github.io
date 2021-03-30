@@ -25,7 +25,7 @@ categories: acuaticos
 - Para impulsarse mueven los brazos hacia delante de forma alterna y luego los introducen en el agua mientras baten las piernas constantemente.
 - Cogen aire girando la cabeza hacia un lado y luego lo sueltan bajo el agua.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h47PpD5AItI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/h47PpD5AItI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Espalda
 
@@ -39,7 +39,7 @@ categories: acuaticos
 - Pueden batir las piernas juntas o separadas, pero deben salir a la superficie antes de llegar a los 15m.
 - El estilo es similar al crol, pero de espaldas.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/inEcwD_7MUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/inEcwD_7MUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Braza
 
@@ -57,7 +57,7 @@ categories: acuaticos
 - Primero abre los brazos hacia atrás hasta la altura de los hombros mientras levanta la cabeza y coge aire.
 - Al mismo tiempo encoge las piernas, con las rodillas y los pies hacia fuera, y las estira rápidamente mientras los brazos vuelven al punto de partida.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wIx_tlABqVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/wIx_tlABqVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Mariposa
 
@@ -73,7 +73,7 @@ categories: acuaticos
 - La patada, llamada de delfín, es un movimiento descendente y brusco de las piernas juntas.
 - Los nadadores respiran cuando tienen los brazos encima de la cabeza.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vaq5r8f2Zpc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Vaq5r8f2Zpc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Prueba de estilos
 
@@ -93,8 +93,8 @@ En todas las disciplinas mencionadas anteriormente se produce el llamado "viraje
 
   - **Crol y espalda:** realizan una voltereta bajo el agua de forma que rotan el cuerpo y se empujan con las piernas contra la pared.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9jLQEYUUXOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/9jLQEYUUXOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   - **Braza y mariposa:** tocan la pared con las dos manos a la vez antes de virar e impulsarse con las piernas.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/kZV0qk0qJR0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/kZV0qk0qJR0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
