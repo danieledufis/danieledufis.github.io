@@ -4,30 +4,42 @@ title: "Atletismo"
 categories: atletismo
 ---
 
-- ¿Qué es el atletismo?
-- ¿Cómo es la pista de atletismo?
-- Mejores atletas de la historia.
-- Récords del mundo.
-### Disciplinas
-- ### Carreras
--- Velocidad (p)
--- Medio fondo (p)
--- Resistencia (p)
--- Marcha (p)
-          1.1.5. Obstáculos (p)
-          1.1.6. Relevos (p)
-           1.1.7. Finales emocionantes (p)
-     1.2. Lanzamientos (t)
-           1.2.1. Explicación (p) 
-           1.2.2. Peso (p)
-            1.2.3. Disco (p)
-            1.2.4. Jabalina (p)
-            1.2.5. Martillo (p)
-     1.3. Saltos (t)
-             1.3.1. Altura (p)
-             1.3.2. Pértiga (p)
-             1.3.3. Longitud (p)
-             1.3.4. Triple salto (p)
-     1.4. Pruebas combinadas (t)
-             1.4.1. Decatlón (p)
-             1.4.2. Heptatlón (p)
+## [¿Que es el atletismo??]({% link _posts/atletismo/2020-05-13-atletismo-queeselatletismo.md %})
+## [¿Como es la pista de atletiso?]({% link _posts/atletismo/2020-05-13-atletismo-comoeslapistadeatletismo.md %})
+## [¿Mejores atletas de la historia?]({% link _posts/atletismo/2020-05-13-atletismo-mejoresatletasdelahistoria.md %})
+## [Récords del mundo]({% link _posts/atletismo/2020-05-13-atletismo-recordsdelmundo.md %})
+
+# Disciplnas
+
+## Carreras
+### [Velocidad]({% link %})
+### [Medio fondo]({% link %})
+### [Resistencia]({% link %})
+### [Marcha]({% link %})
+### [Obstáculos]({% link %})
+### [Relevos]({% link %})
+### [Finales emocionantes]({% link %})
+
+
+## Lanzamientos
+### [Explicación]({% link %})
+### [Peso]({% link %})
+### [Disco]({% link %})
+### [Jabalina]({% link %})
+### [Martillo]({% link %})
+
+
+## Saltos
+### [Altura]({% link %})
+### [Pértiga]({% link %})
+### [Longitud]({% link %})
+### [Triple salto]({% link %})
+
+
+## Pruebas combinadas
+### [Dectatlón]({% link %})
+### [Heptatlón]({% link %})
+## [¿Qué ?]({% link _posts/acrosport/2020-05-13-quees.md %})
+
+
+- 
