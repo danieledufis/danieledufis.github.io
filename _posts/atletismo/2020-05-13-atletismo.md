@@ -12,28 +12,28 @@ categories: atletismo
 # Disciplnas
 
 ## Carreras
-### [Velocidad]({% link %})
-### [Medio fondo]({% link %})
-### [Resistencia]({% link %})
-### [Marcha]({% link %})
-### [Obstáculos]({% link %})
-### [Relevos]({% link %})
-### [Finales emocionantes]({% link %})
+### [Velocidad]({% link _posts/atletismo/2020-05-13-atletismo-carreras-velocidad.md %})
+### [Medio fondo]({% link _posts/atletismo/2020-05-13-atletismo-carreras-mediofondo.md %})
+### [Resistencia]({% link _posts/atletismo/2020-05-13-atletismo-carreras-resistencia.md %})
+### [Marcha]({% link _posts/atletismo/2020-05-13-atletismo-carreras-marcha.md %})
+### [Obstáculos]({% link _posts/atletismo/2020-05-13-atletismo-carreras-obstaculos.md %})
+### [Relevos]({% link _posts/atletismo/2020-05-13-atletismo-carreras-relevos.md %})
+### [Finales emocionantes]({% link _posts/atletismo/2020-05-13-atletismo-carreras-finalesemocionantes.md %})
 
 
 ## Lanzamientos
-### [Explicación]({% link %})
-### [Peso]({% link %})
-### [Disco]({% link %})
-### [Jabalina]({% link %})
-### [Martillo]({% link %})
+### [Explicación]({% link _posts/atletismo/2020-05-13-atletismo-lanzamientos.md %})
+### [Peso]({% link _posts/atletismo/2020-05-13-atletismo-lanzamientos-peso.md %})
+### [Disco]({% link _posts/atletismo/2020-05-13-atletismo-lanzamiento-disco.md %})
+### [Jabalina]({% link _posts/atletismo/2020-05-13-atletismo-lanzamiento-jabalina.md %})
+### [Martillo]({% link _posts/atletismo/2020-05-13-atletismo-lanzamiento-martillo.md %})
 
 
 ## Saltos
-### [Altura]({% link %})
-### [Pértiga]({% link %})
-### [Longitud]({% link %})
-### [Triple salto]({% link %})
+### [Altura]({% link _posts/atletismo/2020-05-13-atletismo-saltos-altura.md %})
+### [Pértiga]({% link _posts/atletismo/2020-05-13-atletismo-saltos-pertiga.md %})
+### [Longitud]({% link _posts/atletismo/2020-05-13-atletismo-saltos-longitud.md %})
+### [Triple salto]({% link _posts/atletismo/2020-05-13-atletismo-saltos-triplesalto.md %})
 
 
 ## Pruebas combinadas
