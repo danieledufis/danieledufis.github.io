@@ -6,7 +6,7 @@ categories: acuaticos
 
 ## Natación
 - [ESTILOS Y DISCIPLINAS]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-estilosydisciplinas.md %})
-[ESTILOS Y DISCIPLINAS](https://github.com/danieledufis/danieledufis.github.io/blob/master/images/acuaticos_natacion_estilosydisciplinas_pestana.jpg)
+[ESTILOS Y DISCIPLINAS](../images/acuaticos_natacion_estilosydisciplinas_pestana.jpg)
 
 - [TUTORIALES]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-tutoriales.md %})
 [TUTORIALES](../images/tutorial_pestana.png)
