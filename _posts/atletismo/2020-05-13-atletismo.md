@@ -47,7 +47,7 @@ categories: atletismo
 
 
 ### [Disco]({% link _posts/atletismo/2020-05-13-atletismo-lanzamiento-disco.md %})
-
+-
 
 ### [Jabalina]({% link _posts/atletismo/2020-05-13-atletismo-lanzamiento-jabalina.md %})
 
