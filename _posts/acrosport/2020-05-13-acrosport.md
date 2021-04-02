@@ -27,21 +27,3 @@ categories: acrosport
 ![Sextetos](../images/acrosport_figuras_grupos6_pestana.jpg)
 
 
----
-
-### [¿Qué es?]({% link _posts/acrosport/2020-05-13-quees.md %})
-
-IMAGEN SIN ENLACE
-![Qué es](../images/acrosport_quees_pestana.jpg)
-
-IMAGEN CON ENLACE
-[![Qué es](../images/acrosport_quees_pestana.jpg)]({% link _posts/acrosport/2020-05-13-quees.md %})
-
-### [Medidas de seguridad]({% link _posts/acrosport/2020-05-13-medidasdeseguridad.md %})
-
-### Figuras
-- [Parejas]({% link _posts/acrosport/2020-05-13-figuras-parejas.md %})
-- [Trios]({% link _posts/acrosport/2020-05-13-figuras-trios.md %})
-- [Cuartetos]({% link _posts/acrosport/2020-05-13-figuras-cuartetos.md %})
-- [Quintetos]({% link _posts/acrosport/2020-05-13-figuras-quintetos.md %})
-- [Sextetos]({% link _posts/acrosport/2020-05-13-figuras-sextetos.md %})
