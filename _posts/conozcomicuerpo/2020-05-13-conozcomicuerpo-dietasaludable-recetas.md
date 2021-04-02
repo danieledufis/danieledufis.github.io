@@ -10,7 +10,7 @@ En este post vais a poder descargaros varias recetas para que tengáis una dieta
 
 1. Pollo a la Salomé
 
-![Pollo a la Salomé](https://github.com/danieledufis/danieledufis.github.io/blob/master/pdfs/Pollo%20a%20la%20Salom%C3%A9.pdf)
+![Pollo a la Salomé](../blob/master/pdfs/Pollo%20a%20la%20Salom%C3%A9.pdf)
 
 2. sfdf
 3. 
