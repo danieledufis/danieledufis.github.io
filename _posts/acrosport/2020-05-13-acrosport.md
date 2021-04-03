@@ -15,7 +15,7 @@ categories: acrosport
 
 ![Parejas](../images/acrosport_figuras_parejas_pestana.jpg)
 
-- [Trios]({% link _posts/acrosport/2020-05-13-figuras-trios.md %})
+- #### [Trios]({% link _posts/acrosport/2020-05-13-figuras-trios.md %})
 
 ![Tríos](../images/acrosport_figuras_trios_pestana.jpg)
 
