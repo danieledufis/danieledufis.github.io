@@ -4,8 +4,6 @@ title: "TUTORIALES NATACIÓN"
 categories: acuaticos
 ---
 
-# Tutoriales de natación
-
 A continuación os voy a mostrar unos tutoriales que os servirán aprender bien la técnica de cada de las disciplinas que hay en la natación.
 
 ## Calentamiento y estiramientos
