@@ -4,7 +4,6 @@ title: "Parejas"
 categories: acrosport
 ---
 
-hghj
 ### ANTES DE REALIZAR ESTAS FIGURAS DEBES LEER LAS MEDIDAS DE SEGURIDAD
 
 ![AP1](https://danieledufis.github.io/images/AP01.jpg)
