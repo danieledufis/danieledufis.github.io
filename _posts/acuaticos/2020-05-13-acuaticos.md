@@ -11,7 +11,7 @@ categories: acuaticos
 
 - [TUTORIALES]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-tutoriales.md %})
 
-[TUTORIALES](../images/tutorial_pestana.png)
+![TUTORIALES](../images/tutorial_pestana.png)
 
 - [RETOS DAVID MECA]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-retos.md %})
 
