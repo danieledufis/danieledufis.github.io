@@ -66,19 +66,19 @@ categories: deportesderaqueta
 Torneos
 [Open Australia]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis-AO.md %})
 
-![Open Australia](..)
+![Open Australia](../images/depraqueta_tenis_GS_AO_pesta%C3%B1a.png)
 
 [Roland Garros]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis-RG.md %})
 
-![Roland Garros](..)
+![Roland Garros](../images/depraqueta_tenis_GS_RG_pesta%C3%B1a.jpg)
 
 [Wimbledon]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis-WB.md %})
 
-![Wimbledon](..)
+![Wimbledon](../images/depraqueta_tenis_GS_WB_pesta%C3%B1a.jpg)
 
 [US open]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis-US.md %})
 
-![US open](..)
+![US open](../images/depraqueta_tenis_GS_US_pesta%C3%B1a.jpg)
 
 
 # Tenis de mesa
