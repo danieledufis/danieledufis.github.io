@@ -14,15 +14,15 @@ categories: juegosolimpicos
 
 ## Grandes momentos
 
-#### - [Londres 2012]({% link _posts/juegosolimpicos/2020-05-13-juegosolimpicos-deportes.md %})
+#### - [Londres 2012]({% link _posts/juegosolimpicos/2020-05-13-juegosolimpicos-grandesmomentos-londres2012.md %})
 
 ![Londres 2012](../images/juegosolimpicos_grandesmomentos_londres2012_pestana.png)
 
-#### - [Rio de Janeiro 2016]({% link _posts/juegosolimpicos/2020-05-13-juegosolimpicos-deportes.md %})
+#### - [Rio de Janeiro 2016]({% link _posts/juegosolimpicos/2020-05-13-juegosolimpicos-grandesmomentos-riodejaneiro2016.md %})
 
 ![Rio de Janeiro 2016](../images/juegosolimpicos_grandesmomentos_Rio2016_pestana.jpg)
 
-#### - [Otros juegos]({% link _posts/juegosolimpicos/2020-05-13-juegosolimpicos-deportes.md %})
+#### - [Otros juegos]({% _posts/juegosolimpicos/2020-05-13-juegosolimpicos-grandesmomentos-otrosjuegos.md %})
 
 ![Otros juegos](../images/juegosolimpicos_grandesmomentos_otrosjuegos_pestana.jpg)
 
