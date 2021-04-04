@@ -18,7 +18,6 @@ categories: atletismo
 
 * En el caso de los 200 y 400 metros, las posiciones de salida no están a la misma altura, sino escalonadas para compensar la mayor longitud de los carriles exteriores de la pista.
 
-
 * Al tratarse de carreras donde cada décima importa, en caso de que alguien se adelante a la señal de salida quedará automáticamente fuera de la competición y la salida se repetirá. Es lo que se denomina «salida nula».
 
 ![SALIDA NULA](https://danieledufis.github.io/images_text/atletismo_salidanula1.jpg)
