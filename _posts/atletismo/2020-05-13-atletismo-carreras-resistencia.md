@@ -12,7 +12,7 @@ categories: atletismo
 
 ![FONDO2](https://danieledufis.github.io/images_text/atletismo_fondo2.jpg)
 
-### Disciplinas 
+## Disciplinas 
 
 * Las pruebas más **cortas** de esta categoría, las de **5.000 y 10.000 metros** se realizan dentro de la pista de atletismo mientras que el resto suelen desarrollarse fuera, por calles o terrenos de superficie lisa (aunque pueden presentar desniveles y rampas).
 * En esta categoría entran las pruebas de **maratón (42 Km y 195 m) y media maratón (21 Km y 097 m).** 
@@ -45,7 +45,7 @@ A continuación tenéis vídeos de todas las modalidades:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EV_eFh01HxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Maratón
+### Maratón
 
 #### Mujeres
 
