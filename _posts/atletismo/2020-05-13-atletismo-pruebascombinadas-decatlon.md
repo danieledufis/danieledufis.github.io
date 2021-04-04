@@ -4,9 +4,7 @@ title: "DecatlónN"
 categories: atletismo
 ---
 
-## Pruebas que componen el Decatlón
-
-Primer día de competición:
+#### Primer día de competición:
 
 - 100 metros
 - Salto de Longitud
@@ -14,7 +12,7 @@ Primer día de competición:
 - Salto de Altura
 - 400 metros
 
-Segundo día de competición:
+#### Segundo día de competición:
 
 - 110 metros Vallas
 - Lanzamiento de Disco
