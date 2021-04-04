@@ -1,24 +1,24 @@
 ---
 layout: post
-title: "¿Qué es el atletismo"
+title: "¿Qué es el atletismo?"
 categories: atletismo
 ---
 
 A conitnuación tenéis 3 tutoriales interesantes sobre el atletismo:
 
-### Introducción
+## Introducción
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/IMiBticEVHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  
- ### Equipación
+## Equipación
  <iframe width="560" height="315" src="https://www.youtube.com/embed/KT6E8oLtrNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  
- ### Calentamiento genérico
+## Calentamiento genérico
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ar61ygY8D2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
- ### Modalidades
+## Modalidades
  
 Dentro del atletismo podemos encontrar las siguientes modalidades:
 
