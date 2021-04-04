@@ -6,50 +6,50 @@ categories: deportesderaqueta
 
 Con estos tutoriales podréis conocer mejor las reglas y golpes que exiten en el tenis de mesa:
 
-### Introducción
+## - Introducción
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4pn-fkT_qjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Equipación
+## - Equipación
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoIQTIArYhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Precios del material
+## - Precios del material
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nixlmrty1AE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Cómo jugar
+## - Cómo jugar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IJCUjYodwHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Cómo sacar
+## - Cómo sacar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P_vdSaZizNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Saque de derechas y de revés
+## - Saque de derechas y de revés
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f4LjNbeVTjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Golpes básicos
+## - Golpes básicos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wR0xRiRcBrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Ataque y defensa
+## - Ataque y defensa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1eY4SDnlWmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Defensa de revés
+## - Defensa de revés
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jWPAIGPvKaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### El topspin
+## - El topspin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/idUUkeM6LoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Entrenamiento con multibolas
+## - Entrenamiento con multibolas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XvavyNUmHNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Juego de dobles
+## - Juego de dobles
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jVPngj_ch2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
