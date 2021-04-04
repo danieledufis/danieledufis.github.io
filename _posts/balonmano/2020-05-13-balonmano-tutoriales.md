@@ -10,7 +10,7 @@ A continuación tenéis unos tutoriales con información básica sobre este dive
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sjz2mh7TDxk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## EQUIPACIÓN DE PORTERO
+## Equipación de portero
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XNLfKC9LBC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
