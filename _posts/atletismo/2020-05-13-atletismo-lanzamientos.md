@@ -43,7 +43,7 @@ En las 4 pruebas la dinámica de competición es la misma:
 
 **3. Final, fase de mejora.** 
   * Los 8 mejores lanzadores cuentan con 3 lanzamientos extra para tratar de mejorar sus distancias. 
-  * Empieza el que peor marca haya obtenido y seguirá en orden hasta el primero. 
+  * Empieza el que peor marca haya obtenido y seguirá en orden hasta el primero.  
   * Este orden se mantiene en los 3 intentos independientemente de que alguno de ellos mejore su marca. 
   * Para determinar la posición final de la competición se tiene en cuenta el mejor de los 6 lanzamientos realizados
 
