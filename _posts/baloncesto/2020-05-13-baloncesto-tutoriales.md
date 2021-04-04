@@ -8,11 +8,11 @@ El baloncesto es uno de los deportes de equipo más entretenidos que hay, pero p
 
 ## Reglas de baloncesto
 
-<!--iframe width="560" height="315" src="https://www.youtube.com/embed/5F_HNvP0nZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5F_HNvP0nZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ¿Cómo se cuentan los puntos?
 
-<!--iframe width="560" height="315" src="https://www.youtube.com/embed/jEv27bf1XG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jEv27bf1XG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Infracciones
 
