@@ -4,16 +4,14 @@ title: "Heptatlón"
 categories: atletismo
 ---
 
-## Pruebas que componen el Heptatlón
-
-Primer día de competición:
+#### Primer día de competición:
 
 - 100 metros Vallas
 - Salto de Altura
 - Lanzamiento de Peso
 - 200 metros
 
-Segundo día de competición:
+#### Segundo día de competición:
 
 - Salto de Longitud
 - Lanzamiento de Jabalina
