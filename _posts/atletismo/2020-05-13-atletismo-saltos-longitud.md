@@ -14,7 +14,7 @@ En el **SALTO DE LONGITUD** el saltador toma aceleración a lo largo de la pista
 
 ![LONGITUD](https://danieledufis.github.io/images_text/atletismo_salto%20longitud.jpg)
 
-### Competición
+#### Competición
 
 * La competición de ambas transcurre igual que la de los lanzamientos. **Eliminatorias con 3 intentos para alcanzar una longitud mínima** y clasificación de quienes la hayan logrado o hasta 12 atletas por ranking del mejor salto obtenido por cada uno de ellos.
 * En la final otros 3 intentos. Se toma el mejor salto de cada uno y **los 8 mejores acceden a «la mejora» con otros 3 intentos más.** 
@@ -22,18 +22,18 @@ En el **SALTO DE LONGITUD** el saltador toma aceleración a lo largo de la pista
 
 ## Vídeos
 
-##### Tutorial
+#### Tutorial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q9clVmT_iD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Cámara lenta
+#### Cámara lenta
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mYGAAEoUtUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Mujeres
+#### Mujeres
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqKMmaElKhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Hombres
+#### Hombres
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/whPq8E1k9MM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
