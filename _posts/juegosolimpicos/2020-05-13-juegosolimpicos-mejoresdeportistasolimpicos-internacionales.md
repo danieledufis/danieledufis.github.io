@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mejores deportistas olímpicas: mujeres"
+title: "Mejores deportistas olímpicas: mujeres"
 categories: juegosolimpicos
 ---
 

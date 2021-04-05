@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mejores deportistas olímpicos"
+title: "Mejores deportistas olímpicos"
 categories: juegosolimpicos
 ---
 

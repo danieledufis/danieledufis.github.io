@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GRANDES MOMENTOS"
+title: "Grandes momentos"
 categories: juegosolimpicos
 ---
 

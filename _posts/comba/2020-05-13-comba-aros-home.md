@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comba"
+title: "Comba y aros"
 categories: comba
 ---
 

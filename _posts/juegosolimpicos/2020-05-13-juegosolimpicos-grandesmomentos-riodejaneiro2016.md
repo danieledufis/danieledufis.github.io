@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Grandes momentos Río de Janeiro 2016"
+title: "Grandes momentos Río de Janeiro 2016"
 categories: juegosolimpicos
 ---
 

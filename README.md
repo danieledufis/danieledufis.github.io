@@ -33,12 +33,13 @@ HECHO
 - Texto bienvenida - OK
 - Texto footer - OK
 - Guía de uso - OK
+- comba y aros - OK
+- Poner un mail de contacto en el footer (config) - OK
 
 ---
 
 TAREAS DANI
-- Querias cambiar color de titulos y fondo
-- Poner un mail de contacto en el footer (config)
+- Que color para algunos titulos y fondo
 
 ---
 
