@@ -11,7 +11,7 @@ categories: acuaticos
 
 ![PISCINA OLÍMPICA](https://danieledufis.github.io/images_text/acuaticos_estilos_piscinaolimpica.jpg)
 
-### Crol
+## Crol
 
 - Es **el más rápido de los estilos** por lo que es utilizado en la prueba de estilo libre.
 - Las _pruebas olímpicas_ de estilo libres son:
@@ -27,7 +27,7 @@ categories: acuaticos
 
 <iframe src="https://www.youtube.com/embed/h47PpD5AItI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Espalda
+## Espalda
 
 - El nadador **flota sobre su espalda.**
 - Al ir de espaldas, no pueden ver la línea de la calle, por lo que hay unas banderolas que sirven de guía.
@@ -41,7 +41,7 @@ categories: acuaticos
 
 <iframe src="https://www.youtube.com/embed/inEcwD_7MUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Braza
+## Braza
 
 - Es el estilo **más lento y exigente.**
 - Los nadadores utilizan los brazos y piernas para avanzar a través del agua, y la patada tiene tanta importancia como el movimiento de los brazos.
@@ -59,7 +59,7 @@ categories: acuaticos
 
 <iframe src="https://www.youtube.com/embed/wIx_tlABqVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Mariposa
+## Mariposa
 
 - En este estilo los brazos salen y entran al agua al mismo tiempo.
 - Las piernas se mueven también al mismo tiempo.
@@ -75,11 +75,11 @@ categories: acuaticos
 
 <iframe src="https://www.youtube.com/embed/Vaq5r8f2Zpc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Prueba de estilos
+## Prueba de estilos
 
 Los nadadores **combinan los 4 estilos mencionados** (crol, braza, espalda y mariposa) nadando un mínimo de 50 m cada uno.
 
-### Relevos
+## Relevos
 
 En una carrera de estilos, cada nadador espera en la plataforma de salida a que su compañero de equipo complete su largo.
 No se puede lanzar al agua hasta que su compañero no toque la pared.

@@ -18,7 +18,6 @@ categories: atletismo
 
 * En el caso de los 200 y 400 metros, las posiciones de salida no están a la misma altura, sino escalonadas para compensar la mayor longitud de los carriles exteriores de la pista.
 
-
 * Al tratarse de carreras donde cada décima importa, en caso de que alguien se adelante a la señal de salida quedará automáticamente fuera de la competición y la salida se repetirá. Es lo que se denomina «salida nula».
 
 ![SALIDA NULA](https://danieledufis.github.io/images_text/atletismo_salidanula1.jpg)
@@ -32,24 +31,24 @@ A continuación tenéis vídeos de todas las disciplinas.
 ### 100m
 
 
-##### Mujeres
+#### Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IsYWLvZ6JfY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Hombres
+#### Hombres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AOk1hqzCj34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 200m
 
-##### Mujeres
+#### Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SL26sg2k8Fg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Hombres
+#### Hombres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/spNvEnFWucw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 400m
 
-##### Mujeres
+#### Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NK45noS8lzs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Hombres
+#### Hombres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eyzezGw1M5w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -4,11 +4,28 @@ title: "Acuáticos"
 categories: acuaticos
 ---
 
-### Natación
-- [ESTILOS Y DISCIPLINAS]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-estilosydisciplinas.md %})
-- [TUTORIALES]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-tutoriales.md %})
-- [RETOS DAVID MECA]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-retos.md %})
-- [CARRERAS EMOCIONANTES]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-carrerasemocionantes.md %})
-- [MEJORES NADADORES]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-mejoresnadadores.md %})
+## Natación
+#### - [Estilos y disciplinas]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-estilosydisciplinas.md %})
 
-### [OTRAS DISCIPLINAS]({% link _posts/acuaticos/2020-05-13-acuaticos-otrasdisciplinas.md %})
+![ESTILOS Y DISCIPLINAS](../images/acuaticos_natacion_estilosydisciplinas_pestana.jpg)
+
+#### - [Tutoriales]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-tutoriales.md %})
+
+![TUTORIALES](../images/tutorial_pestana.png)
+
+#### - [Retos]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-retos.md %})
+
+![RETOS DAVID MECA](../images/acuaticos_natacion_retosdavidmeca_pestana.jpg)
+
+#### - [Carreras emocionantes]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-carrerasemocionantes.md %})
+
+![CARRERAS EMOCIONANTES](../images/acuaticos_natacion_carrerasemocionantes_pestana.png)
+
+#### - [Mejores nadadores]({% link _posts/acuaticos/2020-05-13-acuaticos-natacion-mejoresnadadores.md %})
+
+![MEJORES NADADORES](../images/acuaticos_natacion_mejores_nadadores_pestana.jpg)
+
+
+## [Otras disciplinas]({% link _posts/acuaticos/2020-05-13-acuaticos-otrasdisciplinas.md %})
+
+![OTRAS DISCIPLINAS](../images/acuaticos_otrasdisciplinas_pestana.jpg)

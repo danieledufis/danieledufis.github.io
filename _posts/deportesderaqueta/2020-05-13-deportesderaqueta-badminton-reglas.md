@@ -20,7 +20,7 @@ El bádminton es un deporte de raqueta que se juega en pista cubierta. Existen u
 
 - El golpe se realiza con una raqueta como la siguiente:
 
-![RAQUETA](https://danieledufis.github.ior/images_text/badminton_raqueta.jpg)
+![RAQUETA](../images_text/badminton_raqueta.jpg)
 
 ### 2. Sets de un partido
 
