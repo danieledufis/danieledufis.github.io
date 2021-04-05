@@ -5,7 +5,8 @@ Página de educación física
 ---
 
 PAGINA PRINCIPAL ACROSPORT
-- Cambiar tipografia, color y tamaño - ?
+- Confirmar email
+- Cambiar color fondo y algun titulo 
 - terminar atletismo - ?
 
 - Botón "volver" - ?
@@ -29,6 +30,9 @@ HECHO
 - videos responsive OK
 - imagenes responsive OK
 - Buscar como abrir un enlace en otra pestaña, para PATALIMPICO, poner el enlace desde la Home OK
+- Texto bienvenida - OK
+- Texto footer - OK
+- Guía de uso - OK
 
 ---
 

@@ -21,7 +21,8 @@
 title: Educación Física
 email: EDU-FIS@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ESTOY EN CONFIG ----- Write a description here. It will appear in your document head meta (for Google search results).
+  En esta web vais a encontrar información de todos los deportes y actividades que haremos en Educación Física en Primaria.
+  Si tenéis alguna duda o sugerencia podéis ver la guía de uso o escribidme un email.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danieledufis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
