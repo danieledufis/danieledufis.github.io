@@ -5,12 +5,8 @@ Página de educación física
 ---
 
 PAGINA PRINCIPAL ACROSPORT
-- Confirmar email
 - Cambiar color fondo y algun titulo 
 - terminar atletismo - ?
-
-- Botón "volver" - ?
-- Quitar el DEPORTE del nombre del archivo FECHA--deporte-nombree.md - ?
 
 ---
 
@@ -35,6 +31,8 @@ HECHO
 - Guía de uso - OK
 - comba y aros - OK
 - Poner un mail de contacto en el footer (config) - OK
+- Confirmar email - OK
+- Quitar el DEPORTE del nombre del archivo FECHA--deporte-nombree.md - OK
 
 ---
 
