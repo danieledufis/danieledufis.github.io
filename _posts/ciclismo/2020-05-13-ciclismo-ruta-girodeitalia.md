@@ -9,7 +9,7 @@ El **Giro de Italia** es la primera de las tres grandes vueltas por etapas y tie
 En la categoría femenina se disputa durante una semana, pero el resto de características son las mismas tanto en hombres como mujeres.
 Se disputa durante el mes de mayo en Italia y con un recorrido diferente cada año.
 
-### Tipos de etapas:
+## Tipos de etapas:
 
 * **Contrarreloj**, en las que cada corredor realiza una distancia en solitario a la mayor velocidad posible.
 * **Llanas**, en las que no se suben grandes puertos de montaña.
@@ -22,21 +22,27 @@ Se disputa durante el mes de mayo en Italia y con un recorrido diferente cada a�
 Las zonas montañosas más conocidas por las que transcurre son *los Alpes y los Dolomitas*.
 Los puertos más famosos en esta carrera son **el Mortirolo y el Stelvio**, en el que llegan a ascender hasta los 2.591 metros de altura.
 
-### Maillots
+[Stelvio](../images_text/ciclismo_giro_stelvio.jpg)
+
+## Maillots
 Exsisten diferentes clasificaciones y sus líderes llevan los diferentes maillots:
 * **Rosa:** clasificación general.
 * **Ciclamen:** clasificación general por puntos, también conocido como el de la regularidad.
 * **Azul:** líder de la montaña.
 * **Blanco:** clasificación de los jóvenes.
 
+[Maillots](../images_text/ciclismo_giro_maillot.jpg)
 
-### Lo mejor del Giro de Italia 
+
+## Lo mejor del Giro de Italia 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T0aT3M0c0AA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-### Información en la red ### 
+## Información en la red ### 
 
-Canal de youtube [canal Giro]: https://www.youtube.com/user/giroditaliaweb 
+En los siguientes enlaces puedes encontrar más información acerca del Giro de Italia:
 
-Página web [web Giro]: https://www.giroditalia.it/es/
+[Canal youtube](https://www.youtube.com/user/giroditaliaweb) 
+
+[Web Giro](https://www.giroditalia.it/es/)
 
