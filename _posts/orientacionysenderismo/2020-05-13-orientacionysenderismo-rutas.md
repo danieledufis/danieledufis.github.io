@@ -4,4 +4,4 @@ title: "Rutas senderismo"
 categories: orientacionysenderismo
 ---
 
-# RUTAS SENDERISMO
+# Rutas de senderismo
