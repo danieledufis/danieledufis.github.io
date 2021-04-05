@@ -42,7 +42,7 @@ Existen diferentes clasificaciones y sus líderes llevan los diferentes maillots
 
 ## Lo mejor del Tour de Francia
 
-[Lo mejor del Tour 2020](https://www.youtube.com/watch?v=SDhojXP7qs0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDhojXP7qs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Información en la red
 
