@@ -77,8 +77,3 @@ categories: atletismo
 
 #### - [Heptatlón]({% link _posts/atletismo/2020-05-13-atletismo-pruebascombinadas-heptatlon.md%})
 ![Heptatlón](../images/atletismo_heptatl%C3%B3n_pesta%C3%B1a.jpg)
-
-
-
-
-- 

@@ -3,10 +3,9 @@
 Página de educación física
 
 ---
-
-PAGINA PRINCIPAL ACROSPORT
-- Cambiar color fondo y algun titulo 
-- terminar atletismo - ?
+TAREAS DANI
+- Que color para algunos titulos y fondo?
+- terminar "Mejores atletas de la historia"
 
 ---
 
@@ -33,11 +32,6 @@ HECHO
 - Poner un mail de contacto en el footer (config) - OK
 - Confirmar email - OK
 - Quitar el DEPORTE del nombre del archivo FECHA--deporte-nombree.md - OK
-
----
-
-TAREAS DANI
-- Que color para algunos titulos y fondo
 
 ---
 
