@@ -42,5 +42,9 @@ Existen diferentes clasificaciones y sus líderes llevan los diferentes maillots
 En los siguientes enlaces podéis encontrar más información relacionada con el Tour de Francia:
 
 [Lo mejor del Tour 2020](https://www.youtube.com/watch?v=SDhojXP7qs0)
+
+
 [Canal youtube](https://www.youtube.com/user/letourdefrance)
+
+
 [Página web](https://www.letour.fr/es/)
