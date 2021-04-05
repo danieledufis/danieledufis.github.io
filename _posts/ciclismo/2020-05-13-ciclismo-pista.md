@@ -26,6 +26,7 @@ Realizan una vuelta a sprint. Una vez realiza la primera vuelta deja paso a sus 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GdMFHAGR1fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 * **Keirin.**
 
 Prueba en la que varios corredores (6-8) disputan un sprint tras haber efectuado un determinado número de vueltas detrás de un lanzador en ciclomotor o en motocicleta hasta alcanzar los 50 km/h, momento en el que el lanzador abandona la pista y se produce dicho sprint (normalmente suele ser de 2,5 vueltas, aunque puede variar según la medida de la cuerda del velódromo, es una de las disciplinas de la pista en la que más accidentes ocurren por la velocidad y los roces entre los ciclistas.
@@ -49,7 +50,9 @@ SCRATCH
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSoE-526VPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 A continuación tienes un vídeo de la prueba Omnium:
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SNAe79xvMU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
