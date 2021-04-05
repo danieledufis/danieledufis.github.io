@@ -1,6 +1,6 @@
 # danieledufis.github.io
 
-Página de educación física del profesor Daniel García
+Página web para la enseñanza de educación física del profesor Daniel García.
 
 [Clicka aquí](https://danieledufis.github.io/) para acceder a la página web.
 
