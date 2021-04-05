@@ -20,6 +20,7 @@ Hay tres tipos de etapas:
   * 2ª.
   * 3ª.
   * 4ª.
+  
 Las zonas montañosas más conocidas por las que transcurre son los Alpes y los Pirineos.
 Los puertos más famosos en esta carrera son el Tourmalet y el Alpe d´Huez, en el cuál se congregan miles de aficionados cada vez que se asciende.
 
