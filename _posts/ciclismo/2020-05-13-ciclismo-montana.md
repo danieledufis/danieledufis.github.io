@@ -19,13 +19,16 @@ Las competiciones más conocidas son:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S_xv97Y7-WY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 * **Descenso.** Recorrido cuesta abajo con saltos y obstáculos tanto naturales como artificiales de dificultad técnica muy alta. En esta modalidad no salen todos a la vez, sino que salen de uno en uno y se les cronometra el tiempo.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/61sF8giM4gw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vv1guMk5J1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 * **Juegos Olímpicos**:
