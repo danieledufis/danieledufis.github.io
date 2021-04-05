@@ -11,6 +11,8 @@ El ciclismo de montaña es considerado un deporte de riesgo, es un ciclismo de c
 El material de las bicicleta suele ser lo más ligeros posibles, destacando el aluminio, titanio o carbono.
 Como podéis ver en la foto son muy diferentes, debido a las características de los recorridos, a las bicicletas de ciclismo en ruta y pista:
 
+[Bicicleta](../images_text/ciclismo_mountain_bici.jpg)
+
 ## Competiciones
 
 Las competiciones más conocidas son:
