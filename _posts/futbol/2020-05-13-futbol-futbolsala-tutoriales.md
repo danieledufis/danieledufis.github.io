@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tutoriales del fútbol sala"
+title: "Tutoriales del fútbol sala"
 categories: futbol
 ---
 

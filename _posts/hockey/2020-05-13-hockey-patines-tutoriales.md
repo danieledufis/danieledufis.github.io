@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tutoriales del hockey patines"
+title: "Tutoriales del hockey patines"
 categories: hockey
 ---
 

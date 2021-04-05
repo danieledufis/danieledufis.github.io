@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reglas del fútbol sala"
+title: "Reglas del fútbol sala"
 categories: futbol
 ---
 

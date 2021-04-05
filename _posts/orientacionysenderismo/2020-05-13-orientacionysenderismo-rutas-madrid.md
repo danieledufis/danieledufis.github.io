@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rutas en Madrid"
+title: "Rutas en Madrid"
 categories: orientacionysenderismo
 ---
 

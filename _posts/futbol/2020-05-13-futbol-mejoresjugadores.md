@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mejores jugadores de fútbol"
+title: "Mejores jugadores de fútbol"
 categories: "futbol"
 ---
 

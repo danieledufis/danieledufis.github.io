@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reglas del fútbol"
+title: "Reglas del fútbol"
 categories: futbol
 ---
 

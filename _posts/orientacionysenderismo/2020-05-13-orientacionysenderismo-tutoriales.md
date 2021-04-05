@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tutoriales senderismo"
+title: "Tutoriales senderismo"
 categories: orientacionysenderismo
 ---
 

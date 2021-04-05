@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Torneos del hockey hierba"
+title: "Torneos del hockey hierba"
 categories: hockey
 ---
 

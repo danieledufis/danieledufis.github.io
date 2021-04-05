@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "800m"
+title: "800m"
 categories: atletismo
 ---
 

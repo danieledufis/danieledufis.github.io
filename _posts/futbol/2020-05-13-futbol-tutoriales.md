@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tutoriales de fútbol"
+title: "Tutoriales de fútbol"
 categories: futbol
 ---
 

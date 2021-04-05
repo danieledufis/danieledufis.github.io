@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  "Fútbol sala"
+title: "Fútbol sala"
 categories: futbol
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RUTAS SENDERISMO"
+title: "Rutas senderismo"
 categories: orientacionysenderismo
 ---
 
