@@ -19,12 +19,14 @@ Se disputa durante el mes de mayo en Italia y con un recorrido diferente cada a�
   * 2ª.
   * 3ª.
   * 4ª.
+
 Las zonas montañosas más conocidas por las que transcurre son *los Alpes y los Dolomitas*.
 Los puertos más famosos en esta carrera son **el Mortirolo y el Stelvio**, en el que llegan a ascender hasta los 2.591 metros de altura.
 
 [Stelvio](../images_text/ciclismo_giro_stelvio.jpg)
 
 ## Maillots
+
 Exsisten diferentes clasificaciones y sus líderes llevan los diferentes maillots:
 * **Rosa:** clasificación general.
 * **Ciclamen:** clasificación general por puntos, también conocido como el de la regularidad.
