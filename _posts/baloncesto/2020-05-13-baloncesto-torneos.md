@@ -53,9 +53,10 @@ Es la competición más importante a nivel internacional, en la que participan u
 ## Selecciones
 
 A nivel de selecciones se juegan 3 competiciones periódicamente bajo la organización de la FIBA, la federación internacional de baloncesto. Serán los mismos en mujeres y hombres. Las competiciones son las siguientes:
--         Europeo.
--         Mundial.
--         Juegos Olímpicos.
+* Europeo.
+* Mundial.
+* Juegos Olímpicos.
+
 Las selecciones que se clasificarán a los mundiales y Juegos Olímpicos serán los mejores en el Europeo.
 
 [FIBA](http://www.fiba.basketball/es)
