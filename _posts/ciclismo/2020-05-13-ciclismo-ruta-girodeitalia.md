@@ -23,7 +23,7 @@ Se disputa durante el mes de mayo en Italia y con un recorrido diferente cada a�
 Las zonas montañosas más conocidas por las que transcurre son *los Alpes y los Dolomitas*.
 Los puertos más famosos en esta carrera son **el Mortirolo y el Stelvio**, en el que llegan a ascender hasta los 2.591 metros de altura.
 
-[Stelvio](../images_text/ciclismo_giro_stelvio.jpg)
+![Stelvio](../images_text/ciclismo_giro_stelvio.jpg)
 
 ## Maillots
 
@@ -33,7 +33,7 @@ Exsisten diferentes clasificaciones y sus líderes llevan los diferentes maillot
 * **Azul:** líder de la montaña.
 * **Blanco:** clasificación de los jóvenes.
 
-[Maillots](../images_text/ciclismo_giro_maillot.jpg)
+![Maillots](../images_text/ciclismo_giro_maillot.jpg)
 
 
 ## Lo mejor del Giro de Italia 
