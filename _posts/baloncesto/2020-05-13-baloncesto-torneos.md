@@ -19,9 +19,9 @@ A nivel de clubes podemos destacar la Liga ENDESA tanto en hombre como mujeres. 
 * Cuarto vs quinto
 Dependiendo del año y de la ronda, se juegan más o menos partidos en cada ronda. Cada partido se juega en el pabellón de uno de los equipos, jugando un partido más en el pabellón del equipo que tenga una mejor clasificación en la liga regular.
 
+Aquí tenéis los enlaces para acceder a la web oficial de ambas competiciones:
 
 [ACB](https://www.acb.com/)
-
 
 [LIGA FEMENINA ENDESA](http://www.lfendesa.es/inicio.aspx)
 
@@ -43,8 +43,10 @@ Es la competición más importante a nivel internacional, en la que participan u
 * Se juega una pequeña **liga regular** en la que juegan 2 partidos contra todos los equipos, uno en cada pabellón.
 * Los **8 mejores** equipos juegan unos **Playoff** y los ganadores se clasifican para la Final Four.
 * En un pabellón establecido al principio de la competición jugarán la **Final Four**, dividido en 2 semifinales y la final.
-[Euroliga femenina](http://www.fiba.basketball/euroleaguewomen/20-21)
 
+En estos enlaces podréis acceder a la web oficial de las dos competiciones:
+
+[Euroliga femenina](http://www.fiba.basketball/euroleaguewomen/20-21)
 
 [Euroliga masculina](https://www.euroleague.net/)
 
@@ -58,6 +60,8 @@ A nivel de selecciones se juegan 3 competiciones periódicamente bajo la organiz
 * Juegos Olímpicos.
 
 Las selecciones que se clasificarán a los mundiales y Juegos Olímpicos serán los mejores en el Europeo.
+
+En en siguiente enlace, de la FIBA, podéis encontrar toda la información que os interes sobre estas dos competiciones:
 
 [FIBA](http://www.fiba.basketball/es)
 
@@ -74,3 +78,5 @@ Estas son las ligas que se juegan en Estados Unidos. Tanto en la competición fe
 [WNBA](https://www.wnba.com/)
 
 ![NBA-WNBA](../images_text/baloncesto_nba_wnba.jpg)
+
+
