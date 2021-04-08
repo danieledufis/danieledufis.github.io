@@ -32,8 +32,8 @@ Estos son los enlaces donde podéis consultar información sobre ambas competici
 En este torneo se disputan eliminatorias entre los equipos de las categorías más importantes del país.
 Es denominada de la siguiente manera:
 
-* *Copa del Rey en hombres.
-* *Copa de la Reina en mujeres.
+* Copa del Rey en hombres.
+* Copa de la Reina en mujeres.
 
 ![COPA DEL REY](../images_text/futbol_copadelrey.jpg)
 ![COPA DE LA REINA](../images_text/futbol_copa%20de%20la%20reina.jpg)
