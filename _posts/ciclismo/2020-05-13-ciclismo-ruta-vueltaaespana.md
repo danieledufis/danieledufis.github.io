@@ -28,10 +28,10 @@ Los puertos más famosos en esta carrera son Lagos de Covadonga y Angliru, consi
 ## Maillots
 
 Exsisten diferentes clasificaciones y sus líderes llevan los diferentes maillots:
--         Rojo: clasificación general.
--         Verde: clasificación general por puntos, también conocido como el de la regularidad.
--         Blanco con puntos azules: líder de la montaña.
--         Blanco: clasificación de los jóvenes.
+* Rojo: clasificación general.
+* Verde: clasificación general por puntos, también conocido como el de la regularidad.
+* Blanco con puntos azules: líder de la montaña.
+* Blanco: clasificación de los jóvenes.
 
 ![Maillots](../images_text/ciclismo_vuelta_maillot.jpg)
 
