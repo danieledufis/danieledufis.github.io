@@ -7,9 +7,9 @@ categories: ciclismo
 * Es una modalidad de ciclismo que se caracteriza por disputarse en un velódromo, los cuales tienen una medida del óvalo de 250 metros.
 * La bicicleta suele estar diseñada para realizar sprints.
 
-[Bicicleta](../images_text/ciclismo_pista_bici.jpg)
+![Bicicleta](../images_text/ciclismo_pista_bici.jpg)
 
-[Óvalo](../images_text/ciclismo_pista_ovalo.jpg)
+![Óvalo](../images_text/ciclismo_pista_ovalo.jpg)
 
 ## Competiciones
 
