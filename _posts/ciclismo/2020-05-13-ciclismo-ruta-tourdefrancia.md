@@ -24,9 +24,9 @@ Hay tres tipos de etapas:
 Las zonas montañosas más conocidas por las que transcurre son los Alpes y los Pirineos.
 Los puertos más famosos en esta carrera son el Tourmalet y el Alpe d´Huez, en el cuál se congregan miles de aficionados cada vez que se asciende.
 
-[Alpes1](../images_text/ciclismo_tour_alpe.jpg)
+![Alpes1](../images_text/ciclismo_tour_alpe.jpg)
 
-[Alpes2](../images_text/ciclismo_tour_alpe2.jpg)
+![Alpes2](../images_text/ciclismo_tour_alpe2.jpg)
 
 ## Maillots
 
@@ -36,7 +36,7 @@ Existen diferentes clasificaciones y sus líderes llevan los diferentes maillots
 -         Blanco con puntos rojos: líder de la montaña.
 -         Blanco: clasificación de los jóvenes.
 
-[Maillots](../images_text/ciclismo_tour_maillot.jpg)
+![Maillots](../images_text/ciclismo_tour_maillot.jpg)
 
 
 
