@@ -23,7 +23,7 @@ Hay tres tipos de etapas:
 Las zonas montañosas más conocidas por las que transcurre son los Pirineos y la zona norte del país como Asturias, donde se encuentran algunos de los puertos más duros..
 Los puertos más famosos en esta carrera son Lagos de Covadonga y Angliru, considerado por muchos el puerto más duro del mundo.
 
-[Angliru](../images_text/ciclismo_vuelta_angliru.jpg)
+![Angliru](../images_text/ciclismo_vuelta_angliru.jpg)
 
 ## Maillots
 
@@ -33,7 +33,7 @@ Exsisten diferentes clasificaciones y sus líderes llevan los diferentes maillot
 -         Blanco con puntos azules: líder de la montaña.
 -         Blanco: clasificación de los jóvenes.
 
-[Maillots](../images_text/ciclismo_vuelta_maillot.jpg)
+![Maillots](../images_text/ciclismo_vuelta_maillot.jpg)
 
 ## Lo mejor de la vuelta a España
 
