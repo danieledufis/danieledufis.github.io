@@ -6,18 +6,70 @@ categories: baloncesto
 
 En el baloncesto se disputan numeroso torneos que son iguales tanto en la categoría masculina como en la femenina. A continuación os los muestro, diferenciando entre competiciones nacionales e internacionales:
 
-## Nacionales
+## Clubes
 
-- LIGA:
-  - En la liga normalmente juegan 20 equipos, los cuales juegan todos contra todos 2 veces (una en cada campo).
-  - En total se disputan 38 partidos en lo que se denomina la fase regular.
-  - Los 8 mejores al final de la temporada disputan los Playoffs.
-  - Disputan rondas eliminatorias a 5 partidos para ver quien pasa a siguiente ronda. Forman un cuadro de la siguiente manera.
-  - La manera de emparejas los equipos es la siguiente: 1ºvs 8º/ 2º vs 7º / 3º vs 6º / 4º vs 5º.
-  - De los 5 partidos se juegan 3 en el campo del equipo que haya quedado mejor en la fase regular.
-  - El vencedor de la última eliminatoria será el campeón de Liga.
-- COPA
+Las competiciones más importantes a nivel de clubes, tanto hombres como mujeres, son las siguientes:
 
-## Internacionales
+#### Liga
+
+A nivel de clubes podemos destacar la Liga ENDESA tanto en hombre como mujeres. Se juega una liga regular entre los 20 equipos y posteriormente juegan unos Playoff entre los 8 mejores de la siguiente manera:
+* Primero vs octavo
+* Segundo vs séptimo
+* Tercero vs sexto
+* Cuarto vs quinto
+Dependiendo del año y de la ronda, se juegan más o menos partidos en cada ronda. Cada partido se juega en el pabellón de uno de los equipos, jugando un partido más en el pabellón del equipo que tenga una mejor clasificación en la liga regular.
+
+
+[ACB](https://www.acb.com/)
+
+
+[LIGA FEMENINA ENDESA](http://www.lfendesa.es/inicio.aspx)
+
+![LIGA ENDESA](../images_text/baloncesto_liga%20endesa.jpg)
+
+#### Copa
+
+A mitad de la temporada, los **8 mejores equipos** de la competición jugarán eliminatorias **a partido único** y se jugarán todos los partidos en una misma ciudad y en un mismo campo.
+El sorteo será entre los cuatro primero, que jugarán con los equipos entre el quinto y octavo puesto.
+La denominación es diferente en función de la categoría:
+
+* Copa del Rey en hombres.
+* Copa de la Reina en mujeres.
+
+#### Euroliga
+
+Es la competición más importante a nivel internacional, en la que participan un determinado conjunto de equipos que pertenecen a la asociación, independientemente de su clasificación en las ligas nacionales.
+
+* Se juega una pequeña **liga regular** en la que juegan 2 partidos contra todos los equipos, uno en cada pabellón.
+* Los **8 mejores** equipos juegan unos **Playoff** y los ganadores se clasifican para la Final Four.
+* En un pabellón establecido al principio de la competición jugarán la **Final Four**, dividido en 2 semifinales y la final.
+[Euroliga femenina](http://www.fiba.basketball/euroleaguewomen/20-21)
+
+
+[Euroliga masculina](https://www.euroleague.net/)
+
+![EUROLIGA](../images_text/baloncesto_euroliga.png)
 
 ## Selecciones
+
+A nivel de selecciones se juegan 3 competiciones periódicamente bajo la organización de la FIBA, la federación internacional de baloncesto. Serán los mismos en mujeres y hombres. Las competiciones son las siguientes:
+-         Europeo.
+-         Mundial.
+-         Juegos Olímpicos.
+Las selecciones que se clasificarán a los mundiales y Juegos Olímpicos serán los mejores en el Europeo.
+
+[FIBA](http://www.fiba.basketball/es)
+
+## NBA Y WNBA
+
+Estas son las ligas que se juegan en Estados Unidos. Tanto en la competición femenina como en la masculina, solo se juega una competición. El formato es igual que la liga de nuestro país, dividiendo la competición en dos fases:
+* **Fase regular:** todos los equipos juegan un número determinado de partidos (suelen ser 82), y los mejores clasificados pasan a los Playoffs.
+* **Playoff:** hay 2 conferencias y unos playoff en cada una de ellas (la organización es la misma que has leído anteriormente en la Liga Endesa). Los mejores de cada conferencia jugarán la final.
+ 
+
+[NBA](https://es.nba.com/)
+
+
+[WNBA](https://www.wnba.com/)
+
+![NBA-WNBA](../images_text/baloncesto_nba_wnba.jpg)
