@@ -14,7 +14,7 @@ Tanto en categoría masculina como femenina este es el torneo más importante a 
 * *La Liga Santander en hombres.
 * *Primera Iberdrola en mujeres.
 
-![LIGA SANTANDER](../images_text/futbol_laliga.jpg)
+![LIGA SANTANDER](../images_text/futbol_laliga.jpg))
 ![LIGA IBERDROLA](../images_text/futbol_ligaiberdrola.png)
 
 Juegan dos partidos contra todos los equipos (uno en cada estadio). Al final de todos los partidos, **el que más puntos gane será el vencedor**. Los 3 últimos descienden de categoría.
