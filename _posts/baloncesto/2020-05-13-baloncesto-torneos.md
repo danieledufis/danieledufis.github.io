@@ -10,7 +10,7 @@ En el baloncesto se disputan numeroso torneos que son iguales tanto en la catego
 
 Las competiciones más importantes a nivel de clubes, tanto hombres como mujeres, son las siguientes:
 
-#### Liga
+#### - Liga
 
 A nivel de clubes podemos destacar la Liga ENDESA tanto en hombre como mujeres. Se juega una liga regular entre los 20 equipos y posteriormente juegan unos Playoff entre los 8 mejores de la siguiente manera:
 * Primero vs octavo
@@ -27,7 +27,7 @@ Dependiendo del año y de la ronda, se juegan más o menos partidos en cada rond
 
 ![LIGA ENDESA](../images_text/baloncesto_liga%20endesa.jpg)
 
-#### Copa
+#### - Copa
 
 A mitad de la temporada, los **8 mejores equipos** de la competición jugarán eliminatorias **a partido único** y se jugarán todos los partidos en una misma ciudad y en un mismo campo.
 El sorteo será entre los cuatro primero, que jugarán con los equipos entre el quinto y octavo puesto.
@@ -36,7 +36,7 @@ La denominación es diferente en función de la categoría:
 * Copa del Rey en hombres.
 * Copa de la Reina en mujeres.
 
-#### Euroliga
+#### - Euroliga
 
 Es la competición más importante a nivel internacional, en la que participan un determinado conjunto de equipos que pertenecen a la asociación, independientemente de su clasificación en las ligas nacionales.
 
