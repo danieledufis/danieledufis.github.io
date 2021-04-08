@@ -50,7 +50,7 @@ Es el torneo más importante a nivel de clubes. Lo juegan los **campeones de las
 * Se juegan rondas eliminatorias a doble partido, uno en cada campo.
 * La final se jugará en un estadio y ciudad preestablecido al comienzo de la competición.
 
-![CHAMPIONS LEAGUE](../images_text/futbol_championsleague.jpg)
+![CHAMPIONS LEAGUE](https://danieledufis.github.io/blob/master/images_text/futbol_championsleague.jpg)
 
 En estos enlaces encontraréis las páginas oficiales de ambas competiciones:
 
