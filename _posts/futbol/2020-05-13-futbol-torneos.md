@@ -38,7 +38,7 @@ Es denominada de la siguiente manera:
 * Copa de la Reina en mujeres.
 
 ![COPA DEL REY](../../images_text/futbol_copadelrey.jpg)
-![COPA DE LA REINA](../../images_text/futbol_copa%20de%20la%20reina.jpg)
+![COPA DE LA REINA](../../images_text/futbol_copa-de-la-reina.jpg)
 
 Las eliminatorias pueden ser a partido único (se jugaría en el estadio del equipo con menos categoría o con peor clasificación).
 Las últimas rondas se juegan a doble partido (uno en cada estadio de los equipos).
