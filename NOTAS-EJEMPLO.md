@@ -1,6 +1,5 @@
 ## IMPORTANTE
-## En todos los archivos de Post SIEMPRE empieza por esto
-## Solo poner un espacio después de los "dos puntos". Ej: (title: "Acrosport") BIEN, (title:  "Acrosport") MAL
+**En todos los archivos de Post SIEMPRE empieza por esto**
 
 ---
 layout: post              (Hay que poner esto en todos los Post)
@@ -8,27 +7,29 @@ title: "Acrosport"        (Este es el título que va a aparecer en el Post, TIEN
 categories: acrosport     (Esto sirve para ponerlo en el enlace "ejemplo.com/ACROSPORT/nombre-del-archivo"
 ---
 
+**Solo poner un espacio después de los "dos puntos". Ej: (title: "Acrosport") BIEN, (title:  "Acrosport") MAL**
+
 --
 
-## IMPORTANTE: 
-## En los nombres de los archivos de IMAGENES, PDFs, NO se ponen espacios, usa GUIONES
+## IMPORTANTE
+**En los nombres de los archivos de IMAGENES, PDFs, NO se ponen espacios, usa GUIONES**
 
 Ejemplo de nombre de un archivo
 2020-05-13-nombre-de-un-archivo.md
 
 --
 
-Cómo añadir un ENLACE
+Cómo añadir un **ENLACE**
 [Texto que va a aparecer como enlace]({% link _posts/NOMBRE-DE-LA-CARPETA/2020-05-13-NOMBRE-DEL-ARCHIVO.md %})
 
 --
 
-Cómo añadir una IMAGEN (estate atento al nombre de la extensión: png, jpg...)
+Cómo añadir una **IMAGEN** (estate atento al nombre de la extensión: png, jpg...)
 ![Nombre de la imagen](../images/0-test-pagina-principal.png)
 
 --
 
-Cómo añadir un PDF
+Cómo añadir un **PDF**
 [Nombre del primer PDF][primerPDF]
 [Nombre del segundo PDF][segundoPDF]
 
@@ -38,7 +39,7 @@ Cómo añadir un PDF
 
 --
 
-Cómo añadir un VIDEO de YOUTUBE
+Cómo añadir un **VIDEO de YOUTUBE**
 - Entras al video que quieres de Youtube
 - Haces click en Compartir
 - Después en Insertar
