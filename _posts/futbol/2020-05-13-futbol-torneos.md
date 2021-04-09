@@ -11,8 +11,8 @@ Las competiciones más importantes a nivel de clubes, tanto hombres como mujeres
 #### - Liga
 Tanto en categoría masculina como femenina este es el torneo más importante a nivel nacional.
 
-* *La Liga Santander en hombres.
-* *Primera Iberdrola en mujeres.
+* La Liga Santander en hombres.
+* Primera Iberdrola en mujeres.
 
 ![LIGA SANTANDER](../images_text/futbol_laliga.jpg)
 ![LIGA IBERDROLA](../images_text/futbol_ligaiberdrola.png)
