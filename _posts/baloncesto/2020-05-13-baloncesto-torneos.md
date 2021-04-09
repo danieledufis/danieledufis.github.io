@@ -25,7 +25,7 @@ Aquí tenéis los enlaces para acceder a la web oficial de ambas competiciones:
 
 [LIGA FEMENINA ENDESA](http://www.lfendesa.es/inicio.aspx)
 
-![LIGA ENDESA](../images_text/baloncesto_liga%20endesa.jpg)
+![LIGA ENDESA](../../images_text/baloncesto_liga%20endesa.jpg)
 
 #### - Copa
 
@@ -50,7 +50,7 @@ En estos enlaces podréis acceder a la web oficial de las dos competiciones:
 
 [Euroliga masculina](https://www.euroleague.net/)
 
-![EUROLIGA](../images_text/baloncesto_euroliga.png)
+![EUROLIGA](../../images_text/baloncesto_euroliga.png)
 
 ## Selecciones
 
@@ -77,6 +77,6 @@ Estas son las ligas que se juegan en Estados Unidos. Tanto en la competición fe
 
 [WNBA](https://www.wnba.com/)
 
-![NBA-WNBA](../images_text/baloncesto_nba_wnba.jpg)
+![NBA-WNBA](../../images_text/baloncesto_nba_wnba.jpg)
 
 
