@@ -25,8 +25,6 @@ Aquí tenéis los enlaces para acceder a la web oficial de ambas competiciones:
 
 [LIGA FEMENINA ENDESA](http://www.lfendesa.es/inicio.aspx)
 
-![LIGA ENDESA](../images_text/baloncesto_liga%20endesa.jpg)
-
 #### - Copa
 
 A mitad de la temporada, los **8 mejores equipos** de la competición jugarán eliminatorias **a partido único** y se jugarán todos los partidos en una misma ciudad y en un mismo campo.
@@ -50,7 +48,7 @@ En estos enlaces podréis acceder a la web oficial de las dos competiciones:
 
 [Euroliga masculina](https://www.euroleague.net/)
 
-![EUROLIGA](../images_text/baloncesto_euroliga.png)
+![EUROLIGA](../../images_text/baloncesto_euroliga.png)
 
 ## Selecciones
 
@@ -70,13 +68,11 @@ En en siguiente enlace, de la FIBA, podéis encontrar toda la información que o
 Estas son las ligas que se juegan en Estados Unidos. Tanto en la competición femenina como en la masculina, solo se juega una competición. El formato es igual que la liga de nuestro país, dividiendo la competición en dos fases:
 * **Fase regular:** todos los equipos juegan un número determinado de partidos (suelen ser 82), y los mejores clasificados pasan a los Playoffs.
 * **Playoff:** hay 2 conferencias y unos playoff en cada una de ellas (la organización es la misma que has leído anteriormente en la Liga Endesa). Los mejores de cada conferencia jugarán la final.
- 
 
 [NBA](https://es.nba.com/)
 
-
 [WNBA](https://www.wnba.com/)
 
-![NBA-WNBA](../images_text/baloncesto_nba_wnba.jpg)
+![NBA-WNBA](../../images_text/baloncesto_nba_wnba.jpg)
 
 
