@@ -6,6 +6,8 @@ categories: ciclismo
 
 El **Giro de Italia** es la primera de las tres grandes vueltas por etapas y tiene tres semanas de duración.
 
+a
+
 En la categoría femenina se disputa durante una semana, pero el resto de características son las mismas tanto en hombres como mujeres.
 Se disputa durante el mes de mayo en Italia y con un recorrido diferente cada año.
 
