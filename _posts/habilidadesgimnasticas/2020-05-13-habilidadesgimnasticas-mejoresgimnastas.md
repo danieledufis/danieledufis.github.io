@@ -6,21 +6,18 @@ categories: habilidadesgimnasticas
 
 ## Mujeres ##
 
-### Msfdfd
-
-### Mdfefef
-
-### efef
-
-### sfefefef
-
+|NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
+|-----:|-----:|-----:|-----:|-----:|
+|      |![dd]()|      |      |      |
+|      |![dd]()|      |      |      |
+|      |![dd]()|      |      |      |
+|      |![dd]()|      |      |      |
 
 ## Hombres ##
 
-### Michael Jordan
-
-### Stephen Curry
-
-### Lebron James
-
-### Pau Gasol
+|NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
+|-----:|-----:|-----:|-----:|-----:|
+|      |![dd]()|      |      |      |
+|      |![dd]()|      |      |      |
+|      |![dd]()|      |      |      |
+|      |![dd]()|      |      |      |
