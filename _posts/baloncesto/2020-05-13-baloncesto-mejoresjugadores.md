@@ -8,14 +8,14 @@ categories: baloncesto
 
 |NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
 |-----:|-----:|-----:|-----:|-----:|
-|Brenna Stewart|      |      |      |      |
-|A´ja Wilson|      |      |      |      |
-|Diana Taurasis´s|      |      |      |      |
-|Courtney Vandersloot|      |      |      |      |
-|Naphesa Collier|      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
+|Brenna Stewart|![dd]()|      |      |      |
+|A´ja Wilson|![dd]()|      |      |      |
+|Diana Taurasis´s|![dd]()|      |      |      |
+|Courtney Vandersloot|![dd]()|      |      |      |
+|Naphesa Collier|![dd]()|      |      |      |
+|      |![dd]()|      |      |      |
+|      |![dd]()|      |      |      |
+|      |![dd]()|      |      |      |
 
 
 
@@ -23,14 +23,14 @@ categories: baloncesto
 
 |NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
 |-----:|-----:|-----:|-----:|-----:|
-|Lebron James|      |      |      |      |
-|Stephen Curry|      |      |      |      |
-|Giannis Antetokounmpo|      |      |      |      |
-|Nikola Jokic|      |      |      |      |
-|Luka Doncic|      |      |      |      |
-|Pau Gasol|      |      |      |      |
-|Kobe Bryant|      |      |      |      |
-|Michael Jordan|      |      |      |      |
+|Lebron James|![dd]()|      |      |      |
+|Stephen Curry|![dd]()|      |      |      |
+|Giannis Antetokounmpo|![dd]()|      |      |      |
+|Nikola Jokic|![dd]()|      |      |      |
+|Luka Doncic|![dd]()|      |      |      |
+|Pau Gasol|![dd]()|      |      |      |
+|Kobe Bryant|![dd]()|      |      |      |
+|Michael Jordan|![dd]()|      |      |      |
 
 
 
