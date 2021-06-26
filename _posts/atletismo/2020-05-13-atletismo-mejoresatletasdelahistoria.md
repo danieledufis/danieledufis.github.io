@@ -7,7 +7,7 @@ categories: atletismo
 ## Mujeres 
 
 |NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEOS|
-|-----:||-----:|-----:|-----:|-----:|
+|-----:|-----:|-----:|-----:|-----:|
 |        |       |        |        |        |  
 |        |       |        |        |        | 
 |        |       |        |        |        | 
