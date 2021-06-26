@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mejores deportistas olímpicos: hombres"
+title: "Mejores deportistas olímpicos nacionales"
 categories: juegosolimpicos
 ---
 
