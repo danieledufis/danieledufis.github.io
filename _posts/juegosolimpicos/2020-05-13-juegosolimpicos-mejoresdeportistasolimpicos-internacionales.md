@@ -6,21 +6,20 @@ categories: juegosolimpicos
 
 ## Mujeres ##
 
-### Msfdfd
-
-### Mdfefef
-
-### efef
-
-### sfefefef
-
+|NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
+|-----:|-----:|-----:|-----:|-----:|
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
 
 ## Hombres ##
 
-### Michael Jordan
-
-### Stephen Curry
-
-### Lebron James
-
-### Pau Gasol
+|NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
+|-----:|-----:|-----:|-----:|-----:|
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
