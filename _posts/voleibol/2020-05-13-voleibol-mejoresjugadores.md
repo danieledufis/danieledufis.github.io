@@ -6,9 +6,22 @@ categories: voleibol
 
 ## Mujeres 
 
-|NOMBRE|||||
-
+|NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
+|-----:|-----:|-----:|-----:|-----:|
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
 
 ## Hombres 
 
-||||||
+|NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
+|-----:|-----:|-----:|-----:|-----:|
+|      |      |      |      |      |  
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
+|      |      |      |      |      |
