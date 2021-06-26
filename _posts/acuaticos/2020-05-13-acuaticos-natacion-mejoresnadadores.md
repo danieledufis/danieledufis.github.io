@@ -8,7 +8,7 @@ categories: acuaticos
 
 |NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEOS|
 |-----:|-----:|-----:|-----:|-----:|
-|    DFGG  |      |      |      |      |
+|    DFG  |      |      |      |      |
 |      |      |      |      |      |
 |      |      |      |      |      |
 |      |      |      |      |      |
