@@ -38,17 +38,16 @@ Existen diferentes clasificaciones y sus líderes llevan los diferentes maillots
 
 ![Maillots](../images_text/ciclismo_tour_maillot.jpg)
 
-
-
-## Lo mejor del Tour de Francia
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDhojXP7qs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Información en la red
 
 En los siguientes enlaces podéis encontrar más información relacionada con el Tour de Francia:
 
 [Canal youtube](https://www.youtube.com/user/letourdefrance)
 
-
 [Página web](https://www.letour.fr/es/)
+
+## Lo mejor del Tour de Francia
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDhojXP7qs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
