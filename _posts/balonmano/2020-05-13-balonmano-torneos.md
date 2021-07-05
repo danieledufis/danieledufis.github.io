@@ -21,6 +21,10 @@ El campeón de liga será el equipo que más puntos obtenga.
 
 [LIGA GUERRERAS IBERDROLA](https://www.rfebm.com/noticia/publicada-la-gu%C3%ADa-de-la-liga-guerreras-iberdrola-20202021)
 
+![LIGA ASOBAL](https://danieledufis.github.io/images_text/balonmano_ligaasobal.png)
+
+![LIGA GUERRERAS IBERDROLA](https://danieledufis.github.io/images_text/balonmano_ligaguerreras.jpg)
+
 ### Copa
 Este es el segundo torneo más importante a nivel nacional. Se denomina de la siguiente manera:
 - Copa del Rey en categoría masculina.
@@ -42,6 +46,8 @@ Se divide en 3 fases:
 
 [Champions femenina](https://women2020.ehf-euro.com/home/)
 
+![EHF CHAMPIONS LEAGUE](https://danieledufis.github.io/images_text/balonmano_championsleague.jpg)
+
 ### Selecciones
 A nivel de selecciones internacionales se disputan 3 campeonatos diferentes:
 - Europeo.
@@ -53,3 +59,7 @@ La clasificación a Mundiales y Juegos Olímpicos corresponderá a los equipos q
 [IHF](https://www.ihf.info/)
 
 [Eurohandball](https://www.eurohandball.com/)
+
+![EHF](https://danieledufis.github.io/images_text/balonmano_EHF.jpg)
+
+![IHF](https://danieledufis.github.io/images_text/balonmano_IHF.jpg)
