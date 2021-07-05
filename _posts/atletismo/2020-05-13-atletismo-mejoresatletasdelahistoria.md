@@ -4,7 +4,7 @@ title: "Mejores atletas de la historia"
 categories: atletismo
 ---
 
-## Mujeres y
+## Mujeres 
 
 |NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEOS|
 |-----:|-----:|-----:|-----:|-----:|
@@ -24,7 +24,7 @@ categories: atletismo
 |-------:|-----:|-------:|-------:|-------:|
 |Kenenisa Bekele|![BEKELE](https://danieledufis.github.io/images_text/atletismo_mejoresdeportistas_bekele.jpg)|Etiopía|[Información Bekele](https://es.wikipedia.org/wiki/Kenenisa_Bekele)| <iframe width="560" height="315" src="https://www.youtube.com/embed/QMJnBa3e12o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |  
 |Carl Lewis|![LEWIS](https://danieledufis.github.io/images_text/atletismo_mejoresatletas_lewis.jpg)|Estados Unidos|[Información Lewis](https://es.wikipedia.org/wiki/Carl_Lewis)|<iframe width="560" height="315" src="https://www.youtube.com/embed/xGuH_jjauHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>| 
-|Usaiin Bolt|![USAIN BOLT](https://danieledufis.github.io/images_text/atletismo_mejoresatletas_usainbolt.jpg)|Jamaica|[Información Bolt](https://es.wikipedia.org/wiki/Usain_Bolt)|<iframe width="560" height="315" src="https://www.youtube.com/embed/dfbnelU-BAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>| 
+|Usaiin Bolt|![USAIN BOLT](https://danieledufis.github.io/images_text/atletismo_mejoresatletas_usainbolt.jpg)|Jamaica|[Información Bolt](https://es.wikipedia.org/wiki/Usain_Bolt)|<iframe width="560" height="315" src="https://www.youtube.com/embed/5Dd3MpyUvOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>| 
 |Serguéi Bubka|![BUBKA](https://danieledufis.github.io/images_text/atletismo_mejoresatletas_bubka.jpg)|Ucrania|[Información Bubka](https://es.wikipedia.org/wiki/Sergu%C3%A9i_Bubka)|<iframe width="560" height="315" src="https://www.youtube.com/embed/KUPBl4xToUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>| 
 |Haile Gebrselassie|![GEBRSELASSIE](https://danieledufis.github.io/images_text/atletismo_mejoresatletas_gebresselassie.jpg)|Etiopía|[Información Gebrselassie](https://es.wikipedia.org/wiki/Haile_Gebrselassie)|<iframe width="560" height="315" src="https://www.youtube.com/embed/2jtSQqLfqf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>| 
 |Eliud Kipchoge|![KIPCHOGE](https://danieledufis.github.io/images_text/atletismo_mejoresatletas_kipchoge.jpg)|Kenia|[Información Kipchoge](https://es.wikipedia.org/wiki/Eliud_Kipchoge)|<iframe width="560" height="315" src="https://www.youtube.com/embed/MoxFkJlVZlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>| 
