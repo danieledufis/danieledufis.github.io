@@ -43,6 +43,14 @@ En los siguientes enlaces podéis encontrar más información sobre la vuelta a 
 
 [Página web](https://www.lavuelta.es/es/)
 
+## Informción en la red
+
+En los siguientes enlaces podéis encontrar más información sobre la vuelta a España:
+
+[Canal de youtube](https://www.youtube.com/user/Unipublicvuelta)
+
+[Página web](https://www.lavuelta.es/es/)
+
 ## Lo mejor de la vuelta a España
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Q0KB8NYLO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
