@@ -49,6 +49,6 @@ A nivel de selecciones internacionales se disputan 3 campeonatos diferentes:
 -         Juegos Olímpicos.
 La clasificación a Mundiales y Juegos Olímpicos corresponderá a los equipos que ocupen las mejores puestos en el Europeo previo a esas competiciones.
 
-!IHF[](https://www.ihf.info/)
+![IHF](https://www.ihf.info/)
 
 ![Eurohandball](https://www.eurohandball.com/)
