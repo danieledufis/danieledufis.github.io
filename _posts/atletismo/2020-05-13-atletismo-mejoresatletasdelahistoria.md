@@ -4,7 +4,7 @@ title: "Mejores atletas de la historia"
 categories: atletismo
 ---
 
-## Mujeres 
+## Mujeres y
 
 |NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEOS|
 |-----:|-----:|-----:|-----:|-----:|
