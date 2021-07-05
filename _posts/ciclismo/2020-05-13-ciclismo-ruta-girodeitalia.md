@@ -35,11 +35,6 @@ Exsisten diferentes clasificaciones y sus líderes llevan los diferentes maillot
 
 ![Maillots](../images_text/ciclismo_giro_maillot.jpg)
 
-
-## Lo mejor del Giro de Italia 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T0aT3M0c0AA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
 ## Información en la red ### 
 
 En los siguientes enlaces puedes encontrar más información acerca del Giro de Italia:
@@ -47,4 +42,8 @@ En los siguientes enlaces puedes encontrar más información acerca del Giro de 
 [Canal youtube](https://www.youtube.com/user/giroditaliaweb) 
 
 [Web Giro](https://www.giroditalia.it/es/)
+
+## Lo mejor del Giro de Italia 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T0aT3M0c0AA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
