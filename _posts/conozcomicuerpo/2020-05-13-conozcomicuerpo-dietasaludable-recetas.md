@@ -12,7 +12,7 @@ En este post vais a poder descargaros varias recetas para que tengáis una dieta
 
 ## 2. Carnes
 
-**[Pollo a la Salomé](https://danieledufis.github.io/pdfs/Pollo%20a%20la%20Salome%CC%81.pdf)
+##### [Pollo a la Salomé](https://danieledufis.github.io/pdfs/Pollo%20a%20la%20Salome%CC%81.pdf)
 
 
 
@@ -30,7 +30,7 @@ En este post vais a poder descargaros varias recetas para que tengáis una dieta
 
 ## 9. Salsas
 
-**[Pesto](https://danieledufis.github.io/pdfs/Pesto.pdf)
+##### [Pesto](https://danieledufis.github.io/pdfs/Pesto.pdf)
 
 ## 10. Otros países
 
