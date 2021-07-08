@@ -33,7 +33,7 @@ En este post vais a poder descargaros varias recetas para que tengáis una dieta
 
 ## 9. Salsas
 
-![Pesto][Pesto.pdf]
+![Pesto](https://danieledufis.github.io/pdfs/Pesto.pdf)
 
 ## 10. Otros países
 
