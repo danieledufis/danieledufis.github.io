@@ -8,7 +8,7 @@ categories: acuaticos
 
 David Meca es un nadador de aguas abiertas que hace unos años se hizo muy famoso por los retos que realizaba. Os dejo aquí alguno de los retos que protagonizó:
 
-* **Cruza el estrecho de Gibraltar con 42 años
+* **Cruza el estrecho de Gibraltar con 42 años**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MQ10zUg6vVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
