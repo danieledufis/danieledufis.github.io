@@ -22,27 +22,29 @@ Durante esos años fue acusado de dopaje. Como protesta ante esa acusación de d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BoRMq8H2z0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### - Tenerife - Las Palmas
 
-#### - Canal de la Mancha
-
-#### - Península - Baleares
 
 #### - Ascenso al río Guadalquivir
 
 En el siguiente enlace podéis leer la noticia sobre este reto:
 
-https://elpais.com/deportes/2007/04/22/actualidad/1177226514_850215.html
+[Reto Guadalquivir](https://elpais.com/deportes/2007/04/22/actualidad/1177226514_850215.html)
 
 #### - Camino de Santiago a nado
 
 A continuación os pongo un enlace con la noticia sobre esta peculiar hazaña:
 
-https://www.google.es/search?sxsrf=ALeKk00oXkb8UaMk4YkfnEXcLNspNAxcRQ%3A1601911489066&source=hp&ei=wTp7X96JAamQlwS5hYyYBw&q=david+meca+camino+de+santiago&oq=david+meca+camino+de+&gs_lcp=CgZwc3ktYWIQARgAMgYIABAWEB46BwgjEOoCECc6BwguEOoCECc6BAgjECc6BQgAELEDOggILhCxAxCDAToICAAQsQMQgwE6AgguOgUILhCxAzoICC4QsQMQkwI6AggAOgUILhCTAlDwD1jgLmDFPGgBcAB4AIABjAKIAawTkgEGMTQuMy40mAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab
+[Camino de Santiago](https://www.marca.com/2010/01/05/mas_deportes/natacion/1262719943.html)
 
 ## Retos de otros nadadores
 
 #### - La Gomera - Tenerife
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HaP8eHoIclk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### - Javier Merida cruza el Canal de la Mancha
+
+Fijaros lo meritorio que es ya que tiene una pierna amputada. ¡Es un crack!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R4poQUAEsQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
