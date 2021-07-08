@@ -25,6 +25,8 @@ Aquí tenéis los enlaces para acceder a la web oficial de ambas competiciones:
 
 [LIGA FEMENINA ENDESA](http://www.lfendesa.es/inicio.aspx)
 
+![LIGA ENDESA](https://danieledufis.github.io/images_text/baloncesto_liga%20endesa.jpg)
+
 #### - Copa
 
 A mitad de la temporada, los **8 mejores equipos** de la competición jugarán eliminatorias **a partido único** y se jugarán todos los partidos en una misma ciudad y en un mismo campo.
@@ -33,6 +35,8 @@ La denominación es diferente en función de la categoría:
 
 * Copa del Rey en hombres.
 * Copa de la Reina en mujeres.
+
+![COPA DEL REY](https://danieledufis.github.io/images_text/baloncesto_copadelrey.jpg)
 
 #### - Euroliga
 
@@ -62,6 +66,8 @@ Las selecciones que se clasificarán a los mundiales y Juegos Olímpicos serán 
 En en siguiente enlace, de la FIBA, podéis encontrar toda la información que os interes sobre estas dos competiciones:
 
 [FIBA](http://www.fiba.basketball/es)
+
+![FIBA](https://danieledufis.github.io/images_text/baloncesto_fiba.png)
 
 ## NBA Y WNBA
 
