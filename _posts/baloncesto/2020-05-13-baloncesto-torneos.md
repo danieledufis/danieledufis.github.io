@@ -79,6 +79,6 @@ Estas son las ligas que se juegan en Estados Unidos. Tanto en la competición fe
 
 [WNBA](https://www.wnba.com/)
 
-![NBA-WNBA](../../images_text/baloncesto_nba_wnba.jpg)
-
+![WNBA](https://danieledufis.github.io/images_text/baloncesto_wnba.png)
+![NBA](https://danieledufis.github.io/images_text/baloncesto_nba.jpg)
 
