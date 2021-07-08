@@ -36,7 +36,7 @@ categories: atletismo
 
 |PRUEBA|MARCA|ATLETA|PAÍS|FECHA|LUGAR|VÍDEO|
 |-------:|------:|-------:|-----:|------:|------:|------:|
-|100m|9.58s|Usain Bolt|Jamaica|16708/2009|Berlín, Alemania|[Récord 100m](https://www.youtube.com/watch?v=3nbjhpcZ9_g)|
+|100m|9.58s|Usain Bolt|Jamaica|16708/2009|Berlín, Alemania|![Récord 100m](https://www.youtube.com/watch?v=3nbjhpcZ9_g)|
 |200m|19.19s|Usain Bolt|Jamaica|20/08/2009|Berlín, Alemania|<iframe width="560" height="315" src="https://www.youtube.com/embed/abZ54SCPRLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|   
 |400m|43.03s|Wayde van Niekerk|Sudáfrica|14/08/2016|Río de Janeiro|<iframe width="560" height="315" src="https://www.youtube.com/embed/xG91krXuxyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>| 
 |800m|1:40.91|David Rudisha|Kenia|09/08/2012|Londres, Reino Unido|<iframe width="560" height="315" src="https://www.youtube.com/embed/x7KGlbZVK-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>| 
