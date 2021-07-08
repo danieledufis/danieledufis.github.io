@@ -31,10 +31,10 @@ Los puertos más famosos en esta carrera son el Tourmalet y el Alpe d´Huez, en 
 ## Maillots
 
 Existen diferentes clasificaciones y sus líderes llevan los diferentes maillots:
--         Amarillo: clasificación general.
--         Verde: clasificación general por puntos, también conocido como el de la regularidad.
--         Blanco con puntos rojos: líder de la montaña.
--         Blanco: clasificación de los jóvenes.
+* Amarillo: clasificación general.
+* Verde: clasificación general por puntos, también conocido como el de la regularidad.
+* Blanco con puntos rojos: líder de la montaña.
+* Blanco: clasificación de los jóvenes.
 
 ![Maillots](../images_text/ciclismo_tour_maillot.jpg)
 
