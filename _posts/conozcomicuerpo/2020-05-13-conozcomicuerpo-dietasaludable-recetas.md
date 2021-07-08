@@ -14,9 +14,9 @@ En este post vais a poder descargaros varias recetas para que tengáis una dieta
 
 **Pollo a la Salomé**
 
-![Pollo a la Salomé](https://github.com/danieledufis/danieledufis.github.io/blob/master/pdfs/Pollo%20a%20la%20Salome%CC%81.pdf)
+![Pollo a la Salomé](https://danieledufis.github.io/pdfs/Pollo%20a%20la%20Salome%CC%81.pdf)
 
-[Pollo a la Salomé][Pollo-a-la-Salomé.pdf]
+[Pollo a la Salomé][Pollo a la Salomé.pdf]
 
 
 ## 3. Verduras
@@ -53,4 +53,4 @@ En este post vais a poder descargaros varias recetas para que tengáis una dieta
 
 
 
-[Pollo-la-Salomé]:../../pdfs/Pollo-a-la-Salomé.pdf
+[Pollo a la Salomé]:../../pdfs/Pollo a la Salomé.pdf
