@@ -12,12 +12,6 @@ Mireia Belmonte gana la primera medalla de oro para la natación española en un
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IJGs5UPFQvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* **Final 400 metros estilos Río de Janeiro 2016**
-
-Aquí Mieria hace doblete en estos Juegos Olímpicos  y consigue la medalla de bronce.
-
-
-
 * **Final 100 metros mariposa Beijing 2008**
 
 Phelps y Cavic nos regalan un final de carrera de infarto.
