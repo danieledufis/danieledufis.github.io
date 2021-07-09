@@ -8,7 +8,7 @@ categories: futbol
 
 Las competiciones más importantes a nivel de clubes, tanto hombres como mujeres, son las siguientes:
 
-##### Liga
+#### Liga
 Tanto en categoría masculina como femenina este es el torneo más importante a nivel nacional.
 
 * La Liga Santander en hombres.
@@ -30,7 +30,7 @@ Estos son los enlaces donde podéis consultar información sobre ambas competici
 
 ![LIGA IBERDROLA](../../images_text/futbol_ligaiberdrola.png)
 
-##### Copa
+#### Copa
 
 En este torneo se disputan eliminatorias entre los equipos de las categorías más importantes del país.
 Es denominada de la siguiente manera:
@@ -46,7 +46,7 @@ La final se juega a partido único en un estadio y ciudad neutral.
 ![COPA DEL REY](../../images_text/futbol_copadelrey.jpg)
 ![COPA DE LA REINA](../../images_text/futbol_copa-de-la-reina.jpg)
 
-##### Champions League
+#### Champions League
 
 Es el torneo más importante a nivel de clubes. Lo juegan los **campeones de las mejores ligas europeas y los mejores clasificados.** Tanto en hombres como en mujeres hay el mismo formato:
 
