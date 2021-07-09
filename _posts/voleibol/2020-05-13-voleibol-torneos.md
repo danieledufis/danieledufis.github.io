@@ -4,7 +4,7 @@ title: "Torneos"
 categories: voleibol
 ---
 
-## Clubes
+## 1. Clubes
 
 Las competiciones más importantes a nivel de clubes, tanto hombres como mujeres, son las siguientes:
 
@@ -45,7 +45,7 @@ Se juegan rondas de Playoff hasta que salen 3 equipos clasificados que jugarán 
 ![CHAMPIONS LEAGUE](https://danieledufis.github.io/images_text/voleibol_champions.jpg)
 
 
-## Selecciones
+## 2. Selecciones
 
 A nivel de selecciones nacionales, estos son los torneos más importantes que se juegan:
 * Europeo.
