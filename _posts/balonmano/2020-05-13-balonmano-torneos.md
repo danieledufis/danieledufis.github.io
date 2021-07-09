@@ -60,6 +60,4 @@ La clasificación a Mundiales y Juegos Olímpicos corresponderá a los equipos q
 
 [Eurohandball](https://www.eurohandball.com/)
 
-![EHF](https://danieledufis.github.io/images_text/balonmano_EHF.jpg)
-
-![IHF](https://danieledufis.github.io/images_text/balonmano_IHF.jpg)
+![IHF EHF](https://danieledufis.github.io/images_text/balonmano_ihfehf.jpg)
