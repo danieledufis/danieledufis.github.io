@@ -21,6 +21,7 @@ Las puntuaciones son las siguientes:
 * El equipo que **pierde** no se lleva **ningún punto**.
 
 Estos son los enlaces donde podéis consultar información sobre ambas competiciones:
+
 [LIGA SANTANDER](https://www.laliga.com/laliga-santander)
 
 [PRIMERA OBERDROLA](https://primeraiberdrola.es/)
