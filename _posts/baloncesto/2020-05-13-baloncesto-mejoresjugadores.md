@@ -23,14 +23,14 @@ categories: baloncesto
 
 |NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
 |-----:|-----:|-----:|-----:|-----:|
-|Lebron James|![dd]()|Estados Unidos|[Lerbon Wikipedia](https://es.wikipedia.org/wiki/LeBron_James)|[]()|
-|Stephen Curry|![dd]()|Estados Unidos|[Curry Wikipedia](https://es.wikipedia.org/wiki/Stephen_Curry)|[]()|
-|Giannis Antetokounmpo|![dd]()|Grecia|[Antetokounmpo Wikipedia](https://es.wikipedia.org/wiki/Giannis_Antetokounmpo)|[]()|
-|Nikola Jokic|![dd]()|Serbia|[Jokic Wikipedia](https://es.wikipedia.org/wiki/Nikola_Joki%C4%87)|[]()|
-|Luka Doncic|![dd]()|Eslovenia|[Doncic Wikipedia](https://es.wikipedia.org/wiki/Luka_Don%C4%8Di%C4%87)|[]()|
-|Pau Gasol|![dd]()|España|[Gasol Wikipedia](https://es.wikipedia.org/wiki/Pau_Gasol)|[]()|
-|Kobe Bryant|![dd]()|Estados Unidos|[Bryant Wikipedia](https://es.wikipedia.org/wiki/Kobe_Bryant)|[]()|
-|Michael Jordan|![dd]()|      |[Jordan Wikipedia](https://es.wikipedia.org/wiki/Michael_Jordan)|[]()|
+|Lebron James|![Lebron James](https://danieledufis.github.io/images_text/baloncesto_lebron.jpg)|Estados Unidos|[Lerbon Wikipedia](https://es.wikipedia.org/wiki/LeBron_James)|[]()|
+|Stephen Curry|![Stephen Curry](https://danieledufis.github.io/images_text/baloncesto_curry.jpg)|Estados Unidos|[Curry Wikipedia](https://es.wikipedia.org/wiki/Stephen_Curry)|[]()|
+|Giannis Antetokounmpo|![Giannis Antetokounmpo](https://danieledufis.github.io/images_text/baloncesto_anteto.jpg)|Grecia|[Antetokounmpo Wikipedia](https://es.wikipedia.org/wiki/Giannis_Antetokounmpo)|[]()|
+|Nikola Jokic|![Nikola Jokic](https://danieledufis.github.io/images_text/baloncesto_jokic.jpg)|Serbia|[Jokic Wikipedia](https://es.wikipedia.org/wiki/Nikola_Joki%C4%87)|[]()|
+|Luka Doncic|![Luka Doncic](https://danieledufis.github.io/images_text/baloncesto_doncic.jpg)|Eslovenia|[Doncic Wikipedia](https://es.wikipedia.org/wiki/Luka_Don%C4%8Di%C4%87)|[]()|
+|Pau Gasol|![Pau Gasol](https://danieledufis.github.io/images_text/baloncesto_gasol.jpg)|España|[Gasol Wikipedia](https://es.wikipedia.org/wiki/Pau_Gasol)|[]()|
+|Kobe Bryant|![Kobe Bryant](https://danieledufis.github.io/images_text/baloncesto_bryant.jpg)|Estados Unidos|[Bryant Wikipedia](https://es.wikipedia.org/wiki/Kobe_Bryant)|[]()|
+|Michael Jordan|![Michael Jordan](https://danieledufis.github.io/images_text/baloncesto_jordan.jpg)|Estados Unidos|[Jordan Wikipedia](https://es.wikipedia.org/wiki/Michael_Jordan)|[]()|
 
 
 
