@@ -56,7 +56,7 @@ El Europeo se  disputa cada 2 años mientras que Mundial y Juegos Olímpicos se 
 
 En el siguiente enlace encontrarñeis toda la información relativa a las competiciones internacionales.
 
-[FEDERACIÓN INTERNACIONAL DE VOLEIBOL](]https://www.fivb.com/)
+[FEDERACIÓN INTERNACIONAL DE VOLEIBOL](https://www.fivb.com/)
 
 ![Federación Internacional de Voleibol](https://danieledufis.github.io/images_text/voelibol_federacioninternacional.jpg)
 
