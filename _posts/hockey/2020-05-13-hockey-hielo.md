@@ -4,6 +4,8 @@ title: "Hockey sobre hielo"
 categories: hockey
 ---
 
+## Información general
+
 * Es una modalidad del hockey que se juega con **6 jugadores** en cada equipo (**un portero y 5 jugadores en hielo**).
 ![JUGADORES](https://danieledufis.github.io/images_text/hielo_jugadores.jpg)
 * Todos ellos llevan **patines para el hielo**.
