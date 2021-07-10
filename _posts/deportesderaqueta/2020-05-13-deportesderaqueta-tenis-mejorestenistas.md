@@ -12,13 +12,16 @@ En los apartados de "INFORMACIÓN" y "VÍDEO" debéis acceder al enlace que os s
 |-----:|-----:|-----:|-----:|-----:|
 |**Serena Williams**|![Serena](../images_text/tenis_serenawilliams.jpg)|Estados Unidos|[]()||
 |**Simona Halep**|![dd]()|Rumanía|[]()||
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
-|**Arabtxa Sánchez Vicario**|      |      |[]()|[]()|
+|**Naomi Osaka**|![dd]()|Japón|[]()|[]()|
+|**Gabriñe Muguruza**|![dd]()|España|[]()|[]()|
+|**Sofia Kenin**|![dd]()|Estados Unidos|[]()|[]()|
+|**Asleigh Barty**|![]()|Australia|[]()|[]()|
+|**Steffi Graf**|![dd]()|Alemania|[]()|[]()|
+|**Arabtxa Sánchez Vicario**|![dd]()|España|[]()|[]()|
+
+En el siguiente enlace podeís encontrar actualizado el ranking de la WTA (Women´s Tennis Association) e información sobre las jugadoras seleccionando con el ratón su nombre:
+
+[Ranking WTA](http://espndeportes.espn.com/tenis/posiciones/_/tipo/2)
 
 ## Hombres 
 
@@ -27,8 +30,13 @@ En los apartados de "INFORMACIÓN" y "VÍDEO" debéis acceder al enlace que os s
 |**Roger Federer**|![dd]()|Suiza|[]()|[]()|           
 |**Rafael Nadal**|![dd]()|España|[]()|[]()| 
 |**Novak Djokovic**|![dd]()|Serbia|[]()|[]()| 
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
+|**Stéfanos Tsitsipás**|![dd]()|Grecia|[]()|[]()|
+|**Dominic Thiem**|![dd]()|Austria|[]()|[]()|
+|**Daniil Medvedev**|![dd]()|Rusia|[]()|[]()|
+|**Alexander Zverev**|![]()|Alemania|[]()|[]()|
 |**Pete Sampras**|![dd]()|Estados Unidos|[]()||
+
+En el siguiente enlace podéis encontrar actualizado el ranking de la ATP (Asociación de Tenistas Profesionales) e información sobre los jugadores seleccionando con el ratón su nombre:
+
+[Ranking ATP](http://espndeportes.espn.com/tenis/posiciones)
 
