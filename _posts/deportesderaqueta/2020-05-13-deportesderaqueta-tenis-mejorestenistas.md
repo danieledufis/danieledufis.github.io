@@ -10,14 +10,14 @@ En los apartados de "INFORMACIÓN" y "VÍDEO" debéis acceder al enlace que os s
 
 |NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
 |-----:|-----:|-----:|-----:|-----:|
-|**Serena Williams**|![Serena](../images_text/tenis_serenawilliams.jpg)|Estados Unidos|[]()||
-|**Simona Halep**|![dd]()|Rumanía|[]()||
-|**Naomi Osaka**|![dd]()|Japón|[]()|[]()|
-|**Gabriñe Muguruza**|![dd]()|España|[]()|[]()|
-|**Sofia Kenin**|![dd]()|Estados Unidos|[]()|[]()|
-|**Asleigh Barty**|![]()|Australia|[]()|[]()|
-|**Steffi Graf**|![dd]()|Alemania|[]()|[]()|
-|**Arabtxa Sánchez Vicario**|![dd]()|España|[]()|[]()|
+|**Serena Williams**|![Serena]()|Estados Unidos|[Serena Wikipedia]()|[Serena Youtube]()|
+|**Simona Halep**|![dd]()|Rumanía|[Halep Wikipedia]()|[Halep Youtube]()|
+|**Naomi Osaka**|![dd]()|Japón|[Osaka Wikipedia]()|[Osaka Youtube]()|
+|**Gabriñe Muguruza**|![dd]()|España|[Muguruza Wikipedia]()|[Muguruza Youtube]()|
+|**Sofia Kenin**|![dd]()|Estados Unidos|[Kenin Wikipedia]()|[Kenin Wikipedia]()|
+|**Asleigh Barty**|![]()|Australia|[Barty Wikipedia]()|[Barty Youtube]()|
+|**Steffi Graf**|![dd]()|Alemania|[Graf Wikipedia]()|[Graf Youtube]()|
+|**Arantxa Sánchez Vicario**|![dd]()|España|[Arantxa Wikipedia]()|[Arantxa Youtube]()|
 
 En el siguiente enlace podeís encontrar actualizado el ranking de la WTA (Women´s Tennis Association) e información sobre las jugadoras seleccionando con el ratón su nombre:
 
