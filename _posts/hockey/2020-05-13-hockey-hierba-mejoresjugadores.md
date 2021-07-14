@@ -10,10 +10,10 @@ En los apartados de "INFORMACIÓN" y "VÍDEOS" debéis acceder al enlace que os 
 
 |NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
 |-----:|-----:|-----:|-----:|-----:|
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
+|**Eva De Goede**|![dd]()|Paçises Bajos|[]()|[]()|
+|**Delfina Merino**|![dd]()|Argentina|[]()|[]()|
+|**Naomi Van As**|![dd]()|Países Bajos|[]()|[]()|
+|**Lidewij Welten|![]
 |      |![dd]()|      |[]()|[]()|
 |      |![dd]()|      |[]()|[]()|
 
@@ -22,9 +22,9 @@ En los apartados de "INFORMACIÓN" y "VÍDEOS" debéis acceder al enlace que os 
 
 |NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
 |-----:|-----:|-----:|-----:|-----:|
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
-|      |![dd]()|      |[]()|[]()|
+|**Arthur Van Doren**|![dd]()|Bélgica|[]()|[]()|
+|**John-John Domen**|![dd]()|Bélgica|[]()|[]()|
+|**Robert van der Horst**|![dd]()|Países Bajos|[]()|[]()|
+|**Mark Knowles**|![dd]()|Australia)|
 |      |![dd]()|      |[]()|[]()|
 |      |![dd]()|      |[]()|[]()|
