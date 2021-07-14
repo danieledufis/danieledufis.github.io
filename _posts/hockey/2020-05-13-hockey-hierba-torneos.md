@@ -24,7 +24,7 @@ El enlace  donde podéis encontrar toda la información al respecto es el siguie
 
 [Real Federación Española de Hockey](https://www.rfeh.es/)
 
-![LIGA FEMENINA](https://danieledufis.github.io/images_text/hierba_ligamujeres.png)
+![LIGA FEMENINA](https://danieledufis.github.io/images_text/hierba_ligafem.png)
 
 ![LIGA MASCULINA](https://danieledufis.github.io/images_text/hierba_ligahombres.jpg)
 
