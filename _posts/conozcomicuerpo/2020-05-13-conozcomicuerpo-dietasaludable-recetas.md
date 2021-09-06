@@ -8,6 +8,10 @@ categories: conozcomicuerpo
 
 En este post vais a poder descargaros varias recetas para que tengáis una dieta variada y que os aporte todos los nutrientes necesarios para el día a día.
 
+Antes de descargarte las recetas es recomendable que veáis cómo llevar una dieta equilibrada y saludable con este vídeo:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wr0_wULJnBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 1. Arroces
 
 ## 2. Carnes
