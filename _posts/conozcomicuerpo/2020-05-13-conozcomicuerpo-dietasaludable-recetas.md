@@ -26,6 +26,8 @@ En este post vais a poder descargaros varias recetas para que tengáis una dieta
 
 ## 7. Pizzas
 
+### [Masa](https://danieledufis.github.io/pdfs/masa%20de%20pizza.pdf)
+
 ## 8. Platos de cuchara
 
 ## 9. Salsas
@@ -57,6 +59,6 @@ En este post vais a poder descargaros varias recetas para que tengáis una dieta
 [Pollo a la Salomé]:../../pdfs/Pollo a la Salomé.pdf
 
 [Pesto]:../../pdfs/Pesto.pdf
-[]:../../pdfs/
+[Masa]:../../pdfs/masa%20de%20pizza.pdf
 []:../../pdfs/
 []:../../pdfs/
