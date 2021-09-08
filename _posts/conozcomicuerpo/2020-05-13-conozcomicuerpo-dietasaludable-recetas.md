@@ -24,11 +24,11 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 4. Desayunos
 
-### [Porridge]()
+### [Porridge](https://danieledufis.github.io/pdfs/Porridge_compressed.pdf)
 
 ## 5. Ensaladas y platos frescos
 
-### [Ensalada gourmet con pesto rojo]()
+### [Ensalada gourmet con pesto rojo](https://danieledufis.github.io/pdfs/ensalada_gourmet_compressed.pdf)
 
 ## 6. Hamburguesas
 
@@ -42,7 +42,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Pesto]()
 
-### [Pesto rojo]()
+### [Pesto rojo](https://danieledufis.github.io/pdfs/pesto_rojo_compressed.pdf)
 
 ## 10. Otros países
 
@@ -69,10 +69,10 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Pollo a la Salomé]:../../pdfs/Pollo a la Salomé.pdf
 
 [Masa]:../../pdfs/masa%20de%20pizza.pdf
-[Porridge]:../../pdfs/
+[Porridge]:../../pdfs/Porridge_compressed.pdf
 [Pesto]:../../pdfs/
-[Pesto rojo]:../../pdfs/
-[Ensalada gourmet con pesto rojo]:../../pdfs/
+[Pesto rojo]:../../pdfs/pesto_rojo_compressed.pdf
+[Ensalada gourmet con pesto rojo]:../../pdfs/ensalada_gourmet_compressed.pdf
 []:../../pdfs/
 []:../../pdfs/
 []:../../pdfs/
