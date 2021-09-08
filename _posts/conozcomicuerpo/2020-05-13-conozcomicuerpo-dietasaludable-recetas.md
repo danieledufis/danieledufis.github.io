@@ -16,8 +16,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 2. Carnes
 
-### [Pollo a la Salomé](https://danieledufis.github.io/pdfs/Pollo%20a%20la%20Salome%CC%81.pdf)
-
+   ### * [Pollo a la Salomé](https://danieledufis.github.io/pdfs/Pollo%20a%20la%20Salome%CC%81.pdf)
 
 
 ## 3. Verduras
