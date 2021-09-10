@@ -38,7 +38,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 9. Salsas
 
-### [Pesto]()
+### [Pesto](https://danieledufis.github.io/pdfs/Pesto_v2.0_compressed.pdf)
 
 ### [Pesto rojo](https://danieledufis.github.io/pdfs/pesto_rojo_compressed.pdf)
 
@@ -65,10 +65,9 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 
 [Pollo a la Salomé]:../../pdfs/Pollo a la Salomé.pdf
-
 [Masa]:../../pdfs/masa%20de%20pizza.pdf
 [Porridge]:../../pdfs/Porridge_compressed.pdf
-[Pesto]:../../pdfs/
+[Pesto]:../../pdfs/Pesto_v2.0_compressed.pdf
 [Pesto rojo]:../../pdfs/pesto_rojo_compressed.pdf
 [Ensalada gourmet con pesto rojo]:../../pdfs/ensalada_gourmet_compressed.pdf
 []:../../pdfs/
