@@ -6,6 +6,42 @@ categories: deportesderaqueta
 
 ## Información general
 
+## US Open 2021
+
+### Mujeres
+
+Final: Emma Raducanu vs Leylah Fernández
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hRydTS4kCaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Campeona: Emma Raducanu
+
+### Hombres
+
+Final: Daniil Medvedev vs Novak Djokovic
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MEFpXBwnyQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Campeón:
+
+## US Open 2020
+
+### Mujeres
+
+Final: Naomi Osaka vs Voctoria Azaraenka
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ncAyvy4Q81M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Campeona: Naomi Osaka
+
+### Hombres
+
+Final: Alexander Zverev vs Dominic Thiem
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RIevWd_4Sig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Campeón: Dominic Thiem
+
 ## US Open 2019
 
 ### Mujeres
