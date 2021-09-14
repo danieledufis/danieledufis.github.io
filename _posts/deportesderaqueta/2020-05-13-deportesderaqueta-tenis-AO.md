@@ -92,7 +92,7 @@ Final: Serena Williams vs Angelique Kerber
 
 Final: Novak Djokovic vs Andy Murray
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XBVUAYyuMqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8LyIbEsoOhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Campeón: Novak Djokovic
 
@@ -102,7 +102,7 @@ Final: Novak Djokovic vs Andy Murray
 
 Final: Serena Williams vs María Sharápova 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6bnd1sjKbTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QKBk5ii3ZBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Campeona: Serena Williams
 
