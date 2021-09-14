@@ -34,6 +34,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Masa](https://danieledufis.github.io/pdfs/masa%20de%20pizza.pdf)
 
+### [Pizza de calabacín, cebolla caramelizada y pesto](https://danieledufis.github.io/pdfs/pizza_calabacin%2C%20cebolla%20caramelizada%20y%20pesto.pdf)
+
 ## 8. Platos de cuchara
 
 ## 9. Salsas
@@ -58,7 +60,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 11. Postres
 
-
+### [Torrijas](https://danieledufis.github.io/pdfs/Torrijas.pdf)
 
 
 
@@ -70,7 +72,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Pesto]:../../pdfs/Pesto_v2.0_compressed.pdf
 [Pesto rojo]:../../pdfs/pesto_rojo_compressed.pdf
 [Ensalada gourmet con pesto rojo]:../../pdfs/ensalada_gourmet_compressed.pdf
-[]:../../pdfs/
-[]:../../pdfs/
+[Pizza de calabacín, cebolla caramelizada y pesto]:../../pdfs/pizza_calabacin%2C%20cebolla%20caramelizada%20y%20pesto.pdf
+[Torrijas]:../../pdfs/Torrijas.pdf
 []:../../pdfs/
 []:../../pdfs/
