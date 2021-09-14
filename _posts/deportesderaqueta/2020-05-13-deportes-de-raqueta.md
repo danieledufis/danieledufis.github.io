@@ -4,6 +4,13 @@ title: "Deportes de raqueta"
 categories: deportesderaqueta
 ---
 
+En esta carpeta encontraréis información relacionada con todos los deportes de raqueta:
+
+- Bádminton.
+- Padel.
+- Tenis.
+- Tenis de mesa.
+
 ## Bádminton
 
 #### - [Reglas]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-badminton-reglas.md %})
