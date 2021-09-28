@@ -3,7 +3,6 @@ layout: post
 title: "Fútbol sala"
 categories: futbol
 ---
-## FÚTBOL SALA
 
 #### - [Reglas]({% link _posts/futbol/2020-05-13-futbol-futbolsala-reglas.md %})
 
