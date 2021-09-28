@@ -20,5 +20,5 @@ En esta carpeta encontraréis información relacionada con todos los deportes de
 ## [Tenis]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenis.md %})
 ![Qué es](../images/deportesraqueta_tenis.jpg)
 
-## [Tenis de mesa]({% https:_posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenisdemesa.md %})
+## [Tenis de mesa]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenisdemesa.md %})
 ![Qué es](../images/depraqueta_tenisdemesa_pesta%C3%B1a.jpg)
