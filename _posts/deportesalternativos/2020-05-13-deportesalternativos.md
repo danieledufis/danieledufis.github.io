@@ -10,6 +10,9 @@ categories: deportesalternativos
 ### [Datchball]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-datchball.md %})
 ![Datchball](../images/deportesalternativos_datchball_pestana.jpg)
 
+### [Pickleball]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-jugger.md %})
+![Pickleball](../images/deportesalternativos_pickleball.jpg)
+
 ### [Jugger]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-jugger.md %})
 ![Jugger](../images/deportesalternativos_jugger_pestana.jpg)
 
