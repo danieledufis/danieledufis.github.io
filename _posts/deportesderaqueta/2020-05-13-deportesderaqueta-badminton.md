@@ -4,8 +4,6 @@ title: "Bádminton"
 categories: deportesderaqueta
 ---
 
-## Bádminton
-
 #### - [Reglas]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-badminton-reglas.md %})
 
 ![Reglas](../images/depraqueta_badminton_reglas_pestana.jpg)
