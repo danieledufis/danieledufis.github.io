@@ -26,7 +26,9 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 5. Ensaladas y platos frescos
 
-### [Ensalada gourmet con pesto rojo](https://danieledufis.github.io/pdfs/ensalada_gourmet_compressed.pdf)
+### [Ensalada gourmet con pesto rojo](https://danieledufis.github.io/pdfs/ensalada_gourmet_v2_compressed.pdf)
+
+### [Tomate con burrata y pesto](https://danieledufis.github.io/pdfs/tomates_burrata_pesto_compressed.pdf)
 
 ## 6. Hamburguesas
 
@@ -34,7 +36,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Masa](https://danieledufis.github.io/pdfs/masa%20de%20pizza.pdf)
 
-### [Pizza de calabacín, cebolla caramelizada y pesto](https://danieledufis.github.io/pdfs/pizza_calabacin%2C%20cebolla%20caramelizada%20y%20pesto.pdf)
+### [Pizza de calabacín, cebolla caramelizada y pesto]()
 
 ## 8. Platos de cuchara
 
@@ -54,6 +56,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ###  10.3. Marruecos
 
+### [Cous Cous con pollo y verduras](danieledufis.github.io/pdfs/pollo_con_verduras_compressed.pdf)
+
 ###  10.4. México
 
 ###  10.5. Tailandia
@@ -67,12 +71,15 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 
 [Pollo a la Salomé]:../../pdfs/Pollo a la Salomé.pdf
-[Masa]:../../pdfs/masa%20de%20pizza.pdf
 [Porridge]:../../pdfs/Porridge_compressed.pdf
+[Ensalada gourmet con pesto rojo]:../../pdfs/ensalada_gourmet_v2_compressed.pdf
+[Tomate con burrata y pesto]:../../pdfs/tomates_burrata_pesto_compressed.pdf
+[Masa]:../../pdfs/masa%20de%20pizza.pdf
+[Pizza de calabacín, cebolla caramelizada y pesto]:../../
 [Pesto]:../../pdfs/Pesto_v2.0_compressed.pdf
 [Pesto rojo]:../../pdfs/pesto_rojo_compressed.pdf
-[Ensalada gourmet con pesto rojo]:../../pdfs/ensalada_gourmet_compressed.pdf
-[Pizza de calabacín, cebolla caramelizada y pesto]:../../pdfs/pizza_calabacin%2C%20cebolla%20caramelizada%20y%20pesto.pdf
+[Cous cous con pollo y verduras]:../../pdfs/pollo_con_verduras_compressed.pdf
+
 [Torrijas]:../../pdfs/Torrijas.pdf
 []:../../pdfs/
 []:../../pdfs/
