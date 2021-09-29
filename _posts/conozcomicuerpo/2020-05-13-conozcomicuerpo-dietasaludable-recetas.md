@@ -30,39 +30,45 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Tomate con burrata y pesto](https://danieledufis.github.io/pdfs/tomates_burrata_pesto_compressed.pdf)
 
+### [Gazpacho](https://github.com/danieledufis/danieledufis.github.io/blob/master/pdfs/gazpacho_compressed.pdf)
+
 ## 6. Hamburguesas
 
-## 7. Pizzas
+## 7. Tostas
+
+### [Tosta de guacamole con salmón](https://github.com/danieledufis/danieledufis.github.io/blob/master/pdfs/tostas_guacamole_salmon_compressed.pdf)
+
+## 8. Pizzas
 
 ### [Masa](https://danieledufis.github.io/pdfs/masa%20de%20pizza.pdf)
 
-### [Pizza de calabacín, cebolla caramelizada y pesto]()
+### [Pizza de calabacín, cebolla caramelizada y pesto](https://github.com/danieledufis/danieledufis.github.io/blob/master/pdfs/pizza_calabacin_compressed.pdf)
 
-## 8. Platos de cuchara
+## 9. Platos de cuchara
 
-## 9. Salsas
+## 10. Salsas
 
 ### [Pesto](https://danieledufis.github.io/pdfs/Pesto_v2.0_compressed.pdf)
 
 ### [Pesto rojo](https://danieledufis.github.io/pdfs/pesto_rojo_compressed.pdf)
 
-## 10. Otros países
+## 11. Otros países
 
-###  10.1. Italia
+###  11.1. Italia
 
-###  10.1. Grecia
+###  11.2. Grecia
 
-###  10.2. India
+###  11.3. India
 
-###  10.3. Marruecos
+###  11.4. Marruecos
 
 ### [Cous Cous con pollo y verduras](danieledufis.github.io/pdfs/pollo_con_verduras_compressed.pdf)
 
-###  10.4. México
+###  11.5. México
 
-###  10.5. Tailandia
+###  11.6. Tailandia
 
-## 11. Postres
+## 12. Postres
 
 ### [Torrijas](https://danieledufis.github.io/pdfs/Torrijas.pdf)
 
@@ -74,8 +80,10 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Porridge]:../../pdfs/Porridge_compressed.pdf
 [Ensalada gourmet con pesto rojo]:../../pdfs/ensalada_gourmet_v2_compressed.pdf
 [Tomate con burrata y pesto]:../../pdfs/tomates_burrata_pesto_compressed.pdf
+[Gazpacho]:../../pdfs/gazpacho_compressed.pdf
+[Tosta de guacamole con salmón]:../../pdfs/tostas_guacamole_salmon_compressed.pdf
 [Masa]:../../pdfs/masa%20de%20pizza.pdf
-[Pizza de calabacín, cebolla caramelizada y pesto]:../../
+[Pizza de calabacín, cebolla caramelizada y pesto]:../../pdfs/pizza_calabacin_compressed.pdf
 [Pesto]:../../pdfs/Pesto_v2.0_compressed.pdf
 [Pesto rojo]:../../pdfs/pesto_rojo_compressed.pdf
 [Cous cous con pollo y verduras]:../../pdfs/pollo_con_verduras_compressed.pdf
