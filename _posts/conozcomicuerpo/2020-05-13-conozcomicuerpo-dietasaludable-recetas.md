@@ -62,7 +62,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ###  11.4. Marruecos
 
-### [Cous Cous con pollo y verduras](danieledufis.github.io/pdfs/pollo_con_verduras_compressed.pdf)
+### [Cous Cous con pollo y verduras](https://danieledufis.github.io/pdfs/pollo_con_verduras_compressed.pdf)
 
 ###  11.5. México
 
