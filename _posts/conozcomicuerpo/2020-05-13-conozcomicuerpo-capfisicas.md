@@ -6,6 +6,13 @@ categories: conozcomicuerpo
 
 Las capacidasdes físicas básicas son la base para el desarrollo de vuestras habilidades y destrezas, además de que os servirán para mantener un buen estado de salud y tener una buan calidad de vida. Las 4 capacidades físicas son las siguientes:
 
+### Fuerza / sterngth
+*Definición:* Capacidad para mover a algo a alguien que tenga peso o haga resistencia, como para levantar algún objeto, lanzar un balón lo más lejos posible, etc.
+
+En el siguiente vídeo teneís a una de las mejores deportistas españolas, Lidia Vlentín, que en este vídeo levanta nada y nada menos que 140 kilos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0oY2Wf_Ss3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Velocidad / speed
 *Definición:* Es la capacidad de realizar un movimiento o desplazamiento en el menor tiempo posible, como por ejemplo una carrera desde un lado a otro del campo. 
 
@@ -27,9 +34,4 @@ Atención a la flexibilidad que tiene esta que se rpesentó al concurso de Got T
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xc_eTXOvSG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Fuerza / sterngth
-*Definición:* Capacidad para mover a algo a alguien que tenga peso o haga resistencia, como para levantar algún objeto, lanzar un balón lo más lejos posible, etc.
 
-En el siguiente vídeo teneís a una de las mejores deportistas españolas, Lidia Vlentín, que en este vídeo levanta nada y nada menos que 140 kilos.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0oY2Wf_Ss3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
