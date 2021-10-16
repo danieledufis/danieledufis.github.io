@@ -14,6 +14,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 1. Arroces
 
+### [Arroz integral con verduras, pollo y especias](https://danieledufis.github.io/pdfs/arroz_verduras_pollo_especias_compressed.pdf)
+
 ## 2. Carnes
 
 ### [Pollo a la Salomé](https://danieledufis.github.io/pdfs/Pollo%20a%20la%20Salome%CC%81.pdf)
@@ -75,7 +77,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 
 
-
+[Arroz integral con verduras, pollo y especias]:../../pdfs/arroz_verduras_pollo_especias_compressed.pdf
 [Pollo a la Salomé]:../../pdfs/Pollo a la Salomé.pdf
 [Porridge]:../../pdfs/Porridge_compressed.pdf
 [Ensalada gourmet con pesto rojo]:../../pdfs/ensalada_gourmet_v2_compressed.pdf
