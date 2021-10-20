@@ -22,29 +22,33 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 3. Verduras
 
+### [Espaguetis de calabacín con pesto rojo y huevo](https://danieledufis.github.io/pdfs/espaguietis_calabacin_compressed%20(1).pdf)
+
 ## 4. Desayunos
 
 ### [Porridge](https://danieledufis.github.io/pdfs/Porridge_compressed.pdf)
 
 ## 5. Ensaladas y platos frescos
 
-### [Ensalada gourmet con pesto rojo](https://danieledufis.github.io/pdfs/ensalada_gourmet_v2_compressed.pdf)
+### [Ensalada gourmet con pesto rojo](https://danieledufis.github.io/pdfs/ensalada_gourmet_compressed.pdf)
 
-### [Tomate con burrata y pesto](https://danieledufis.github.io/pdfs/tomates_burrata_pesto_compressed.pdf)
+### [Tomate con burrata y pesto](https://danieledufis.github.io//pdfs/tomates_burrata_pesto_compressed.pdf)
 
-### [Gazpacho](https://github.com/danieledufis/danieledufis.github.io/blob/master/pdfs/gazpacho_compressed.pdf)
+### [Ensalada de aguacate, queso feta, tomate y pesto](https://danieledufis.github.io/pdfs/ensalada_aguacate_compressed.pdf)
+
+### [Gazpacho](https://danieledufis.github.io/pdfs/gazpacho_compressed.pdf)
 
 ## 6. Hamburguesas
 
 ## 7. Tostas
 
-### [Tosta de guacamole con salmón](https://github.com/danieledufis/danieledufis.github.io/blob/master/pdfs/tostas_guacamole_salmon_compressed.pdf)
+### [Tosta de guacamole con salmón](https://danieledufis.github.io/pdfs/tostas_guacamole_salmon_compressed.pdf)
 
 ## 8. Pizzas
 
 ### [Masa](https://danieledufis.github.io/pdfs/masa%20de%20pizza.pdf)
 
-### [Pizza de calabacín, cebolla caramelizada y pesto](https://github.com/danieledufis/danieledufis.github.io/blob/master/pdfs/pizza_calabacin_compressed.pdf)
+### [Pizza de calabacín, cebolla caramelizada y pesto](https://danieledufis.github.io/pdfs/pizza_calabacin_compressed.pdf)
 
 ## 9. Platos de cuchara
 
@@ -79,9 +83,11 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 [Arroz integral con verduras, pollo y especias]:../../pdfs/arroz_verduras_pollo_especias_compressed.pdf
 [Pollo a la Salomé]:../../pdfs/Pollo a la Salomé.pdf
+[Espaguetis de calabacín con pesto rojo y huevo]:../../pdfs/espaguietis_calabacin_compressed%20(1).pdf
 [Porridge]:../../pdfs/Porridge_compressed.pdf
-[Ensalada gourmet con pesto rojo]:../../pdfs/ensalada_gourmet_v2_compressed.pdf
+[Ensalada gourmet con pesto rojo]:../../pdfs/ensalada_gourmet_compressed.pdf
 [Tomate con burrata y pesto]:../../pdfs/tomates_burrata_pesto_compressed.pdf
+[Ensalada de aguacate, queso feta, tomate y pesto]:../../pdfs/ensalada_aguacate_compressed.pdf
 [Gazpacho]:../../pdfs/gazpacho_compressed.pdf
 [Tosta de guacamole con salmón]:../../pdfs/tostas_guacamole_salmon_compressed.pdf
 [Masa]:../../pdfs/masa%20de%20pizza.pdf
