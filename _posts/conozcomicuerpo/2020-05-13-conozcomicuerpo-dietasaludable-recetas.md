@@ -72,6 +72,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ###  11.5. México
 
+### [Guacamole](https://danieledufis.github.io/pdfs/Guacamole_compressed.pdf)
+
 ###  11.6. Tailandia
 
 ## 12. Postres
@@ -96,6 +98,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Pesto]:../../pdfs/Pesto_v2.0_compressed.pdf
 [Pesto rojo]:../../pdfs/pesto_rojo_compressed.pdf
 [Cous cous con pollo y verduras]:../../pdfs/pollo_con_verduras_compressed.pdf
+[Guacamole]:../../pdfs/Guacamole_compressed.pdf
 [Torrijas]:../../pdfs/Torrijas.pdf
 [Leche frita]:../../pdfs/leche_frita_compressed.pdf
 
