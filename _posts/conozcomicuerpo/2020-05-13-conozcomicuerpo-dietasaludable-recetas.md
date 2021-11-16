@@ -58,6 +58,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Pesto rojo](https://danieledufis.github.io/pdfs/pesto_rojo_compressed.pdf)
 
+### [Salsa romesco](https://danieledufis.github.io/pdfs/Salsa_Romesco_compressed.pdf)
+
 ## 11. Otros países
 
 ###  11.1. Italia
@@ -97,6 +99,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Pizza de calabacín, cebolla caramelizada y pesto]:../../pdfs/pizza_calabacin_compressed.pdf
 [Pesto]:../../pdfs/Pesto_v2.0_compressed.pdf
 [Pesto rojo]:../../pdfs/pesto_rojo_compressed.pdf
+[Salsa romesco]:../../pdfs/Salsa_Romesco_compressed.pdf
 [Cous cous con pollo y verduras]:../../pdfs/pollo_con_verduras_compressed.pdf
 [Guacamole]:../../pdfs/Guacamole_compressed.pdf
 [Torrijas]:../../pdfs/Torrijas.pdf
