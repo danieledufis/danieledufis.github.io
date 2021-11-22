@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Juegos populares y tradicionales"
+title: "Juegos"
 categories: juegospopularesytradicionales
 ---
 
+Todos los vídeos de este post están sacados del canal de Youtube "EF JUEGOS" para más información podéis acceder a él.
 
-[4-6 anos]({% link _posts/juegospopularesytradicionales/2020-05-13-juegos4-6a%C3%B1os.md %})
 
 
