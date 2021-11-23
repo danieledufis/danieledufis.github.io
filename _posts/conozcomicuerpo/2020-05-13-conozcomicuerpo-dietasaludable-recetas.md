@@ -20,15 +20,17 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Pollo a la Salomé](https://danieledufis.github.io/pdfs/Pollo%20a%20la%20Salome%CC%81.pdf)
 
-## 3. Verduras
+## 3. Pescados
+
+## 4. Verduras
 
 ### [Espaguetis de calabacín con pesto rojo y huevo](https://danieledufis.github.io/pdfs/espaguietis_calabacin_compressed%20(1).pdf)
 
-## 4. Desayunos
+## 5. Desayunos
 
 ### [Porridge](https://danieledufis.github.io/pdfs/Porridge_compressed.pdf)
 
-## 5. Ensaladas y platos frescos
+## 6. Ensaladas y platos frescos
 
 ### [Ensalada gourmet con pesto rojo](https://danieledufis.github.io/pdfs/ensalada_gourmet_compressed.pdf)
 
@@ -38,21 +40,21 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Gazpacho](https://danieledufis.github.io/pdfs/gazpacho_compressed.pdf)
 
-## 6. Hamburguesas
+## 7. Hamburguesas
 
-## 7. Tostas
+## 8. Tostas
 
 ### [Tosta de guacamole con salmón](https://danieledufis.github.io/pdfs/tostas_guacamole_salmon_compressed.pdf)
 
-## 8. Pizzas
+## 9. Pizzas
 
 ### [Masa](https://danieledufis.github.io/pdfs/masa%20de%20pizza.pdf)
 
 ### [Pizza de calabacín, cebolla caramelizada y pesto](https://danieledufis.github.io/pdfs/pizza_calabacin_compressed.pdf)
 
-## 9. Platos de cuchara
+## 10. Platos de cuchara
 
-## 10. Salsas
+## 11. Salsas
 
 ### [Pesto](https://danieledufis.github.io/pdfs/Pesto_v2.0_compressed.pdf)
 
@@ -60,25 +62,25 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Salsa romesco](https://danieledufis.github.io/pdfs/Salsa_Romesco_compressed.pdf)
 
-## 11. Otros países
+## 12. Otros países
 
-###  11.1. Italia
+###  12.1. Italia
 
-###  11.2. Grecia
+###  12.2. Grecia
 
-###  11.3. India
+###  12.3. India
 
-###  11.4. Marruecos
+###  12.4. Marruecos
 
 ### [Cous Cous con pollo y verduras](https://danieledufis.github.io/pdfs/pollo_con_verduras_compressed.pdf)
 
-###  11.5. México
+###  12.5. México
 
 ### [Guacamole](https://danieledufis.github.io/pdfs/Guacamole_compressed.pdf)
 
-###  11.6. Tailandia
+###  12.6. Tailandia
 
-## 12. Postres
+## 13. Postres
 
 ### [Torrijas](https://danieledufis.github.io/pdfs/Torrijas.pdf)
 
