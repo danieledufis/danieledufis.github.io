@@ -22,6 +22,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 3. Pescados
 
+### [Salmón con patatas y salsa romesco](https://danieledufis.github.io/pdfs/salmon%20con%20patatas%20y%20salsa%20romesco.pdf)
+
 ## 4. Verduras
 
 ### [Espaguetis de calabacín con pesto rojo y huevo](https://danieledufis.github.io/pdfs/espaguietis_calabacin_compressed%20(1).pdf)
@@ -90,6 +92,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 [Arroz integral con verduras, pollo y especias]:../../pdfs/arroz_verduras_pollo_especias_compressed.pdf
 [Pollo a la Salomé]:../../pdfs/Pollo a la Salomé.pdf
+[Salmón con patas y salsa romesco]:../../pdfs/salmon%20con%20patatas%20y%20salsa%20romesco.pdf
 [Espaguetis de calabacín con pesto rojo y huevo]:../../pdfs/espaguietis_calabacin_compressed%20(1).pdf
 [Porridge]:../../pdfs/Porridge_compressed.pdf
 [Ensalada gourmet con pesto rojo]:../../pdfs/ensalada_gourmet_compressed.pdf
