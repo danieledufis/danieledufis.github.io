@@ -40,6 +40,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Ensalada de aguacate, queso feta, tomate y pesto](https://danieledufis.github.io/pdfs/ensalada_aguacate_compressed.pdf)
 
+### [Tortilla de patata](https://danieledufis.github.io/pdfs/Tortilla%20de%20patata_compressed.pdf)
+
 ### [Gazpacho](https://danieledufis.github.io/pdfs/gazpacho_compressed.pdf)
 
 ## 7. Hamburguesas
@@ -98,6 +100,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Ensalada gourmet con pesto rojo]:../../pdfs/ensalada_gourmet_compressed.pdf
 [Tomate con burrata y pesto]:../../pdfs/tomates_burrata_pesto_compressed.pdf
 [Ensalada de aguacate, queso feta, tomate y pesto]:../../pdfs/ensalada_aguacate_compressed.pdf
+[Tortilla de patata]:../../pdfs/Tortilla%20de%20patata_compressed.pdf
 [Gazpacho]:../../pdfs/gazpacho_compressed.pdf
 [Tosta de guacamole con salmón]:../../pdfs/tostas_guacamole_salmon_compressed.pdf
 [Masa]:../../pdfs/masa%20de%20pizza.pdf
