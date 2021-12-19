@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "400m vallas"
+title: "400m Vallas"
 categories: atletismo
 ---
 
