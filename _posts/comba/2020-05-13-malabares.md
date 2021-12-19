@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comba y aros"
+title: "Malabares"
 categories: comba
 ---
 
