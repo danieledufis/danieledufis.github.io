@@ -58,7 +58,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 10. Platos de cuchara
 
-## 11. Salsas
+## 11. Salsas y guarniciones
 
 ### [Pesto](https://danieledufis.github.io/pdfs/Pesto_v2.0_compressed.pdf)
 
