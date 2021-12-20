@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Malabares"
+title: "malabares"
 categories: comba
 ---
 
