@@ -6,9 +6,10 @@ categories: comba
 
 Dentro de este post vais a encontrar actividades a realizar tanto con aros como con hula hoops. La diferencia es que estos últimos son más grandes y las actividades a realizar son diferentes. 
 
-**En el apartado de retos podéis practicar y ver en cuál de los niveles estáis**.
+En el siguiente link tenéis todos los retos que vais a encontrar a lo largo de todos los cursos de Primaria. ¿Seréis capaces de conseguir superar todos los niveles?
+### [Retos]({% link _posts/comba/2020-05-13-4-aros-hulahoops-retos.md %})
 
-Podemos aprender los siguientes trucos:
+A continuación tenéis todos los tutoriales para superar todos y cada uno de los retos expuestos en el link anterior:
 
 ### Lanzamiento
 
