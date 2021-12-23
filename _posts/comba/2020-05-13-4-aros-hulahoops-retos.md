@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "malabares"
+title: "Retos con aros y hula hoops"
 categories: comba
 ---
 
