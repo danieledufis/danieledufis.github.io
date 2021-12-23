@@ -56,6 +56,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Pizza de calabacín, cebolla caramelizada y pesto](https://danieledufis.github.io/pdfs/pizza_calabacin_compressed.pdf)
 
+### [Pizza Ibérica](https://danieledufis.github.io/pdfs/Pizza%20Ibe%CC%81rica_compressed.pdf)
+
 ## 10. Platos de cuchara
 
 ## 11. Salsas y guarniciones
@@ -65,6 +67,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 ### [Pesto rojo](https://danieledufis.github.io/pdfs/pesto_rojo_compressed.pdf)
 
 ### [Salsa romesco](https://danieledufis.github.io/pdfs/Salsa_Romesco_compressed.pdf)
+
+### [Patatas al horno](https://danieledufis.github.io/pdfs/Patatas%20al%20Horno_compressed.pdf)
 
 ## 12. Otros países
 
@@ -105,9 +109,11 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Tosta de guacamole con salmón]:../../pdfs/tostas_guacamole_salmon_compressed.pdf
 [Masa]:../../pdfs/masa%20de%20pizza.pdf
 [Pizza de calabacín, cebolla caramelizada y pesto]:../../pdfs/pizza_calabacin_compressed.pdf
+[Pizza ibérica]:../../pdfs/Pizza%20Ibe%CC%81rica_compressed.pdf
 [Pesto]:../../pdfs/Pesto_v2.0_compressed.pdf
 [Pesto rojo]:../../pdfs/pesto_rojo_compressed.pdf
 [Salsa romesco]:../../pdfs/Salsa_Romesco_compressed.pdf
+[Patatas al horno]:../../pdfs/Patatas%20al%20Horno_compressed.pdf
 [Cous cous con pollo y verduras]:../../pdfs/pollo_con_verduras_compressed.pdf
 [Guacamole]:../../pdfs/Guacamole_compressed.pdf
 [Torrijas]:../../pdfs/Torrijas.pdf
