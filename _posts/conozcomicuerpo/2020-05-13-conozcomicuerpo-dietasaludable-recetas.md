@@ -46,6 +46,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 7. Hamburguesas
 
+### [Hambuguesa con cebolla caramelizada, queso de cabra y salsa miel mostaza](https://danieledufis.github.io/pdfs/Burguer_compressed.pdf)
+
 ## 8. Tostas
 
 ### [Tosta de guacamole con salmón](https://danieledufis.github.io/pdfs/tostas_guacamole_salmon_compressed.pdf)
@@ -106,6 +108,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Ensalada de aguacate, queso feta, tomate y pesto]:../../pdfs/ensalada_aguacate_compressed.pdf
 [Tortilla de patata]:../../pdfs/Tortilla%20de%20patata_compressed.pdf
 [Gazpacho]:../../pdfs/gazpacho_compressed.pdf
+[Hamburguesa con cebolla caramelizada, queso de cabra y salsa miel mostaza]:../../pdfs/Burguer_compressed.pdf
 [Tosta de guacamole con salmón]:../../pdfs/tostas_guacamole_salmon_compressed.pdf
 [Masa]:../../pdfs/masa%20de%20pizza.pdf
 [Pizza de calabacín, cebolla caramelizada y pesto]:../../pdfs/pizza_calabacin_compressed.pdf
