@@ -24,11 +24,11 @@ Aquí tenéis los retos de baloncesto. El número de nivel es el mismo que el de
 
 ## NIVEL 5
 
-![NIVEL 5](https://danieledufis.github.io/images_text/basket_nivel_05_compressed.jpg)
+![NIVEL 5](https://danieledufis.github.io/images_text/basket_nivel_05_compressed.pdf)
 
 ## NIVEL 6
 
-![NIVEL 6](https://danieledufis.github.io/images_text/basket_nivel_06_compressed.jpg)
+![NIVEL 6](https://danieledufis.github.io/images_text/basket_nivel_06_compressed.pdf)
 
 ## NIVEL PROFESIONAL
 
