@@ -14,11 +14,17 @@ Estos son los retos preparados para vuestro cursos, pero en función de vuestro 
 
 ## Baloncesto
 
+![Baloncesto_nivel_profesional](../images_text/basket_nivel_pro_compressed.jpg)
+
 ## Combas
 
 ![Combas_nivel_profesional](../images_text/comba_nivel_pro_compressed.jpg)
 
 ## Fútbol
+
+## Raquetas
+
+![Raquetas_nivel_profesional](../images_text/raquetas_nivel_pro.jpg)
 
 ## Habilidades gimnásticas
 
