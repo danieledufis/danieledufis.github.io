@@ -10,6 +10,7 @@ En esta carpeta encontraréis información relacionada con todos los deportes de
 - Padel.
 - Tenis.
 - Tenis de mesa.
+- Retos.
 
 ## [Bádminton]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-badminton.md %})
 ![Qué es](../images/depraqueta_badminton_pesta%C3%B1a.jpg)
@@ -22,3 +23,6 @@ En esta carpeta encontraréis información relacionada con todos los deportes de
 
 ## [Tenis de mesa]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-tenisdemesa.md %})
 ![Qué es](../images/depraqueta_tenisdemesa_pesta%C3%B1a.jpg)
+
+## [Retos]({% link _posts/deportesderaqueta/2020-05-13-deportesraqueta-retos.md %})
+![Qué es](../images/retosporcursos_pestana.jpg)
