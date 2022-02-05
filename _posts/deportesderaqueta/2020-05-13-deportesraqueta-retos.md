@@ -4,6 +4,8 @@ title: "Retos de raqueta"
 categories: deportesderaqueta
 ---
 
+Aquí tenéis todos los niveles rrelacionados con los retos de raquetas, ¿podrás superrarlos?
+
 ## NIVEL 1
 
 ![Raquetas_nivel1](../images_text/raquetas_nivel_1_compressed.jpg)
