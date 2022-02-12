@@ -6,6 +6,12 @@ categories: deportesderaqueta
 
 ## Información
 
+El Roland Garros es el segundo de los torneos oficiales que forman el *Grand Slam* de tenis. Se juega durante el mes de junio en un complejo deportivo llamado **Stade Roland Garros**, en la ciudad de París.
+
+Como en los otros tres torneos de Grand Slam, la competición se divide en categorías, existiendo categorías de individuales y de dobles tanto para hombres como mujeres. Además de mixtos dobles. Además en los últimos años se han incluido una categoría para jugadores en silla de ruedas.
+
+La superficie en la que se juega es la **tierra batida**.
+
 ## Roland Garros 2021
 
 ### Mujeres
