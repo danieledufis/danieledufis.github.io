@@ -72,6 +72,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Patatas al horno](https://danieledufis.github.io/pdfs/Patatas%20al%20Horno_compressed.pdf)
 
+### [Salsa  agria](https://danieledufis.github.io/pdfs/Salsa%20Agria_compressed.pdf)
+
 ## 12. Otros países
 
 ###  12.1. Italia
@@ -117,6 +119,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Pesto rojo]:../../pdfs/pesto_rojo_compressed.pdf
 [Salsa romesco]:../../pdfs/Salsa_Romesco_compressed.pdf
 [Patatas al horno]:../../pdfs/Patatas%20al%20Horno_compressed.pdf
+[Salsa agria]:../../pdfs/Salsa%20Agria_compressed.pdf
 [Cous cous con pollo y verduras]:../../pdfs/pollo_con_verduras_compressed.pdf
 [Guacamole]:../../pdfs/Guacamole_compressed.pdf
 [Torrijas]:../../pdfs/Torrijas.pdf
