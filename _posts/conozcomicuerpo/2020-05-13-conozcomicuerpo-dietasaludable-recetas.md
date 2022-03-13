@@ -90,6 +90,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Guacamole](https://danieledufis.github.io/pdfs/Guacamole_compressed.pdf)
 
+### [Fajitas de pollo, cebolla y pimientos](https://danieledufis.github.io/pdfs/Fajitas%20de%20Pollo_compressed.pdf)
+
 ###  12.6. Tailandia
 
 ## 13. Postres
@@ -122,6 +124,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Salsa agria]:../../pdfs/Salsa%20Agria_compressed.pdf
 [Cous cous con pollo y verduras]:../../pdfs/pollo_con_verduras_compressed.pdf
 [Guacamole]:../../pdfs/Guacamole_compressed.pdf
+[]:../../pdfs/Fajitas%20de%20Pollo_compressed.pdf
 [Torrijas]:../../pdfs/Torrijas.pdf
 [Leche frita]:../../pdfs/leche_frita_compressed.pdf
 
