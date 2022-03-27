@@ -13,14 +13,14 @@ categories: baile
 
 ## THE GIRLY TEAM - Twist and shake it
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jdyFFWniIJg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## AVRIL LAVIGNE - Girlfriend
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mGBb4LbeQB4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,7 +55,7 @@ categories: baile
 
 ## KISS - I was made for loving you
 
-- Individual 
+- Cuarteto 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1HPoodf0sbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -69,7 +69,7 @@ categories: baile
 
 ## THE ROCKY HORROR - Time wrap
 
-- Individual 
+- Cuarteto 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4vpUAcLtZ3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -83,7 +83,7 @@ categories: baile
 
 ## QUEEN - Another one bites the dust
 
-- Individual 
+- Cuarteto 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TJGzxG70eEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -95,16 +95,16 @@ categories: baile
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IOu4jVCrerI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## EUROPE - The final courdown
+## EUROPE - The final countdown
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hfY4yI1fMkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ELVIS PRESLEY - The jailhouse rock
 
-- Individual 
+- Cuarteto 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hv0Ehou5XSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -121,7 +121,7 @@ categories: baile
 - Individual 
 - Dificultad: /5
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kX7_LmE3ybE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/REeWXmNF3R0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## TINA TURNER - Proud Mary
 
@@ -146,7 +146,7 @@ categories: baile
 
 ## QUEEN - Crazy little thing called love
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CB8IVpde78Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
