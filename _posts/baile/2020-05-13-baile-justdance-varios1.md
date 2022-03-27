@@ -6,7 +6,7 @@ categories: baile
 
 ## ABBA - Mamma mia
 
-- Individual 
+- Cuarteto 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JMeAuUc45sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -20,7 +20,7 @@ categories: baile
 
 ## VILLAGE PEOPLE - YMCA
 
-- Individual 
+- Cuarteto 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0SG16_kWpe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,28 +34,28 @@ categories: baile
 
 ## AQUA - Barbie girl
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6AtyyRVxT9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## GHOSTBUSTERS
 
-- Individual 
+- Cuarteto 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k14giRzqqUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## BARRY WHITE - You are the first, the last, my everything##
 
-- Individual 
+- Cuarteto 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z4wRnarbeAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## THE BLACK EYED PEAS - I gotta feeling
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m3402DZvbVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -90,14 +90,14 @@ categories: baile
 
 ## LOS DEL RÍO - Macarena
 
-- Individual 
+- Cuarteto 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SWHS4HsgnUk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## PSY - Gagnam style
 
-- Individual 
+- Pareja
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AV1biKT426I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
