@@ -6,14 +6,14 @@ categories: baile
 
 ## Prince Ali
 
-- Individual 
+- Cuarteto 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qjkCOMRZp14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Under the sea
 
-- Individual 
+- Pareja
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SH-7A3NVQbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ categories: baile
 
 ## Supercalifragilisticexpialidocious
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WSdC3IoYdYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -81,14 +81,14 @@ categories: baile
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WgNSJq_bb54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## I thougt I lost you
+## I thought I lost you
 
-- Individual 
+- Pareja
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vvt6dqtUfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Howdown throwtown
+## Hoedown throwdown
 
 - Individual 
 - Dificultad: /5
