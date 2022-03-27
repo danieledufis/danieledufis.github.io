@@ -13,7 +13,7 @@ categories: baile
 
 ## Something that I want
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/safH38PSrnw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ categories: baile
 
 ## Shake it up
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6qCbWHQQdR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -41,7 +41,7 @@ categories: baile
 
 ## Twist my lips
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tu1-Y89Sddw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,14 +55,14 @@ categories: baile
 
 ## That´s how you know
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p6VKiQ6qwZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Hawaiian roller coaster ride
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBh7yWbNOfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
