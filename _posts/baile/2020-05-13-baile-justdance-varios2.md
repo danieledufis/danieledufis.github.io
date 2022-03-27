@@ -13,14 +13,14 @@ categories: baile
 
 ## BRITNEY SPEARS - Baby one more time
 
-- Individual 
+- Cuarteto
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NI31AWYYuFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## LAS KETCHUP - Aserejé
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QCKKGMfFa9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -41,7 +41,7 @@ categories: baile
 
 ## ENRIQUE IGLESIAS - Bailando
 
-- Individual 
+- Pareja 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SLq_69hsBLA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -90,7 +90,7 @@ categories: baile
 
 ## BLUES BROTHERS - Everybody
 
-- Individual 
+- Cuarteto 
 - Dificultad: /5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NXpexusK0Bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
