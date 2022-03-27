@@ -6,6 +6,9 @@ categories: baile
 
 ## Prince Ali
 
+- Individual 
+- Dificultad: /5
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qjkCOMRZp14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Under the sea
