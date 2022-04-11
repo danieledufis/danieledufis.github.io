@@ -3,6 +3,13 @@ layout: post
 title: "Acrosport"
 categories: acrosport
 ---
+
+En este post vais a encontrar información de:
+- Acrosport.
+- Yoga.
+
+Estoy seguro de que os va a encantar. Es muy importante que antes de realizarcualquiera de las figuras echéis un vistazo a las medidas de seguridad.
+
 # ACROSPORT
 
 ## [¿Qué es?]({% link _posts/acrosport/2020-05-13-quees.md %})
