@@ -12,9 +12,9 @@ categories: acrosport
 ![Medidas de seguridad](../images/acrosport_medidasdeseguridad_pestana.jpg)
 
 ## [Figuras]({% link _posts/acrosport/2020-05-13-acrosport-figuras.md %})
-![Figuras](../images/acrosport_quees_pestana.jpg)
+![Figuras](../images/acrosport_figuras_pestana.jpg)
 
 # YOGA
 
 ## [Yoga]({% link _posts/acrosport/2020-05-13-quees.md %})
-![Qué es](../images/acrosport_quees_pestana.jpg)
+![Qué es](../images/yoga_portada.jpg)
