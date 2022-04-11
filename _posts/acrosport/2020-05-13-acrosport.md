@@ -23,5 +23,5 @@ Estoy seguro de que os va a encantar. Es muy importante que antes de realizarcua
 
 # YOGA
 
-## [Yoga]({% link _posts/acrosport/2020-05-13-quees.md %})
+## [Yoga]({% link _posts/acrosport/2020-05-13-yoga.md %})
 ![Qué es](../images/yoga_portada.jpg)
