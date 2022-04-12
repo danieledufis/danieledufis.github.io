@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Retos baloncesto"
-categories: baloncesto
+title: "Retos acrosport"
+categories: acrosport
 ---
 
 Aquí tenéis los retos de acrosport adaptados a vuestro nivel:
