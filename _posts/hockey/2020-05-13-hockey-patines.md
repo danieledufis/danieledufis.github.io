@@ -19,3 +19,4 @@ categories: hockey
 ## [Mejores goles]({% link _posts/hockey/2020-05-13-hockey-patines-mejoresgoles.md %})
 
 ![Mejores goles](../images/hockey_patines_mejoresgoles_pestana.jpg)
+
