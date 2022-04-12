@@ -4,32 +4,10 @@ title: "Retos con aros y hula hoops"
 categories: comba
 ---
 
-A continuación tienes todos los niveles que encontrarás durante los cursos de Primaria en lo referente a los **aros y los hula hoops**:
-
-# Nivel 1
-
-![Aros_nivel1](../images_text/aros_nivel_1_compressed.jpg)
-
-# Nivel 2
-
-![Aros_nivel2](../images_text/aros_nivel_2_compressed.jpg)
-
-# Nivel 3
-
-![Aros_nivel3](../images_text/aros_nivel_3_compressed.jpg)
+A continuación tienes todos los retos relacionados con **aros y los hula hoops** acordes a vuestro nivel:
 
 # Nivel 4
 
 ![Aros_nivel4](../images_text/aros_nivel_4_compressed.jpg)
 
-# Nivel 5
 
-![Aros_nivel5](../images_text/aros_nivel_5_compressed.jpg)
-
-# Nivel 6
-
-![Aros_nivel6](../images_text/aros_nivel_6_compressed.jpg)
-
-# Nivel profesional
-
-![Aros_nivel_profesional](../images_text/aros_nivel_pro_compressed.jpg)
