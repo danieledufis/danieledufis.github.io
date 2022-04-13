@@ -1,33 +1,50 @@
 ---
 layout: post
-title: "Retos por cursos"
+title: "Retos del curso"
 categories: retosporcursos
 ---
 
-- [1º PRIMARIA]({% link _posts/retosporcursos/2020-05-13-1primaria.md %})
+En este post podéis encontrar todos y cada uno de los retos que tendréis a lo largo del curso. ¿Estáis listos? Están ordenados en función de las unidades didácticas que vamos a tener. Además tenéis las **fechas** en las que van a tener lugar esas unidades: 
 
-![1º PRIMARIA](../images/retosporcursos_1primaria_pestana.jpg)
 
-- [2º PRIMARIA]({% link _posts/retosporcursos/2020-05-13-2primaria.md %})
+## UNIDAD 1: "NOS PONEMOS EN MARCHA"
 
-![2º PRIMARIA](../images/retosporcursos_2primaria_pestana.jpg)
+![Aros_nivel4](../images_text/aros_nivel_4_compressed.jpg)
 
-- [3º PRIMARIA]({% link _posts/retosporcursos/2020-05-13-3primaria.md %})
+## UNIDAD 2: "ME PONGO EN FORMA"
 
-![3º PRIMARIA](../images/retosporcursos_3primaria_pestana.jpg)
+## UNIDAD 3: "BIENVENIDOS AL CIRCO"
 
-- [4º PRIMARIA]({% link _posts/retosporcursos/2020-05-13-4primaria.md %})
+En este punto nos encontraremos un único nivel de retos, ¿cuáles puedes hacer?
 
-![4º PRIMARIA](../images/retosporcursos_4primaria_pestana.jpg)
+![Habilidades gimnasticas](../images_text/Habilidades_gimnasticas_nivel_unico.jpg)
 
-- [5º PRIMARIA]({% link _posts/retosporcursos/2020-05-13-5primaria.md %})
+## UNIDAD 4: "ME PASO EL DÍA BAILANDO"
 
-![5º PRIMARIA](../images/retosporcursos_5primaria_pestana.jpg)
+## UNIDAD 5: "SALTINBANQUIS"
 
-- [6º PRIMARIA]({% link _posts/retosporcursos/2020-05-13-6primaria.md %})
+![Combas_nivel4](../images_text/comba_nivel_4_compressed.jpg)
 
-![6º PRIMARIA](../images/retosporcursos_6primaria_pestana.jpg)
+## UNIDAD 6: "DATCHBALL"
 
-- [NIEVL PROFESIONAL]({% link _posts/retosporcursos/2020-05-13-nivel_profesional.md %})
+## UNIDAD 7: "COLPBOL - VOLEIBOL"
 
-![NIVEL PROFESIONAL](../images/retosporcursos_nivel_profesional.jpg)
+## UNIDAD 8: "NO SUELTES EL STICK"
+
+## UNIDAD 9: "¿QUÉ RAQUETA ELIJO?"
+
+![Raquetas_nivel4](../images_text/raquetas_nivel_4_compressed.jpg)
+
+## UNIDAD 10: "I LOVE THIS GAME"
+
+![Baloncesto_nivel4](../images_text/basket_nivel_04_compressed.jpg)
+
+## UNIDAD 11: "LOS FUTBOLÍSIMOS"
+
+## UNIDAD 12: "ATLETISMO"
+
+## UNIDAD 13: "JUEGOS 2.0."
+
+## UNIDAD 14: "¿DÓNDE ESTOY?
+
+## UNIDAD 15: "JUEGOS OLÍMPICOS"
