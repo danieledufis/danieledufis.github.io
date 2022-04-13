@@ -53,8 +53,6 @@ En este punto nos encontraremos un único nivel de retos, ¿cuáles puedes hacer
 ##### *24 enero - 4 febrero*
 **Enlace** [FÚTBOL](https://danieledufis.github.io/futbol/futbol)
 
-![Raquetas_nivel4](../images_text/raquetas_nivel_4_compressed.jpg)
-
 ## UNIDAD 10: "I LOVE THIS GAME"
 ##### *7 febrero - 23 febrero*
 **Enlace** [BALONCESTO](https://danieledufis.github.io/baloncesto/baloncesto)
@@ -64,6 +62,8 @@ En este punto nos encontraremos un único nivel de retos, ¿cuáles puedes hacer
 ## UNIDAD 11: "¿QUÉ RAQUETA ELIJO?"
 ##### *2 marzo - 21 marzo*
 **Enlace** [DEPORTES DE RAQUETA](https://danieledufis.github.io/deportesderaqueta/deportes-de-raqueta)
+
+![Raquetas_nivel4](../images_text/raquetas_nivel_4_compressed.jpg)
 
 ## UNIDAD 12: "ATLETISMO"
 ##### *23 marzo - 6 abril*
