@@ -4,6 +4,14 @@ title: "DEPORTES ALTERNATIVOS"
 categories: deportesalternativos
 ---
 
+Aparte de los deportes tradicionales, hay muchos deportes alternativos que vamos a practicar durante este curso:
+* Colpbol.
+* Datchball.
+* Pickleball.
+* Ultimate.
+
+En todos los enlaces encontraréis tutoriales y toda la información necesaria para poder disfrutar de estos deportes tan divertidos:
+
 ### [Colpbol]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-colpbol.md %})
 ![Colpbol](../images/deportesalternativos_colpbol_pestana.jpg)
 
