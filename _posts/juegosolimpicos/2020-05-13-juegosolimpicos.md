@@ -27,10 +27,6 @@ categories: juegosolimpicos
 
 ![Londres 2012](../images/juegosolimpicos_grandesmomentos_londres2012_pestana.png)
 
-#### - [Otros juegos]({% link _posts/juegosolimpicos/2020-05-13-juegosolimpicos-grandesmomentos-otrosjuegos.md %})
-
-![Otros juegos](../images/juegosolimpicos_grandesmomentos_otrosjuegos_pestana.jpg)
-
 ## Mejores deportistas olímpicos
 
 #### - [Nacional]({% link _posts/juegosolimpicos/2020-05-13-juegosolimpicos-mejoresdeportistasolimpicos-nacionales.md %})
