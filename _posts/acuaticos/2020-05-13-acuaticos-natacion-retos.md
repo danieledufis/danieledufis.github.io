@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Retos"
+title: "Retos profesionales"
 categories: acuaticos
 ---
 
