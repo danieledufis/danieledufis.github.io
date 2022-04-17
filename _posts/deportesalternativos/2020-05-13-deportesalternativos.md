@@ -13,17 +13,5 @@ categories: deportesalternativos
 ### [Pickleball]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-jugger.md %})
 ![Pickleball](../images/deportesalternativos_pickleball.jpg)
 
-### [Jugger]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-jugger.md %})
-![Jugger](../images/deportesalternativos_jugger_pestana.jpg)
-
-### [Smashball]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-smashball.md %})
-![Smashball](../images/deportesalternativos_smashball_pestana.png)
-
-### [Tchoukball]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-tchoukball.md %})
-![Tchoukball](../images/deportesalternativos_tchoukball_pestana.jpg)
-
-### [Tripela]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-tripela.md %})
-![Tripela](../images/deportesalternativos_tripela_pestana.jpg)
-
 ### [Ultimate]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-ultimate.md %})
 ![Ultimate](../images/deportesaalternativos_ultimate_pestana.jpg)
