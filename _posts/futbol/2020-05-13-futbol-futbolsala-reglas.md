@@ -35,14 +35,14 @@ Deberá tener las siguientes características:
 
 ### 4. Equipación
 
-*Jugadores
+*Jugadores*
 * Camiseta de manga larga o corta, pantalón corto sin bolsillos, medias largas y calzado deportivo (acorde al fútbol sala).
 * Los porteros deberán llevar una equipación de un color diferente al resto, y se permite llevar pantalones largos.
 * Deberán llevar obligatoriamente el número en la espalda.
 * No se podrá utilizar objetos peligrosos como anillos, pendientes…
 * En caso de sustituir al portero por un jugador que no es portero, deberá llevar una camiseta distintiva con el mismo número que figura en la posición del arquero.
 
-*Cuerpo técnico
+*Cuerpo técnico*
 * Las persones que formen el cuerpo técnico podrán llevar camisa y corbata, siempre y cuando sean uniformes.
 * Los árbitros deberán controlar las vestimentas del cuerpo  técnico.
 * Además los propios árbitros podrán excluir a aquellos o a aquellas que no cumplan estos requisitos.
@@ -62,7 +62,7 @@ Deberá tener las siguientes características:
 * El partido tendrá 40 minutos, cronometrado y dividido en dos partes iguales., con un descanso entre cada periodo de 10 minutos.
 * Cada equipo podrá reclamar un tiempo muerto de un minuto en cada parte y no son acumulables, es decir, si un equipo no pide tiempo muerto en la primera parte no podrá realizar dos en la segunda. Se tendrán que realizar cuando el balón salga fuera del área y el juego esté parado. Se deberá informar previamente al árbitro.
 
-*Descuentos de tiempo
+*Descuentos de tiempo*
 
 En fútbol sala los tiempos de detención se descontarán de manera que, cuando el juego se pare, el cronómetro también:
 * Si hay un jugador lesionado el árbitro detendrá el juego cuando la jugada haya acabado.
@@ -91,7 +91,7 @@ En fútbol sala los tiempos de detención se descontarán de manera que, cuando 
 
 ### 9. Infracciones
 
-*Faltas
+*Faltas*
 
 Serán sancionadas según el criterio del árbitro y serán acumulables (se anotarán cada vez que se hagan). Después de la falta se dispondrá de un libre directo (se puede tirar a portería):
 * Se intenta o se da una patada a un adversario.
@@ -103,7 +103,7 @@ Serán sancionadas según el criterio del árbitro y serán acumulables (se anot
 * Impedir que el guardameta pueda moverse por su área.
 * Interponerse entre el balón y el jugador de manera brusca.
 
-*Faltas técnicas
+*Faltas técnicas*
 
 * Cuando el portero está más de cinco segundos con el balón en juego.
 * Cuando un jugador tarde en poner el balón en juego (falta, saque de esquina o de banda) más de cinco segundos.

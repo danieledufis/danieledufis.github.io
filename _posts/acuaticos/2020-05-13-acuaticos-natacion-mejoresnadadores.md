@@ -4,23 +4,26 @@ title: "Mejores nadadores"
 categories: acuaticos
 ---
 
-## Mujeres 
+En los apartados de "INFORMACIÓN" y "VÍDEOS" debéis acceder al enlace que os sale en la tabla para que os lleve a Wikipedia y Youtube.
 
-#### - Msfdfd
+## Mujeres
 
-#### - Mdfefef
-
-#### - efef
-
-#### - sfefefef
-
+|NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEOS|
+|-----:|-----:|-----:|-----:|-----:|
+|    DF|![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|
 
 ## Hombres 
 
-#### - Michael Jordan
-
-#### - Stephen Curry
-
-#### - Lebron James
-
-#### - Pau Gasol
+|NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEOS|
+|-----:|-----:|-----:|-----:|-----:|
+|      |![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|
+|    FG|![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()| 
+|      |![dd]()|      |[]()|[]()|

@@ -4,23 +4,22 @@ title: "Mejores gimnastas"
 categories: habilidadesgimnasticas
 ---
 
+En los apartados de "INFORMACIÓN" y "VÍDEOS" debéis acceder al enlace que os sale en la tabla para que os lleve a Wikipedia y Youtube.
+
 ## Mujeres ##
 
-### Msfdfd
-
-### Mdfefef
-
-### efef
-
-### sfefefef
-
+|NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
+|-----:|-----:|-----:|-----:|-----:|
+|      |![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|
 
 ## Hombres ##
 
-### Michael Jordan
-
-### Stephen Curry
-
-### Lebron James
-
-### Pau Gasol
+|NOMBRE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
+|-----:|-----:|-----:|-----:|-----:|
+|      |![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|
+|      |![dd]()|      |[]()|[]()|

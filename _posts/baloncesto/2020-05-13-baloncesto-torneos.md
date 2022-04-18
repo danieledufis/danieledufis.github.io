@@ -10,7 +10,7 @@ En el baloncesto se disputan numeroso torneos que son iguales tanto en la catego
 
 Las competiciones más importantes a nivel de clubes, tanto hombres como mujeres, son las siguientes:
 
-#### - Liga
+#### Liga
 
 A nivel de clubes podemos destacar la Liga ENDESA tanto en hombre como mujeres. Se juega una liga regular entre los 20 equipos y posteriormente juegan unos Playoff entre los 8 mejores de la siguiente manera:
 * Primero vs octavo
@@ -25,9 +25,9 @@ Aquí tenéis los enlaces para acceder a la web oficial de ambas competiciones:
 
 [LIGA FEMENINA ENDESA](http://www.lfendesa.es/inicio.aspx)
 
-![LIGA ENDESA](../../images_text/baloncesto_liga%20endesa.jpg)
+![LIGA ENDESA](https://danieledufis.github.io/images_text/baloncesto_liga%20endesa.jpg)
 
-#### - Copa
+#### Copa
 
 A mitad de la temporada, los **8 mejores equipos** de la competición jugarán eliminatorias **a partido único** y se jugarán todos los partidos en una misma ciudad y en un mismo campo.
 El sorteo será entre los cuatro primero, que jugarán con los equipos entre el quinto y octavo puesto.
@@ -36,7 +36,9 @@ La denominación es diferente en función de la categoría:
 * Copa del Rey en hombres.
 * Copa de la Reina en mujeres.
 
-#### - Euroliga
+![COPA DEL REY](https://danieledufis.github.io/images_text/baloncesto_copadelrey.jpg)
+
+#### Euroliga
 
 Es la competición más importante a nivel internacional, en la que participan un determinado conjunto de equipos que pertenecen a la asociación, independientemente de su clasificación en las ligas nacionales.
 
@@ -65,6 +67,8 @@ En en siguiente enlace, de la FIBA, podéis encontrar toda la información que o
 
 [FIBA](http://www.fiba.basketball/es)
 
+![FIBA](https://danieledufis.github.io/images_text/baloncesto_fiba.png)
+
 ## NBA Y WNBA
 
 Estas son las ligas que se juegan en Estados Unidos. Tanto en la competición femenina como en la masculina, solo se juega una competición. El formato es igual que la liga de nuestro país, dividiendo la competición en dos fases:
@@ -75,6 +79,6 @@ Estas son las ligas que se juegan en Estados Unidos. Tanto en la competición fe
 
 [WNBA](https://www.wnba.com/)
 
-![NBA-WNBA](../../images_text/baloncesto_nba_wnba.jpg)
-
+![WNBA](https://danieledufis.github.io/images_text/baloncesto_wnba.png)
+![NBA](https://danieledufis.github.io/images_text/baloncesto_nba.jpg)
 

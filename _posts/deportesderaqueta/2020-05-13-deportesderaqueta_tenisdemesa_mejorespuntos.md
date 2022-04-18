@@ -8,7 +8,7 @@ El tenis de mesa es un deporte espectacular y lleno de puntos increíbles. En lo
 
 ## - Golpes a cámara lenta
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6cHog8dYvsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GhUfR9ooNjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## - Mujeres
 

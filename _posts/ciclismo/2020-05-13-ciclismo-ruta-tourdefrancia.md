@@ -31,18 +31,12 @@ Los puertos más famosos en esta carrera son el Tourmalet y el Alpe d´Huez, en 
 ## Maillots
 
 Existen diferentes clasificaciones y sus líderes llevan los diferentes maillots:
--         Amarillo: clasificación general.
--         Verde: clasificación general por puntos, también conocido como el de la regularidad.
--         Blanco con puntos rojos: líder de la montaña.
--         Blanco: clasificación de los jóvenes.
+* Amarillo: clasificación general.
+* Verde: clasificación general por puntos, también conocido como el de la regularidad.
+* Blanco con puntos rojos: líder de la montaña.
+* Blanco: clasificación de los jóvenes.
 
 ![Maillots](../images_text/ciclismo_tour_maillot.jpg)
-
-
-
-## Lo mejor del Tour de Francia
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDhojXP7qs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Información en la red
 
@@ -50,5 +44,10 @@ En los siguientes enlaces podéis encontrar más información relacionada con el
 
 [Canal youtube](https://www.youtube.com/user/letourdefrance)
 
-
 [Página web](https://www.letour.fr/es/)
+
+## Lo mejor del Tour de Francia
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDhojXP7qs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

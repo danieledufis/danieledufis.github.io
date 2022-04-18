@@ -35,10 +35,6 @@ Exsisten diferentes clasificaciones y sus líderes llevan los diferentes maillot
 
 ![Maillots](../images_text/ciclismo_vuelta_maillot.jpg)
 
-## Lo mejor de la vuelta a España
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Q0KB8NYLO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Informción en la red
 
 En los siguientes enlaces podéis encontrar más información sobre la vuelta a España:
@@ -46,3 +42,9 @@ En los siguientes enlaces podéis encontrar más información sobre la vuelta a 
 [Canal de youtube](https://www.youtube.com/user/Unipublicvuelta)
 
 [Página web](https://www.lavuelta.es/es/)
+
+## Lo mejor de la vuelta a España
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Q0KB8NYLO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

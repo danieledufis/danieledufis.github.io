@@ -1,26 +1,26 @@
 ---
 layout: post
-title: "Mejores deportistas olímpicos: hombres"
+title: "Mejores deportistas olímpicos nacionales"
 categories: juegosolimpicos
 ---
 
 ## Mujeres ##
 
-### Msfdfd
-
-### Mdfefef
-
-### efef
-
-### sfefefef
+|NOMBRE|DEPORTE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
+|-----:|-----:|-----:|-----:|-----:|-----:|
+|      |      |![dd]()|      |[]()|      |
+|      |      |![dd]()|      |[]()|      |
+|      |      |![dd]()|      |[]()|      |
+|      |      |![dd]()|      |[]()|      |
+|      |      |![dd]()|      |[]()|      |
 
 
 ## Hombres ##
 
-### Michael Jordan
-
-### Stephen Curry
-
-### Lebron James
-
-### Pau Gasol
+|NOMBRE|DEPORTE|FOTO|PAÍS|INFORMACIÓN|VÍDEO|
+|-----:|-----:|-----:|-----:|-----:|-----:|
+|      |      |![dd]()|      |[]()|      |
+|      |      |![dd]()|      |[]()|      |
+|      |      |![dd]()|      |[]()|      |
+|      |      |![dd]()|      |[]()|      |
+|      |      |![dd]()|      |[]()|      |

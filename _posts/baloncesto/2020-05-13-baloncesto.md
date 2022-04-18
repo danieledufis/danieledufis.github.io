@@ -16,35 +16,17 @@ categories: baloncesto
 
 ![Turoriales](../images/tutorial_pestana.png)
 
-
 ## [Mejores jugadores]({% link _posts/baloncesto/2020-05-13-baloncesto-mejoresjugadores.md %})
 
 ![Mejores jugadores](../images/baloncesto-mejoresjugadores-pestana.jpg)
 
+## [Videos]({% link _posts/baloncesto/2020-05-13-baloncesto-videos.md %})
 
-## Vídeos
-- #### [Asistencias]({% link _posts/baloncesto/2020-05-13-baloncesto-videos-asistencias.md %})
+![Videos](../images/baloncesto_videos_canastas_pestana.jpg)
 
-![Asistencias](../images/baloncesto_videos_asistencias_pestana.jpg)
+## [Retos]({% link _posts/baloncesto/2020-05-13-baloncesto-retos.md %})
 
-
-- #### [Canastas]({% link _posts/baloncesto/2020-05-13-baloncesto-videos-canastas.md %})
-
-![Canastas](../images/baloncesto_videos_canastas_pestana.jpg)
-
-
-- #### [Finales emocionantes]({% link _posts/baloncesto/2020-05-13-baloncesto-videos-finalesemocionantes.md %})
-
-![Finales emocionantes](../images/baloncesto_videos_finalesemocionantes_pestana.jpg)
-
-
-- #### [Tapones]({% link _posts/baloncesto/2020-05-13-baloncesto-videos-tapones.md %})
-
-![Tapones](../images/baloncesto_videos_tapones_pestana.jpg)
-
-
-
-
+![Retos](../images/retosporcursos_pestana.jpg)
 
 
 

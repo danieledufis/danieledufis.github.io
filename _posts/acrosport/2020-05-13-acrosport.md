@@ -4,31 +4,34 @@ title: "Acrosport"
 categories: acrosport
 ---
 
+En este post vais a encontrar información de:
+- Acrosport.
+- Yoga.
+
+Estoy seguro de que os va a encantar. Es muy importante que antes de realizarcualquiera de las figuras echéis un vistazo a las medidas de seguridad.
+
+# ACROSPORT
+
 ## [¿Qué es?]({% link _posts/acrosport/2020-05-13-quees.md %})
 ![Qué es](../images/acrosport_quees_pestana.jpg)
 
 ## [Medidas de seguridad]({% link _posts/acrosport/2020-05-13-medidasdeseguridad.md %})
 ![Medidas de seguridad](../images/acrosport_medidasdeseguridad_pestana.jpg)
 
-## Figuras
-#### - [Parejas]({% link _posts/acrosport/2020-05-13-figuras-parejas.md %})
+## [Figuras]({% link _posts/acrosport/2020-05-13-acrosport-figuras.md %})
+![Figuras](../images/acrosport_figuras_pestana.jpg)
 
-![Parejas](../images/acrosport_figuras_parejas_pestana.jpg)
+## [Retos]({% link _posts/acrosport/2020-05-13-acrosport-retos.md %})
 
-#### - [Trios]({% link _posts/acrosport/2020-05-13-figuras-trios.md %})
+![Retos](../images/retosporcursos_pestana.jpg)
 
-![Tríos](../images/acrosport_figuras_trios_pestana.jpg)
+# YOGA
 
-#### - [Cuartetos]({% link _posts/acrosport/2020-05-13-figuras-cuartetos.md %})
+## [Yoga]({% link _posts/acrosport/2020-05-13-yoga.md %})
+![Qué es](../images/yoga_portada.jpg)
 
-![Cuartetos](../images/acrosport_figuras_cuartetos_pestana.jpg)
 
-#### - [Quintetos]({% link _posts/acrosport/2020-05-13-figuras-quintetos.md %})
 
-![Quintetos](../images/acrosport_figuras_grupos5_pestana.jpg)
 
-#### - [Sextetos]({% link _posts/acrosport/2020-05-13-figuras-sextetos.md %})
-
-![Sextetos](../images/acrosport_figuras_grupos6_pestana.jpg)
 
 
