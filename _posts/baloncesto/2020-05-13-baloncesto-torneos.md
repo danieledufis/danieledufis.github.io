@@ -25,6 +25,8 @@ Aquí tenéis los enlaces para acceder a la web oficial de ambas competiciones:
 
 [LIGA FEMENINA ENDESA](http://www.lfendesa.es/inicio.aspx)
 
+![LIGA ENDESA](../../images_text/baloncesto_liga%20endesa.jpg)
+
 #### - Copa
 
 A mitad de la temporada, los **8 mejores equipos** de la competición jugarán eliminatorias **a partido único** y se jugarán todos los partidos en una misma ciudad y en un mismo campo.
