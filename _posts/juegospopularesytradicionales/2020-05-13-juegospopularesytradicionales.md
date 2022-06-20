@@ -23,3 +23,11 @@ Dentro de este grupo veremos 71 juegos juegos lo dividiremos en 4 partes:
 ## [9-10 años]({% link _posts/juegospopularesytradicionales/2020-05-13-9-10años.md %})
 
 ## [11-12 años]({% link _posts/juegospopularesytradicionales/2020-05-13-11-12años.md %})
+
+## [Retos]({% link _posts/juegospopularesytradicionales/2020-05-13-juegos-retos.md %})
+
+![Retos](../images/retosporcursos_pestana.jpg)
+
+
+
+https://github.com/danieledufis/danieledufis.github.io/blob/master/_posts/juegospopularesytradicionales/2020-05-13-juegos-retos.md
