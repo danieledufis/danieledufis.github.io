@@ -16,7 +16,7 @@ categories: habilidadesgimnasticas
 
 ![Turoriales](../images/tutorial_pestana.png)
 
-## [Retos]({% link _posts/habilidadesgimnasticas/2020-05-13-habilidadesgimnasticas.-retosmd %})
+## [Retos]({% link _posts/habilidadesgimnasticas/2020-05-13-habilidadesgimnasticas-retos.md %})
 
 ![Retos](../images/retosporcursos_pestana.jpg)
 
