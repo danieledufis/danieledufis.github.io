@@ -19,3 +19,6 @@ En el siguiente enlace encontraréis toda la información relacionada con el reg
 En el siguiente vídeo tenéis un tutorial rápido y muy interesante en el que os indican todas las reglas necesarias para empezar a jugar un partido. Son 20 minutos de vídeo, pero os van a ser muy prácticos para no tener ninguna duda en clase:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B7tB0o4ui1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Retos datchball
+
