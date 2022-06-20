@@ -30,3 +30,6 @@ categories: atletismo
 
 ## [Pruebas combinadas]({% link _posts/atletismo/2020-05-13-atletismo-pruebascombinadas.md %})
 ![Pruebas combinadas](../images/atletismo_pruebascombinadas_pesta%C3%B1a.jpg)
+
+## [Retos]({% link _posts/atletismo/2020-05-13-atletismo-retos.md %})
+![Pruebas combinadas](../images/retosporcursos_pestana.jpg)
