@@ -29,5 +29,3 @@ Dentro de este grupo veremos 71 juegos juegos lo dividiremos en 4 partes:
 ![Retos](../images/retosporcursos_pestana.jpg)
 
 
-
-https://github.com/danieledufis/danieledufis.github.io/blob/master/_posts/juegospopularesytradicionales/2020-05-13-juegos-retos.md
