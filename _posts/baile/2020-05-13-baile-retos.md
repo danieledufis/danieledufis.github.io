@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Baile"
+title: "Retos expresión corporal"
 categories: baile
 ---
 
