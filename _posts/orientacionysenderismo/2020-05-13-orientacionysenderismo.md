@@ -20,3 +20,8 @@ categories: orientacionysenderismo
 - [Tutoriales]({% link _posts/orientacionysenderismo/2020-05-13-orientacionysenderismo-tutoriales.md %})
 
 ![Turoriales](../images/tutorial_pestana.png)
+
+
+## [Retos]({% link _posts/orientacionysenderismo/2020-05-13-orientacionysenderismo-retos.md %})
+
+![Retos](../images/retosporcursos_pestana.jpg)
