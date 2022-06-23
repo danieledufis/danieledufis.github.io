@@ -118,7 +118,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Pizza ibérica]:../../pdfs/
 [Pesto]:../../pdfs/Receta-Pesto%20Verde.pdf
 [Pesto rojo]:../../pdfs/Receta-Pesto%20Rojo.pdf
-[Salsa romesco]:../../pdfs//Receta-Salsa%20Romesco.pdf
+[Salsa romesco]:../../pdfs/Receta-Salsa%20Romesco.pdf
 [Patatas al horno]:../../pdfs/Receta-Patatas%20al%20Horno.pdf
 [Salsa agria]:../../pdfs/Receta-Salsa%20Agria.pdf
 [Cous cous con pollo y verduras]:../../pdfs/Receta-Cous%20Cous%20con%20Pollo%20y%20Verduras.pdf
