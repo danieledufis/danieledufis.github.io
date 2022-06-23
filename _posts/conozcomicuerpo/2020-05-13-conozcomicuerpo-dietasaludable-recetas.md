@@ -18,15 +18,15 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 1. Arroces
 
-### [Arroz integral con verduras, pollo y especias]()
+### [Arroz integral con verduras, pollo y especias](https:///danieledufis.github.io/pdfs/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias.pdf)
 
 ## 2. Carnes
 
-### [Pollo a la Salomé]()
+### [Pollo a la Salomé](https://danieledufis.github.io/pdfs/Receta-Pollo%20a%20la%20Salom%C3%A9.pdf)
 
 ## 3. Pescados
 
-### [Salmón con patatas y salsa romesco]()
+### [Salmón con patatas y salsa romesco](https://danieledufis.github.io/pdfs/Receta-Salm%C3%B3n%20con%20Patatas%20y%20Salsa%20Romesco.pdf)
 
 ## 4. Verduras
 
@@ -72,7 +72,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Pesto rojo]()
 
-### [Salsa romesco]()
+### [Salsa romesco](https://danieledufis.github.io/pdfs/Receta-Salsa%20Romesco.pdf)
 
 ### [Patatas al horno]()
 
@@ -101,9 +101,9 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 [Arroz integral con verduras, pollo y especias]:../../pdfs/arroz_verduras_pollo_especias_compressed.pdf
 
-[Arroz integral con verduras, pollo y especias]:../../pdfs/
-[Pollo a la Salomé]:../../pdfs/
-[Salmón con patas y salsa romesco]:../../pdfs/
+[Arroz integral con verduras, pollo y especias]:../../pdfs/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias.pdf
+[Pollo a la Salomé]:../../pdfs/Receta-Pollo%20a%20la%20Salom%C3%A9.pdf
+[Salmón con patas y salsa romesco]:../../pdfs/Receta-Salm%C3%B3n%20con%20Patatas%20y%20Salsa%20Romesco.pdf
 [Espaguetis de calabacín con pesto rojo y huevo]:../../pdfs/
 [Porridge]:../../pdfs/
 [Ensalada gourmet con pesto rojo]:../../pdfs/
@@ -118,7 +118,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Pizza ibérica]:../../pdfs/
 [Pesto]:../../pdfs/
 [Pesto rojo]:../../pdfs/
-[Salsa romesco]:../../pdfs/
+[Salsa romesco]:../../pdfs//Receta-Salsa%20Romesco.pdf
 [Patatas al horno]:../../pdfs/
 [Salsa agria]:../../pdfs/
 [Cous cous con pollo y verduras]:../../pdfs/
