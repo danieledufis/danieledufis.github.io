@@ -16,116 +16,116 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Arroz integral con verduras, pollo y especias](https://danieledufis.github.io/pdfs/arroz_verduras_pollo_especias_compressed.pdf)
 
+## 1. Arroces
+
+### [Arroz integral con verduras, pollo y especias]()
+
 ## 2. Carnes
 
-### [Pollo a la Salomé](https://danieledufis.github.io/pdfs/Pollo%20a%20la%20Salome%CC%81.pdf)
+### [Pollo a la Salomé]()
 
 ## 3. Pescados
 
-### [Salmón con patatas y salsa romesco](https://danieledufis.github.io/pdfs/salmon%20con%20patatas%20y%20salsa%20romesco.pdf)
+### [Salmón con patatas y salsa romesco]()
 
 ## 4. Verduras
 
-### [Espaguetis de calabacín con pesto rojo y huevo](https://danieledufis.github.io/pdfs/espaguietis_calabacin_compressed%20(1).pdf)
+### [Espaguetis de calabacín con pesto rojo y huevo]()
 
 ## 5. Desayunos
 
-### [Porridge](https://danieledufis.github.io/pdfs/Porridge_compressed.pdf)
+### [Porridge]()
 
 ## 6. Ensaladas y platos frescos
 
-### [Ensalada gourmet con pesto rojo](https://danieledufis.github.io/pdfs/ensalada_gourmet_compressed.pdf)
+### [Ensalada gourmet con pesto rojo]()
 
-### [Tomate con burrata y pesto](https://danieledufis.github.io//pdfs/tomates_burrata_pesto_compressed.pdf)
+### [Tomate con burrata y pesto]()
 
-### [Ensalada de aguacate, queso feta, tomate y pesto](https://danieledufis.github.io/pdfs/ensalada_aguacate_compressed.pdf)
+### [Ensalada de aguacate, queso feta, tomate y pesto]()
 
-### [Tortilla de patata](https://danieledufis.github.io/pdfs/Tortilla%20de%20patata_compressed.pdf)
+### [Tortilla de patata]()
 
-### [Gazpacho](https://danieledufis.github.io/pdfs/gazpacho_compressed.pdf)
+### [Gazpacho]()
 
 ## 7. Hamburguesas
 
-### [Hambuguesa con cebolla caramelizada, queso de cabra y salsa miel mostaza](https://danieledufis.github.io/pdfs/Burguer_compressed.pdf)
+### [Hambuguesa con cebolla caramelizada, queso de cabra y salsa miel mostaza]()
 
 ## 8. Tostas
 
-### [Tosta de guacamole con salmón](https://danieledufis.github.io/pdfs/tostas_guacamole_salmon_compressed.pdf)
+### [Tosta de guacamole con salmón]()
 
 ## 9. Pizzas
 
-### [Masa](https://danieledufis.github.io/pdfs/masa%20de%20pizza.pdf)
+### [Masa]()
 
-### [Pizza de calabacín, cebolla caramelizada y pesto](https://danieledufis.github.io/pdfs/pizza_calabacin_compressed.pdf)
+### [Pizza de calabacín, cebolla caramelizada y pesto]()
 
-### [Pizza Ibérica](https://danieledufis.github.io/pdfs/Pizza%20Ibe%CC%81rica_compressed.pdf)
+### [Pizza Ibérica]()
 
 ## 10. Platos de cuchara
 
 ## 11. Salsas y guarniciones
 
-### [Pesto](https://danieledufis.github.io/pdfs/Pesto_v2.0_compressed.pdf)
+### [Pesto]()
 
-### [Pesto rojo](https://danieledufis.github.io/pdfs/pesto_rojo_compressed.pdf)
+### [Pesto rojo]()
 
-### [Salsa romesco](https://danieledufis.github.io/pdfs/Salsa_Romesco_compressed.pdf)
+### [Salsa romesco]()
 
-### [Patatas al horno](https://danieledufis.github.io/pdfs/Patatas%20al%20Horno_compressed.pdf)
+### [Patatas al horno]()
 
-### [Salsa  agria](https://danieledufis.github.io/pdfs/Salsa%20Agria_compressed.pdf)
+### [Salsa  agria]()
 
 ## 12. Otros países
 
-###  12.1. Italia
-
-###  12.2. Grecia
-
-###  12.3. India
-
-###  12.4. Marruecos
+###  12.1. Marruecos
 
 ### [Cous Cous con pollo y verduras](https://danieledufis.github.io/pdfs/pollo_con_verduras_compressed.pdf)
 
-###  12.5. México
+### [Hummus]()
 
-### [Guacamole](https://danieledufis.github.io/pdfs/Guacamole_compressed.pdf)
+###  12.2. México
 
-### [Fajitas de pollo, cebolla y pimientos](https://danieledufis.github.io/pdfs/Fajitas%20de%20Pollo_compressed.pdf)
+### [Guacamole]()
 
-###  12.6. Tailandia
+### [Fajitas de pollo, cebolla y pimientos]()
 
 ## 13. Postres
 
-### [Torrijas](https://danieledufis.github.io/pdfs/Torrijas.pdf)
+### [Torrijas]()
 
-### [Leche frita](https://danieledufis.github.io/pdfs/leche_frita_compressed.pdf)
-
+### [Leche frita]()
 
 
 [Arroz integral con verduras, pollo y especias]:../../pdfs/arroz_verduras_pollo_especias_compressed.pdf
-[Pollo a la Salomé]:../../pdfs/Pollo a la Salomé.pdf
-[Salmón con patas y salsa romesco]:../../pdfs/salmon%20con%20patatas%20y%20salsa%20romesco.pdf
-[Espaguetis de calabacín con pesto rojo y huevo]:../../pdfs/espaguietis_calabacin_compressed%20(1).pdf
-[Porridge]:../../pdfs/Porridge_compressed.pdf
-[Ensalada gourmet con pesto rojo]:../../pdfs/ensalada_gourmet_compressed.pdf
-[Tomate con burrata y pesto]:../../pdfs/tomates_burrata_pesto_compressed.pdf
-[Ensalada de aguacate, queso feta, tomate y pesto]:../../pdfs/ensalada_aguacate_compressed.pdf
-[Tortilla de patata]:../../pdfs/Tortilla%20de%20patata_compressed.pdf
-[Gazpacho]:../../pdfs/gazpacho_compressed.pdf
-[Hamburguesa con cebolla caramelizada, queso de cabra y salsa miel mostaza]:../../pdfs/Burguer_compressed.pdf
-[Tosta de guacamole con salmón]:../../pdfs/tostas_guacamole_salmon_compressed.pdf
-[Masa]:../../pdfs/masa%20de%20pizza.pdf
-[Pizza de calabacín, cebolla caramelizada y pesto]:../../pdfs/pizza_calabacin_compressed.pdf
-[Pizza ibérica]:../../pdfs/Pizza%20Ibe%CC%81rica_compressed.pdf
-[Pesto]:../../pdfs/Pesto_v2.0_compressed.pdf
-[Pesto rojo]:../../pdfs/pesto_rojo_compressed.pdf
-[Salsa romesco]:../../pdfs/Salsa_Romesco_compressed.pdf
-[Patatas al horno]:../../pdfs/Patatas%20al%20Horno_compressed.pdf
-[Salsa agria]:../../pdfs/Salsa%20Agria_compressed.pdf
-[Cous cous con pollo y verduras]:../../pdfs/pollo_con_verduras_compressed.pdf
-[Guacamole]:../../pdfs/Guacamole_compressed.pdf
-[]:../../pdfs/Fajitas%20de%20Pollo_compressed.pdf
-[Torrijas]:../../pdfs/Torrijas.pdf
-[Leche frita]:../../pdfs/leche_frita_compressed.pdf
+
+[Arroz integral con verduras, pollo y especias]:../../pdfs/
+[Pollo a la Salomé]:../../pdfs/
+[Salmón con patas y salsa romesco]:../../pdfs/
+[Espaguetis de calabacín con pesto rojo y huevo]:../../pdfs/
+[Porridge]:../../pdfs/
+[Ensalada gourmet con pesto rojo]:../../pdfs/
+[Tomate con burrata y pesto]:../../pdfs/
+[Ensalada de aguacate, queso feta, tomate y pesto]:../../pdfs/
+[Tortilla de patata]:../../pdfs/
+[Gazpacho]:../../pdfs/
+[Hamburguesa con cebolla caramelizada, queso de cabra y salsa miel mostaza]:../../pdfs/B
+[Tosta de guacamole con salmón]:../../pdfs/
+[Masa]:../../pdfs/
+[Pizza de calabacín, cebolla caramelizada y pesto]:../../pdfs/
+[Pizza ibérica]:../../pdfs/
+[Pesto]:../../pdfs/
+[Pesto rojo]:../../pdfs/
+[Salsa romesco]:../../pdfs/
+[Patatas al horno]:../../pdfs/
+[Salsa agria]:../../pdfs/
+[Cous cous con pollo y verduras]:../../pdfs/
+[Hummus]:../../pdfs/
+[Guacamole]:../../pdfs/
+[Fajitas de pollo, cebolla y pimientos]:../../pdfs/
+[Torrijas]:../../pdfs/
+[Leche frita]:../../pdfs/
 
 []:../../pdfs/
