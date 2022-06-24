@@ -31,6 +31,9 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 5. Desayunos
 
+### [Desayunos saludables patios](https://danieledufis.github.io/pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf)
+Estos son los desayunos que debéis traer cada día de la semana para seguir una dieta saludable y poder disfrutar del material en los Programas de Patio.
+
 ### [Porridge](https://danieledufis.github.io/pdfs/Receta-Porridge.pdf)
 
 ## 6. Ensaladas y platos frescos
@@ -98,6 +101,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Pollo a la Salomé]:../../pdfs/Receta-Pollo%20a%20la%20Salom%C3%A9.pdf
 [Salmón con patas y salsa romesco]:../../pdfs/Receta-Salm%C3%B3n%20con%20Patatas%20y%20Salsa%20Romesco.pdf
 [Espaguetis de calabacín con pesto rojo y huevo]:../../pdfs/Receta-Espaguetis%20de%20Calabacin.pdf
+[Desayunos saludables patios]:../../pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf
 [Porridge]:../../pdfs/Receta-Porridge.pdf
 [Ensalada gourmet con pesto rojo]:../../pdfs/Receta-Ensalada%20Gourmet.pdf
 [Tomate con burrata y pesto]:../../pdfs/Receta-Tomate%20Rosa%20con%20Pesto%20y%20Burrata.pdf
