@@ -12,9 +12,6 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wr0_wULJnBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 1. Arroces
-
-### [Arroz integral con verduras, pollo y especias](https://danieledufis.github.io/pdfs/arroz_verduras_pollo_especias_compressed.pdf)
 
 ## 1. Arroces
 
@@ -26,11 +23,11 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 3. Pescados
 
-### [Salmón con patatas y salsa romesco]()
+### [Salmón con patatas y salsa romesco](https://danieledufis.github.io/pdfs/Receta-Salm%C3%B3n%20con%20Patatas%20y%20Salsa%20Romesco.pdf)
 
 ## 4. Verduras
 
-### [Espaguetis de calabacín con pesto rojo y huevo]()
+### [Espaguetis de calabacín con pesto rojo y huevo](https://danieledufis.github.io/pdfs/Receta-Espaguetis%20de%20Calabacin.pdf)
 
 ## 5. Desayunos
 
@@ -38,11 +35,11 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 6. Ensaladas y platos frescos
 
-### [Ensalada gourmet con pesto rojo]()
+### [Ensalada gourmet con pesto rojo](https://danieledufis.github.io/pdfs/Receta-Ensalada%20Gourmet.pdf)
 
-### [Tomate con burrata y pesto]()
+### [Tomate con burrata y pesto](https://danieledufis.github.io/pdfs/Receta-Tomate%20Rosa%20con%20Pesto%20y%20Burrata.pdf)
 
-### [Ensalada de aguacate, queso feta, tomate y pesto]()
+### [Ensalada de aguacate, queso feta, tomate y pesto](https://danieledufis.github.io/pdfs/Receta-Ensalada%20de%20Aguaca)
 
 ### [Tortilla de patata](https://danieledufis.github.io/pdfs/Receta-Tortilla%20de%20patata.pdf)
 
@@ -50,7 +47,7 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ## 7. Hamburguesas
 
-### [Hambuguesa con cebolla caramelizada, queso de cabra y salsa miel mostaza]()
+### [Hambuguesa con cebolla caramelizada, queso de cabra y salsa miel mostaza](https://danieledufis.github.io/pdfs/Receta-Hamburguesa%20con%20Cebolla.pdf)
 
 ## 8. Tostas
 
@@ -60,13 +57,11 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Masa](https://danieledufis.github.io/pdfs/Receta-Masa%20Pizza.pdf)
 
-### [Pizza de calabacín, cebolla caramelizada y pesto]()
+### [Pizza de calabacín, cebolla caramelizada y pesto](https://danieledufis.github.io/pdfs/Receta-Pizza%20Calabacin.pdf)
 
-### [Pizza Ibérica]()
+### [Pizza Ibérica](https://danieledufis.github.io/pdfs/Receta-Pizza%20Ib%C3%A9rica.pdf)
 
-## 10. Platos de cuchara
-
-## 11. Salsas y guarniciones
+## 10. Salsas y guarniciones
 
 ### [Pesto](https://danieledufis.github.io/pdfs/Receta-Pesto%20Verde.pdf)
 
@@ -78,44 +73,42 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 
 ### [Salsa  agria](https:///danieledufis.github.io/pdfs/Receta-Salsa%20Agria.pdf)
 
-## 12. Otros países
+## 11. Otros países
 
-###  12.1. Marruecos
+###  11.1. Marruecos
 
 ### [Cous Cous con pollo y verduras](https://danieledufis.github.io/pdfs/Receta-Cous%20Cous%20con%20Pollo%20y%20Verduras.pdf)
 
 ### [Hummus]()
 
-###  12.2. México
+###  11.2. México
 
 ### [Guacamole](https://danieledufis.github.io/pdfs/Receta-Guacamole.pdf)
 
-### [Fajitas de pollo, cebolla y pimientos]()
+### [Fajitas de pollo, cebolla y pimientos](https://danieledufis.github.io/pdfs/Receta-Fajitas%20de%20Pollo.pdf)
 
-## 13. Postres
+## 12. Postres
 
-### [Torrijas]()
+### [Torrijas](https://danieledufis.github.io/pdfs/Receta-Torrijas.pdf)
 
 ### [Leche frita](https://danieledufis.github.io/pdfs/Receta-Leche%20Frita.pdf)
 
 
-[Arroz integral con verduras, pollo y especias]:../../pdfs/arroz_verduras_pollo_especias_compressed.pdf
-
 [Arroz integral con verduras, pollo y especias]:../../pdfs/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias.pdf
 [Pollo a la Salomé]:../../pdfs/Receta-Pollo%20a%20la%20Salom%C3%A9.pdf
-[Salmón con patas y salsa romesco]:../../pdfs/
-[Espaguetis de calabacín con pesto rojo y huevo]:../../pdfs/
+[Salmón con patas y salsa romesco]:../../pdfs/Receta-Salm%C3%B3n%20con%20Patatas%20y%20Salsa%20Romesco.pdf
+[Espaguetis de calabacín con pesto rojo y huevo]:../../pdfs/Receta-Espaguetis%20de%20Calabacin.pdf
 [Porridge]:../../pdfs/Receta-Porridge.pdf
-[Ensalada gourmet con pesto rojo]:../../pdfs/
-[Tomate con burrata y pesto]:../../pdfs/
-[Ensalada de aguacate, queso feta, tomate y pesto]:../../pdfs/
+[Ensalada gourmet con pesto rojo]:../../pdfs/Receta-Ensalada%20Gourmet.pdf
+[Tomate con burrata y pesto]:../../pdfs/Receta-Tomate%20Rosa%20con%20Pesto%20y%20Burrata.pdf
+[Ensalada de aguacate, queso feta, tomate y pesto]:../../pdfs/Receta-Ensalada%20de%20Aguacate.pdf
 [Tortilla de patata]:../../pdfs/Receta-Tortilla%20de%20patata.pdf
 [Gazpacho]:../../Receta-Gazpacho.pdf
-[Hamburguesa con cebolla caramelizada, queso de cabra y salsa miel mostaza]:../../pdfs/B
+[Hamburguesa con cebolla caramelizada, queso de cabra y salsa miel mostaza]:../../pdfs/Receta-Hamburguesa%20con%20Cebolla.pdf
 [Tosta de guacamole con salmón]:../../pdfs/Receta-Tostas%20de%20Guacamole%20de%20Salm%C3%B3n.pdf
 [Masa]:../../pdfs/Receta-Masa%20Pizza.pdf
-[Pizza de calabacín, cebolla caramelizada y pesto]:../../pdfs/
-[Pizza ibérica]:../../pdfs/
+[Pizza de calabacín, cebolla caramelizada y pesto]:../../pdfs/Receta-Pizza%20Calabacin.pdf
+[Pizza ibérica]:../../pdfs/Receta-Pizza%20Ib%C3%A9rica.pdf
 [Pesto]:../../pdfs/Receta-Pesto%20Verde.pdf
 [Pesto rojo]:../../pdfs/Receta-Pesto%20Rojo.pdf
 [Salsa romesco]:../../pdfs/Receta-Salsa%20Romesco.pdf
@@ -125,8 +118,8 @@ Antes de descargarte las recetas es recomendable que veáis cómo llevar una die
 [Hummus]:../../pdfs/
 [Guacamole]:../../pdfs/Receta-Guacamole.pdf
 
-[Fajitas de pollo, cebolla y pimientos]:../../pdfs/
-[Torrijas]:../../pdfs/
+[Fajitas de pollo, cebolla y pimientos]:../../pdfs/Receta-Fajitas%20de%20Pollo.pdf
+[Torrijas]:../../pdfs/Receta-Torrijas.pdf
 [Leche frita]:../../pdfs/Receta-Leche%20Frita.pdf
 
 []:../../pdfs/
