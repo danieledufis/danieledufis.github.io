@@ -11,11 +11,6 @@ categories: conozcomicuerpo
 ## [Capacidades físicas]({% link _posts/conozcomicuerpo/2020-05-13-conozcomicuerpo-capfisicas.md %})
 ![Capacidades físicas](../images/conozcomicuerpo_capfisicas_pestana.jpeg)
 
-## Mi cuerpo
-#### - [Músculos y estiramientos]({% link _posts/conozcomicuerpo/2020-05-13-conozcomicuerpo-micuerpo-musculosyestiramientos.md %})
+## [Mi cuerpo]({% link _posts/conozcomicuerpo/2020-05-13-conozcomicuerpo-micuerpo-sistemacardiorespiratorio.md %})
 
-![Músculos y estiramientos](../images/conozcomicuerpo_micuerpo_musculosyestiramientos_pestana.jpg)
-
-#### - [Sistema cardiorespiratorio]({% link _posts/conozcomicuerpo/2020-05-13-conozcomicuerpo-micuerpo-sistemacardiorespiratorio.md %})
-
-![Sistema cardiovascular](../images/conozcomicuerpo_micuerpo_sistemacardiovascular_pestana.jpg)
+![Mi cuerpo](../images/conozcomicuerpo_micuerpo_sistemacardiovascular_pestana.jpg)
