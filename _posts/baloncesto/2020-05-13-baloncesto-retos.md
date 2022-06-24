@@ -4,9 +4,14 @@ title: "Retos baloncesto"
 categories: baloncesto
 ---
 
-Aquí tenéis los retos de baloncesto de baloncesto adaptados a vuestro nivel:
+Aquí tenéis los retos de **baloncesto** adaptados a vuestro nivel.
 
-## NIVEL 4
+En este link podéis descargaros el PDF.
 
-![NIVEL 4](https://danieledufis.github.io/images_text/basket_nivel_04_compressed.jpg)
+[Retos baloncesto nivel 4](https://danieledufis.github.io/pdfs/Baloncesto-retos-4.pdf)
 
+![Retos baloncesto nivel 4](https://danieledufis.github.io/images_text/Baloncesto-retos-4_page-0001.jpg)
+
+
+
+[Retos baloncesto nivel 4]:../../pdfs/Baloncesto-retos-4.pdf
