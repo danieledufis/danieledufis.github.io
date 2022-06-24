@@ -9,13 +9,13 @@ En este post podéis encontrar todos y cada uno de los retos que tendréis a lo 
 Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archivo:
 ## UNIDAD 1: "NOS PONEMOS EN MARCHA"
 ##### *10 de septiembre - 17 septiembre*
-**Enlace** [AROS Y HULA HOOPS](https://danieledufis.github.io/comba/aros-hulahoops)
+**Enlace** [Aros y hula hoops](https://danieledufis.github.io/comba/aros-hulahoops)
 **Retos** [Aros](https://danieledufis.github.io/pdfs/Aros-retos-4.pdf)
 **Receta**[Desayunos saludables](https://danieledufis.github.io/pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf)
 
 ## UNIDAD 2: "ME PONGO EN FORMA - CAPACIDADES FÍSICAS"
 ##### *20 septiembre - 10 octubre*
-**Enlace** [PRIMERA OBERDROLA](https://primeraiberdrola.es/)
+**Enlace** [Capacidades físicas](https://danieledufis.github.io/conozcomicuerpo/conozcomicuerpo-capfisicas)
 **Retos** [Capacidades físicas](https://danieledufis.github.io/pdfs/Cap.f%C3%ADsica-retos-4.pdf)
 **Receta**[Porridge](https://danieledufis.github.io/pdfs/Receta-Porridge.pdf)
 
