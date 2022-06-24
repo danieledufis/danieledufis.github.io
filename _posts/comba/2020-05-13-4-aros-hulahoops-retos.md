@@ -10,11 +10,7 @@ En este link podéis descargaros el PDF.
 
 [Retos aros nivel 4](https://danieledufis.github.io/pdfs/Acrosport-retos-4.pdf)
 
-![Retos aros nivel 4](https://danieledufis.github.io/images_text/Combas-retos-4_page-0001.jpg)
-
-
-
-
+![Retos aros nivel 4](https://danieledufis.github.io/images_text/Aros-retos-4_page-0001.jpg)
 
 
 [Retos aros nivel 4]:../../pdfs/Aros-retos-4.pdf
