@@ -13,12 +13,12 @@ Aquí tenéis los retos relacionados con los deportes de raqueta acordes a vuest
 
 En este link podéis descargaros el PDF.
 
-[Raquetas nivel 4](https://danieledufis.github.io/pdfs/Raquetas-retos-4.pdf)
+[Retos raquetas nivel 4](https://danieledufis.github.io/pdfs/Raquetas-retos-4.pdf)
 
-![Raquetas nivel 4](https://danieledufis.github.io/images_text/Raquetas-retos-4_page-0001.jpg)
-
-
+![Retos raquetas nivel 4](https://danieledufis.github.io/images_text/Raquetas-retos-4_page-0001.jpg)
 
 
-[Raquetas nivel 4]:../../pdfs/Raquetas-retos-4.pdf
+
+
+[Retos raquetas nivel 4]:../../pdfs/Raquetas-retos-4.pdf
 
