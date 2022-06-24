@@ -6,8 +6,6 @@ categories: baile
 
 Aunque es un post dedicado a los bailes, en los retos vamos a plantear diferentes ámbitos de la **expresión corporal** como son el **baile** y **el teatro**:
 
-## Expresión corporal nivel 4
-
 En este link podéis descargaros el PDF.
 
 [Expresión corporal nivel 4](https://danieledufis.github.io/pdfs/Expresi%C3%B3n-corporal-retos-4.pdf)
