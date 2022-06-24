@@ -4,10 +4,21 @@ title: "Retos de raqueta"
 categories: deportesderaqueta
 ---
 
-Aquí tenéis los retos relacionados con los deportes de raqueta acordes a vuestro nivel, ¿podréis superarlos?
+Aquí tenéis los retos relacionados con los deportes de raqueta acordes a vuestro nivel. Están divididos en:
+- Bádminton.
+- Pickleball.
+- Tenis.
+- Tenis de mesa.
+¿Podréis superarlos?
+
+En este link podéis descargaros el PDF.
+
+[Raquetas nivel 4](https://danieledufis.github.io/pdfs/Raquetas-retos-4.pdf)
+
+![Raquetas nivel 4](https://danieledufis.github.io/images_text/Raquetas-retos-4_page-0001.jpg)
 
 
-## NIVEL 4
 
-![Raquetas_nivel4](../images_text/raquetas_nivel_4_compressed.jpg)
+
+[Raquetas nivel 4]:../../pdfs/Raquetas-retos-4.pdf
 
