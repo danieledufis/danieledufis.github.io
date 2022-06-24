@@ -6,9 +6,9 @@ categories: deportesderaqueta
 
 Aquí tenéis los retos relacionados con los deportes de raqueta acordes a vuestro nivel. Están divididos en:
 - Bádminton.
-- Pickleball.
-- Tenis.
 - Tenis de mesa.
+- Tenis.
+- Pickleball.
 ¿Podréis superarlos?
 
 En este link podéis descargaros el PDF.
