@@ -16,21 +16,21 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
 
 **Retos** [Aros](https://danieledufis.github.io/pdfs/Aros-retos-4.pdf)
 
-**Receta**[Desayunos saludables](https://danieledufis.github.io/pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf)
+**Receta** [Desayunos saludables](https://danieledufis.github.io/pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf)
 
 
-## UNIDAD 2: "ME PONGO EN FORMA - CAPACIDADES FÍSICAS"
+## UNIDAD 2: "ESTOY EN FORMA"
 
-##### *20 septiembre - 10 octubre*
+##### *20 septiembre - 1 octubre*
 
 **Enlace** [Capacidades físicas](https://danieledufis.github.io/conozcomicuerpo/conozcomicuerpo-capfisicas)
 
 **Retos** [Capacidades físicas](https://danieledufis.github.io/pdfs/Cap.f%C3%ADsica-retos-4.pdf)
 
-**Receta**[Porridge](https://danieledufis.github.io/pdfs/Receta-Porridge.pdf)
+**Receta** [Porridge](https://danieledufis.github.io/pdfs/Receta-Porridge.pdf)
 
 
-## UNIDAD 3: "EXPRESIÓN CORPORAL"
+## UNIDAD 3: "SÉPTIMO ARTE"
 
 ##### *4 octubre - 15 octubre*
 
@@ -38,11 +38,11 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
 
 **Retos** [Expresión corporal](https://danieledufis.github.io/pdfs/Expresi%C3%B3n-corporal-retos-4.pdf)
 
-**Receta**[Tomate con burrata y pesto](https://danieledufis.github.io/pdfs/Receta-Tomate%20Rosa%20con%20Pesto%20y%20Burrata.pdf)
+**Receta** [Tomate con burrata y pesto](https://danieledufis.github.io/pdfs/Receta-Tomate%20Rosa%20con%20Pesto%20y%20Burrata.pdf)
 
-## UNIDAD 4: "BIENVENIDOS AL CIRCO - GIROS - ACROSPORT"
+## UNIDAD 4: "BIENVENIDOS AL CIRCO"
 
-##### *17 octubre - 29 de octubre*
+##### *18 octubre - 29 de octubre*
 
 **Enlace** [ACROSPORT](https://danieledufis.github.io/acrosport/acrosport)
            [HANILIDADES GIMNÁSTICAS](https://danieledufis.github.io/habilidadesgimnasticas/habilidadesgimnasticas)
@@ -50,10 +50,10 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
 **Retos** [Acrosport](https://danieledufis.github.io/pdfs/Acrosport-retos-4.pdf)
           [Habilidades gimnásticas](https://danieledufis.github.io/pdfs/Habilidades-gimn%C3%A1sticas-retos.pdf)
           
-**Receta**[Tosta de guacamole con salmón](https://danieledufis.github.io/pdfs/Receta-Tostas%20de%20Guacamole%20de%20Salm%C3%B3n.pdf)
+**Receta** [Tosta de guacamole con salmón](https://danieledufis.github.io/pdfs/Receta-Tostas%20de%20Guacamole%20de%20Salm%C3%B3n.pdf)
 
 
-## UNIDAD 5: "SALTINBANQUIS"
+## UNIDAD 5: "SALTIMBANQUIS"
 
 ##### *3 noviembre - 17 noviembre*
 
@@ -61,10 +61,10 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
 
 **Retos** [Combas](https://danieledufis.github.io/pdfs/Combas-retos-4.pdf)
 
-**Receta**[Hummus]()
+**Receta** [Hummus]()
 
 
-## UNIDAD 6: "DATCHBALL - ULTIMATE"
+## UNIDAD 6: "LANZADORES"
 
 ##### *19 noviembre - 3 diciembre*
 
@@ -73,20 +73,20 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
            
 **Retos** [Datchball y ultimate](https://danieledufis.github.io/pdfs/Datchball-ultimate-retos-4.pdf)
 
-**Receta**[Pollo a la Salomé](https://danieledufis.github.io/pdfs/Receta-Pollo%20a%20la%20Salom%C3%A9.pdf)           
+**Receta** [Pollo a la Salomé](https://danieledufis.github.io/pdfs/Receta-Pollo%20a%20la%20Salom%C3%A9.pdf)           
 
 
 
-## UNIDAD 7: "VOLEIBOL - COLPBOL"
+## UNIDAD 7: "ESTO VA DE GOLPEAR"
 
-##### *9 diciembre - 20 diciembre*
+##### *10 diciembre - 20 diciembre*
 
 **Enlace** [COLPBOL](https://danieledufis.github.io/deportesalternativos/deportesalternativos-colpbol)
            [VOLEIBOL](https://danieledufis.github.io/voleibol/voleibol)
            
 **Retos** [Voleibol y colpbol](https://danieledufis.github.io/pdfs/Voleibol-colpbol-retos-4.pdf)
 
-**Receta**[Pizza de calabacín](https://danieledufis.github.io/pdfs/Receta-Pizza%20Calabacin.pdf)
+**Receta** [Pizza de calabacín](https://danieledufis.github.io/pdfs/Receta-Pizza%20Calabacin.pdf)
 
 
 ## UNIDAD 8: "NO SUELTES EL STICK"
@@ -97,10 +97,10 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
 
 **Retos** [Hoceky](https://danieledufis.github.io/pdfs/Hockey-retos-4.pdf)
 
-**Receta**[Arroz con verduras](https://danieledufis.github.io/pdfs/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias.pdf)
+**Receta** [Arroz con verduras](https://danieledufis.github.io/pdfs/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias.pdf)
 
 
-## UNIDAD 9: "FUTBOLÍSIMOS"
+## UNIDAD 9: "UN PIE PEGADO A UN BALÓN"
 
 ##### *24 enero - 4 febrero*
 
@@ -108,10 +108,10 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
 
 **Retos** [Fútbol](https://danieledufis.github.io/pdfs/F%C3%BAtbol-retos-4.pdf)
 
-**Receta**[Espaguetis de calabacín con huevo y pesto](https://danieledufis.github.io/pdfs/Receta-Espaguetis%20de%20Calabacin.pdf)
+**Receta** [Espaguetis de calabacín con huevo y pesto](https://danieledufis.github.io/pdfs/Receta-Espaguetis%20de%20Calabacin.pdf)
 
 
-## UNIDAD 10: "I LOVE THIS GAME"
+## UNIDAD 10: "DISFRUTA EN LA CANCHA"
 
 ##### *7 febrero - 23 febrero*
 
@@ -119,10 +119,10 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
 
 **Retos** [Baloncesto](https://danieledufis.github.io/pdfs/Baloncesto-retos-4.pdf)
 
-**Receta**[Guacamole](https://danieledufis.github.io/pdfs/Receta-Guacamole.pdf)
+**Receta** [Guacamole](https://danieledufis.github.io/pdfs/Receta-Guacamole.pdf)
 
 
-## UNIDAD 11: "¿QUÉ RAQUETA ELIJO?"
+## UNIDAD 11: "SERÁ POR RAQUETAS"
 
 ##### *2 marzo - 21 marzo*
 
@@ -130,10 +130,10 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
 
 **Retos** [Raquetas](https://danieledufis.github.io/pdfs/Raquetas-retos-4.pdf)
 
-**Receta**[Fajitas](https://danieledufis.github.io/pdfs/Receta-Fajitas%20de%20Pollo.pdf)
+**Receta** [Fajitas](https://danieledufis.github.io/pdfs/Receta-Fajitas%20de%20Pollo.pdf)
 
 
-## UNIDAD 12: "ATLETISMO"
+## UNIDAD 12: "SOMOS ATLETAS"
 
 ##### *23 marzo - 6 abril*
 
@@ -141,10 +141,10 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
 
 **Retos** [Atletismo](https://danieledufis.github.io/pdfs/Atletismo-retos-4.pdf)
 
-**Receta**[Cous cous con verduras](https://danieledufis.github.io/pdfs/Receta-Cous%20Cous%20con%20Pollo%20y%20Verduras.pdf)
+**Receta** [Cous cous con verduras](https://danieledufis.github.io/pdfs/Receta-Cous%20Cous%20con%20Pollo%20y%20Verduras.pdf)
 
 
-## UNIDAD 13: "¿DÓNDE ESTOY? - ORIENTACIÓN"
+## UNIDAD 13: "¿DÓNDE ESTOY?"
 
 ##### *20 abril - 29 abril*
 
@@ -152,18 +152,18 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
 
 **Retos** [Orientación](https://danieledufis.github.io/pdfs/Orientaci%C3%B3n-retos-4.pdf)
 
-**Receta**[Ensalda gourmet](https://danieledufis.github.io/pdfs/Receta-Ensalada%20Gourmet.pdf)
+**Receta** [Ensalda gourmet](https://danieledufis.github.io/pdfs/Receta-Ensalada%20Gourmet.pdf)
 
 
 ## UNIDAD 14: "JUEGOS 2.0."
 
-##### *9 mayo - 20 mayo*
+##### *2 mayo - 20 mayo*
 
 **Enlace** [JUEGOS POPULARES Y TRADICIONALES](https://danieledufis.github.io/juegospopularesytradicionales/juegospopularesytradicionales)
 
 **Retos** [Juegos 2.0.](https://danieledufis.github.io/pdfs/Juegos2.0.-retos-4.pdf)
 
-**Receta**[Plato en familia](https://danieledufis.github.io/pdfs/RECETA%20EN%20FAMILIA.pdf)
+**Receta** [Plato en familia](https://danieledufis.github.io/pdfs/RECETA%20EN%20FAMILIA.pdf)
 
 
 ## UNIDAD 15: "JUEGOS OLÍMPICOS"
@@ -174,7 +174,7 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
 
 **Retos** [Olimpiadas](https://danieledufis.github.io/pdfs/Olimpiadas-retos-4.pdf)
 
-**Receta**[Gazpacho](https://danieledufis.github.io/pdfs/Receta-Gazpacho.pdf)
+**Receta** [Gazpacho](https://danieledufis.github.io/pdfs/Receta-Gazpacho.pdf)
 
 La semana del 13 al 20 de junio tendrán lugar las Olimpiadas de 4º de Primaria. 
 
