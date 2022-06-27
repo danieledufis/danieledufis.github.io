@@ -82,7 +82,7 @@ Estos son los desayunos que debéis traer cada día de la semana para seguir una
 
 ### [Cous Cous con pollo y verduras](https://danieledufis.github.io/pdfs/Receta-Cous%20Cous%20con%20Pollo%20y%20Verduras.pdf)
 
-### [Hummus]()
+### [Hummus](https://danieledufis.github.io/pdfs/Receta-Hummus.pdf)
 
 ###  11.2. México
 
@@ -119,9 +119,8 @@ Estos son los desayunos que debéis traer cada día de la semana para seguir una
 [Patatas al horno]:../../pdfs/Receta-Patatas%20al%20Horno.pdf
 [Salsa agria]:../../pdfs/Receta-Salsa%20Agria.pdf
 [Cous cous con pollo y verduras]:../../pdfs/Receta-Cous%20Cous%20con%20Pollo%20y%20Verduras.pdf
-[Hummus]:../../pdfs/
+[Hummus]:../../pdfs/Receta-Hummus.pdf
 [Guacamole]:../../pdfs/Receta-Guacamole.pdf
-
 [Fajitas de pollo, cebolla y pimientos]:../../pdfs/Receta-Fajitas%20de%20Pollo.pdf
 [Torrijas]:../../pdfs/Receta-Torrijas.pdf
 [Leche frita]:../../pdfs/Receta-Leche%20Frita.pdf
