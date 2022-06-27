@@ -11,3 +11,6 @@ categories: retosporcursos
 **Retos** [Atletismo](https://danieledufis.github.io/pdfs/Atletismo-retos-4.pdf)
 
 **Receta** [Cous cous con verduras](https://danieledufis.github.io/pdfs/Receta-Cous%20Cous%20con%20Pollo%20y%20Verduras.pdf)
+
+[Atletismo]:../../pdfs/Atletismo-retos-4.pdf
+[Cous cous con verduras]:../../pdfs/Receta-Cous%20Cous%20con%20Pollo%20y%20Verduras.pdf
