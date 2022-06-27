@@ -4,9 +4,10 @@ title: "Retos del curso"
 categories: retosporcursos
 ---
 
-En este post podéis encontrar todos y cada uno de los retos que tendréis a lo largo del curso. ¿Estáis listos? Están ordenados en función de las unidades didácticas que vamos a tener. Además tenéis las **fechas** en las que van a tener lugar esas unidades.
-
-Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archivo:
+En este post podéis encontrar toda la información relativa a a este curso escolar. En cada unidad encontraréis tres puntos clave:
+* *Enlace con la información de la unidad*.
+* *La receta*. Las fechas durante las que podéis enviarlas será las fechas que vengan marcadas en para cada unidad. **Ni antes ni después**.
+* *Los retos*. Estos retos serán realizados en los grupos propuestos al final de la unidad.
 
 ## UNIDAD 1: "NOS PONEMOS EN MARCHA"
 
