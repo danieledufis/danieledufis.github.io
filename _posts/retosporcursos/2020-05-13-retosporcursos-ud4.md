@@ -15,3 +15,7 @@ categories: retosporcursos
           [Habilidades gimnásticas](https://danieledufis.github.io/pdfs/Habilidades-gimn%C3%A1sticas-retos.pdf)
           
 **Receta** [Tosta de guacamole con salmón](https://danieledufis.github.io/pdfs/Receta-Tostas%20de%20Guacamole%20de%20Salm%C3%B3n.pdf)
+
+[Acrosport]:../../pdfs/Acrosport-retos-4.pdf
+[Habilidades gimnásticas]:../../pdfs/Habilidades-gimn%C3%A1sticas-retos.pdf
+[Tosta de guacamole con salmón]:../../pdfs/Receta-Tostas%20de%20Guacamole%20de%20Salm%C3%B3n.pdf
