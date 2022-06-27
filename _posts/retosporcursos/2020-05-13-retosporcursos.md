@@ -13,7 +13,7 @@ En este post podéis encontrar toda la información relativa a a este curso esco
 
 ## [Unidad 1: Nos ponemos en marcha.]({% link _posts/retosporcursos/2020-05-13-retosporcursos-ud1.md %})
 
-## [Unidad 2: Estoy en forma]({% link _posts/retosporcursos/2020-05-13-retosporcursos-ud2md %})
+## [Unidad 2: Estoy en forma]({% link _posts/retosporcursos/2020-05-13-retosporcursos-ud2.md %})
 
 ## [Unidad 3: Séptimo arte]({% link _posts/retosporcursos/2020-05-13-retosporcursos-ud3.md %})
 
