@@ -11,3 +11,6 @@ categories: retosporcursos
 **Retos** [Juegos 2.0.](https://danieledufis.github.io/pdfs/Juegos2.0.-retos-4.pdf)
 
 **Receta** [Plato en familia](https://danieledufis.github.io/pdfs/RECETA%20EN%20FAMILIA.pdf)
+
+[Juegos 2.0.]:../../pdfs/Juegos2.0.-retos-4.pdf
+[Plato en familia]:../../pdfs/danieledufis.github.io/pdfs/RECETA%20EN%20FAMILIA.pdf
