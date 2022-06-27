@@ -12,3 +12,6 @@ categories: retosporcursos
 **Retos** [Raquetas](https://danieledufis.github.io/pdfs/Raquetas-retos-4.pdf)
 
 **Receta** [Fajitas](https://danieledufis.github.io/pdfs/Receta-Fajitas%20de%20Pollo.pdf)
+
+[Raquetas]:../../pdfs/Raquetas-retos-4.pdf
+[Fajitas]:../../pdfs/Receta-Fajitas%20de%20Pollo.pdf
