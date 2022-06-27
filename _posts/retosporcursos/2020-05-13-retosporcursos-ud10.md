@@ -11,3 +11,6 @@ categories: retosporcursos
 **Retos** [Baloncesto](https://danieledufis.github.io/pdfs/Baloncesto-retos-4.pdf)
 
 **Receta** [Guacamole](https://danieledufis.github.io/pdfs/Receta-Guacamole.pdf)
+
+[Baloncesto]:../../pdfs/Baloncesto-retos-4.pdf
+[Guacamole]:../../pdfs/Receta-Guacamole.pdf
