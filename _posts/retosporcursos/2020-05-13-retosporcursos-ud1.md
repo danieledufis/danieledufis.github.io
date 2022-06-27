@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unidad 1:Nos ponemos en marcha"
+title: "Unidad 1: Nos ponemos en marcha"
 categories: retosporcursos
 ---
 
