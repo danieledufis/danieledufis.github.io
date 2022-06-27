@@ -61,7 +61,7 @@ Debajo de cada imagen encontraréis el archivo PDF para poder descargar el archi
 
 **Retos** [Combas](https://danieledufis.github.io/pdfs/Combas-retos-4.pdf)
 
-**Receta** [Hummus]()
+**Receta** [Hummus](https://danieledufis.github.io/pdfs/Receta-Hummus.pdf)
 
 
 ## UNIDAD 6: "LANZADORES"
@@ -188,7 +188,7 @@ La semana del 13 al 20 de junio tendrán lugar las Olimpiadas de 4º de Primaria
 [Habilidades gimnásticas]:../../pdfs/Habilidades-gimn%C3%A1sticas-retos.pdf
 [Tosta de guacamole con salmón]:../../pdfs/Receta-Tostas%20de%20Guacamole%20de%20Salm%C3%B3n.pdf
 [Combas]:../../pdfs/Combas-retos-4.pdf
-[Hummus]:../../pdfs/
+[Hummus]:../../pdfs/Receta-Hummus.pdf
 [Datchball y ultimate]:../../pdfs/Datchball-ultimate-retos-4.pdf
 [Pollo a la Salomé]:../../pdfs/Receta-Pollo%20a%20la%20Salom%C3%A9.pdf
 [Voleibol y colpbol]:../../pdfs/Voleibol-colpbol-retos-4.pdf
