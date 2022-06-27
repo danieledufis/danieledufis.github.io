@@ -11,3 +11,6 @@ categories: retosporcursos
 **Retos** [Hoceky](https://danieledufis.github.io/pdfs/Hockey-retos-4.pdf)
 
 **Receta** [Arroz con verduras](https://danieledufis.github.io/pdfs/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias.pdf)
+
+[Hockey]:../../pdfs/https://danieledufis.github.io/pdfs/Hockey-retos-4.pdf
+[Arroz con verduras]:../../pdfs/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias.pdf
