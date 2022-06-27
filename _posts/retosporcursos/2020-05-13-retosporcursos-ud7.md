@@ -10,3 +10,6 @@ categories: retosporcursos
 **Retos** [Voleibol y colpbol](https://danieledufis.github.io/pdfs/Voleibol-colpbol-retos-4.pdf)
 
 **Receta** [Pizza de calabacín](https://danieledufis.github.io/pdfs/Receta-Pizza%20Calabacin.pdf)
+
+[Voleibol y colpbol]:../../pdfs/Voleibol-colpbol-retos-4.pdf
+[Pizza de calabacín]:../../pdfs/Receta-Pizza%20Calabacin.pdf
