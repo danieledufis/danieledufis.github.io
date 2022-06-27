@@ -13,3 +13,6 @@ categories: retosporcursos
 **Retos** [Expresión corporal](https://danieledufis.github.io/pdfs/Expresi%C3%B3n-corporal-retos-4.pdf)
 
 **Receta** [Tomate con burrata y pesto](https://danieledufis.github.io/pdfs/Receta-Tomate%20Rosa%20con%20Pesto%20y%20Burrata.pdf)
+
+[Expresión corporal]:../../pdfs/Expresi%C3%B3n-corporal-retos-4.pdf
+[Tomate con burrata y pesto]:../../pdfs/Receta-Tomate%20Rosa%20con%20Pesto%20y%20Burrata.pdf
