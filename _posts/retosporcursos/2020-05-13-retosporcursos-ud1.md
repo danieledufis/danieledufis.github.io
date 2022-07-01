@@ -6,13 +6,33 @@ categories: retosporcursos
 
 ##### *10 de septiembre - 17 septiembre*
 
-**Enlace** [Aros y hula hoops](https://danieledufis.github.io/comba/aros-hulahoops)
+En esta unidad realizaremos el test 3JS para ver vuestro nivel de psicomotricidad. También os explicaré la mecánica de los retos.
 
-**Retos** [Aros](https://danieledufis.github.io/pdfs/Aros-retos-4.pdf)
+#### *Grupos de trabajo*
 
-**Receta** [Desayunos saludables](https://danieledufis.github.io/pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf)
+|**GRUPO 1**|**GRUPO 2**|**GRUPO 3**|**GRUPO 4**|**GRUPO 5**|**GRUPO 6**|
+|-----:|-----:|-----:|-----:|-----:|----:|
+|      |      |      |      |      |     |
+|      |      |      |      |      |     |
+|      |      |      |      |      |     |
+|      |      |      |      |      |     |
 
-![AC1](https://danieledufis.github.io/images_text/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias_page-0001.jpg)
+
+#### **Enlace** [Aros y hula hoops](https://danieledufis.github.io/comba/aros-hulahoops)
+
+#### **Retos** 
+
+Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
+[Aros](https://danieledufis.github.io/pdfs/Aros-retos-4.pdf)
+
+![Retos aros](https://danieledufis.github.io/images_text/Aros-retos-4_page-0001.jpg)
+
+#### **Receta** 
+
+Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
+[Desayunos saludables](https://danieledufis.github.io/pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf)
+
+![Receta](https://danieledufis.github.io/images_text/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias_page-0001.jpg)
 
 [Aros]:../../pdfs/Aros-retos-4.pdf
 [Desayunos saludables]:../../pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf
