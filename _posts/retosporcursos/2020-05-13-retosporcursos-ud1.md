@@ -12,5 +12,7 @@ categories: retosporcursos
 
 **Receta** [Desayunos saludables](https://danieledufis.github.io/pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf)
 
+![AC1](https://danieledufis.github.io/images_text/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias_page-0001.jpg)
+
 [Aros]:../../pdfs/Aros-retos-4.pdf
 [Desayunos saludables]:../../pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf
