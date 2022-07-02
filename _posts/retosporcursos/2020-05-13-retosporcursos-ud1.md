@@ -34,7 +34,7 @@ Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
 [Desayunos saludables](https://danieledufis.github.io/pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf)
 
-![Receta](https://https://danieledufis.github.io/images_text/Receta-DESAYUNOS%20SALUDABLES_page-0001.jpg)
+![Receta](https://danieledufis.github.io/images_text/Receta-DESAYUNOS%20SALUDABLES_page-0001.jpg)
 
 [Aros]:../../pdfs/Aros-retos-4.pdf
 [Desayunos saludables]:../../pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf
