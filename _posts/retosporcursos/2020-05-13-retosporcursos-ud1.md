@@ -10,7 +10,7 @@ En esta unidad realizaremos el test 3JS para ver vuestro nivel de psicomotricida
 
 #### *Grupos de trabajo*
 
-|      |*CAPITÁN/A*|      |      |      |     |
+|      |*CAPITÁN/A*|Nombre 2|Nombre 3|Nombre 4|     |
 |-----:|-----:|-----:|-----:|-----:|----:|
 |**Grupo 1**|      |      |      |      |     |
 |**Grupo 2**|      |      |      |      |     |
@@ -34,7 +34,7 @@ Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
 [Desayunos saludables](https://danieledufis.github.io/pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf)
 
-![Receta](https://danieledufis.github.io/images_text/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias_page-0001.jpg)
+![Receta](https://https://danieledufis.github.io/images_text/Receta-DESAYUNOS%20SALUDABLES_page-0001.jpg)
 
 [Aros]:../../pdfs/Aros-retos-4.pdf
 [Desayunos saludables]:../../pdfs/Receta-DESAYUNOS%20SALUDABLES.pdf
