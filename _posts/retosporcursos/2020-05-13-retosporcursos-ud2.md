@@ -28,7 +28,7 @@ En esta unidad realizaremos juegos y actividades que nos sirvan para entender la
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 [Capacidades físicas](https://danieledufis.github.io/pdfs/Cap.f%C3%ADsica-retos-4.pdf)
 
-![Retos capacidades físicas](https://danieledufis.github.io/pdfs/Cap.f%C3%ADsica-retos-4.pdf)
+![Retos capacidades físicas](https://danieledufis.github.io/images_text/Cap.f%C3%ADsica-retos-4_page-0001.jpg)
 
 **Receta** 
 
