@@ -10,7 +10,7 @@ En esta unidad realizaremos el test 3JS para ver vuestro nivel de psicomotricida
 
 #### *Grupos de trabajo*
 
-|      |*CAPITÁN/A*|Nombre 2|Nombre 3|Nombre 4|     |
+|      |*CAPITÁN/A*|      |       |      |     |
 |-----:|-----:|-----:|-----:|-----:|----:|
 |**Grupo 1**|      |      |      |      |     |
 |**Grupo 2**|      |      |      |      |     |
@@ -25,9 +25,9 @@ En esta unidad realizaremos el test 3JS para ver vuestro nivel de psicomotricida
 #### **Retos** 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
-[Aros](https://danieledufis.github.io/pdfs/Aros-retos-4.pdf)
+[Aros]()
 
-![Retos aros](https://danieledufis.github.io/images_text/Aros-retos-4_page-0001.jpg)
+![Retos aros](https://danieledufis.github.io/images_text/Cap.f%C3%ADsica-retos-4_page-0001.jpg)
 
 #### **Receta** 
 
