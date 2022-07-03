@@ -8,18 +8,22 @@ categories: retosporcursos
 
 ##### *20 septiembre - 1 octubre*
 
-En esta unidad realizaremos juegos y actividades que nos sirvan para entender las capacidades físicas y enfocarlas a salud y no al rendimiento deportivo.
+En esta unidad realizaremos juegos y actividades que nos sirvan para entender las capacidades físicas y **enfocarlas a salud y no al rendimiento deportivo**. Las cuatro capacidades físicas que vamos a conocer son:
+* Velocidad.
+* Resistencia.
+* Fuerza.
+* Flexibilidad.
 
 #### *Grupos de trabajo*
 
-|      |*CAPITÁN/A*|      |       |      |     |
-|-----:|-----:|-----:|-----:|-----:|----:|
-|**Grupo 1**|      |      |      |      |     |
-|**Grupo 2**|      |      |      |      |     |
-|**Grupo 3**|      |      |      |      |     |
-|**Grupo 4**|      |      |      |      |     |
-|**Grupo 5**|      |      |      |      |     |
-|**Grupo 6**|      |      |      |      |     |
+|      |*CAPITÁN/A*|Jugador 1|Jugador 2|Jugador 3|
+|-----:|-----:|-----:|-----:|-----:|
+|**Grupo A**|      |      |      |      |
+|**Grupo B**|      |      |      |      |
+|**Grupo C**|      |      |      |      |
+|**Grupo D**|      |      |      |      |
+|**Grupo E**|      |      |      |      |
+|**Grupo F**|      |      |      |      |
 
 **Enlace** [Capacidades físicas](https://danieledufis.github.io/conozcomicuerpo/conozcomicuerpo-capfisicas)
 
