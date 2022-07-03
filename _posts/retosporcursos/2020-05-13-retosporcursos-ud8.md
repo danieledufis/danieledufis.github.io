@@ -19,9 +19,11 @@ En esta unidad vamos a conocer un deporte divertidísimo como es el **hockey** o
 |**Grupo E**|      |      |      |      |
 |**Grupo F**|      |      |      |      |
 
-### Enlace [HOCKEY](https://danieledufis.github.io/hockey/hockey)
+### Enlace 
 
-### Retos [Hoceky](https://danieledufis.github.io/pdfs/Hockey-retos-4.pdf)
+[HOCKEY](https://danieledufis.github.io/hockey/hockey)
+
+### Retos 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 [Retos Hoceky](https://danieledufis.github.io/pdfs/Hockey-retos-4.pdf)
