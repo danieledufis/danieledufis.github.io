@@ -4,7 +4,7 @@ title: "Unidad 15:"
 categories: retosporcursos
 ---
 
-### *+*23 mayo - 10 junio** 
+### **23 mayo - 10 junio** 
 
 ¡Ya terminamos el curso! Durante estos último días váis a organizar vuestro grupo para decidir quien participa en cada actividad. Os explicaré todo bien en clase, pero tenéis que ir pensando la prueba en la que creéis que podéis sacar mejor resultado. Os dejaré el organigrama de el día de vuestro Jueggos Olímpicos para que sepáis las pruebas que habrá.
 
