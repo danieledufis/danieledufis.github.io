@@ -35,7 +35,7 @@ Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
 [Receta guacamole](https://danieledufis.github.io/pdfs/Receta-Guacamole.pdf)
 
-![Receta guacamole](https://danieledufis.github.io/images_text/Receta-DESAYUNOS%20SALUDABLES_page-0001.jpg)
+![Receta guacamole](https://danieledufis.github.io/images_text/Receta-Guacamole_page-0001.jpg)
 
 
 
