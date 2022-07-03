@@ -37,7 +37,7 @@ Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
 [Plato en familia](https://danieledufis.github.io/images_text/RECETA-Familia_page-0001.jpg)
 
-![Receta](https://danieledufis.github.io/images_text/Receta-DESAYUNOS%20SALUDABLES_page-0001.jpg)
+![Receta](https://danieledufis.github.io/images_text/RECETA-Familia_page-0001.jpg)
 
 [Juegos 2.0.]:../../pdfs/Juegos2.0.-retos-4.pdf
 [Plato en familia]:../../pdfs/danieledufis.github.io/pdfs/RECETA%20EN%20FAMILIA.pdf
