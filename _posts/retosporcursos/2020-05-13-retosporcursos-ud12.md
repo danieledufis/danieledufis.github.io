@@ -4,7 +4,7 @@ title: "Unidad 12: Somos atletas"
 categories: retosporcursos
 ---
 
-##### **23 marzo - 6 abril**
+### **23 marzo - 6 abril**
 
 ### **Grupos de trabajo**
 
