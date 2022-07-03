@@ -10,14 +10,14 @@ En esta unidad realizaremos el test 3JS para ver vuestro nivel de psicomotricida
 
 #### *Grupos de trabajo*
 
-|      |*CAPITÁN/A*|      |       |      |     |
+|      |*CAPITÁN/A*|Jugador 1|Jugador 2|Jugador 3|
 |-----:|-----:|-----:|-----:|-----:|----:|
-|**Grupo 1**|      |      |      |      |     |
-|**Grupo 2**|      |      |      |      |     |
-|**Grupo 3**|      |      |      |      |     |
-|**Grupo 4**|      |      |      |      |     |
-|**Grupo 5**|      |      |      |      |     |
-|**Grupo 6**|      |      |      |      |     |
+|**Grupo A**|      |      |      |      |
+|**Grupo B**|      |      |      |      |
+|**Grupo C**|      |      |      |      |
+|**Grupo D**|      |      |      |      |
+|**Grupo E**|      |      |      |      |
+|**Grupo F**|      |      |      |      |
 
 
 #### **Enlace** [Aros y hula hoops](https://danieledufis.github.io/comba/aros-hulahoops)
