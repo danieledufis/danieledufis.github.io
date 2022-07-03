@@ -37,7 +37,7 @@ Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
 [Receta ensalda gourmet](https://danieledufis.github.io/pdfs/Receta-Ensalada%20Gourmet.pdf)
 
-![Receta ensalada gourmet](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/Receta-Ensalada%20Gourmet_page-0001.jpg)
+![Receta ensalada gourmet](https://danieledufis.github.io/images_text/Receta-Ensalada%20Gourmet_page-0001.jpg)
 
 
 
