@@ -11,7 +11,7 @@ En esta unidad realizaremos el test 3JS para ver vuestro nivel de psicomotricida
 #### *Grupos de trabajo*
 
 |      |*CAPITÁN/A*|Jugador 1|Jugador 2|Jugador 3|
-|-----:|-----:|-----:|-----:|-----:|----:|
+|-----:|-----:|-----:|-----:|-----:|
 |**Grupo A**|      |      |      |      |
 |**Grupo B**|      |      |      |      |
 |**Grupo C**|      |      |      |      |
