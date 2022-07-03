@@ -8,14 +8,14 @@ categories: retosporcursos
 
 ### **Grupos de trabajo**
 
-|      |*CAPITÁN/A*|Jugador 1|Jugador 2|Jugador 3|
-|-----:|-----:|-----:|-----:|-----:|
-|**Grupo A**|      |      |      |      |
-|**Grupo B**|      |      |      |      |
-|**Grupo C**|      |      |      |      |
-|**Grupo D**|      |      |      |      |
-|**Grupo E**|      |      |      |      |
-|**Grupo F**|      |      |      |      |
+En esta unidad formaréis 4 grupos con 6 jugadores cada uno:
+
+|      |*CAPITÁN/A*|Jugador 1|Jugador 2|Jugador 3|Jugador 4|Jugador 5|
+|-----:|-----:|-----:|-----:|-----:|----:|----:|
+|**Grupo A**|      |      |      |      |     |
+|**Grupo B**|      |      |      |      |     |
+|**Grupo C**|      |      |      |      |     |
+|**Grupo D**|      |      |      |      |     |
 
 ### **Enlace**
 
