@@ -4,9 +4,7 @@ title: "Unidad 2: Estoy en forma"
 categories: retosporcursos
 ---
 
-## UNIDAD 2: "ESTOY EN FORMA"
-
-##### *20 septiembre - 1 octubre*
+### **20 septiembre - 1 octubre**
 
 En esta unidad realizaremos juegos y actividades que nos sirvan para entender las capacidades físicas y **enfocarlas a salud y no al rendimiento deportivo**. Las cuatro capacidades físicas que vamos a conocer son:
 * Velocidad.
@@ -14,7 +12,7 @@ En esta unidad realizaremos juegos y actividades que nos sirvan para entender la
 * Fuerza.
 * Flexibilidad.
 
-#### *Grupos de trabajo*
+### **Grupos de trabajo**
 
 |      |*CAPITÁN/A*|Jugador 1|Jugador 2|Jugador 3|
 |-----:|-----:|-----:|-----:|-----:|
@@ -25,16 +23,18 @@ En esta unidad realizaremos juegos y actividades que nos sirvan para entender la
 |**Grupo E**|      |      |      |      |
 |**Grupo F**|      |      |      |      |
 
-**Enlace** [Capacidades físicas](https://danieledufis.github.io/conozcomicuerpo/conozcomicuerpo-capfisicas)
+### **Enlace** 
 
-**Retos** 
+[Capacidades físicas](https://danieledufis.github.io/conozcomicuerpo/conozcomicuerpo-capfisicas)
+
+### **Retos** 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 [Capacidades físicas](https://danieledufis.github.io/pdfs/Cap.f%C3%ADsica-retos-4.pdf)
 
 ![Retos capacidades físicas](https://danieledufis.github.io/images_text/Cap.f%C3%ADsica-retos-4_page-0001.jpg)
 
-**Receta** 
+### **Receta** 
 
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
 [Porridge](https://danieledufis.github.io/pdfs/Receta-Porridge.pdf)
