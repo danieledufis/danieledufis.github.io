@@ -4,13 +4,13 @@ title: "Unidad 7: Esto va de golpear."
 categories: retosporcursos
 ---
 
-##### *10 de diciembre - 20 diciembre*
+### **10 de diciembre - 20 diciembre**
 
 En esta unidad vamos a combinar un desporte clásico como es el **voleibol** con otro alternativo, el **colpbool**. Lo haremos así apovechando la similitud en muchas de sus acciones, ya que en ambos hay que golpear constantemente un balón.
 
 Utilizaremos los **balones de colpbol** para ambos deportes.
 
-#### *Grupos de trabajo*
+### **Grupos de trabajo**
 
 |      |*CAPITÁN/A*|Jugador 1|Jugador 2|Jugador 3|
 |-----:|-----:|-----:|-----:|-----:|
@@ -21,17 +21,21 @@ Utilizaremos los **balones de colpbol** para ambos deportes.
 |**Grupo E**|      |      |      |      |
 |**Grupo F**|      |      |      |      |
 
-**Enlace** [COLPBOL](https://danieledufis.github.io/deportesalternativos/deportesalternativos-colpbol)
-           [VOLEIBOL](https://danieledufis.github.io/voleibol/voleibol)
+### **Enlace** 
+
+[COLPBOL](https://danieledufis.github.io/deportesalternativos/deportesalternativos-colpbol)
+[VOLEIBOL](https://danieledufis.github.io/voleibol/voleibol)
            
-**Retos** [Voleibol y colpbol](https://danieledufis.github.io/pdfs/Voleibol-colpbol-retos-4.pdf)
+### **Retos** 
+
+[Voleibol y colpbol](https://danieledufis.github.io/pdfs/Voleibol-colpbol-retos-4.pdf)
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 [Retos voleibol y colpbol](https://danieledufis.github.io/pdfs/Aros-retos-4.pdf)
 
 ![Retos voleibol y colpbol](https://danieledufis.github.io/images_text/Voleibol-colpbol-retos-4_page-0001.jpg)
 
-**Receta** [Receta pizza de calabacín](https://danieledufis.github.io/pdfs/Receta-Pizza%20Calabacin.pdf)
+### **Receta** 
 
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
 [Receta pizza de calabacín](https://danieledufis.github.io/pdfs/Receta-Pizza%20Calabacin.pdf)
