@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unidad 3: Séptimo arte."
+title: "Unidad 3: Séptimo arte"
 categories: retosporcursos
 ---
 
