@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unidad 4: Bienvenidos al circo."
+title: "Unidad 4: Bienvenidos al circo"
 categories: retosporcursos
 ---
 
