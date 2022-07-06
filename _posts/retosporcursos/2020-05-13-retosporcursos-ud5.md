@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unidad 5: Saltimbanquis."
+title: "Unidad 5: Saltimbanquis"
 categories: retosporcursos
 ---
 
