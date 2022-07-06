@@ -4,7 +4,7 @@ title: "Unidad 14: Juegos 2.0."
 categories: retosporcursos
 ---
 
-### **2 mayo - 20 mayo**
+### **4 mayo - 20 mayo**
 
 Ya casi estamos terminando el curso. Durante esta unidad practicaremos diferentes **juegos populares y tradicionales**. Además tendremos un día especial para celebrar **San Isidro**.
 
