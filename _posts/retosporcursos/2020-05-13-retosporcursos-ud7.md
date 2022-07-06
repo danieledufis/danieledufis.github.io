@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unidad 7: Esto va de golpear."
+title: "Unidad 7: Esto va de golpear"
 categories: retosporcursos
 ---
 
