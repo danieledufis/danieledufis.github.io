@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unidad 10:"
+title: "Unidad 10: Disfruta en la cancha"
 categories: retosporcursos
 ---
 
