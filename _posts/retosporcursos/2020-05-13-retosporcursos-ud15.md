@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unidad 15:"
+title: "Unidad 15: Juegos Olímpicos"
 categories: retosporcursos
 ---
 
