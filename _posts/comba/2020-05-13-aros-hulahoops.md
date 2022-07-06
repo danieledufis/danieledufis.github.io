@@ -25,6 +25,8 @@ A continuación tenéis todos los tutoriales para superar todos y cada uno de lo
 
 ### Boomerang
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N1fROMoK3uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Boomerang + Aro con muñeca (incluido el cambio de muñeca)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yafmnYRLggw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
