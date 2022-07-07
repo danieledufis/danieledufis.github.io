@@ -9,6 +9,7 @@ categories: retosporcursos
 ¡Ya terminamos el curso! Durante estos último días váis a organizar vuestro grupo para decidir quien participa en cada actividad. Os explicaré todo bien en clase, pero tenéis que ir pensando la prueba en la que creéis que podéis sacar mejor resultado. Os dejaré el organigrama de el día de vuestro Jueggos Olímpicos para que sepáis las pruebas que habrá.
 
 [Organigrama Olimpiadas](https://danieledufis.github.io/pdfs/ORGANIGRAMA%20Y%20PUNTUACI%C3%93N.pdf)
+
 ![Organograma Olimpiadas](https://danieledufis.github.io/images_text/ORGANIGRAMA%20Y%20PUNTUACI%C3%93N_page-0001.jpg)
 
 ### **Grupos de trabajo**
@@ -26,17 +27,22 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [JUEGOS OLÍMPICOS](https://danieledufis.github.io/juegosolimpicos/juegosolimpicos)
 
-**¿Qué ver en el enlace?**
+* **¿Qué ver en el enlace?**
+
+  En el enalce de esta unidad tenéis que prestar especial atención a
 
 ### **Retos**
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
+
 [Retos Olimpiadas](https://danieledufis.github.io/pdfs/Olimpiadas-retos-4.pdf)
+
 ![Retos Olimpiadas](https://danieledufis.github.io/images_text/Olimpiadas-retos-4_page-0001.jpg)
 
 ### **Receta**
 
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
+
 [Receta gazpacho](https://danieledufis.github.io/pdfs/Receta-Gazpacho.pdf)
 
 ![Receta gazpacho](https://danieledufis.github.io/images_text/Receta-Gazpacho_page-0001.jpg)
