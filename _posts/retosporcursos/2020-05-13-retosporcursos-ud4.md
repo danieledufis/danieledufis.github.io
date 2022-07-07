@@ -24,21 +24,31 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 
 ### **Enlace** 
+
 [ACROSPORT](https://danieledufis.github.io/acrosport/acrosport)
+
 [HANILIDADES GIMNÁSTICAS](https://danieledufis.github.io/habilidadesgimnasticas/habilidadesgimnasticas)
            
+* **¿Qué ver en el enlace?**
+
+  En el enalce de esta unidad tenéis que prestar especial atención a
+  
+  
 ### **Retos** 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 [Acrosport](https://danieledufis.github.io/pdfs/Acrosport-retos-4.pdf)
+
 [Habilidades gimnásticas](https://danieledufis.github.io/pdfs/Habilidades-gimn%C3%A1sticas-retos.pdf)
 
 ![Retos acrosport](https://danieledufis.github.io/images_text/Acrosport-retos-4_page-0001.jpg)
+
 ![Retos habilidades gimnásticas](https://danieledufis.github.io/images_text/Habilidades-gimn%C3%A1sticas-retos_page-0001.jpg)
           
 ### **Receta** 
 
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
+
 [Tosta de guacamole con salmón](https://danieledufis.github.io/pdfs/Receta-Tostas%20de%20Guacamole%20de%20Salm%C3%B3n.pdf)
 
 ![Tosta de guacamole con salmón](https://danieledufis.github.io/images_text/Receta-Tostas%20de%20Guacamole%20de%20Salm%C3%B3n_page-0001.jpg)
