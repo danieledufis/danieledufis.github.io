@@ -25,6 +25,10 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [JUEGOS POPULARES Y TRADICIONALES](https://danieledufis.github.io/juegospopularesytradicionales/juegospopularesytradicionales)
 
+* **¿Qué ver en el enlace?**
+
+  En el enalce de esta unidad tenéis que prestar especial atención a
+
 ### **Retos** 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
