@@ -23,7 +23,9 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [BAILE](https://danieledufis.github.io/baile/baile)
 
-**¿Qué ver en el enlace?**
+* **¿Qué ver en el enlace?**
+
+  En el enalce de esta unidad tenéis que prestar especial atención a
 
 ### **Retos** 
 
