@@ -25,9 +25,14 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [HOCKEY](https://danieledufis.github.io/hockey/hockey)
 
+* **¿Qué ver en el enlace?**
+
+  En el enalce de esta unidad tenéis que prestar especial atención a
+
 ### Retos 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
+
 [Retos Hoceky](https://danieledufis.github.io/pdfs/Hockey-retos-4.pdf)
 
 ![Retos hockey](https://danieledufis.github.io/images_text/Hockey-retos-4_page-0001.jpg)
@@ -35,6 +40,7 @@ Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 ### Receta 
 
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
+
 [Receta arroz con verduras](https://danieledufis.github.io/pdfs/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias.pdf)
 
 ![Receta arroz con verduras](https://danieledufis.github.io/images_text/Receta-Arroz%20con%20Verduras%2C%20Pollo%20y%20Especias_page-0001.jpg)
