@@ -13,7 +13,7 @@ categories: retosporcursos
 
 ### **Grupos de trabajo**
 
-En esta unidad formaréis 4 grupos con 6 jugadores cada uno:
+En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis en 4 equipos diferentes con 6 jugadores cada uno entre los que habrá un *capitán/a*:
 
 |      |*CAPITÁN/A*|Jugador 1|Jugador 2|Jugador 3|Jugador 4|Jugador 5|
 |-----:|-----:|-----:|-----:|-----:|----:|----:|
