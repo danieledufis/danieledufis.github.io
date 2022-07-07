@@ -24,11 +24,17 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 ### **Enlace** 
 
 [DATCHBALL](https://danieledufis.github.io/deportesalternativos/deportesalternativos-datchball)
+
 [ULTIMATE](https://danieledufis.github.io/deportesalternativos/deportesalternativos-ultimate)
-           
+
+* **¿Qué ver en el enlace?**
+
+  En el enalce de esta unidad tenéis que prestar especial atención a
+  
 ### **Retos** 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
+
 [Datchball y ultimate](https://danieledufis.github.io/pdfs/Datchball-ultimate-retos-4.pdf)
 
 ![Retos datchball y ultimate](https://danieledufis.github.io/images_text/Datchball-ultimate-retos-4_page-0001.jpg)
@@ -36,6 +42,7 @@ Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 ### **Receta**           
 
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
+
 [Pollo a la Salomé](https://danieledufis.github.io/pdfs/Receta-Pollo%20a%20la%20Salom%C3%A9.pdf) 
 
 ![Receta](https://danieledufis.github.io/images_text/Receta-Pollo%20a%20la%20Salom%C3%A9_page-0001.jpg)
