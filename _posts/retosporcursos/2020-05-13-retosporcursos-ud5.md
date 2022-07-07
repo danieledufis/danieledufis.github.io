@@ -25,9 +25,14 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [COMBAS](https://danieledufis.github.io/comba/combas)
 
+* **¿Qué ver en el enlace?**
+
+  En el enalce de esta unidad tenéis que prestar especial atención a
+
 ### **Retos** 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
+
 [ Retos combas](https://danieledufis.github.io/pdfs/Combas-retos-4.pdf)
 
 ![Retos combas](https://danieledufis.github.io/images_text/Combas-retos-4_page-0001%20(1).jpg)
@@ -35,6 +40,7 @@ Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 ### **Receta** 
 
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
+
 [Hummus](https://danieledufis.github.io/pdfs/Receta-Hummus.pdf)
 
 ![Hummus](https://danieledufis.github.io/images_text/Receta-Hummus_page-0001.jpg)
