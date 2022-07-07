@@ -35,7 +35,7 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [Aros y hula hoops](https://danieledufis.github.io/comba/aros-hulahoops)
 
-**¿Qué ver en el enlace?**
+* **¿Qué ver en el enlace?**
 
 
 
