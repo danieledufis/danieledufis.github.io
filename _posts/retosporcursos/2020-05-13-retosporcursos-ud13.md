@@ -10,14 +10,14 @@ En esta unidad trabajaremos con el uso de mapas que nos servirán para orientarn
 
 ### **Grupos de trabajo**
 
-|      |*CAPITÁN/A*|Jugador 1|Jugador 2|Jugador 3|
-|-----:|-----:|-----:|-----:|-----:|
-|**Grupo A**|      |      |      |      |
-|**Grupo B**|      |      |      |      |
-|**Grupo C**|      |      |      |      |
-|**Grupo D**|      |      |      |      |
-|**Grupo E**|      |      |      |      |
-|**Grupo F**|      |      |      |      |
+En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis en 4 equipos diferentes con 6 jugadores cada uno entre los que habrá un *capitán/a*:
+
+|      |*CAPITÁN/A*|Jugador 1|Jugador 2|Jugador 3|Jugador 4|Jugador 5|
+|-----:|-----:|-----:|-----:|-----:|----:|----:|
+|**Grupo A**|      |      |      |      |     |
+|**Grupo B**|      |      |      |      |     |
+|**Grupo C**|      |      |      |      |     |
+|**Grupo D**|      |      |      |      |     |
 
 ### **Enlace**
 
