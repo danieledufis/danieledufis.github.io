@@ -29,7 +29,9 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [Capacidades físicas](https://danieledufis.github.io/conozcomicuerpo/conozcomicuerpo-capfisicas)
 
-**¿Qué ver en el enlace?**
+* **¿Qué ver en el enlace?**
+
+  En el enalce de esta unidad tenéis que prestar especial atención a
 
 ### **Retos** 
 
