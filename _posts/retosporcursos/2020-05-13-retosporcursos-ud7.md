@@ -26,13 +26,19 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 ### **Enlace** 
 
 [COLPBOL](https://danieledufis.github.io/deportesalternativos/deportesalternativos-colpbol)
+
 [VOLEIBOL](https://danieledufis.github.io/voleibol/voleibol)
+
+* **¿Qué ver en el enlace?**
+
+  En el enalce de esta unidad tenéis que prestar especial atención a
            
 ### **Retos** 
 
 [Voleibol y colpbol](https://danieledufis.github.io/pdfs/Voleibol-colpbol-retos-4.pdf)
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
+
 [Retos voleibol y colpbol](https://danieledufis.github.io/pdfs/Aros-retos-4.pdf)
 
 ![Retos voleibol y colpbol](https://danieledufis.github.io/images_text/Voleibol-colpbol-retos-4_page-0001.jpg)
@@ -40,6 +46,7 @@ Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 ### **Receta** 
 
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
+
 [Receta pizza de calabacín](https://danieledufis.github.io/pdfs/Receta-Pizza%20Calabacin.pdf)
 
 ![Receta pizza de calabacín](https://danieledufis.github.io/images_text/Receta-Pizza%20Calabacin_page-0001.jpg)
