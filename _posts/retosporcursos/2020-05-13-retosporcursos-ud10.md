@@ -25,9 +25,14 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [BALONCESTO](https://danieledufis.github.io/baloncesto/baloncesto)
 
+* **¿Qué ver en el enlace?**
+
+  En el enalce de esta unidad tenéis que prestar especial atención a
+
 ### **Retos** 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
+
 [Retos Baloncesto](https://danieledufis.github.io/pdfs/Baloncesto-retos-4.pdf)
 
 ![Retos baloncesto](https://danieledufis.github.io/images_text/Baloncesto-retos-4_page-0001.jpg)
@@ -35,6 +40,7 @@ Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 ### **Receta** 
 
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
+
 [Receta guacamole](https://danieledufis.github.io/pdfs/Receta-Guacamole.pdf)
 
 ![Receta guacamole](https://danieledufis.github.io/images_text/Receta-Guacamole_page-0001.jpg)
