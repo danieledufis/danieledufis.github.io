@@ -10,6 +10,8 @@ En esta unidad se trabajará la coordinación óculo-péidca, y lo haremos a tra
 
 ### **Grupos de trabajo**
 
+En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis en 6 equipos diferentes con 4 jugadores cada uno entre los que habrá un *capitán/a*:
+
 |      |*CAPITÁN/A*|Jugador 1|Jugador 2|Jugador 3|
 |-----:|-----:|-----:|-----:|-----:|
 |**Grupo A**|      |      |      |      |
