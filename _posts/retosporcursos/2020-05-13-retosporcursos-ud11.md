@@ -25,9 +25,14 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [DEPORTES DE RAQUETA](https://danieledufis.github.io/deportesderaqueta/deportes-de-raqueta)
 
+* **¿Qué ver en el enlace?**
+
+  En el enalce de esta unidad tenéis que prestar especial atención a
+
 ### **Retos** 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
+
 [Retos raquetas](https://danieledufis.github.io/pdfs/Raquetas-retos-4.pdf)
 
 ![Retos raquetas](https://danieledufis.github.io/images_text/Raquetas-retos-4_page-0001.jpg)
@@ -35,6 +40,7 @@ Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 ### **Receta**
 
 Aquí tenéis el PDF para poder descargaros la **receta** de esta unidad.
+
 [Receta fajitas](https://danieledufis.github.io/pdfs/Receta-Fajitas%20de%20Pollo.pdf)
 
 ![Receta fajitas](https://danieledufis.github.io/images_text/Fajitas%20de%20Pollo_page-0001.jpg)
