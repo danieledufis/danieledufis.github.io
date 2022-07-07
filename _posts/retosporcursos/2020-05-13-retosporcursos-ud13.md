@@ -23,9 +23,11 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [ORIENTACIÓN Y SENDERISMO](https://danieledufis.github.io/orientacionysenderismo/orientacionysenderismo)
 
+* **¿Qué ver en el enlace?**
+
+  En el enalce de esta unidad tenéis que prestar especial atención a
+
 ### **Retos** 
-
-
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 [Retos orientación](https://danieledufis.github.io/pdfs/Orientaci%C3%B3n-retos-4.pdf)
