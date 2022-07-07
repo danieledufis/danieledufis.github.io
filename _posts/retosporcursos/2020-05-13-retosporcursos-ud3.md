@@ -23,6 +23,8 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [BAILE](https://danieledufis.github.io/baile/baile)
 
+**¿Qué ver en el enlace?**
+
 ### **Retos** 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
