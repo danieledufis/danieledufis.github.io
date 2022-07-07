@@ -19,6 +19,8 @@ También os explicaré la mecánica de los **retos y las recetas** de cada unida
 
 ### **Grupos de trabajo**
 
+En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis en 6 equipos diferentes con 4 jugadores cada uno entre los que habrá un *capitán/a*:
+
 |      |*CAPITÁN/A*|Jugador 1|Jugador 2|Jugador 3|
 |-----:|-----:|-----:|-----:|-----:|
 |**Grupo A**|      |      |      |      |
@@ -32,6 +34,10 @@ También os explicaré la mecánica de los **retos y las recetas** de cada unida
 ### **Enlace** 
 
 [Aros y hula hoops](https://danieledufis.github.io/comba/aros-hulahoops)
+
+**¿Qué ver en el enlace?**
+
+
 
 ### **Retos** 
 
