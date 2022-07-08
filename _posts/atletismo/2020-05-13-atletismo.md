@@ -10,9 +10,6 @@ categories: atletismo
 ## [¿Como es la pista de atletiso?]({% link _posts/atletismo/2020-05-13-atletismo-comoeslapistadeatletismo.md %})
 ![¿Cómo es la pista de atletismo?](../images/atletismo_pistaatletismo_pesta%C3%B1a.jpg)
 
-## [Mejores atletas de la historia]({% link _posts/atletismo/2020-05-13-atletismo-mejoresatletasdelahistoria.md %})
-![Mejores atletas de la historia](../images/atletismo_mejoresatletas_pesta%C3%B1a.jpg)
-
 ## [Récords del mundo]({% link _posts/atletismo/2020-05-13-atletismo-recordsdelmundo.md %})
 ![Récords del mundo](../images/atletismo_records_pesta%C3%B1a.jpg)
 
