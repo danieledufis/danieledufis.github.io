@@ -16,7 +16,7 @@ En este link podéis descargaros el PDF.
 
 [Retos olimpiadas nivel 4](https://danieledufis.github.io/pdfs/Olimpiadas-retos-4.pdf)
 
-![Retos olimpiadas nivel 4](https://github.com/danieledufis/danieledufis.github.io/blob/master/images_text/Olimpiadas-retos-4_page-0001.jpg)
+![Retos olimpiadas nivel 4](https://danieledufis.github.io/images_text/Olimpiadas-retos-4_page-0001.jpg)
 
 
 
