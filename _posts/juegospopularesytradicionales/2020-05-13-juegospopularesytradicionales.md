@@ -4,7 +4,7 @@ title: "Juegos"
 categories: juegospopularesytradicionales
 ---
 
-Los juegos tradicionales son un buen recurso para conocer las tradiciones de nuestra ciudad. A su vez también es posible conocer jueggos tradicionales de otras comunidades. En el siguiente PDF vais a encontrar una guía elaborada por el Ayuntamiento de Madrid donde podéis ver y aprender algunos de los juegos tradicionales que trabajaremos en clase:
+Los juegos tradicionales son un buen recurso para conocer las **tradiciones de nuestra ciudad**. A su vez también es posible conocer **jueggos tradicionales** de otras comunidades. En el siguiente PDF vais a encontrar una guía elaborada por el Ayuntamiento de Madrid donde podéis ver y aprender algunos de los juegos tradicionales que trabajaremos en clase:
 
 [GUÍA JUEGOS TRADICIONALES](https://danieledufis.github.io/pdfs/GUIAJUEGOSTRADICIONALES.pdf)
 
@@ -22,10 +22,11 @@ Para haceros más fácil la búsqueda os dejo aquí el enlace a todos los juegos
 
 ### [11-12 años](https://www.youtube.com/watch?v=HoruE4ppoLg&list=PLdMCJxywInn1FPMGNPE9zr2TOSktbcbbu)
 
+En el siguiente enlace podéis descargaros en PDF los retos relacionados con la unidad de juegos.
 
-# [Retos]({% link _posts/juegospopularesytradicionales/2020-05-13-juegos-retos.md %})
+[Retos juegos 2.0.](https://github.com/danieledufis/danieledufis.github.io/blob/master/pdfs/Juegos2.0.-retos-4.pdf)
 
-![Retos](../images/retosporcursos_pestana.jpg)
-
+![Retos juegos 2.0.](https://danieledufis.github.io/images_text/Juegos2.0.-retos-4_page-0001.jpg)
 
 []:../../pdfs/GUIAJUEGOSTRADICIONALES.pdf
+[]:../../pdfs/Juegos2.0.-retos-4.pdf
