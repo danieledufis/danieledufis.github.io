@@ -4,7 +4,7 @@ title: "Retos malabares"
 categories: comba
 ---
 
-En el siguiente enlace podéis encontrar todos los retos de malabares acordes a vuestro nivel:
+Durante este curso no practicaremos retos con malabares. Lo que sí vamos a hacer es crearlos y jugar con ellos en algunos patios y sesiones de clase. A continuación os dejo un tutorial para saber crear vuestros propios malabares:
 
-### [Retos]({% link _posts/comba/2020-05-13-malabares-retos.md %})
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yZhfLNj5mz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
