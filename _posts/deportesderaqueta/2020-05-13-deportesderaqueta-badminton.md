@@ -8,10 +8,6 @@ categories: deportesderaqueta
 
 ![Reglas](../images/depraqueta_badminton_reglas_pestana.jpg)
 
-### - [Torneos]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-badminton-torneos.md %})
-
-![Torneos](../images/depraqueta_badminton_competiciones_pestana.jpg)
-
 ### - [Tutoriales]({% link _posts/deportesderaqueta/2020-05-13-deportesderaqueta-badminton-tutoriales.md %})
 
 ![Turoriales](../images/tutorial_pestana.png)
