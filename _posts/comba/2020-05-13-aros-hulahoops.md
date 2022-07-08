@@ -6,22 +6,11 @@ categories: comba
 
 Dentro de este post vais a encontrar actividades a realizar tanto con aros como con hula hoops. La diferencia es que estos últimos son más grandes y las actividades a realizar son diferentes. 
 
-En el siguiente link tenéis todos los retos que vais a encontrar a lo largo de todos los cursos de Primaria. ¿Seréis capaces de conseguir superar todos los niveles?
-### [Retos]({% link _posts/comba/2020-05-13-4-aros-hulahoops-retos.md %})
+En el siguiente enlace podéis descargaros el PDF con los retos adaptados a vuestro nivel. ¿Podréis superarlos?
 
-A continuación tenéis todos los tutoriales para superar todos y cada uno de los retos expuestos en el link anterior:
+[Retos aros](https://danieledufis.github.io/pdfs/Aros-retos-4.pdf)
 
-### Lanzamiento
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GeB9Fo2Z9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Mover el aro con la muñeca
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ubj55KNnqgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Mover el aro con la mñeca + Cambio de muñeca
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dzafSWY9xrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Retos aros](https://danieledufis.github.io/images_text/Aros-retos-4_page-0001.jpg)
 
 ### Boomerang
 
@@ -45,4 +34,4 @@ Dependiendo de vuestro nivel podéis saltar el aro normal que es más pequeño o
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sma185X3oYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+[]:../../pdfs/Aros-retos-4.pdf
