@@ -18,7 +18,7 @@ En todos los enlaces encontraréis tutoriales y toda la información necesaria p
 ### [Datchball]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-datchball.md %})
 ![Datchball](../images/deportesalternativos_datchball_pestana.jpg)
 
-### [Pickleball]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-jugger.md %})
+### [Pickleball]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-pickleball.md %})
 ![Pickleball](../images/deportesalternativos_pickleball.jpg)
 
 ### [Ultimate]({% link _posts/deportesalternativos/2020-05-13-deportesalternativos-ultimate.md %})
