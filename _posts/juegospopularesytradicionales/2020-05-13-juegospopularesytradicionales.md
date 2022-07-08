@@ -4,6 +4,10 @@ title: "Juegos"
 categories: juegospopularesytradicionales
 ---
 
+Los juegos tradicionales son un buen recurso para conocer las tradiciones de nuestra ciudad. A su vez también es posible conocer jueggos tradicionales de otras comunidades. En el siguiente PDF vais a encontrar una guía elaborada por el Ayuntamiento de Madrid donde podéis ver y aprender algunos de los juegos tradicionales que trabajaremos en clase:
+
+[GUÍA JUEGOS TRADICIONALES](https://danieledufis.github.io/pdfs/GUIAJUEGOSTRADICIONALES.pdf)
+
 Todos los vídeos de este post están sacados del canal de Youtube "EF JUEGOS" para más información podéis acceder a él.
 
 [Canal Youtube EF Juegos](https://www.youtube.com/channel/UCQBtNmyXoZiD-bU3WQbGFWw)
@@ -29,3 +33,4 @@ Dentro de este grupo veremos 71 juegos juegos lo dividiremos en 4 partes:
 ![Retos](../images/retosporcursos_pestana.jpg)
 
 
+[]:../../pdfs/GUIAJUEGOSTRADICIONALES.pdf
