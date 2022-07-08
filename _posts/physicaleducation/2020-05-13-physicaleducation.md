@@ -4,36 +4,17 @@ title: "Physical education"
 categories: physicaleducation
 ---
 
-Aquí podéis encontrar varios documentos para que aprendáis diferente vocabulario de inglés relacionado con la Educación Física. Pinchad en los link de cada unidad y podréis ver un PDF con el vocabulario de cada unidad:
+Aquí podéis encontrar varios documentos para que aprendáis diferente vocabulario de inglés relacionado con la Educación Física. Tanto en material coo en deportes, daremos más a lo largo del curso y lo iremos ampliando:
 
-* UD1:
+## SPORTS
 
-* UD2:
+![SPORTS](https://danieledufis.github.io/images_text/English_deportes.jpg)
 
-* UD3:
+## PARTS OF THE BODY
 
-* UD4:
+![PARTS OF THE BODY](https://danieledufis.github.io/images_text/English_partes_del_cuerpo.jpg)
 
-* UD5:
+## MATERIAL
 
-* UD6:
-
-* UD7:
-
-* UD8:
-
-* UD9:
-
-* UD10:
-
-* UD11:
-
-* UD12:
-
-* UD13:
-
-* UD14:
-
-* UD15:
-
+![MATERIAL](https://danieledufis.github.io/images_text/English_material_educa.jpg)
 
