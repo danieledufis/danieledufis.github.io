@@ -6,6 +6,11 @@ categories: retosporcursos
 
 ### **4 octubre - 15 octubre**
 
+En esta unidad vamos a trabajar la expresión corporal y lo haremos mediante diferentes actividadaes:
+* *Bailes de Just Dance*.
+* *Mímica*.
+* *Teatro:* de los 4 miembros del grupo, cada uno tendréis un papel diferente. Uno será
+
 ### **Grupos de trabajo**
 
 En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis en 6 equipos diferentes con 4 jugadores cada uno entre los que habrá un *capitán/a*:
@@ -25,7 +30,7 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 * **¿Qué ver en el enlace?**
 
-  En el enalce de esta unidad tenéis que prestar especial atención a
+  En el enalce de esta unidad tenéis a vuestra disposición varios bailes de Just Dance. En todos está indicado la modalidad del baile, es decir, si es inidividual, por   parejas y cuartetos. Podéis practicar en casa todo lo que queráis. Recordad que en los retos están incluidos los bailes del **Waka waka** y **Ghostbusters**, los       cuales tendréis que realizarlos en grupos de 4.
 
 ### **Retos** 
 
