@@ -27,11 +27,14 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 ### **Enlace** 
 
-[Capacidades físicas](https://danieledufis.github.io/conozcomicuerpo/conozcomicuerpo-capfisicas)
+[Capacidades físicas](https://danieledufis.github.io/conozcomicuerpo/conozcomicuerpo)
 
 * **¿Qué ver en el enlace?**
 
-  En el enalce de esta unidad tenéis que prestar especial atención a
+  En el enalce de esta unidad tenéis tres aoartados princpales:
+  * *Recetas:* aquí vais a encontrar todas las recetas que vais a preparar durante el curso y alguna más que podéis hacer por vuestra cuenta en familia.
+  * *Capacidades físicas:* tenéis explicadas todas las capacidades físicas y con algunos vídeos de ejemplos.
+  * *Mi cuerpo:* en este último apartado encontraréis vídeos explicativos del aparato locomotor y sistema cardiorespiratorio.
 
 ### **Retos** 
 
