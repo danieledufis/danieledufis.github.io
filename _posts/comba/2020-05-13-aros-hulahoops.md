@@ -12,6 +12,18 @@ En el siguiente enlace podéis descargaros el PDF con los retos adaptados a vues
 
 ![Retos aros](https://danieledufis.github.io/images_text/Aros-retos-4_page-0001.jpg)
 
+### Lanzamiento
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5GeB9Fo2Z9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Mover aro con muñeca
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ubj55KNnqgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Cambiar aro de muñeca
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dzafSWY9xrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Boomerang
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1fROMoK3uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
