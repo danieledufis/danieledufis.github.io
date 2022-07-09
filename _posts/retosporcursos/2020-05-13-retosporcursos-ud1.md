@@ -36,8 +36,10 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 [Aros y hula hoops](https://danieledufis.github.io/comba/aros-hulahoops)
 
 * **¿Qué ver en el enlace?**
-
-  En el enalce de esta unidad tenéis que prestar especial atención a
+  
+  En el enalce de esta unidad tenéis que prestar especial atención a los tutoriales de *lanzamientos, mover el aro con la muñeca, boomerang + mover el aro con muñeca y   baile del hula hoop*.
+  
+  ¿Podéis hacer los ejercicios más difíciles?
 
 ### **Retos** 
 
