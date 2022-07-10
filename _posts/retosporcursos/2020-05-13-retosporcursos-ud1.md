@@ -53,7 +53,7 @@ Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 
 [Aros](https://danieledufis.github.io/pdfs/Aros-retos-4.pdf)
 
-![Retos aros](https://danieledufis.github.io/images_text/Cap.f%C3%ADsica-retos-4_page-0001.jpg)
+![Retos aros](https://danieledufis.github.io/images_text/Aros-retos-4_page-0001.jpg)
 
 ### **Receta** 
 
