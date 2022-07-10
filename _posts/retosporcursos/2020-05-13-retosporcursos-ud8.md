@@ -8,6 +8,8 @@ categories: retosporcursos
 
 En esta unidad vamos a conocer un deporte divertidísimo como es el **hockey** o su versión de deporte alternativo que es el **floorball**. No practicaremos ninguna de sus modalidades en concreto ya que nos centraremos en el uso del stick para mejorar los pases, tiros y conducciones.
 
+*Recordad que es muy importante no elevar el stick ya que podemos golpear a otra persona*.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
@@ -31,7 +33,8 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 * **¿Qué ver en el enlace?**
 
-  En el enalce de esta unidad tenéis que prestar especial atención a
+  En el enalce de vais a descurbir los distintios tipos de hockey que hay. En los tutoriales de hockey hierba podréis aprender *cómo coger el stick, tirar, dirblar o     elevar la pelota*. 
+  Podéis investigar los distintos tipos de hockey que hay, sus reglas y algunos de los mejores goles; aunque como os digo: **lo princpial será el manejo del stick y no   nos centraremos en ningún tipo de hockey en concreto**.
 
 ### Retos 
 
