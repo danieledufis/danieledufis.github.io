@@ -12,7 +12,7 @@ En esta unidad realizaremos juegos y actividades que nos sirvan para entender la
 * Fuerza.
 * Flexibilidad.
 
-También aprenderemos los cambios que surgen en nuestro sistema cardiovascular y cómo cambia nuestra respiración al hacer ejercicio.
+También aprenderemos los cambios que surgen en nuestro sistema cardiorespiratorio y cómo cambia nuestra respiración al hacer ejercicio.
 
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
