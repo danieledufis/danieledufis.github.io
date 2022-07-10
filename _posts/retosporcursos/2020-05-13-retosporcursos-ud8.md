@@ -42,7 +42,7 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 
-[Retos Hoceky](https://danieledufis.github.io/pdfs/Hockey-retos-4.pdf)
+[Retos Hockey](https://danieledufis.github.io/pdfs/Hockey-retos-4.pdf)
 
 ![Retos hockey](https://danieledufis.github.io/images_text/Hockey-retos-4_page-0001.jpg)
 
