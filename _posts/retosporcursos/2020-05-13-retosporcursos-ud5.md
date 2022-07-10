@@ -6,7 +6,7 @@ categories: retosporcursos
 
 ### **3 noviembre - 17 noviembre**
 
-En esta unidad vamos a trabajar diferentes tipos de saltos como son: **longitud, altura y combas**. Centraremos los retos en las combas ya que volveremos a practicar los de longitud y altura en la unidad de atletismo.
+En esta unidad vamos a trabajar diferentes tipos de saltos como son: **longitud, altura y combas**. Centraremos los retos en las combas ya que volveremos a practicar los de longitud y altura en la unidad de atletismo. *¡Vais a estar más tiempo en el aire que en el suelo!*
 
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
@@ -29,9 +29,13 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [COMBAS](https://danieledufis.github.io/comba/combas)
 
+[SALTOS ATLETISMO](https://danieledufis.github.io/atletismo/atletismo-saltos)
+
 * **¿Qué ver en el enlace?**
 
-  En el enalce de esta unidad tenéis que prestar especial atención a
+  En estos dos enlaces vas a enocntrar tutoriales e información sobre:
+  * *Combas*: para los retos de esta unidad deberéis ver los tutoriales de saltos hacia delante, hacia atrás y cuclillas; pero hay muchos más, ¿sois capaces de hacer        saltos más complicados?
+  * *Saltos atletismo:* encontraréis todos los salto que se prectican en atletismo, pero nosotros vamos a iniciarnos únicamente en los de longitud y altura; pero...        ¿sois capaces de hacer un triple salto? Investigad.
 
 ### **Retos** 
 
