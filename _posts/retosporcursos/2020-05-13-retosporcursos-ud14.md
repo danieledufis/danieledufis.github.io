@@ -10,6 +10,10 @@ Ya casi estamos terminando el curso. Durante esta unidad practicaremos diferente
 
 Tenéis que prestar mucha atención y comprender las normas de los juegos para que en las últimas sesiones pongamos en práctica las modificaciones que proponga cada grupo.
 
+### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
+
+Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
+
 ### **Grupos de trabajo**
 
 En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis en 4 equipos diferentes con 6 jugadores cada uno entre los que habrá un *capitán/a*:
