@@ -17,6 +17,8 @@ En esta unidad realizaremos el test 3JS para ver vuestro nivel de coordinación.
 
 También os explicaré la mecánica de los **retos y las recetas** de cada unidad.
 
+* *MATERIAL DE PATIOS:* aros y la hoja de retos.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
