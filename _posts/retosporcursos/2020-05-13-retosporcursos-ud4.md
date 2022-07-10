@@ -34,7 +34,7 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 [ACROSPORT](https://danieledufis.github.io/acrosport/acrosport)
 
-[HANILIDADES GIMNÁSTICAS](https://danieledufis.github.io/habilidadesgimnasticas/habilidadesgimnasticas)
+[HABILIDADES GIMNÁSTICAS](https://danieledufis.github.io/habilidadesgimnasticas/habilidadesgimnasticas)
            
 * **¿Qué ver en el enlace?**
 
