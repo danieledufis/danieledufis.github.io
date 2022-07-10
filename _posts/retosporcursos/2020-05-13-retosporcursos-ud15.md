@@ -33,7 +33,7 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 * **¿Qué ver en el enlace?**
 
-  En el enalce de esta unidad tenéis que prestar especial atención a
+  En el enalce de esta unidad encontraréis los mejores momentos de los últimos Juegos Olímpicos así como información general de los mismos para que comprendáis la       importancia que tienen a nivel mundial.
 
 ### **Retos**
 
