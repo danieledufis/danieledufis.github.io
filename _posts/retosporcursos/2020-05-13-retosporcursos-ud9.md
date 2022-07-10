@@ -6,7 +6,7 @@ categories: retosporcursos
 
 ### *24 enero - 4 febrero*
 
-En esta unidad se trabajará la coordinación óculo-péidca, y lo haremos a través del manejo del balón con los pies mediante: **conducciones, pases y tiros**.
+En esta unidad se trabajará la coordinación óculo-péidca, y lo haremos a través del manejo del balón con los pies mediante: **conducciones, pases y tiros**. Haremos la iniciación al fútbol con unos partidos al final de la unidad.
 
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
@@ -32,8 +32,12 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 * **¿Qué ver en el enlace?**
 
-  En el enalce de esta unidad tenéis que prestar especial atención a
-
+  Encontraréis información tanto del fútbol como del fútbol sala. En el apartado de fútbol podréis ver diferentes tutoriales: *tipos de golpeos, controles y             conducciones.* En el apartado de reglas podréis ver:
+  * Los tipos de faltas que hay.
+  * Diferencias entre jugadores y porteros.
+  * El desarrollo de un partido.
+  Además hay vídeos con los mejores goles, mejores jugadores/as y mucha información adicional.
+  
 ### **Retos** 
 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
