@@ -17,7 +17,7 @@ En esta unidad realizaremos el test 3JS para ver vuestro nivel de coordinación.
 
 También os explicaré la mecánica de los **retos y las recetas** de cada unidad.
 
-* *MATERIAL DE PATIOS:* aros y la hoja de retos.
+* *MATERIAL DE PATIOS:* aros y la hoja de retos en una zona delimitada por conos.
 
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
