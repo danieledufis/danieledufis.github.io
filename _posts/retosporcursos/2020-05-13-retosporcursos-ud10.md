@@ -8,6 +8,10 @@ categories: retosporcursos
 
 En esta unidad trabajaréis el manejo de móviles mediente las habilidades con las balónes de baloncesto. Practicaresmos el bote, pase y el tiro.
 
+### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
+
+Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
+
 ### **Grupos de trabajo**
 
 En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis en 6 equipos diferentes con 4 jugadores cada uno entre los que habrá un *capitán/a*:
