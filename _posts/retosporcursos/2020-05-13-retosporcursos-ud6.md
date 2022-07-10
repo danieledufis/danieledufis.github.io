@@ -33,7 +33,7 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 * **¿Qué ver en el enlace?**
 
-  En el enalce de esta unidad tenéis que prestar especial atención a
+  En ambos enlaces vais a poder encontrar cómo se juega tanto a **datchball** como a **ultimate**. Es muy importante que sepáis las normas para que cuando vayamos a     comenzar el juego en clase tengáis todo claro y dediquemos más tiempo al juego que a la explicación.
   
 ### **Retos** 
 
