@@ -10,7 +10,9 @@ En esta unidad trabajaremos con el uso de mapas que nos servirán para orientarn
 * Buscaréis pistas relacionadas con el reciclado.
 * Colocaréis pistas a vuestros compñaeros, formando una palabra de 6 letras que deberán encontrar al día siguiente.
 
-Además haremos una excursión a La Pedriza, haciendo la ruta desde Canto Cochino hasta Giner de los Ríos.
+Además haremos una **excursión a La Pedriza**, haciendo la ruta desde Canto Cochino hasta Giner de los Ríos.
+
+* *MATERIAL DE PATIOS:* al no poder realizar actividades con mapas durante el recreo tendréis juegos de mesa.
 
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
