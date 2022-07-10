@@ -6,7 +6,12 @@ categories: retosporcursos
 
 ### **7 febrero - 23 febrero**
 
-En esta unidad trabajaréis el manejo de móviles mediente las habilidades con las balónes de baloncesto. Practicaresmos el bote, pase y el tiro.
+En esta unidad trabajaréis el manejo de móviles mediente las habilidades con las balónes de baloncesto. Practicaresmos el bote, pase y el tiro. Lo haremos mediante diversos juegos y actividades como:
+* Carreras.
+* Bombilla.
+* K.O.
+
+Aprender todas las reglas del baloncesto es complicado, únicamente jugaremos un partido al final de la unidad con la condición de **no hacer pasos*.
 
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
@@ -31,7 +36,12 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 * **¿Qué ver en el enlace?**
 
-  En el enalce de esta unidad tenéis que prestar especial atención a
+  En el enalce de esta unidad tenéis que prestar especial atención a los tutoriales:
+  * Pase y recepción del balón.
+  * Tiro a canasta.
+  * Bote.
+  * La infracción de los pasos.
+  Todo lo demás es información adicional que podréis aprender y aplicar en las sesiones junto a vuestri grupo. También encontraréis vídeos con las mejores canastas,     jugadores y jugadoras.
 
 ### **Retos** 
 
