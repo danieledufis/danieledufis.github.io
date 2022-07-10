@@ -9,7 +9,11 @@ categories: retosporcursos
 En esta unidad vamos a trabajar la expresión corporal y lo haremos mediante diferentes actividadaes:
 * *Bailes de Just Dance*.
 * *Mímica*.
-* *Teatro:* de los 4 miembros del grupo, cada uno tendréis un papel diferente. Uno será
+* *Teatro:* de los 4 miembros del grupo, cada uno tendréis un papel diferente. 
+  *  Narrador que cuente la historia. 
+  *  La persona (asertiva). 
+  *  La tortuga (que no hace nada para resolver el problema). 
+  *  El dragón (no dice las cosas asertivamente de malas maneras).
 
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
