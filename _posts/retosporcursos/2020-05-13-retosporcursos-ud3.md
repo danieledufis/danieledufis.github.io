@@ -11,6 +11,10 @@ En esta unidad vamos a trabajar la expresión corporal y lo haremos mediante dif
 * *Mímica*.
 * *Teatro:* de los 4 miembros del grupo, cada uno tendréis un papel diferente. Uno será
 
+### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
+
+Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
+
 ### **Grupos de trabajo**
 
 En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis en 6 equipos diferentes con 4 jugadores cada uno entre los que habrá un *capitán/a*:
