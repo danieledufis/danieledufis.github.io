@@ -16,6 +16,8 @@ Ya casi estamos terminando el curso. Durante esta unidad practicaremos diferente
 
 Tenéis que prestar mucha atención y comprender las normas de los juegos para que en las últimas sesiones pongamos en práctica las modificaciones que proponga cada grupo.
 
+* *MATERIAL DE PATIOS:* malabares reciclados. Deberéis traeros los vuestros de casa.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
