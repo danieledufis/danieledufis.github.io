@@ -14,6 +14,8 @@ En esta unidad realizaremos juegos y actividades que nos sirvan para entender la
 
 También aprenderemos los cambios que surgen en nuestro sistema cardiorespiratorio y cómo cambia nuestra respiración al hacer ejercicio.
 
+* *MATERIAL DE PATIOS:* conos y petos para hacer carreras o juegos de persecución.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
