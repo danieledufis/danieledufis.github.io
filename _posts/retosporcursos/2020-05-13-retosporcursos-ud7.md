@@ -10,6 +10,9 @@ En esta unidad vamos a combinar un desporte clásico como es el **voleibol** con
 
 Utilizaremos los **balones de colpbol** para ambos deportes.
 
+
+* *MATERIAL DE PATIOS:* balones de colpbol. Una zona delimitada por conos donde jugar y se dividirá en dos con una cuerda para que hagáis toques de un lado a otro.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
