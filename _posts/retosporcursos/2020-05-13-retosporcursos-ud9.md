@@ -8,6 +8,8 @@ categories: retosporcursos
 
 En esta unidad se trabajará la coordinación óculo-péidca, y lo haremos a través del manejo del balón con los pies mediante: **conducciones, pases y tiros**. Haremos la iniciación al fútbol con unos partidos al final de la unidad.
 
+* *MATERIAL DE PATIOS:* balones de gomaespuma para practicar vuestra habilidades.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
