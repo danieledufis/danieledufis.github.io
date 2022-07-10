@@ -12,6 +12,10 @@ categories: retosporcursos
 
 ![Organograma Olimpiadas](https://danieledufis.github.io/images_text/ORGANIGRAMA%20Y%20PUNTUACI%C3%93N_page-0001.jpg)
 
+### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
+
+Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
+
 ### **Grupos de trabajo**
 
 En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis en 4 equipos diferentes con 6 jugadores cada uno entre los que habrá un *capitán/a*:
