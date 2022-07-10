@@ -10,6 +10,8 @@ En esta unidad descubriréis la enorme variedad deportes de raqueta que podéis 
 
 Tendremos la visita de una monitora de la Asociación Madrileña de Pickleball que hará una sesión con nosotros.
 
+* *MATERIAL DE PATIOS:* material de pickleball en un espacio delimitado por conos.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
