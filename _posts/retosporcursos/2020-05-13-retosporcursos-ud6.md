@@ -8,6 +8,8 @@ categories: retosporcursos
 
 En esta unidad vamos a trabajar los lanzamientos de pelotas y frisbees a través de dos deportes alternativos muy divertidos: **datchball y ultimate**. Aprenderemos las características de ambos y practicaremos con los retos, para finalmente jugar algunos partidos y **pasarlo de maravilla**.
 
+* *MATERIAL DE PATIOS:* aros y la hoja de retos en una zona delimitada por conos.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
