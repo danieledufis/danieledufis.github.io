@@ -6,7 +6,9 @@ categories: retosporcursos
 
 ### **23 marzo - 6 abril**
 
-En esta unidad practicaremos muchas de las pruebas que se hacen en atletismo como son: **velocidad, lanzamiento y saltos de altura o longitud**
+En esta unidad practicaremos muchas de las pruebas que se hacen en atletismo como son: **velocidad, lanzamiento y saltos de altura o longitud**.
+
+Mediremos la distancia de los saltos y alnzamientos, así como el cronometraje de las carreras de velocidad.
 
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
@@ -31,7 +33,12 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 * **¿Qué ver en el enlace?**
 
-  En el enalce de esta unidad tenéis que prestar especial atención a
+  En el enalce tendréis que prestar especial atención al apartado de disciplinas. Navengando en el post tendréis que ver las siguientes disciplinas:
+  * *Carreras: velcidad, resistencia y vallas*.
+  * *Lanzamientos: jabalina y peso*. En peso lo realizaremos con una pelota normal mucho más ligera*.
+  * *Saltos: longitud y altura*.
+
+  Podéis investigar los records del mundo, así como las diferentes disciplinas que no hemos practicado en Educación Física.
 
 ### **Retos** 
 
