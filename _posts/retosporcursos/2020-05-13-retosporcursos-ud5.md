@@ -8,6 +8,9 @@ categories: retosporcursos
 
 En esta unidad vamos a trabajar diferentes tipos de saltos como son: **longitud, altura y combas**. Centraremos los retos en las combas ya que volveremos a practicar los de longitud y altura en la unidad de atletismo. *¡Vais a estar más tiempo en el aire que en el suelo!*
 
+
+* *MATERIAL DE PATIOS:* combas y listado de retos para practicar.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
