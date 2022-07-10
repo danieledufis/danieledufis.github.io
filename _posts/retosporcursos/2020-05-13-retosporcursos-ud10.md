@@ -10,6 +10,7 @@ En esta unidad trabajaréis el manejo de móviles mediente las habilidades con l
 * Carreras.
 * Bombilla.
 * K.O.
+* Pañuelo en versión baloncesto.
 
 Aprender todas las reglas del baloncesto es complicado, únicamente jugaremos un partido al final de la unidad con la condición de **no hacer pasos*.
 
