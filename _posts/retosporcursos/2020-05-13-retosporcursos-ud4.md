@@ -11,6 +11,9 @@ En esta unidad vamos a trabajar los giros y el acrosport.
 * En los giros afianzaremos las volteretas y practicaremos a voltereta lateral o rueda.
 * En acrosport prestaremos especial atención a las medidas de seguridad ya que es muy divertido pero si no se toman precauciones podemos tener algún accidente.           Practicaremos diferentes tipos de figuras: parejas, tríos, cuartetos y quintetos. **IMPRESNCINDIBLE LEER EL ENLACE DE ACROSPORT ANTES DE PRACTICARLO EN CLASE**.
 
+
+* *MATERIAL DE PATIOS:* 12 colchonertas puzzle para hacer las posiciones de parejas o tríos que proponga el profesor de patio.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
