@@ -10,6 +10,8 @@ En esta unidad vamos a conocer un deporte divertidísimo como es el **hockey** o
 
 *Recordad que es muy importante no elevar el stick ya que podemos golpear a otra persona*.
 
+* *MATERIAL DE PATIOS:* sticks y miniporterías para que en 3 turnos diferentes practiquéis los tiros a portería en una zona delimitada por conos.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
