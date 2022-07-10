@@ -14,6 +14,8 @@ En esta unidad trabajaréis el manejo de móviles mediente las habilidades con l
 
 Aprender todas las reglas del baloncesto es complicado, únicamente jugaremos un partido al final de la unidad con la condición de **no hacer pasos*.
 
+* *MATERIAL DE PATIOS:* balones de baloncesto y aros para jugar a bombilla en 3 turnos diferentes.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
