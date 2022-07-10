@@ -10,6 +10,8 @@ En esta unidad practicaremos muchas de las pruebas que se hacen en atletismo com
 
 Mediremos la distancia de los saltos y alnzamientos, así como el cronometraje de las carreras de velocidad.
 
+* *MATERIAL DE PATIOS:* conos, testigos y vallas pequeñas para hacer carreras de relevos.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
