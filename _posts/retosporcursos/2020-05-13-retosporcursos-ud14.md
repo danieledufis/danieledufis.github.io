@@ -6,7 +6,13 @@ categories: retosporcursos
 
 ### **4 mayo - 20 mayo**
 
-Ya casi estamos terminando el curso. Durante esta unidad practicaremos diferentes **juegos populares y tradicionales**. Además tendremos un día especial para celebrar **San Isidro**.
+Ya casi estamos terminando el curso. Durante esta unidad practicaremos diferentes **juegos populares y tradicionales**. Además tendremos un día especial para celebrar **San Isidro**. Entre los juegos tradicionles que practicaremos están:
+* Petanca.
+* Chapas.
+* Combas.
+* Malabares.
+* Polis y cacos.
+* Pañuelo.
 
 Tenéis que prestar mucha atención y comprender las normas de los juegos para que en las últimas sesiones pongamos en práctica las modificaciones que proponga cada grupo.
 
@@ -31,7 +37,7 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 * **¿Qué ver en el enlace?**
 
-  En el enalce de esta unidad tenéis que prestar especial atención a
+  En este enlace váis a encontrar el PDF de una guí elaborada por el Ayuntamiento de Madrid con diferentes juegos tradicionales. Además, encontraréis un enlacea un       canal de Youtube con numerosos juegos populares y tradicionales practicados en Educación Física.
 
 ### **Retos** 
 
