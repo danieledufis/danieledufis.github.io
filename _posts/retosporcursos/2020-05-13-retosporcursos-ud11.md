@@ -8,6 +8,10 @@ categories: retosporcursos
 
 En esta unidad descubriréis la enorme variedad deportes de raqueta que podéis practicar: **tenis, padel, tenis de mesa y bádminton**. Haremos retos con todos ellos y veréis las difeencias entre unos y otros. 
 
+### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
+
+Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
+
 ### **Grupos de trabajo**
 
 En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis en 6 equipos diferentes con 4 jugadores cada uno entre los que habrá un *capitán/a*:
