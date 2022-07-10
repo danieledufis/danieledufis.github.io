@@ -8,8 +8,8 @@ categories: retosporcursos
 
 En esta unidad vamos a trabajar los giros y el acrosport. 
 
-* En los giros afianzaremos las volteretas y practicaremos a voltereta lateral.
-* En acrosport prestaremos especial atención a las medidas de seguridad ya que es muy divertido pero si no se toman precauciones podemos tener algún accidente. Practicaremos diferentes tipos de figuras: parejas, tríos, cuartetos y quintetos. **IMPRESNCINDIBLE LEER EL ENLACE DE ACROSPORT ANTES DE PRACTICARLO EN CLASE**.
+* En los giros afianzaremos las volteretas y practicaremos a voltereta lateral o rueda.
+* En acrosport prestaremos especial atención a las medidas de seguridad ya que es muy divertido pero si no se toman precauciones podemos tener algún accidente.           Practicaremos diferentes tipos de figuras: parejas, tríos, cuartetos y quintetos. **IMPRESNCINDIBLE LEER EL ENLACE DE ACROSPORT ANTES DE PRACTICARLO EN CLASE**.
 
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
@@ -35,7 +35,9 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
            
 * **¿Qué ver en el enlace?**
 
-  En el enalce de esta unidad tenéis que prestar especial atención a
+  En los enlaces de esta unidad podréis ver una gran cantidad de información. 
+  * En **acrosport** veréis en qué consiste, sus medidas de seguridad y diferentes posiciones que podéis practicar en casa con familia o amigos. *Imprescindible leer y     respetar las medidas de seguridad*
+  * En **habilidades gimnásticas** veréis todos los retos planteados para los próximos cursos. En los tutoriales podéis ver cómo se hacen de manera correcta. En clase     prestaremos especial atención a la *voltereta y voltereta lateral o rueda.*
   
   
 ### **Retos** 
