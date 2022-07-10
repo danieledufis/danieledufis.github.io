@@ -15,6 +15,9 @@ En esta unidad vamos a trabajar la expresión corporal y lo haremos mediante dif
   *  La tortuga (que no hace nada para resolver el problema). 
   *  El dragón (no dice las cosas asertivamente de malas maneras).
 
+
+* *MATERIAL DE PATIOS:* altavoz con música para los patios.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
