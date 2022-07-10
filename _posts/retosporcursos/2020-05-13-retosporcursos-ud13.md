@@ -43,7 +43,7 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 [Retos orientación](https://danieledufis.github.io/pdfs/Orientaci%C3%B3n-retos-4.pdf)
 
-![Retos orientación](https://danieledufis.github.io/images_text/Cap.f%C3%ADsica-retos-4_page-0001.jpg)
+![Retos orientación](https://danieledufis.github.io/images_text/Orientaci%C3%B3n-retos-4_page-0001.jpg)
 
 ### **Receta**
 
