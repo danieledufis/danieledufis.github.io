@@ -12,6 +12,8 @@ categories: retosporcursos
 
 ![Organograma Olimpiadas](https://danieledufis.github.io/images_text/ORGANIGRAMA%20Y%20PUNTUACI%C3%93N_page-0001.jpg)
 
+* *MATERIAL DE PATIOS:* cada día un material diferente para practicar las pruebas olímipcas. Serán: balones de fútbol, baloncesto, carreras, jabalina, hula hoop y        música.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
