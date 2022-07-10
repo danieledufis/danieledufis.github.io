@@ -35,7 +35,7 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
 
 * **¿Qué ver en el enlace?**
 
-  En el enalce de esta unidad tenéis que prestar especial atención a
+  En el primer enlace veréis toda la información relacionada con el **colpbol**, mientras que en el segundo todo estará enfocado al **voleibol**. Será muy importante     que sepáis la diferencia entre uno y otro antes de comenzar la unidad. En los tutoriales del enlace de voleibol podéis aprender a realizar diferentes golpeos de       balón siendo los más importantes los de saque, dedos y antebrazo.*Siempre adaptaremos la actividad para facilitaros todos los golpeos*.
            
 ### **Retos** 
 
