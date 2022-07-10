@@ -42,11 +42,9 @@ En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis 
            
 ### **Retos** 
 
-[Voleibol y colpbol](https://danieledufis.github.io/pdfs/Voleibol-colpbol-retos-4.pdf)
-
 Aquí tenéis el PDF que podéis descargar de los **retos** de esta unidad.
 
-[Retos voleibol y colpbol](https://danieledufis.github.io/pdfs/Aros-retos-4.pdf)
+[Retos voleibol y colpbol](https://danieledufis.github.io/pdfs/Voleibol-colpbol-retos-4.pdf)
 
 ![Retos voleibol y colpbol](https://danieledufis.github.io/images_text/Voleibol-colpbol-retos-4_page-0001.jpg)
 
