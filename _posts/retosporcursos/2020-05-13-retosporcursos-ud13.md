@@ -8,6 +8,10 @@ categories: retosporcursos
 
 En esta unidad trabajaremos con el uso de mapas que nos servirán para orientarnos en el cole. Además haremos una excursión a La Pedriza.
 
+### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
+
+Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
+
 ### **Grupos de trabajo**
 
 En esta unidad cuando nos dividamos en grupos y hagamos los retos, trabajaréis en 4 equipos diferentes con 6 jugadores cada uno entre los que habrá un *capitán/a*:
