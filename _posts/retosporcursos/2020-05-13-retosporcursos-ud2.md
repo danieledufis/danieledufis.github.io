@@ -12,6 +12,8 @@ En esta unidad realizaremos juegos y actividades que nos sirvan para entender la
 * Fuerza.
 * Flexibilidad.
 
+También aprenderemos los cambios que surgen en nuestro sistema cardiovascular y cómo cambia nuestra respiración al hacer ejercicio.
+
 ### **Alumnos/as responsables (calentamiento y bolsa de aseo)**
 
 Los alumnos que llevarán a cabo el calentamiento y el listado de la bolsa de aseo serán: *nombre 1, nombre 2, nombre 3 y nombre 4*.
